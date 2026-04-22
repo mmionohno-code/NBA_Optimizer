@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<!-- saved from url=(0071)https://s0.2mdn.net/sadbundle/10850176996064835467/index.html?ev=01_262 -->
+<html class="wf-dmsans-n7-active wf-dmsans-n4-active wf-active"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="ad.size" content="width=728,height=90">
+    <link rel="preconnect" href="https://s0.2mdn.net/">
+    <title>Hcom_728x90</title>
+    <script src="./banner.js.download" type="text/javascript"></script>
+    <script src="./banner.loader.js.download" type="text/javascript"></script>
+    <script src="./banner.animation.js.download"></script>
+    <script type="text/javascript">var banner = new Banner();</script>
+    <script type="text/javascript">var clickTag = "https://www.google.com";</script>
+    <link rel="stylesheet" href="./style.css">
+  <script type="text/javascript">
+    
+  (function() {
+    var MAX_URL_PARAM_LENGTH = 34;
+    var CLICK_X_URL_KEY = 'nx';
+    var CLICK_Y_URL_KEY = 'ny';
+    var CREATIVE_DIMENSIONS_KEY = 'dim';
+    var AD_URL_PARAM = '&adurl=';
+
+    var relegateNavigation = '';
+    var urlParamMap = {};
+
+    var isNewtonTokenSet = false;
+    var isTurtleXAdClick = false;
+    var reportingIds = {};
+
+    urlParamMap[CLICK_X_URL_KEY] = null;
+    urlParamMap[CLICK_Y_URL_KEY] = null;
+    urlParamMap[CREATIVE_DIMENSIONS_KEY] = null;
+
+    var handleClickTagMessage = function(e) {
+      try {
+        var eventData = JSON.parse(e.data);
+      } catch (err) {
+        return;
+      }
+      if (eventData.isInitClickTag) {
+        if (eventData.clickTags) {
+          for (var i = 0; i < eventData.clickTags.length; i++) {
+            var clkTag = eventData.clickTags[i];
+            window[clkTag.name] = clkTag.url;
+
+            if (clkTag.eTldPlusOne) {
+              eTldPlusOnes[clkTag.url] = clkTag.eTldPlusOne;
+            }
+            if (clkTag.reportingId) {
+              reportingIds[clkTag.url] = clkTag.reportingId;
+            }
+          }
+        } else if (eventData.clickTag) {
+          window.clickTag = eventData.clickTag;
+        }
+        relegateNavigation = eventData.relegateNavigation;
+      }
+      if (isNewtonEnabled(eventData) && !isNewtonTokenSet) {
+        var newtonOt2Token = eventData.newtonOt2Token;
+        enableAttributionReportingApi(newtonOt2Token);
+      }
+      if (eventData.isTurtleXAdClick) {
+        isTurtleXAdClick = true;
+      }
+    };
+
+    var isNewtonEnabled = function(eventData) {
+      return 'newtonOt2Token' in eventData;
+    }
+
+    var enableAttributionReportingApi = function(originTrialToken) {
+      if (/Chrome/.test(window.navigator.userAgent)) {
+        var meta = document.createElement('meta');
+        meta.httpEquiv = 'origin-trial';
+        meta.content = String(originTrialToken);
+        document.getElementsByTagName('head')[0].appendChild(meta);
+        isNewtonTokenSet = true;
+      }
+    };
+
+    var storeClickCoordinates = function(e) {
+      urlParamMap[CLICK_X_URL_KEY] = Math.round(e.clientX);
+      urlParamMap[CLICK_Y_URL_KEY] = Math.round(e.clientY);
+    };
+
+    var getCreativeDimensions = function() {
+      return window.innerWidth + 'x' + window.innerHeight;
+    }
+
+    var getExitClickParams = function(e) {
+      urlParamMap[CREATIVE_DIMENSIONS_KEY] = getCreativeDimensions();
+
+      var exitParams = '';
+      for (var key in urlParamMap) {
+        exitParams += '&' + key + '=';
+        if (urlParamMap[key] !== null) {
+          exitParams += urlParamMap[key];
+        }
+      }
+      return exitParams;
+    }
+
+    var appendExitClickParams = function(url) {
+      var adUrlIndex = url.toLowerCase().indexOf(AD_URL_PARAM);
+      var paramsToBeAdded = getExitClickParams();
+      if (adUrlIndex > -1 && paramsToBeAdded.length <= MAX_URL_PARAM_LENGTH) {
+        url = url.substr(0, adUrlIndex) + paramsToBeAdded +
+          url.substr(adUrlIndex);
+      };
+      return url;
+    };
+
+    if (open.call) {
+      window.open = function(open) {
+        return function(url, name, features) {
+          if (isTurtleXAdClick && !!reportingIds[url]) {
+            var message = {
+              'reportingId': reportingIds[url],
+              'clickX': urlParamMap[CLICK_X_URL_KEY],
+              'clickY': urlParamMap[CLICK_Y_URL_KEY],
+              'creativeDims': getCreativeDimensions()
+              };
+            parent.postMessage(JSON.stringify(message), '*');
+          }
+          url = appendExitClickParams(url);
+          if (relegateNavigation === 'parent') {
+            var message = {'clickTag': url, 'isPostClickTag': true};
+            parent.postMessage(JSON.stringify(message), '*');
+          } else {
+            var args = [url, name];
+            var windowFeatures = '';
+
+            if (features) {
+              windowFeatures = windowFeatures.concat(features);
+            }
+            if (isNewtonTokenSet &&
+                !!document.featurePolicy?.allowedFeatures().includes(
+                  'attribution-reporting')) {
+              if (features) {
+                if (!features.includes('attributionsrc')) {
+                  windowFeatures = windowFeatures.concat(features, ', attributionsrc');
+                }
+              } else {
+                windowFeatures = windowFeatures.concat('attributionsrc');
+              }
+            }
+
+            if (windowFeatures) {
+              args.push(windowFeatures);
+            }
+            open.apply(window,args);
+          }
+        };
+      }(window.open);
+    }
+
+    if (window.addEventListener) {
+      window.addEventListener(
+          'message', handleClickTagMessage, false);
+      window.addEventListener('mousedown', storeClickCoordinates, true);
+    } else {
+      window.attachEvent('onmessage', handleClickTagMessage);
+    }
+  })();
+    
+  </script><script type="text/javascript" src="./webfont.js.download"></script><script type="text/javascript" src="./gsap_3.11.1_min.js.download"></script><link rel="stylesheet" href="./css" media="all"><meta http-equiv="origin-trial" content="A4AD7vbM2W0e5fHylDM4fFrsUvtmQ95U+ZVrdOdh3fgH0l0e7RVkAsZryrSQIRhPVvmC60wTlh880eDyo+HpXQAAAABueyJvcmlnaW4iOiJodHRwczovL3MwLjJtZG4ubmV0OjQ0MyIsImZlYXR1cmUiOiJQcml2YWN5U2FuZGJveEFkc0FQSXMiLCJleHBpcnkiOjE2OTUxNjc5OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="></head>
+  <body>
+    <div class="banner" style="cursor: pointer; overflow: hidden;">
+      <div class="preloader" style="opacity: 0; visibility: hidden;">
+        <div class="circle"></div>
+      </div>
+    <div id="BG-LAYER" style="z-index: 0; height: 90px; width: 728px; left: 0px; top: 0px; position: absolute;"><div id="IMG-MASK" style="z-index: 0; overflow: hidden; height: 91px; width: 728px; left: 0px; top: -0.5px; position: absolute; clip-path: inset(0px 0px 0px 480px); opacity: 1; visibility: inherit;"><div id="IMG1" style="background-size: 100% 100%; background-position: center center; background-repeat: no-repeat; top: 27px; left: 0px; z-index: 0; position: absolute; height: 291px; width: 1291px; background-image: url(&quot;https://s0.2mdn.net/sadbundle/10850176996064835467/images/img-01_728x90.jpg&quot;); translate: none; rotate: none; scale: none; transform: translate3d(-457.937px, -132.87px, 0px) scale(0.9865, 0.9865); opacity: 1;"></div><div id="IMG2" style="background-size: 100% 100%; background-position: center center; background-repeat: no-repeat; top: -190px; left: 0px; z-index: 0; position: absolute; height: 291px; width: 1019px; background-image: url(&quot;https://s0.2mdn.net/sadbundle/10850176996064835467/images/img-02_728x90.jpg&quot;); translate: none; rotate: none; scale: none; transform: translate3d(-95.927px, 50.5004px, 0px) scale(0.6741, 0.6741); opacity: 1;"></div></div></div><div id="CONTENT-LAYER" style="z-index: 1; height: 90px; width: 728px; left: 0px; top: 0px; position: absolute;"><div id="SHAPE1" style="top: -60px; left: -36px; z-index: 1; border-radius: 9px; position: absolute; height: 91px; width: 164px; background-color: rgb(255, 206, 207); translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 58px);"></div><div id="SHAPE2" style="top: 38px; left: 100px; z-index: 0; border-radius: 9px; position: absolute; height: 92px; width: 384px; background-color: rgb(237, 45, 61); translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, -40px);"></div><div id="LOGO" style="background-size: 100% 100%; background-position: center center; background-repeat: no-repeat; top: 5px; left: 12px; z-index: 2; position: relative; height: 19px; width: 109px; background-image: url(&quot;https://s0.2mdn.net/sadbundle/10850176996064835467/images/hcom_logo.png&quot;); translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 30px);"></div><div id="TEXT-GRID" class="BureauGrot-CondMedium" style="top: 68px; left: 0px; position: absolute; align-items: center; justify-content: center; flex-direction: column; gap: 6px; z-index: 1; height: 134px; width: 200px; color: white; display: flex;"><div id="COPY1" class="BureauGrot-CondMedium" align="center" style="top: -80px; left: 205px; text-align: center; position: relative; opacity: 0; visibility: hidden; width: 119%; line-height: 1; font-weight: 500; font-size: 32px; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);">BIG SPRING SAVINGS</div><div id="COPY2" class="CentraNo2-Book" align="center" style="top: -74px; left: 196px; text-align: center; position: relative; opacity: 1; visibility: inherit; width: 50%; line-height: 1.6; font-weight: 700; font-size: 7px; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);">Terms apply</div><div id="COPY3" class="BureauGrot-CondMedium" style="top: -51px; left: 150px; text-align: left; position: absolute; line-height: 1; font-weight: 500; font-size: 27px; width: 89%; opacity: 0.7193; visibility: inherit;">MEMBERS SAVE UP TO 40%</div></div></div><div id="CTA" style="top: 36px; left: 375px; border-radius: 12px; background-color: rgb(25, 30, 59); z-index: 2; height: 21px; width: 69px; position: absolute; translate: none; rotate: none; scale: none; transform-origin: 50% 50%; transform: translate3d(0px, 4.5729px, 0px); opacity: 0.6189; visibility: inherit;"></div><div id="CTA-TEXT" class="Travel-Sans" style="top: 34px; left: 371px; z-index: 3; font-size: 11px; color: white; align-items: center; justify-content: center; display: flex; height: 23px; width: 78px; position: absolute; opacity: 0.6189; visibility: inherit; translate: none; rotate: none; scale: none; transform: translate3d(0px, 4.5729px, 0px);">Book now</div></div>
+  
+</body></html>

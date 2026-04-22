@@ -1,0 +1,445 @@
+'use strict';
+
+/**
+ * Run the animation functions.
+ */
+Banner.prototype.start = function () {
+  this.banner = document.querySelector('.banner');
+  this.bannerWidth = this.banner.offsetWidth;
+  this.bannerHeight = this.banner.offsetHeight;
+
+  // Image array for preloading
+  this.images = ['images/hcom_logo.png', 'images/img-01_728x90.jpg', 'images/img-02_728x90.jpg'];
+  this.creative = {
+    copy1: 'BIG SPRING SAVINGS',
+    copy2: 'Terms apply',
+    copy3: 'MEMBERS SAVE UP TO 40%',
+    copy4: 'Book now',
+    cta: 'Book now'
+  };
+  var _this = this;
+  this.preloadImages(this.images, function () {
+    _this.createElements();
+    _this.setup();
+    _this.hidePreloader(function () {
+      _this.animate();
+      _this.bindEvents();
+    });
+  });
+};
+
+/**
+ * Create dom elements.
+ */
+Banner.prototype.createElements = function () {
+  /**
+   * Parent Layers.
+   */
+  this.bgLayer = this.smartObject({
+    id: 'BG-LAYER',
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    width: 728,
+    height: 90,
+    zIndex: 0,
+    parent: this.banner
+  });
+
+  // Image mask to prevent sub-pixel seam (crop 0.5px from top)
+  this.imgMask = this.smartObject({
+    id: 'IMG-MASK',
+    position: 'absolute',
+    top: -0.5,
+    left: 0,
+    width: 728,
+    height: 91,
+    overflow: 'hidden',
+    zIndex: 0,
+    parent: this.bgLayer
+  });
+  this.contentLayer = this.smartObject({
+    id: 'CONTENT-LAYER',
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    width: 728,
+    height: 90,
+    zIndex: 1,
+    parent: this.banner
+  });
+  this.shape1 = this.smartObject({
+    id: 'SHAPE1',
+    backgroundColor: '#ffcecf',
+    width: 164,
+    height: 91,
+    position: 'absolute',
+    borderRadius: 9,
+    zIndex: 1,
+    parent: this.contentLayer
+  });
+  this.shape2 = this.smartObject({
+    id: 'SHAPE2',
+    backgroundColor: '#ed2d3d',
+    width: 384,
+    height: 92,
+    position: 'absolute',
+    borderRadius: 9,
+    zIndex: 0,
+    parent: this.contentLayer
+  });
+  this.img1 = this.smartObject({
+    id: 'IMG1',
+    backgroundImage: 'images/img-01_728x90.jpg',
+    width: 1291,
+    height: 291,
+    position: 'absolute',
+    zIndex: 0,
+    parent: this.imgMask
+  });
+  this.img2 = this.smartObject({
+    id: 'IMG2',
+    backgroundImage: 'images/img-02_728x90.jpg',
+    width: 1019,
+    height: 291,
+    position: 'absolute',
+    zIndex: 0,
+    parent: this.imgMask
+  });
+  this.logo = this.smartObject({
+    id: 'LOGO',
+    backgroundImage: 'images/hcom_logo.png',
+    width: 109,
+    height: 19,
+    position: 'relative',
+    retina: true,
+    zIndex: 2,
+    parent: this.contentLayer
+  });
+  this.textGrid = this.smartObject({
+    id: 'TEXT-GRID',
+    display: 'flex',
+    color: 'white',
+    width: 300,
+    height: 134,
+    zIndex: 1,
+    gap: '6px',
+    className: 'BureauGrot-CondMedium',
+    flexDirection: 'column',
+    justifyContent: 'center',
+    alignItems: 'center',
+    parent: this.contentLayer
+  });
+  for (var i = 1; i <= 3; i++) {
+    this["copy".concat(i)] = this.smartObject({
+      id: "COPY".concat(i),
+      className: 'BureauGrot-CondMedium',
+      position: 'relative',
+      innerHTML: this.creative["copy".concat(i)],
+      textAlign: 'center',
+      parent: this.textGrid
+    });
+  }
+
+  // Font changes
+  this.copy2.classList.remove('BureauGrot-CondMedium');
+  this.copy2.classList.add('CentraNo2-Book');
+
+  // CTA background only (this is the element that will pulse)
+  this.cta = this.smartObject({
+    id: 'CTA',
+    position: 'absolute',
+    width: 69,
+    height: 21,
+    zIndex: 2,
+    backgroundColor: '#191E3B',
+    borderRadius: 11.5,
+    parent: this.banner
+  });
+
+  // CTA text overlay (does NOT scale)
+  this.copy4 = this.smartObject({
+    id: 'CTA-TEXT',
+    position: 'absolute',
+    width: 78,
+    height: 23,
+    display: 'flex',
+    'justify-content': 'center',
+    'align-items': 'center',
+    color: 'white',
+    fontSize: 11,
+    className: 'Travel-Sans',
+    zIndex: 3,
+    innerHTML: this.creative.copy4,
+    parent: this.banner
+  });
+};
+
+/**
+ * Setup initial element states.
+ */
+Banner.prototype.setup = function () {
+  var _this2 = this;
+  gsap.set(this.textGrid, {
+    top: 68,
+    width: 200
+  });
+  gsap.set(this.shape1, {
+    top: -60,
+    left: -36,
+    y: -60,
+    autoAlpha: 1
+  });
+  gsap.set(this.shape2, {
+    top: 38,
+    left: 100,
+    y: -40,
+    autoAlpha: 1
+  });
+  gsap.set(this.logo, {
+    top: 5,
+    left: 12,
+    y: -70,
+    autoAlpha: 0
+  });
+  gsap.set(this.copy1, {
+    top: -80,
+    fontSize: 32,
+    fontWeight: 500,
+    lineHeight: 1,
+    left: 205,
+    width: '119%',
+    align: 'center',
+    autoAlpha: 0
+  });
+  gsap.set(this.copy2, {
+    fontSize: 7,
+    top: -74,
+    fontWeight: 700,
+    lineHeight: 1.6,
+    letterSpacing: 0.5,
+    left: 196,
+    width: '50%',
+    align: 'center',
+    autoAlpha: 0
+  });
+  gsap.set(this.copy3, {
+    autoAlpha: 0,
+    position: 'absolute',
+    top: -51,
+    left: 150,
+    width: '89%',
+    fontSize: 27,
+    fontWeight: 500,
+    lineHeight: 1,
+    textAlign: 'left'
+  });
+  gsap.set(this.cta, {
+    left: 375,
+    top: 36,
+    autoAlpha: 0,
+    scale: 1,
+    transformOrigin: 'center center'
+  });
+  gsap.set(this.copy4, {
+    left: 371,
+    top: 34,
+    autoAlpha: 0
+  });
+  gsap.set(this.img1, {
+    top: 27,
+    opacity: 0,
+    scale: 0.8,
+    x: -40
+  });
+  gsap.set(this.img2, {
+    top: -190,
+    opacity: 0,
+    scale: 0.8,
+    x: -40
+  });
+
+  // Start mask fully open; later we crop it (without moving images) using clip-path
+  gsap.set(this.imgMask, {
+    autoAlpha: 1,
+    clipPath: 'inset(0px 0px 0px 0px)'
+  });
+
+  // CTA hover (CTA background + separate CTA text overlay)
+  var ctaOver = function ctaOver() {
+    gsap.to(_this2.cta, {
+      duration: 0.2,
+      backgroundColor: 'white',
+      ease: 'power3.out',
+      overwrite: 'auto'
+    });
+    gsap.to(_this2.copy4, {
+      duration: 0.2,
+      color: '#191E3B',
+      ease: 'power3.out',
+      overwrite: 'auto'
+    });
+  };
+  var ctaOut = function ctaOut() {
+    gsap.to(_this2.cta, {
+      duration: 0.2,
+      backgroundColor: '#191E3B',
+      ease: 'power3.out',
+      overwrite: 'auto'
+    });
+    gsap.to(_this2.copy4, {
+      duration: 0.2,
+      color: 'white',
+      ease: 'power3.out',
+      overwrite: 'auto'
+    });
+  };
+
+  // Make it feel clickable (entire banner)
+  this.banner.style.cursor = 'pointer';
+  this.banner.style.overflow = 'hidden';
+
+  // Hover applies to the full banner area
+  this.banner.addEventListener('mouseenter', ctaOver);
+  this.banner.addEventListener('mouseleave', ctaOut);
+};
+Banner.prototype.hidePreloader = function (onComplete) {
+  gsap.to('.preloader', {
+    duration: 1,
+    autoAlpha: 0,
+    onComplete: onComplete || null
+  });
+};
+Banner.prototype.animate = function () {
+  // One master timeline (simple + easy to tweak)
+  this.tl = gsap.timeline({
+    delay: 0
+  });
+
+  // --- Intro: shapes + logo ---
+  this.tl.to(this.shape1, {
+    duration: 0.4,
+    y: 58,
+    ease: 'power2.out'
+  }, '+=0.2').set(this.logo, {
+    autoAlpha: 1
+  }, '<').to(this.logo, {
+    duration: 0.4,
+    y: 30,
+    ease: 'power2.out'
+  }, '<')
+
+  // --- IMG1 zoom ---
+  .addLabel('img1In', 0).fromTo(this.img1, {
+    opacity: 1,
+    scale: 0.90,
+    x: -432,
+    y: -132.87
+  }, {
+    duration: 5.0,
+    opacity: 1,
+    scale: 1,
+    x: -462,
+    y: -132.87,
+    ease: 'power1.out'
+  }, 'img1In')
+
+  // --- SHAPE2 drop ---
+  .addLabel('shape2In', 0.55).from(this.shape2, {
+    duration: 0.4,
+    y: -340,
+    ease: 'power2.out'
+  }, 'shape2In')
+  // Mask crop happens AFTER SHAPE2 has landed so the cut is hidden behind shapes
+  .addLabel('maskShrink', 'shape2In+=0.45').to(this.imgMask, {
+    duration: 0.25,
+    clipPath: 'inset(0px 0px 0px 480px)',
+    ease: 'sine.out'
+  }, 'maskShrink')
+
+  // --- CTA enters ---
+  .addLabel('ctaIn', 'shape2In+=2.5').fromTo(this.cta, {
+    y: 12,
+    autoAlpha: 0
+  }, {
+    duration: 0.4,
+    y: 0,
+    autoAlpha: 1,
+    ease: 'power2.out'
+  }, 'ctaIn').fromTo(this.copy4, {
+    y: 12,
+    autoAlpha: 0
+  }, {
+    duration: 0.4,
+    y: 0,
+    autoAlpha: 1,
+    ease: 'power2.out'
+  }, 'ctaIn')
+
+  // --- IMG2: fast dissolve, then long slow move ---
+  .addLabel('img2In', 'img1In+=2.5').fromTo(this.img2, {
+    opacity: 0,
+    scale: .65,
+    x: -90,
+    y: 50.13
+  }, {
+    duration: 0.25,
+    opacity: 1,
+    ease: 'power1.out'
+  }, 'img2In').to(this.img2, {
+    duration: 10.0,
+    scale: .78,
+    x: -122,
+    y: 52.13,
+    ease: 'power2.out'
+  }, 'img2In');
+
+  // --- Frame2 timing: absolute start time ---
+  this.tl.addLabel('frame2', 0.5);
+
+  // Copy 1 (fade in)
+  this.tl.to(this.copy1, {
+    duration: 1.2,
+    autoAlpha: 1,
+    y: 0,
+    ease: 'sine.out'
+  }, 'frame2+=0.3');
+
+  // Copy 2 (fade in)
+  this.tl.to(this.copy2, {
+    duration: 1.2,
+    autoAlpha: 1,
+    y: 0,
+    ease: 'sine.out'
+  }, 'frame2');
+
+  // Copy 1 out + Copy 3 + Logo nudge
+  this.tl.to(this.copy1, {
+    duration: 0.5,
+    autoAlpha: 0,
+    ease: 'sine.out'
+  }, 'frame2+=2.10').to(this.logo, {
+    duration: 0.18,
+    y: 40,
+    ease: 'sine.out'
+  }, 'frame2+=2.10').to(this.logo, {
+    duration: 0.22,
+    y: 30,
+    ease: 'sine.out'
+  }, 'frame2+=2.28').to(this.copy3, {
+    duration: 0.9,
+    autoAlpha: 1,
+    ease: 'sine.out'
+  }, 'frame2+=2.20');
+
+  // CTA pulse (background only)
+  this.tl.to(this.cta, {
+    duration: 0.25,
+    scale: 1.1,
+    ease: 'power1.out'
+  }, 'frame2+=3.5').to(this.cta, {
+    duration: 0.30,
+    scale: 1,
+    ease: 'power1.out'
+  }, 'frame2+=3.64');
+};
