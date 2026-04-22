@@ -1,0 +1,1662 @@
+PLAYER_A_ID,PLAYER_B_ID,Player Pair,Shared Minutes,Defensive Synergy,Offensive Synergy,Net Synergy,Scaled Net Synergy,Player A Archetype,Player B Archetype
+1627734,1631099,D. Sabonis - K. Murray,2256,0.7,-0.3,0.4,0.32,Elite Playmaker,Perimeter Scorer
+203076,1630559,A. Davis - A. Reaves,1994,-1.2,0.25,-0.95,-0.76,Two-Way Big,Versatile Scorer
+203484,1629008,K. Caldwell-Pope - M. Porter Jr.,1988,0.55,1.1,1.65,1.32,Perimeter Scorer,Perimeter Scorer
+201572,203081,B. Lopez - D. Lillard,1950,2.55,-0.65,1.9,1.52,Two-Way Big,Elite Playmaker
+1627832,1630224,F. VanVleet - J. Green,1936,-1.0,0.1,-0.9,-0.72,Elite Playmaker,Versatile Scorer
+203497,1630162,R. Gobert - A. Edwards,1922,0.95,0.3,1.25,1.0,Two-Way Big,Elite Playmaker
+1627734,1628368,D. Sabonis - D. Fox,1915,0.95,0.5,1.45,1.16,Elite Playmaker,Elite Playmaker
+203484,203932,K. Caldwell-Pope - A. Gordon,1854,0.55,-0.1,0.45,0.36,Perimeter Scorer,Perimeter Scorer
+201572,1627736,B. Lopez - M. Beasley,1844,0.75,-0.2,0.55,0.44,Two-Way Big,Perimeter Scorer
+1628368,1631099,D. Fox - K. Murray,1824,1.15,0.1,1.25,1.0,Elite Playmaker,Perimeter Scorer
+203081,1627736,D. Lillard - M. Beasley,1807,2.0,0.75,2.75,2.2,Elite Playmaker,Perimeter Scorer
+1630532,1631094,F. Wagner - P. Banchero,1799,2.35,-2.8,-0.45,-0.36,Versatile Scorer,Versatile Scorer
+203076,1626156,A. Davis - D. Russell,1785,1.35,-1.0,0.35,0.28,Two-Way Big,Elite Playmaker
+1627832,1628415,F. VanVleet - D. Brooks,1783,0.5,0.2,0.7,0.56,Elite Playmaker,Bench / Role Player
+203084,1628368,H. Barnes - D. Fox,1777,0.8,-0.45,0.35,0.28,Bench / Role Player,Elite Playmaker
+201935,202331,J. Harden - P. George,1775,1.25,0.85,2.1,1.68,Elite Playmaker,Elite Playmaker
+203991,1627749,C. Capela - D. Murray,1772,1.55,-0.65,0.9,0.72,Two-Way Big,Elite Playmaker
+1628404,1628973,J. Hart - J. Brunson,1763,1.7,1.7,3.4,2.72,Defensive Wing,Elite Playmaker
+203081,203507,D. Lillard - G. Antetokounmpo,1756,1.5,1.9,3.4,2.72,Elite Playmaker,Elite Playmaker
+1630224,1631095,J. Green - J. Smith Jr.,1742,-1.3,-0.15,-1.45,-1.16,Versatile Scorer,Bench / Role Player
+1628415,1630224,D. Brooks - J. Green,1737,-1.2,1.42e-14,-1.2,-0.96,Bench / Role Player,Versatile Scorer
+1628969,1629651,M. Bridges - N. Claxton,1730,1.1,-2.3,-1.2,-0.96,Versatile Scorer,Two-Way Big
+202699,1630178,T. Harris - T. Maxey,1727,0.5,1.45,1.95,1.56,Perimeter Scorer,Elite Playmaker
+1630162,1630183,A. Edwards - J. McDaniels,1713,-1.65,-0.6,-2.25,-1.8,Elite Playmaker,Bench / Role Player
+1628973,1628978,J. Brunson - D. DiVincenzo,1709,-1.2,1.65,0.45,0.36,Elite Playmaker,Perimeter Scorer
+201942,1627936,D. DeRozan - A. Caruso,1692,2.1,-1.5,0.6,0.48,Elite Playmaker,Perimeter Scorer
+1627832,1630578,F. VanVleet - A. Sengun,1675,1.5,0.55,2.05,1.64,Elite Playmaker,Elite Playmaker
+203507,1627736,G. Antetokounmpo - M. Beasley,1659,2.6,0.35,2.95,2.36,Elite Playmaker,Perimeter Scorer
+1630170,1631110,D. Vassell - J. Sochan,1653,1.6,-1.3,0.3,0.24,Perimeter Scorer,Versatile Scorer
+201142,203994,K. Durant - J. Nurkic,1653,1.0,1.0,2.0,1.6,Elite Playmaker,Defensive Wing
+202331,202695,P. George - K. Leonard,1635,2.5,1.55,4.05,3.24,Elite Playmaker,Elite Playmaker
+1630224,1630578,J. Green - A. Sengun,1633,-0.9,0.45,-0.45,-0.36,Versatile Scorer,Elite Playmaker
+1628983,1631096,S. Gilgeous-Alexander - C. Holmgren,1633,1.15,0.3,1.45,1.16,Elite Playmaker,Two-Way Big
+1628970,1641706,M. Bridges - B. Miller,1619,-1.1,0.55,-0.55,-0.44,Versatile Scorer,Versatile Scorer
+201935,202695,J. Harden - K. Leonard,1617,1.05,-0.8,0.25,0.2,Elite Playmaker,Elite Playmaker
+2544,1626156,L. James - D. Russell,1610,2.45,-0.35,2.1,1.68,Elite Playmaker,Elite Playmaker
+201942,1630245,D. DeRozan - A. Dosunmu,1603,1.95,-0.75,1.2,0.96,Elite Playmaker,Bench / Role Player
+1628404,1628978,J. Hart - D. DiVincenzo,1601,1.5,-1.45,0.05,0.04,Defensive Wing,Perimeter Scorer
+1627827,1628969,D. Finney-Smith - M. Bridges,1600,1.75,-0.5,1.25,1.0,Defensive Wing,Versatile Scorer
+1627749,1630180,D. Murray - S. Bey,1595,-1.0,-0.8,-1.8,-1.44,Elite Playmaker,Perimeter Scorer
+1628386,1629622,J. Allen - M. Strus,1594,1.6,1.3,2.9,2.32,Two-Way Big,Perimeter Scorer
+1626167,1630169,M. Turner - T. Haliburton,1581,1.85,1.3,3.15,2.52,Two-Way Big,Elite Playmaker
+203497,1630183,R. Gobert - J. McDaniels,1577,-1.1,-0.2,-1.3,-1.04,Two-Way Big,Bench / Role Player
+203994,1628960,J. Nurkic - G. Allen,1575,1.6,1.35,2.95,2.36,Defensive Wing,Perimeter Scorer
+203076,1627752,A. Davis - T. Prince,1504,1.15,-1.3,-0.15,-0.12,Two-Way Big,Bench / Role Player
+202696,1630245,N. Vucevic - A. Dosunmu,1504,0.9,0.85,1.75,1.4,Versatile Scorer,Bench / Role Player
+201572,203507,B. Lopez - G. Antetokounmpo,1501,2.95,1.65,4.6,3.68,Two-Way Big,Elite Playmaker
+1628415,1631095,D. Brooks - J. Smith Jr.,1493,-2.8,0.25,-2.55,-2.04,Bench / Role Player,Bench / Role Player
+202331,1627826,P. George - I. Zubac,1492,2.55,-2.05,0.5,0.4,Elite Playmaker,Two-Way Big
+1626157,1630162,K. Towns - A. Edwards,1486,-0.9,2.55,1.65,1.32,Perimeter Scorer,Elite Playmaker
+1630581,1631096,J. Giddey - C. Holmgren,1479,0.85,1.2,2.05,1.64,Versatile Scorer,Two-Way Big
+201950,1627759,J. Holiday - J. Brown,1478,-0.95,-1.7,-2.65,-2.12,Bench / Role Player,Versatile Scorer
+1629673,1630166,J. Poole - D. Avdija,1465,2.15,-0.45,1.7,1.36,Versatile Scorer,Perimeter Scorer
+201939,203952,S. Curry - A. Wiggins,1457,1.1,0.0,1.1,0.88,Elite Playmaker,Bench / Role Player
+1629627,1630529,Z. Williamson - H. Jones,1454,-1.1,-0.65,-1.75,-1.4,Elite Playmaker,Perimeter Scorer
+1627936,1629632,A. Caruso - C. White,1453,2.9,-2.45,0.45,0.36,Perimeter Scorer,Versatile Scorer
+1628969,1630560,M. Bridges - C. Thomas,1453,-1.3,-0.35,-1.65,-1.32,Versatile Scorer,Versatile Scorer
+1628378,1629622,D. Mitchell - M. Strus,1438,1.35,1.2,2.55,2.04,Elite Playmaker,Perimeter Scorer
+1627742,1630529,B. Ingram - H. Jones,1431,-0.7,-0.2,-0.9,-0.72,Versatile Scorer,Perimeter Scorer
+203992,1627749,B. Bogdanovic - D. Murray,1428,2.65,-0.45,2.2,1.76,Perimeter Scorer,Elite Playmaker
+201939,202691,S. Curry - K. Thompson,1427,-1.7,-1.05,-2.75,-2.2,Elite Playmaker,Bench / Role Player
+203999,1627750,N. Jokic - J. Murray,1418,1.5,3.75,5.25,4.2,Elite Playmaker,Elite Playmaker
+1629060,1630559,R. Hachimura - A. Reaves,1415,1.35,0.55,1.9,1.52,Perimeter Scorer,Versatile Scorer
+1629652,1631114,L. Dort - J. Williams,1414,-0.5,-1.42e-14,-0.5,-0.4,Perimeter Scorer,Elite Playmaker
+1627749,1629631,D. Murray - D. Hunter,1412,0.7,0.45,1.15,0.92,Elite Playmaker,Perimeter Scorer
+202696,1627936,N. Vucevic - A. Caruso,1411,1.85,-2.6,-0.75,-0.6,Versatile Scorer,Perimeter Scorer
+1628378,1628386,D. Mitchell - J. Allen,1407,1.45,0.6,2.05,1.64,Elite Playmaker,Two-Way Big
+1626156,1630559,D. Russell - A. Reaves,1402,-1.25,0.15,-1.1,-0.88,Elite Playmaker,Versatile Scorer
+201950,1628401,J. Holiday - D. White,1402,-0.6,-1.1,-1.7,-1.36,Bench / Role Player,Perimeter Scorer
+1630532,1630591,F. Wagner - J. Suggs,1401,2.4,-1.65,0.75,0.6,Versatile Scorer,Perimeter Scorer
+201144,1630183,M. Conley - J. McDaniels,1399,-0.6,-1.65,-2.25,-1.8,Perimeter Scorer,Bench / Role Player
+203994,1626164,J. Nurkic - D. Booker,1396,0.5,1.1,1.6,1.28,Defensive Wing,Elite Playmaker
+1628983,1631114,S. Gilgeous-Alexander - J. Williams,1396,1.6,0.65,2.25,1.8,Elite Playmaker,Elite Playmaker
+1629632,1630245,C. White - A. Dosunmu,1388,-0.55,-0.3,-0.85,-0.68,Versatile Scorer,Bench / Role Player
+1630581,1631114,J. Giddey - J. Williams,1387,0.5,0.15,0.65,0.52,Versatile Scorer,Elite Playmaker
+1630578,1631095,A. Sengun - J. Smith Jr.,1370,-0.7,0.3,-0.4,-0.32,Elite Playmaker,Bench / Role Player
+201935,1627826,J. Harden - I. Zubac,1366,-0.8,-1.5,-2.3,-1.84,Elite Playmaker,Two-Way Big
+203944,1628973,J. Randle - J. Brunson,1365,-1.6,0.85,-0.75,-0.6,Versatile Scorer,Elite Playmaker
+1628392,1628404,I. Hartenstein - J. Hart,1359,3.75,1.55,5.3,4.24,Perimeter Scorer,Defensive Wing
+1628983,1630581,S. Gilgeous-Alexander - J. Giddey,1354,0.7,0.3,1.0,0.8,Elite Playmaker,Versatile Scorer
+203468,1629627,C. McCollum - Z. Williamson,1350,-1.7,-0.7,-2.4,-1.92,Perimeter Scorer,Elite Playmaker
+202685,1630529,J. Valančiūnas - H. Jones,1346,0.7,0.75,1.45,1.16,Bench / Role Player,Perimeter Scorer
+202331,1629611,P. George - T. Mann,1346,1.35,0.45,1.8,1.44,Elite Playmaker,Bench / Role Player
+1627884,1629029,D. Jones Jr. - L. Doncic,1334,2.95,-0.7,2.25,1.8,Bench / Role Player,Elite Playmaker
+1628392,1628973,I. Hartenstein - J. Brunson,1333,2.35,2.95,5.3,4.24,Perimeter Scorer,Elite Playmaker
+1626156,1627752,D. Russell - T. Prince,1321,-0.6,-0.2,-0.8,-0.64,Elite Playmaker,Bench / Role Player
+201142,203078,K. Durant - B. Beal,1314,-0.95,1.15,0.2,0.16,Elite Playmaker,Perimeter Scorer
+1630170,1630200,D. Vassell - T. Jones,1308,3.5,2.8,6.3,5.04,Perimeter Scorer,Defensive Wing
+202695,1627826,K. Leonard - I. Zubac,1303,2.45,1.42e-14,2.45,1.96,Elite Playmaker,Two-Way Big
+201143,1628369,A. Horford - J. Tatum,1301,0.9,0.3,1.2,0.96,Perimeter Scorer,Elite Playmaker
+202681,1629029,K. Irving - L. Doncic,1297,3.4,0.7,4.1,3.28,Elite Playmaker,Elite Playmaker
+2544,1627752,L. James - T. Prince,1295,-1.65,-0.15,-1.8,-1.44,Elite Playmaker,Bench / Role Player
+201939,203110,S. Curry - D. Green,1288,1.3,-0.15,1.15,0.92,Elite Playmaker,Perimeter Scorer
+1630200,1641705,T. Jones - V. Wembanyama,1288,4.5,1.9,6.4,5.12,Defensive Wing,Two-Way Big
+204001,1628401,K. Porzingis - D. White,1283,1.75,1.2,2.95,2.36,Two-Way Big,Perimeter Scorer
+203497,1626157,R. Gobert - K. Towns,1279,-1.55,2.55,1.0,0.8,Two-Way Big,Perimeter Scorer
+204001,1628369,K. Porzingis - J. Tatum,1273,0.55,-2.25,-1.7,-1.36,Two-Way Big,Elite Playmaker
+1628386,1629636,J. Allen - D. Garland,1271,-1.65,-0.9,-2.55,-2.04,Two-Way Big,Versatile Scorer
+1631093,1631105,J. Ivey - J. Duren,1266,1.25,0.4,1.65,1.32,Versatile Scorer,Perimeter Scorer
+202685,1627742,J. Valančiūnas - B. Ingram,1255,-1.3,0.45,-0.85,-0.68,Bench / Role Player,Versatile Scorer
+1628386,1630171,J. Allen - I. Okoro,1254,-0.6,-0.5,-1.1,-0.88,Two-Way Big,Bench / Role Player
+203915,1628969,S. Dinwiddie - M. Bridges,1253,0.85,-0.1,0.75,0.6,Versatile Scorer,Versatile Scorer
+1631110,1641705,J. Sochan - V. Wembanyama,1250,2.4,-0.9,1.5,1.2,Versatile Scorer,Two-Way Big
+1630169,1630174,T. Haliburton - A. Nesmith,1245,3.5,-0.15,3.35,2.68,Elite Playmaker,Perimeter Scorer
+1628969,1629661,M. Bridges - C. Johnson,1244,1.7,0.45,2.15,1.72,Versatile Scorer,Perimeter Scorer
+1627752,1630559,T. Prince - A. Reaves,1241,-1.65,-2.85,-4.5,-3.6,Bench / Role Player,Versatile Scorer
+1630595,1631093,C. Cunningham - J. Ivey,1235,1.15,0.6,1.75,1.4,Elite Playmaker,Versatile Scorer
+1629675,1630162,N. Reid - A. Edwards,1235,2.7,-0.85,1.85,1.48,Bench / Role Player,Elite Playmaker
+1630595,1631105,C. Cunningham - J. Duren,1233,2.4,0.6,3.0,2.4,Elite Playmaker,Perimeter Scorer
+1630208,1641706,N. Richards - B. Miller,1233,-1.35,-1.5,-2.85,-2.28,Two-Way Big,Versatile Scorer
+203484,1627750,K. Caldwell-Pope - J. Murray,1232,-0.6,3.85,3.25,2.6,Perimeter Scorer,Elite Playmaker
+1628976,1631094,W. Carter Jr. - P. Banchero,1229,0.65,-2.25,-1.6,-1.28,Bench / Role Player,Versatile Scorer
+1626167,1630174,M. Turner - A. Nesmith,1227,2.25,-0.25,2.0,1.6,Two-Way Big,Perimeter Scorer
+1630170,1641705,D. Vassell - V. Wembanyama,1222,5.4,0.6,6.0,4.8,Perimeter Scorer,Two-Way Big
+202685,203468,J. Valančiūnas - C. McCollum,1221,-1.0,-1.1,-2.1,-1.68,Bench / Role Player,Perimeter Scorer
+1626145,1630166,T. Jones - D. Avdija,1212,-0.75,-0.05,-0.8,-0.64,Versatile Scorer,Perimeter Scorer
+1629021,1630175,M. Wagner - C. Anthony,1175,1.2,-0.85,0.35,0.28,Perimeter Scorer,Versatile Scorer
+1627749,1629027,D. Murray - T. Young,1172,-2.0,-1.9,-3.9,-3.12,Elite Playmaker,Elite Playmaker
+1626157,1630183,K. Towns - J. McDaniels,1165,-0.75,4.15,3.4,2.72,Perimeter Scorer,Bench / Role Player
+1630200,1631110,T. Jones - J. Sochan,1157,2.6,2.0,4.6,3.68,Defensive Wing,Versatile Scorer
+1629651,1630560,N. Claxton - C. Thomas,1153,-0.6,-2.15,-2.75,-2.2,Two-Way Big,Versatile Scorer
+1628970,1630208,M. Bridges - N. Richards,1149,-0.55,-0.65,-1.2,-0.96,Versatile Scorer,Two-Way Big
+201572,203114,B. Lopez - K. Middleton,1148,0.55,-1.15,-0.6,-0.48,Two-Way Big,Elite Playmaker
+203992,1630180,B. Bogdanovic - S. Bey,1147,0.85,3.05,3.9,3.12,Perimeter Scorer,Perimeter Scorer
+1629640,1630170,K. Johnson - D. Vassell,1144,2.95,-0.7,2.25,1.8,Bench / Role Player,Perimeter Scorer
+202699,1626162,T. Harris - K. Oubre Jr.,1143,-2.1,-0.45,-2.55,-2.04,Perimeter Scorer,Versatile Scorer
+201939,1630228,S. Curry - J. Kuminga,1142,2.15,0.4,2.55,2.04,Elite Playmaker,Perimeter Scorer
+1629027,1630552,T. Young - J. Johnson,1142,-0.65,-0.75,-1.4,-1.12,Elite Playmaker,Perimeter Scorer
+202710,1628389,J. Butler - B. Adebayo,1139,1.3,0.25,1.55,1.24,Elite Playmaker,Versatile Scorer
+1627734,1628370,D. Sabonis - M. Monk,1138,-1.35,-1.9,-3.25,-2.6,Elite Playmaker,Versatile Scorer
+203937,1630162,K. Anderson - A. Edwards,1137,4.0,-1.35,2.65,2.12,Bench / Role Player,Elite Playmaker
+1627747,1627777,C. LeVert - G. Niang,1132,-1.25,0.45,-0.8,-0.64,Versatile Scorer,Bench / Role Player
+1629640,1631110,K. Johnson - J. Sochan,1126,1.95,-1.4,0.55,0.44,Bench / Role Player,Versatile Scorer
+1628389,1631170,B. Adebayo - J. Jaquez Jr.,1120,1.45,-3.4,-1.95,-1.56,Versatile Scorer,Versatile Scorer
+1626156,1629060,D. Russell - R. Hachimura,1119,1.1,-1.2,-0.1,-0.08,Elite Playmaker,Perimeter Scorer
+203937,1629675,K. Anderson - N. Reid,1116,1.5,-1.1,0.4,0.32,Bench / Role Player,Bench / Role Player
+1627826,1629611,I. Zubac - T. Mann,1104,1.0,0.3,1.3,1.04,Two-Way Big,Bench / Role Player
+1629614,1630174,A. Nembhard - A. Nesmith,1102,1.7,-0.5,1.2,0.96,Versatile Scorer,Perimeter Scorer
+201935,1626181,J. Harden - N. Powell,1102,1.6,1.45,3.05,2.44,Elite Playmaker,Perimeter Scorer
+203992,1630552,B. Bogdanovic - J. Johnson,1097,5.2,-2.6,2.6,2.08,Perimeter Scorer,Perimeter Scorer
+201143,1628401,A. Horford - D. White,1094,0.9,-0.35,0.55,0.44,Perimeter Scorer,Perimeter Scorer
+1630166,1630557,D. Avdija - C. Kispert,1091,2.6,1.0,3.6,2.88,Perimeter Scorer,Bench / Role Player
+1628983,1630198,S. Gilgeous-Alexander - I. Joe,1087,3.6,0.2,3.8,3.04,Elite Playmaker,Perimeter Scorer
+1628398,1629655,K. Kuzma - D. Gafford,1085,-1.6,1.6,0.0,0.0,Versatile Scorer,Two-Way Big
+1630191,1630595,I. Stewart - C. Cunningham,1081,2.05,0.9,2.95,2.36,Perimeter Scorer,Elite Playmaker
+202691,1630228,K. Thompson - J. Kuminga,1081,2.25,-1.55,0.7,0.56,Bench / Role Player,Perimeter Scorer
+1628374,1629012,L. Markkanen - C. Sexton,1079,-1.35,2.2,0.85,0.68,Perimeter Scorer,Elite Playmaker
+1629638,1629675,N. Alexander-Walker - N. Reid,1078,2.6,-1.7,0.9,0.72,Perimeter Scorer,Bench / Role Player
+1627747,1628386,C. LeVert - J. Allen,1074,1.25,-0.5,0.75,0.6,Versatile Scorer,Two-Way Big
+1629622,1630596,M. Strus - E. Mobley,1074,-1.1,-2.05,-3.15,-2.52,Perimeter Scorer,Two-Way Big
+1626145,1629655,T. Jones - D. Gafford,1073,-0.95,0.75,-0.2,-0.16,Versatile Scorer,Two-Way Big
+1628374,1628381,L. Markkanen - J. Collins,1071,-0.8,1.0,0.2,0.16,Perimeter Scorer,Bench / Role Player
+1627827,1629651,D. Finney-Smith - N. Claxton,1070,3.05,-0.6,2.45,1.96,Defensive Wing,Two-Way Big
+1629636,1630596,D. Garland - E. Mobley,1069,2.85,-0.35,2.5,2.0,Versatile Scorer,Two-Way Big
+1629614,1630169,A. Nembhard - T. Haliburton,1064,3.5,-1.05,2.45,1.96,Versatile Scorer,Elite Playmaker
+203497,1629638,R. Gobert - N. Alexander-Walker,1064,4.95,-1.85,3.1,2.48,Two-Way Big,Perimeter Scorer
+1630228,1641764,J. Kuminga - B. Podziemski,1063,2.2,0.5,2.7,2.16,Perimeter Scorer,Perimeter Scorer
+203081,1626171,D. Lillard - B. Portis,1062,1.5,-1.65,-0.15,-0.12,Elite Playmaker,Bench / Role Player
+1630202,1630573,P. Pritchard - S. Hauser,1062,2.15,0.65,2.8,2.24,Perimeter Scorer,Perimeter Scorer
+201143,1627759,A. Horford - J. Brown,1061,0.95,-2.45,-1.5,-1.2,Perimeter Scorer,Versatile Scorer
+1626167,1629614,M. Turner - A. Nembhard,1060,2.35,-1.35,1.0,0.8,Two-Way Big,Versatile Scorer
+1630178,1630194,T. Maxey - P. Reed,1058,-0.6,2.4,1.8,1.44,Elite Playmaker,Perimeter Scorer
+1628976,1630532,W. Carter Jr. - F. Wagner,1058,2.5,-0.25,2.25,1.8,Bench / Role Player,Versatile Scorer
+203114,1627736,K. Middleton - M. Beasley,1057,2.0,-1.15,0.85,0.68,Elite Playmaker,Perimeter Scorer
+202685,1629627,J. Valančiūnas - Z. Williamson,1055,-0.9,1.0,0.1,0.08,Bench / Role Player,Elite Playmaker
+203471,1627783,D. Schroder - P. Siakam,1054,0.85,0.0,0.85,0.68,Versatile Scorer,Perimeter Scorer
+203991,1630180,C. Capela - S. Bey,1048,1.65,-2.65,-1.0,-0.8,Two-Way Big,Perimeter Scorer
+202691,203952,K. Thompson - A. Wiggins,1046,-2.2,-0.95,-3.15,-2.52,Bench / Role Player,Bench / Role Player
+203114,203507,K. Middleton - G. Antetokounmpo,1043,3.0,4.4,7.4,5.92,Elite Playmaker,Elite Playmaker
+201587,1630178,N. Batum - T. Maxey,1042,1.55,2.85,4.4,3.52,Perimeter Scorer,Elite Playmaker
+1628389,1629639,B. Adebayo - T. Herro,1040,0.7,0.2,0.9,0.72,Versatile Scorer,Versatile Scorer
+201942,203083,D. DeRozan - A. Drummond,1038,0.85,0.9,1.75,1.4,Elite Playmaker,Perimeter Scorer
+2544,1629060,L. James - R. Hachimura,1034,0.65,2.75,3.4,2.72,Elite Playmaker,Perimeter Scorer
+202704,203999,R. Jackson - N. Jokic,1029,2.7,-1.5,1.2,0.96,Bench / Role Player,Elite Playmaker
+201569,1626164,E. Gordon - D. Booker,1021,2.15,0.55,2.7,2.16,Perimeter Scorer,Elite Playmaker
+203507,1626171,G. Antetokounmpo - B. Portis,1018,-3.3,-0.65,-3.95,-3.16,Elite Playmaker,Bench / Role Player
+1629018,1630567,G. Trent Jr. - S. Barnes,1018,2.6,0.15,2.75,2.2,Perimeter Scorer,Elite Playmaker
+1629651,1629661,N. Claxton - C. Johnson,1015,-0.5,-1.75,-2.25,-1.8,Two-Way Big,Perimeter Scorer
+202331,1626181,P. George - N. Powell,1014,3.05,2.4,5.45,4.36,Elite Playmaker,Perimeter Scorer
+1628381,1641718,J. Collins - K. George,1011,-0.6,-2.6,-3.2,-2.56,Bench / Role Player,Bench / Role Player
+203903,1641718,J. Clarkson - K. George,1005,0.6,-1.15,-0.55,-0.44,Versatile Scorer,Bench / Role Player
+203468,1630530,C. McCollum - T. Murphy III,1001,2.6,-0.95,1.65,1.32,Perimeter Scorer,Perimeter Scorer
+1629640,1641705,K. Johnson - V. Wembanyama,1000,3.65,-2.5,1.15,0.92,Bench / Role Player,Two-Way Big
+1628976,1630591,W. Carter Jr. - J. Suggs,998,2.3,-0.7,1.6,1.28,Bench / Role Player,Perimeter Scorer
+1630595,1641709,C. Cunningham - A. Thompson,996,2.15,-2.2,-0.05,-0.04,Elite Playmaker,Defensive Wing
+203991,203992,C. Capela - B. Bogdanovic,978,4.6,-1.9,2.7,2.16,Two-Way Big,Perimeter Scorer
+1628389,1628997,B. Adebayo - C. Martin,975,0.7,-4.15,-3.45,-2.76,Versatile Scorer,Versatile Scorer
+1628997,1631170,C. Martin - J. Jaquez Jr.,974,2.55,2.35,4.9,3.92,Versatile Scorer,Versatile Scorer
+1629673,1630557,J. Poole - C. Kispert,974,1.75,0.85,2.6,2.08,Versatile Scorer,Bench / Role Player
+1627936,1630245,A. Caruso - A. Dosunmu,967,2.75,-3.45,-0.7,-0.56,Perimeter Scorer,Bench / Role Player
+1630557,1641731,C. Kispert - B. Coulibaly,965,1.1,-3.65,-2.55,-2.04,Bench / Role Player,Bench / Role Player
+201569,1628960,E. Gordon - G. Allen,965,1.75,3.4,5.15,4.12,Perimeter Scorer,Perimeter Scorer
+203507,1626192,G. Antetokounmpo - P. Connaughton,963,0.55,-0.95,-0.4,-0.32,Elite Playmaker,Bench / Role Player
+1628398,1641731,K. Kuzma - B. Coulibaly,963,-3.2,-2.95,-6.15,-4.92,Versatile Scorer,Bench / Role Player
+203081,203114,D. Lillard - K. Middleton,962,3.2,1.4,4.6,3.68,Elite Playmaker,Elite Playmaker
+1627783,1629614,P. Siakam - A. Nembhard,962,2.35,-0.65,1.7,1.36,Perimeter Scorer,Versatile Scorer
+1629130,1631170,D. Robinson - J. Jaquez Jr.,958,0.9,0.8,1.7,1.36,Bench / Role Player,Versatile Scorer
+203954,1630178,J. Embiid - T. Maxey,958,1.35,3.35,4.7,3.76,Elite Playmaker,Elite Playmaker
+1630200,1630577,T. Jones - J. Champagnie,958,1.55,-0.5,1.05,0.84,Defensive Wing,Perimeter Scorer
+1629029,1630182,L. Doncic - J. Green,955,-3.5,2.05,-1.45,-1.16,Elite Playmaker,Bench / Role Player
+1627783,1630567,P. Siakam - S. Barnes,955,1.45,-1.1,0.35,0.28,Perimeter Scorer,Elite Playmaker
+202681,1627884,K. Irving - D. Jones Jr.,947,1.45,-1.1,0.35,0.28,Elite Playmaker,Bench / Role Player
+202704,1631128,R. Jackson - C. Braun,947,1.05,-3.8,-2.75,-2.2,Bench / Role Player,Bench / Role Player
+202699,203954,T. Harris - J. Embiid,947,2.05,3.4,5.45,4.36,Perimeter Scorer,Elite Playmaker
+1628380,1629640,Z. Collins - K. Johnson,935,-2.0,1.35,-0.65,-0.52,Bench / Role Player,Bench / Role Player
+202695,1626181,K. Leonard - N. Powell,929,3.05,-1.95,1.1,0.88,Elite Playmaker,Perimeter Scorer
+1628370,1631099,M. Monk - K. Murray,929,2.25,-2.0,0.25,0.2,Versatile Scorer,Perimeter Scorer
+1628369,1630202,J. Tatum - P. Pritchard,928,2.65,1.25,3.9,3.12,Elite Playmaker,Perimeter Scorer
+1629627,1630530,Z. Williamson - T. Murphy III,925,1.4,-2.55,-1.15,-0.92,Elite Playmaker,Perimeter Scorer
+1627751,1630567,J. Poeltl - S. Barnes,920,0.8,-0.5,0.3,0.24,Two-Way Big,Elite Playmaker
+203991,1629631,C. Capela - D. Hunter,917,2.75,1.1,3.85,3.08,Two-Way Big,Perimeter Scorer
+203110,203952,D. Green - A. Wiggins,917,3.2,0.25,3.45,2.76,Perimeter Scorer,Bench / Role Player
+203497,1629675,R. Gobert - N. Reid,917,6.65,-4.25,2.4,1.92,Two-Way Big,Bench / Role Player
+203992,1629027,B. Bogdanovic - T. Young,914,2.25,1.05,3.3,2.64,Perimeter Scorer,Elite Playmaker
+1630529,1630530,H. Jones - T. Murphy III,914,3.8,-0.7,3.1,2.48,Perimeter Scorer,Perimeter Scorer
+1629655,1629673,D. Gafford - J. Poole,911,-1.75,2.85,1.1,0.88,Two-Way Big,Versatile Scorer
+1629632,1630172,C. White - P. Williams,909,1.55,2.15,3.7,2.96,Versatile Scorer,Perimeter Scorer
+203992,1629631,B. Bogdanovic - D. Hunter,904,3.45,-0.6,2.85,2.28,Perimeter Scorer,Perimeter Scorer
+1629029,1629684,L. Doncic - G. Williams,902,-0.7,0.1,-0.6,-0.48,Elite Playmaker,Bench / Role Player
+202704,1631212,R. Jackson - P. Watson,902,1.55,-3.6,-2.05,-1.64,Bench / Role Player,Bench / Role Player
+203903,1628374,J. Clarkson - L. Markkanen,900,4.1,-0.55,3.55,2.84,Versatile Scorer,Perimeter Scorer
+202704,203484,R. Jackson - K. Caldwell-Pope,896,2.5,-3.2,-0.7,-0.56,Bench / Role Player,Perimeter Scorer
+1626157,1629638,K. Towns - N. Alexander-Walker,895,-1.1,-1.0,-2.1,-1.68,Perimeter Scorer,Perimeter Scorer
+1628369,1630573,J. Tatum - S. Hauser,893,2.0,-0.6,1.4,1.12,Elite Playmaker,Perimeter Scorer
+1630577,1641705,J. Champagnie - V. Wembanyama,892,-1.45,0.4,-1.05,-0.84,Perimeter Scorer,Two-Way Big
+1628380,1631110,Z. Collins - J. Sochan,892,-2.45,-3.45,-5.9,-4.72,Bench / Role Player,Versatile Scorer
+1630168,1630180,O. Okongwu - S. Bey,890,1.75,3.55,5.3,4.24,Two-Way Big,Perimeter Scorer
+1627783,1630169,P. Siakam - T. Haliburton,888,2.45,-2.9,-0.45,-0.36,Perimeter Scorer,Elite Playmaker
+1628398,1630557,K. Kuzma - C. Kispert,887,1.2,-0.8,0.4,0.32,Versatile Scorer,Bench / Role Player
+202691,203110,K. Thompson - D. Green,884,2.7,-1.0,1.7,1.36,Bench / Role Player,Perimeter Scorer
+1630175,1630532,C. Anthony - F. Wagner,883,1.0,2.35,3.35,2.68,Versatile Scorer,Versatile Scorer
+202691,1641764,K. Thompson - B. Podziemski,882,-2.75,-1.85,-4.6,-3.68,Bench / Role Player,Perimeter Scorer
+1630167,1630169,O. Toppin - T. Haliburton,882,1.0,3.2,4.2,3.36,Perimeter Scorer,Elite Playmaker
+204060,1630175,J. Ingles - C. Anthony,880,0.95,0.25,1.2,0.96,Perimeter Scorer,Versatile Scorer
+1630175,1631094,C. Anthony - P. Banchero,879,-0.85,-2.75,-3.6,-2.88,Versatile Scorer,Versatile Scorer
+203915,1629651,S. Dinwiddie - N. Claxton,878,-1.55,-3.0,-4.55,-3.64,Versatile Scorer,Two-Way Big
+1629622,1630171,M. Strus - I. Okoro,876,2.5,-1.6,0.9,0.72,Perimeter Scorer,Bench / Role Player
+1627827,1630560,D. Finney-Smith - C. Thomas,870,2.45,-2.85,-0.4,-0.32,Defensive Wing,Versatile Scorer
+1629640,1631103,K. Johnson - M. Branham,870,-1.65,-1.8,-3.45,-2.76,Bench / Role Player,Bench / Role Player
+1628991,1631246,J. Jackson Jr. - V. Williams Jr.,867,3.55,2.2,5.75,4.6,Two-Way Big,Perimeter Scorer
+1629640,1630200,K. Johnson - T. Jones,867,1.05,1.2,2.25,1.8,Bench / Role Player,Defensive Wing
+203497,203937,R. Gobert - K. Anderson,867,2.25,-4.05,-1.8,-1.44,Two-Way Big,Bench / Role Player
+203081,1626192,D. Lillard - P. Connaughton,861,3.15,-1.35,1.8,1.44,Elite Playmaker,Bench / Role Player
+201566,202331,R. Westbrook - P. George,858,1.35,-0.55,0.8,0.64,Versatile Scorer,Elite Playmaker
+1627783,1630174,P. Siakam - A. Nesmith,857,2.85,0.45,3.3,2.64,Perimeter Scorer,Perimeter Scorer
+1626145,1641731,T. Jones - B. Coulibaly,855,-3.35,-2.7,-6.05,-4.84,Versatile Scorer,Bench / Role Player
+203914,1630532,G. Harris - F. Wagner,854,2.55,-0.35,2.2,1.76,Perimeter Scorer,Versatile Scorer
+1629027,1630168,T. Young - O. Okongwu,854,1.95,-1.35,0.6,0.48,Elite Playmaker,Two-Way Big
+1628378,1630171,D. Mitchell - I. Okoro,852,3.75,-2.4,1.35,1.08,Elite Playmaker,Bench / Role Player
+201569,203994,E. Gordon - J. Nurkic,852,2.75,0.05,2.8,2.24,Perimeter Scorer,Defensive Wing
+201939,1626172,S. Curry - K. Looney,850,-2.85,-0.15,-3.0,-2.4,Elite Playmaker,Bench / Role Player
+1627777,1630171,G. Niang - I. Okoro,845,-0.7,-1.45,-2.15,-1.72,Bench / Role Player,Bench / Role Player
+203471,1627751,D. Schroder - J. Poeltl,844,1.0,-0.8,0.2,0.16,Versatile Scorer,Two-Way Big
+1626167,1627783,M. Turner - P. Siakam,839,2.4,-1.7,0.7,0.56,Two-Way Big,Perimeter Scorer
+1631103,1641705,M. Branham - V. Wembanyama,836,1.3,-0.8,0.5,0.4,Bench / Role Player,Two-Way Big
+1629048,1631094,G. Bitadze - P. Banchero,835,-0.9,2.7,1.8,1.44,Two-Way Big,Versatile Scorer
+202699,1630194,T. Harris - P. Reed,835,0.8,-0.55,0.25,0.2,Perimeter Scorer,Perimeter Scorer
+1627747,1629636,C. LeVert - D. Garland,833,3.5,-1.8,1.7,1.36,Versatile Scorer,Versatile Scorer
+1627777,1629636,G. Niang - D. Garland,830,-0.65,1.55,0.9,0.72,Bench / Role Player,Versatile Scorer
+202704,203932,R. Jackson - A. Gordon,829,1.85,-3.1,-1.25,-1.0,Bench / Role Player,Perimeter Scorer
+1627747,1629622,C. LeVert - M. Strus,827,2.25,0.3,2.55,2.04,Versatile Scorer,Perimeter Scorer
+203915,1627827,S. Dinwiddie - D. Finney-Smith,825,0.6,1.5,2.1,1.68,Versatile Scorer,Defensive Wing
+202691,1626172,K. Thompson - K. Looney,820,-2.85,0.2,-2.65,-2.12,Bench / Role Player,Bench / Role Player
+1628389,1629312,B. Adebayo - H. Highsmith,818,2.45,-3.3,-0.85,-0.68,Versatile Scorer,Bench / Role Player
+1626162,1630194,K. Oubre Jr. - P. Reed,818,-1.5,0.5,-1.0,-0.8,Versatile Scorer,Perimeter Scorer
+203924,1641739,J. Grant - T. Camara,816,3.1,-0.45,2.65,2.12,Perimeter Scorer,Defensive Wing
+1630703,1631133,S. Henderson - J. Walker,816,-1.15,1.5,0.35,0.28,Versatile Scorer,Bench / Role Player
+201566,202695,R. Westbrook - K. Leonard,815,4.35,-3.2,1.15,0.92,Versatile Scorer,Elite Playmaker
+1630577,1631110,J. Champagnie - J. Sochan,811,1.15,0.2,1.35,1.08,Perimeter Scorer,Versatile Scorer
+203083,1629632,A. Drummond - C. White,809,2.55,3.55,6.1,4.88,Perimeter Scorer,Versatile Scorer
+1629675,1630183,N. Reid - J. McDaniels,807,0.85,-3.15,-2.3,-1.84,Bench / Role Player,Bench / Role Player
+203952,1641764,A. Wiggins - B. Podziemski,806,0.85,-0.4,0.45,0.36,Bench / Role Player,Perimeter Scorer
+1629636,1630171,D. Garland - I. Okoro,805,-1.25,0.1,-1.15,-0.92,Versatile Scorer,Bench / Role Player
+1629014,1641739,A. Simons - T. Camara,804,1.8,-1.6,0.2,0.16,Versatile Scorer,Defensive Wing
+1626179,1628389,T. Rozier - B. Adebayo,799,3.75,-0.25,3.5,2.8,Versatile Scorer,Versatile Scorer
+1631094,1641710,P. Banchero - A. Black,792,-1.1,0.05,-1.05,-0.84,Versatile Scorer,Bench / Role Player
+1627747,1628378,C. LeVert - D. Mitchell,791,3.0,-0.7,2.3,1.84,Versatile Scorer,Elite Playmaker
+1629028,1641739,D. Ayton - T. Camara,791,3.9,-0.15,3.75,3.0,Perimeter Scorer,Defensive Wing
+203924,1629014,J. Grant - A. Simons,791,-2.3,-0.75,-3.05,-2.44,Perimeter Scorer,Versatile Scorer
+1626171,1627736,B. Portis - M. Beasley,790,3.2,-1.8,1.4,1.12,Bench / Role Player,Perimeter Scorer
+1628378,1630596,D. Mitchell - E. Mobley,790,-0.55,-2.65,-3.2,-2.56,Elite Playmaker,Two-Way Big
+1628374,1641718,L. Markkanen - K. George,789,5.3,-1.3,4.0,3.2,Perimeter Scorer,Bench / Role Player
+203944,1628978,J. Randle - D. DiVincenzo,787,-3.4,1.6,-1.8,-1.44,Versatile Scorer,Perimeter Scorer
+202681,1630182,K. Irving - J. Green,784,0.8,3.65,4.45,3.56,Elite Playmaker,Bench / Role Player
+1627777,1628386,G. Niang - J. Allen,781,-2.6,0.65,-1.95,-1.56,Bench / Role Player,Two-Way Big
+203999,1631128,N. Jokic - C. Braun,780,8.75,0.4,9.15,7.32,Elite Playmaker,Bench / Role Player
+204060,1629021,J. Ingles - M. Wagner,779,0.55,0.8,1.35,1.08,Perimeter Scorer,Perimeter Scorer
+1631117,1641718,W. Kessler - K. George,774,-1.15,-3.8,-4.95,-3.96,Two-Way Big,Bench / Role Player
+203924,1629680,J. Grant - M. Thybulle,773,2.0,-2.75,-0.75,-0.6,Perimeter Scorer,Perimeter Scorer
+1629655,1630166,D. Gafford - D. Avdija,771,-2.9,2.8,-0.1,-0.08,Two-Way Big,Perimeter Scorer
+1629628,1630193,R. Barrett - I. Quickley,769,0.75,-1.3,-0.55,-0.44,Perimeter Scorer,Perimeter Scorer
+1630191,1631093,I. Stewart - J. Ivey,768,1.2,1.4,2.6,2.08,Perimeter Scorer,Versatile Scorer
+204456,1630167,T. McConnell - O. Toppin,765,2.3,-1.8,0.5,0.4,Elite Playmaker,Perimeter Scorer
+1631114,1641717,J. Williams - C. Wallace,763,2.75,-5.5,-2.75,-2.2,Elite Playmaker,Bench / Role Player
+202681,1629023,K. Irving - P. Washington,762,7.5,0.8,8.3,6.64,Elite Playmaker,Versatile Scorer
+203995,1628970,V. Micic - M. Bridges,762,-2.85,-0.65,-3.5,-2.8,Versatile Scorer,Versatile Scorer
+1626224,1629640,C. Osman - K. Johnson,760,-2.35,-1.15,-3.5,-2.8,Bench / Role Player,Bench / Role Player
+202696,203897,N. Vucevic - Z. LaVine,760,0.5,-2.0,-1.5,-1.2,Versatile Scorer,Versatile Scorer
+1628386,1629731,J. Allen - D. Wade,758,4.2,0.9,5.1,4.08,Two-Way Big,Defensive Wing
+203924,1627763,J. Grant - M. Brogdon,758,1.1,1.35,2.45,1.96,Perimeter Scorer,Elite Playmaker
+1626168,1628368,T. Lyles - D. Fox,758,2.95,-0.55,2.4,1.92,Defensive Wing,Elite Playmaker
+203471,1628969,D. Schröder - M. Bridges,754,1.55,-4.7,-3.15,-2.52,Versatile Scorer,Versatile Scorer
+203084,1628370,H. Barnes - M. Monk,754,-4.4,-7.25,-11.65,-9.32,Bench / Role Player,Versatile Scorer
+203944,1628404,J. Randle - J. Hart,754,3.8,0.55,4.35,3.48,Versatile Scorer,Defensive Wing
+1627734,1631165,D. Sabonis - K. Ellis,752,3.2,-3.6,-0.4,-0.32,Elite Playmaker,Perimeter Scorer
+1628978,1630173,D. DiVincenzo - P. Achiuwa,750,0.85,-2.95,-2.1,-1.68,Perimeter Scorer,Bench / Role Player
+1628378,1629636,D. Mitchell - D. Garland,750,0.8,-1.0,-0.2,-0.16,Elite Playmaker,Versatile Scorer
+1630167,1631097,O. Toppin - B. Mathurin,748,-1.85,-2.7,-4.55,-3.64,Perimeter Scorer,Bench / Role Player
+1630191,1631105,I. Stewart - J. Duren,745,2.45,0.4,2.85,2.28,Perimeter Scorer,Perimeter Scorer
+1630224,1641708,J. Green - A. Thompson,745,0.75,2.4,3.15,2.52,Versatile Scorer,Versatile Scorer
+201935,1629599,J. Harden - A. Coffey,745,-2.1,2.45,0.35,0.28,Elite Playmaker,Bench / Role Player
+1627827,1629661,D. Finney-Smith - C. Johnson,743,1.95,2.15,4.1,3.28,Defensive Wing,Perimeter Scorer
+1626167,1628971,M. Turner - B. Brown,743,0.85,7.5,8.35,6.68,Two-Way Big,Versatile Scorer
+203501,1630182,T. Hardaway Jr. - J. Green,743,-3.5,-2.8,-6.3,-5.04,Bench / Role Player,Bench / Role Player
+202696,1630172,N. Vucevic - P. Williams,742,1.4,0.3,1.7,1.36,Versatile Scorer,Perimeter Scorer
+203083,1630245,A. Drummond - A. Dosunmu,740,0.8,-5.15,-4.35,-3.48,Perimeter Scorer,Bench / Role Player
+1626179,1628970,T. Rozier - M. Bridges,735,-3.05,-0.3,-3.35,-2.68,Versatile Scorer,Versatile Scorer
+1628401,1630573,D. White - S. Hauser,733,3.7,-0.15,3.55,2.84,Perimeter Scorer,Perimeter Scorer
+1630191,1641709,I. Stewart - A. Thompson,733,1.9,-2.6,-0.7,-0.56,Perimeter Scorer,Defensive Wing
+203109,1627736,J. Crowder - M. Beasley,733,-0.75,0.0,-0.75,-0.6,Bench / Role Player,Perimeter Scorer
+203903,1631117,J. Clarkson - W. Kessler,732,1.05,-2.55,-1.5,-1.2,Versatile Scorer,Two-Way Big
+202710,1631170,J. Butler - J. Jaquez Jr.,729,2.45,4.45,6.9,5.52,Elite Playmaker,Versatile Scorer
+1629012,1641718,C. Sexton - K. George,727,-2.65,-1.3,-3.95,-3.16,Elite Playmaker,Bench / Role Player
+1627739,1629012,K. Dunn - C. Sexton,726,-2.2,4.8,2.6,2.08,Perimeter Scorer,Elite Playmaker
+1628436,1630202,L. Kornet - P. Pritchard,726,1.85,1.4,3.25,2.6,Two-Way Big,Perimeter Scorer
+1627783,1628384,P. Siakam - O. Anunoby,724,-3.05,-2.2,-5.25,-4.2,Perimeter Scorer,Perimeter Scorer
+203076,1629629,A. Davis - C. Reddish,723,-0.55,-2.7,-3.25,-2.6,Two-Way Big,Bench / Role Player
+1626167,1630167,M. Turner - O. Toppin,723,2.35,0.4,2.75,2.2,Two-Way Big,Perimeter Scorer
+1629028,1630703,D. Ayton - S. Henderson,722,3.05,-2.65,0.4,0.32,Perimeter Scorer,Versatile Scorer
+1629622,1629731,M. Strus - D. Wade,722,3.9,0.7,4.6,3.68,Perimeter Scorer,Defensive Wing
+1629673,1641731,J. Poole - B. Coulibaly,720,-2.15,-5.8,-7.95,-6.36,Versatile Scorer,Bench / Role Player
+1627742,1630530,B. Ingram - T. Murphy III,718,4.6,-2.1,2.5,2.0,Versatile Scorer,Perimeter Scorer
+1629023,1629029,P. Washington - L. Doncic,716,6.8,0.9,7.7,6.16,Versatile Scorer,Elite Playmaker
+1631093,1641709,J. Ivey - A. Thompson,715,1.8,-0.4,1.4,1.12,Versatile Scorer,Defensive Wing
+1631095,1641708,J. Smith Jr. - A. Thompson,715,1.25,-1.35,-0.1,-0.08,Bench / Role Player,Versatile Scorer
+1626181,1628464,N. Powell - D. Theis,715,1.5,1.5,3.0,2.4,Perimeter Scorer,Bench / Role Player
+1628371,1630175,J. Isaac - C. Anthony,713,4.85,1.8,6.65,5.32,Defensive Wing,Versatile Scorer
+1626204,1629627,L. Nance Jr. - Z. Williamson,710,-0.9,-3.0,-3.9,-3.12,Bench / Role Player,Elite Playmaker
+201950,1630202,J. Holiday - P. Pritchard,709,2.35,1.42e-14,2.35,1.88,Bench / Role Player,Perimeter Scorer
+201950,1630573,J. Holiday - S. Hauser,709,3.0,-1.05,1.95,1.56,Bench / Role Player,Perimeter Scorer
+1631103,1631110,M. Branham - J. Sochan,709,-2.2,-4.9,-7.1,-5.68,Bench / Role Player,Versatile Scorer
+202685,1630530,J. Valančiūnas - T. Murphy III,708,3.1,-2.75,0.35,0.28,Bench / Role Player,Perimeter Scorer
+203937,1626157,K. Anderson - K. Towns,707,2.0,-3.6,-1.6,-1.28,Bench / Role Player,Perimeter Scorer
+203109,203507,J. Crowder - G. Antetokounmpo,703,3.45,-0.05,3.4,2.72,Bench / Role Player,Elite Playmaker
+1626220,1628969,R. O'Neale - M. Bridges,702,-1.25,-3.3,-4.55,-3.64,Defensive Wing,Versatile Scorer
+201143,1630573,A. Horford - S. Hauser,700,2.9,-1.6,1.3,1.04,Perimeter Scorer,Perimeter Scorer
+203110,1630228,D. Green - J. Kuminga,699,5.25,0.25,5.5,4.4,Perimeter Scorer,Perimeter Scorer
+1628973,1630173,J. Brunson - P. Achiuwa,699,4.85,1.7,6.55,5.24,Elite Playmaker,Bench / Role Player
+1630169,1631097,T. Haliburton - B. Mathurin,698,-0.85,-2.4,-3.25,-2.6,Elite Playmaker,Bench / Role Player
+201572,1626171,B. Lopez - B. Portis,697,4.45,-6.0,-1.55,-1.24,Two-Way Big,Bench / Role Player
+1630583,1631246,S. Aldama - V. Williams Jr.,697,1.0,-2.7,-1.7,-1.36,Bench / Role Player,Perimeter Scorer
+203897,1629632,Z. LaVine - C. White,697,1.45,-1.55,-0.1,-0.08,Versatile Scorer,Versatile Scorer
+201142,1629234,K. Durant - D. Eubanks,692,1.1,-1.9,-0.8,-0.64,Elite Playmaker,Bench / Role Player
+203501,1629684,T. Hardaway Jr. - G. Williams,692,-2.9,-1.75,-4.65,-3.72,Bench / Role Player,Bench / Role Player
+1629023,1641706,P. Washington - B. Miller,688,-2.45,0.35,-2.1,-1.68,Versatile Scorer,Versatile Scorer
+101108,1630228,C. Paul - J. Kuminga,687,1.1,-3.2,-2.1,-1.68,Versatile Scorer,Perimeter Scorer
+203471,1628384,D. Schroder - O. Anunoby,684,-1.7,0.0,-1.7,-1.36,Versatile Scorer,Perimeter Scorer
+1629652,1630198,L. Dort - I. Joe,682,1.0,-0.55,0.45,0.36,Perimeter Scorer,Perimeter Scorer
+203957,1629029,D. Exum - L. Doncic,679,3.95,3.45,7.4,5.92,Perimeter Scorer,Elite Playmaker
+203952,1630228,A. Wiggins - J. Kuminga,674,2.05,-3.1,-1.05,-0.84,Bench / Role Player,Perimeter Scorer
+201572,1626192,B. Lopez - P. Connaughton,673,4.1,-3.5,0.6,0.48,Two-Way Big,Bench / Role Player
+1626196,1631170,J. Richardson - J. Jaquez Jr.,673,-1.85,-1.4,-3.25,-2.6,Bench / Role Player,Versatile Scorer
+1628384,1630567,O. Anunoby - S. Barnes,673,0.7,-0.3,0.4,0.32,Perimeter Scorer,Elite Playmaker
+1629021,1630532,M. Wagner - F. Wagner,672,1.0,2.1,3.1,2.48,Perimeter Scorer,Versatile Scorer
+201143,1630202,A. Horford - P. Pritchard,671,2.85,-0.95,1.9,1.52,Perimeter Scorer,Perimeter Scorer
+1628374,1631117,L. Markkanen - W. Kessler,671,3.65,-2.3,1.35,1.08,Perimeter Scorer,Two-Way Big
+1628971,1630169,B. Brown - T. Haliburton,669,-2.0,9.8,7.8,6.24,Versatile Scorer,Elite Playmaker
+1626157,1629675,K. Towns - N. Reid,669,1.2,-0.6,0.6,0.48,Perimeter Scorer,Bench / Role Player
+201587,1626162,N. Batum - K. Oubre Jr.,669,-0.65,-2.05,-2.7,-2.16,Perimeter Scorer,Versatile Scorer
+201144,1629638,M. Conley - N. Alexander-Walker,664,5.35,0.9,6.25,5.0,Perimeter Scorer,Perimeter Scorer
+203924,1630703,J. Grant - S. Henderson,663,-2.65,-2.55,-5.2,-4.16,Perimeter Scorer,Versatile Scorer
+1628389,1631107,B. Adebayo - N. Jovic,662,1.7,2.65,4.35,3.48,Versatile Scorer,Perimeter Scorer
+1627739,1628374,K. Dunn - L. Markkanen,661,-0.55,6.2,5.65,4.52,Perimeter Scorer,Perimeter Scorer
+1631105,1641709,J. Duren - A. Thompson,660,5.25,-2.5,2.75,2.2,Perimeter Scorer,Defensive Wing
+202696,1628470,N. Vucevic - T. Craig,658,-0.95,-3.45,-4.4,-3.52,Versatile Scorer,Bench / Role Player
+1627751,1629018,J. Poeltl - G. Trent Jr.,657,3.6,-0.15,3.45,2.76,Two-Way Big,Perimeter Scorer
+1628970,1628998,M. Bridges - C. Martin,657,0.95,-1.45,-0.5,-0.4,Versatile Scorer,Versatile Scorer
+1629048,1630591,G. Bitadze - J. Suggs,656,-1.75,0.95,-0.8,-0.64,Two-Way Big,Perimeter Scorer
+200768,202710,K. Lowry - J. Butler,655,-0.75,1.9,1.15,0.92,Bench / Role Player,Elite Playmaker
+203471,1629651,D. Schröder - N. Claxton,653,2.75,-4.4,-1.65,-1.32,Versatile Scorer,Two-Way Big
+1629312,1631170,H. Highsmith - J. Jaquez Jr.,653,2.0,-3.3,-1.3,-1.04,Bench / Role Player,Versatile Scorer
+1627747,1630596,C. LeVert - E. Mobley,651,2.65,-3.35,-0.7,-0.56,Versatile Scorer,Two-Way Big
+1629661,1630560,C. Johnson - C. Thomas,650,-3.2,-2.6,-5.8,-4.64,Perimeter Scorer,Versatile Scorer
+1630598,1631096,A. Wiggins - C. Holmgren,649,-0.8,-1.3,-2.1,-1.68,Perimeter Scorer,Two-Way Big
+1628991,1629723,J. Jackson Jr. - J. Konchar,647,0.85,0.55,1.4,1.12,Two-Way Big,Defensive Wing
+1629680,1631133,M. Thybulle - J. Walker,646,-0.6,4.4,3.8,3.04,Perimeter Scorer,Bench / Role Player
+203915,1630560,S. Dinwiddie - C. Thomas,646,-4.45,-3.55,-8.0,-6.4,Versatile Scorer,Versatile Scorer
+203954,1629001,J. Embiid - D. Melton,644,0.95,4.2,5.15,4.12,Elite Playmaker,Perimeter Scorer
+1629638,1630183,N. Alexander-Walker - J. McDaniels,643,0.65,-3.05,-2.4,-1.92,Perimeter Scorer,Bench / Role Player
+203468,1626204,C. McCollum - L. Nance Jr.,642,0.7,-0.8,-0.1,-0.08,Perimeter Scorer,Bench / Role Player
+203924,1631101,J. Grant - S. Sharpe,641,1.55,-2.6,-1.05,-0.84,Perimeter Scorer,Versatile Scorer
+201567,1631170,K. Love - J. Jaquez Jr.,641,3.9,4.3,8.2,6.56,Defensive Wing,Versatile Scorer
+201566,201935,R. Westbrook - J. Harden,641,-2.1,-1.0,-3.1,-2.48,Versatile Scorer,Elite Playmaker
+202711,1631093,B. Bogdanovic - J. Ivey,638,-4.7,3.1,-1.6,-1.28,Bench / Role Player,Versatile Scorer
+202710,1626179,J. Butler - T. Rozier,638,2.35,1.1,3.45,2.76,Elite Playmaker,Versatile Scorer
+203999,1631212,N. Jokic - P. Watson,637,6.85,-3.4,3.45,2.76,Elite Playmaker,Bench / Role Player
+1626220,1630560,R. O'Neale - C. Thomas,637,-1.75,-3.05,-4.8,-3.84,Defensive Wing,Versatile Scorer
+1628384,1628973,O. Anunoby - J. Brunson,636,8.2,5.3,13.5,10.8,Perimeter Scorer,Elite Playmaker
+1628970,1629023,M. Bridges - P. Washington,635,-0.65,-1.4,-2.05,-1.64,Versatile Scorer,Versatile Scorer
+1630581,1641717,J. Giddey - C. Wallace,634,-1.65,-2.35,-4.0,-3.2,Versatile Scorer,Bench / Role Player
+201587,203954,N. Batum - J. Embiid,633,3.5,6.5,10.0,8.0,Perimeter Scorer,Elite Playmaker
+202687,1630217,B. Biyombo - D. Bane,632,-2.55,1.3,-1.25,-1.0,Bench / Role Player,Elite Playmaker
+1626224,1630200,C. Osman - T. Jones,632,-1.4,-2.65,-4.05,-3.24,Bench / Role Player,Defensive Wing
+1628436,1630573,L. Kornet - S. Hauser,632,0.5,-0.05,0.45,0.36,Two-Way Big,Perimeter Scorer
+202691,1631218,K. Thompson - T. Jackson-Davis,630,-2.85,-1.75,-4.6,-3.68,Bench / Role Player,Two-Way Big
+1626181,1627826,N. Powell - I. Zubac,630,2.0,-3.05,-1.05,-0.84,Perimeter Scorer,Two-Way Big
+1627832,1641708,F. VanVleet - A. Thompson,629,6.25,1.4,7.65,6.12,Elite Playmaker,Versatile Scorer
+203083,1627936,A. Drummond - A. Caruso,627,4.55,2.3,6.85,5.48,Perimeter Scorer,Perimeter Scorer
+1628380,1630200,Z. Collins - T. Jones,627,2.45,-4.75,-2.3,-1.84,Bench / Role Player,Defensive Wing
+201942,1628470,D. DeRozan - T. Craig,625,-5.0,-0.55,-5.55,-4.44,Elite Playmaker,Bench / Role Player
+202710,1629312,J. Butler - H. Highsmith,625,2.35,1.55,3.9,3.12,Elite Playmaker,Bench / Role Player
+1629631,1630552,D. Hunter - J. Johnson,624,2.25,-1.3,0.95,0.76,Perimeter Scorer,Perimeter Scorer
+202710,1629639,J. Butler - T. Herro,624,-0.8,-2.95,-3.75,-3.0,Elite Playmaker,Versatile Scorer
+1630168,1630552,O. Okongwu - J. Johnson,623,3.8,-0.7,3.1,2.48,Two-Way Big,Perimeter Scorer
+203952,1626172,A. Wiggins - K. Looney,622,-1.65,-5.05,-6.7,-5.36,Bench / Role Player,Bench / Role Player
+203482,203903,K. Olynyk - J. Clarkson,622,2.8,0.2,3.0,2.4,Perimeter Scorer,Versatile Scorer
+1629027,1629631,T. Young - D. Hunter,622,-3.4,-0.45,-3.85,-3.08,Elite Playmaker,Perimeter Scorer
+201569,203078,E. Gordon - B. Beal,621,1.3,-3.7,-2.4,-1.92,Perimeter Scorer,Perimeter Scorer
+1629684,1641706,G. Williams - B. Miller,621,2.25,-3.75,-1.5,-1.2,Bench / Role Player,Versatile Scorer
+202685,1630700,J. Valančiūnas - D. Daniels,621,-0.55,1.95,1.4,1.12,Bench / Role Player,Versatile Scorer
+1629028,1629680,D. Ayton - M. Thybulle,620,1.8,0.15,1.95,1.56,Perimeter Scorer,Perimeter Scorer
+1628381,1631323,J. Collins - S. Fontecchio,620,-3.6,0.5,-3.1,-2.48,Bench / Role Player,Perimeter Scorer
+1626204,1630529,L. Nance Jr. - H. Jones,620,2.4,-3.85,-1.45,-1.16,Bench / Role Player,Perimeter Scorer
+1627741,1630174,B. Hield - A. Nesmith,619,-1.15,3.2,2.05,1.64,Perimeter Scorer,Perimeter Scorer
+1627832,1630256,F. VanVleet - J. Tate,619,2.8,-0.85,1.95,1.56,Elite Playmaker,Defensive Wing
+203110,1641764,D. Green - B. Podziemski,618,2.35,-0.05,2.3,1.84,Perimeter Scorer,Perimeter Scorer
+201569,1629234,E. Gordon - D. Eubanks,618,0.85,-3.55,-2.7,-2.16,Perimeter Scorer,Bench / Role Player
+1631099,1631165,K. Murray - K. Ellis,618,1.3,-4.6,-3.3,-2.64,Perimeter Scorer,Perimeter Scorer
+1628467,1629029,M. Kleber - L. Doncic,618,3.65,1.55,5.2,4.16,Defensive Wing,Elite Playmaker
+1630703,1641871,S. Henderson - D. Reath,618,-4.3,2.35,-1.95,-1.56,Versatile Scorer,Perimeter Scorer
+1630173,1630540,P. Achiuwa - M. McBride,617,-1.65,-6.8,-8.45,-6.76,Bench / Role Player,Bench / Role Player
+203501,203957,T. Hardaway Jr. - D. Exum,617,2.25,1.5,3.75,3.0,Bench / Role Player,Perimeter Scorer
+1629028,1631133,D. Ayton - J. Walker,616,-2.0,-5.15,-7.15,-5.72,Perimeter Scorer,Bench / Role Player
+101108,1641764,C. Paul - B. Podziemski,614,3.8,-1.0,2.8,2.24,Versatile Scorer,Perimeter Scorer
+1630558,1631099,D. Mitchell - K. Murray,614,2.55,-0.35,2.2,1.76,Bench / Role Player,Perimeter Scorer
+1630198,1631096,I. Joe - C. Holmgren,614,5.55,-2.0,3.55,2.84,Perimeter Scorer,Two-Way Big
+1628380,1631103,Z. Collins - M. Branham,614,-4.65,-0.35,-5.0,-4.0,Bench / Role Player,Bench / Role Player
+1627752,1629060,T. Prince - R. Hachimura,612,-2.5,-2.3,-4.8,-3.84,Bench / Role Player,Perimeter Scorer
+1629014,1630703,A. Simons - S. Henderson,611,-5.75,-2.5,-8.25,-6.6,Versatile Scorer,Versatile Scorer
+1627750,1631212,J. Murray - P. Watson,610,0.75,-4.85,-4.1,-3.28,Elite Playmaker,Bench / Role Player
+203954,1626162,J. Embiid - K. Oubre Jr.,608,-0.75,-1.05,-1.8,-1.44,Elite Playmaker,Versatile Scorer
+1626145,1630557,T. Jones - C. Kispert,607,-2.65,-0.15,-2.8,-2.24,Versatile Scorer,Bench / Role Player
+1627759,1630202,J. Brown - P. Pritchard,606,-1.8,-2.3,-4.1,-3.28,Versatile Scorer,Perimeter Scorer
+1628470,1629632,T. Craig - C. White,606,-2.5,0.4,-2.1,-1.68,Bench / Role Player,Versatile Scorer
+1629639,1631170,T. Herro - J. Jaquez Jr.,605,4.15,-1.5,2.65,2.12,Versatile Scorer,Versatile Scorer
+1629018,1629628,G. Trent Jr. - R. Barrett,603,1.15,1.45,2.6,2.08,Perimeter Scorer,Perimeter Scorer
+1629731,1630171,D. Wade - I. Okoro,601,4.9,-1.0,3.9,3.12,Defensive Wing,Bench / Role Player
+2544,1629629,L. James - C. Reddish,601,1.45,1.55,3.0,2.4,Elite Playmaker,Bench / Role Player
+203501,1641726,T. Hardaway Jr. - D. Lively II,601,-1.8,1.05,-0.75,-0.6,Bench / Role Player,Two-Way Big
+1628404,1630193,J. Hart - I. Quickley,600,5.7,2.7,8.4,6.72,Defensive Wing,Perimeter Scorer
+1626192,1627736,P. Connaughton - M. Beasley,600,3.75,0.5,4.25,3.4,Bench / Role Player,Perimeter Scorer
+101108,201939,C. Paul - S. Curry,599,4.25,-1.3,2.95,2.36,Versatile Scorer,Elite Playmaker
+201145,1631095,J. Green - J. Smith Jr.,599,0.95,-6.3,-5.35,-4.28,Bench / Role Player,Bench / Role Player
+1628378,1629731,D. Mitchell - D. Wade,598,4.15,0.2,4.35,3.48,Elite Playmaker,Defensive Wing
+1628371,1629021,J. Isaac - M. Wagner,598,4.35,0.15,4.5,3.6,Defensive Wing,Perimeter Scorer
+1627777,1629622,G. Niang - M. Strus,597,2.7,-2.25,0.45,0.36,Bench / Role Player,Perimeter Scorer
+202711,1630595,B. Bogdanovic - C. Cunningham,596,-5.95,5.1,-0.85,-0.68,Bench / Role Player,Elite Playmaker
+1626196,1628389,J. Richardson - B. Adebayo,595,-0.5,-6.3,-6.8,-5.44,Bench / Role Player,Versatile Scorer
+1630230,1630631,N. Marshall - J. Alvarado,595,3.3,-2.95,0.35,0.28,Defensive Wing,Defensive Wing
+1630170,1631103,D. Vassell - M. Branham,594,-2.2,-6.0,-8.2,-6.56,Perimeter Scorer,Bench / Role Player
+1629631,1630180,D. Hunter - S. Bey,592,-1.1,0.95,-0.15,-0.12,Perimeter Scorer,Perimeter Scorer
+101108,203952,C. Paul - A. Wiggins,591,-1.85,-1.5,-3.35,-2.68,Versatile Scorer,Bench / Role Player
+101108,1631218,C. Paul - T. Jackson-Davis,591,-4.5,-1.5,-6.0,-4.8,Versatile Scorer,Two-Way Big
+1627777,1628378,G. Niang - D. Mitchell,588,1.95,-0.35,1.6,1.28,Bench / Role Player,Elite Playmaker
+201143,204001,A. Horford - K. Porzingis,587,3.45,-1.65,1.8,1.44,Perimeter Scorer,Two-Way Big
+1631093,1631204,J. Ivey - M. Sasser,586,0.9,-2.95,-2.05,-1.64,Versatile Scorer,Versatile Scorer
+1627783,1629018,P. Siakam - G. Trent Jr.,586,-1.25,1.15,-0.1,-0.08,Perimeter Scorer,Perimeter Scorer
+1627751,1628384,J. Poeltl - O. Anunoby,584,-2.2,-6.3,-8.5,-6.8,Two-Way Big,Perimeter Scorer
+1629723,1630583,J. Konchar - S. Aldama,583,-0.7,3.85,3.15,2.52,Defensive Wing,Bench / Role Player
+201566,1629599,R. Westbrook - A. Coffey,581,0.6,0.45,1.05,0.84,Versatile Scorer,Bench / Role Player
+201942,203897,D. DeRozan - Z. LaVine,579,-3.45,-4.6,-8.05,-6.44,Elite Playmaker,Versatile Scorer
+1627884,1641726,D. Jones Jr. - D. Lively II,579,3.15,-5.1,-1.95,-1.56,Bench / Role Player,Two-Way Big
+1628973,1629656,J. Brunson - Q. Grimes,579,2.25,-3.25,-1.0,-0.8,Elite Playmaker,Defensive Wing
+201145,1628988,J. Green - A. Holiday,578,2.25,-2.5,-0.25,-0.2,Bench / Role Player,Defensive Wing
+1628997,1629639,C. Martin - T. Herro,576,2.0,-0.85,1.15,0.92,Versatile Scorer,Versatile Scorer
+203914,1630591,G. Harris - J. Suggs,575,-0.95,2.9,1.95,1.56,Perimeter Scorer,Perimeter Scorer
+200768,1628389,K. Lowry - B. Adebayo,575,1.95,-1.85,0.1,0.08,Bench / Role Player,Versatile Scorer
+1629627,1630700,Z. Williamson - D. Daniels,575,2.75,0.35,3.1,2.48,Elite Playmaker,Versatile Scorer
+1629130,1629312,D. Robinson - H. Highsmith,574,4.5,-2.9,1.6,1.28,Bench / Role Player,Bench / Role Player
+1631218,1641764,T. Jackson-Davis - B. Podziemski,574,2.4,2.0,4.4,3.52,Two-Way Big,Perimeter Scorer
+203944,1629011,J. Randle - M. Robinson,573,2.0,-3.0,-1.0,-0.8,Versatile Scorer,Perimeter Scorer
+1630598,1631114,A. Wiggins - J. Williams,572,1.05,-1.35,-0.3,-0.24,Perimeter Scorer,Elite Playmaker
+1630230,1630530,N. Marshall - T. Murphy III,572,4.3,-2.2,2.1,1.68,Defensive Wing,Perimeter Scorer
+203471,1627827,D. Schröder - D. Finney-Smith,571,-1.5,-2.7,-4.2,-3.36,Versatile Scorer,Defensive Wing
+1628983,1631119,S. Gilgeous-Alexander - J. Williams,571,2.6,0.95,3.55,2.84,Elite Playmaker,Defensive Wing
+203501,1628467,T. Hardaway Jr. - M. Kleber,570,2.45,-5.2,-2.75,-2.2,Bench / Role Player,Defensive Wing
+1628372,1628969,D. Smith Jr. - M. Bridges,569,2.5,0.85,3.35,2.68,Defensive Wing,Versatile Scorer
+203967,1641764,D. Šarić - B. Podziemski,569,3.35,-2.2,1.15,0.92,Bench / Role Player,Perimeter Scorer
+1629014,1629680,A. Simons - M. Thybulle,568,0.9,-0.4,0.5,0.4,Versatile Scorer,Perimeter Scorer
+1626224,1631103,C. Osman - M. Branham,568,0.8,1.05,1.85,1.48,Bench / Role Player,Bench / Role Player
+1641707,1641718,T. Hendricks - K. George,568,-1.25,-1.9,-3.15,-2.52,Bench / Role Player,Bench / Role Player
+1626179,1641706,T. Rozier - B. Miller,568,-2.55,3.55,1.0,0.8,Versatile Scorer,Versatile Scorer
+1629028,1631101,D. Ayton - S. Sharpe,567,2.45,-3.1,-0.65,-0.52,Perimeter Scorer,Versatile Scorer
+1628991,1630533,J. Jackson Jr. - Z. Williams,567,-0.95,-2.05,-3.0,-2.4,Two-Way Big,Bench / Role Player
+1627763,1629028,M. Brogdon - D. Ayton,566,1.0,-1.95,-0.95,-0.76,Elite Playmaker,Perimeter Scorer
+1631101,1641739,S. Sharpe - T. Camara,566,1.05,1.45,2.5,2.0,Versatile Scorer,Defensive Wing
+1631133,1631200,J. Walker - K. Murray,562,2.0,-0.7,1.3,1.04,Bench / Role Player,Defensive Wing
+1626168,1627734,T. Lyles - D. Sabonis,562,3.9,1.15,5.05,4.04,Defensive Wing,Elite Playmaker
+1630703,1631200,S. Henderson - K. Murray,561,0.75,-2.9,-2.15,-1.72,Versatile Scorer,Defensive Wing
+203995,1641706,V. Micic - B. Miller,560,-4.15,-1.5,-5.65,-4.52,Versatile Scorer,Versatile Scorer
+1628401,1630202,D. White - P. Pritchard,559,1.45,3.2,4.65,3.72,Perimeter Scorer,Perimeter Scorer
+203084,1631165,H. Barnes - K. Ellis,559,5.25,-0.35,4.9,3.92,Bench / Role Player,Perimeter Scorer
+1627750,1631128,J. Murray - C. Braun,558,-0.65,-4.25,-4.9,-3.92,Elite Playmaker,Bench / Role Player
+1627884,1629684,D. Jones Jr. - G. Williams,557,-4.45,-5.5,-9.95,-7.96,Bench / Role Player,Bench / Role Player
+202331,1629599,P. George - A. Coffey,557,-1.15,-0.6,-1.75,-1.4,Elite Playmaker,Bench / Role Player
+1628971,1630167,B. Brown - O. Toppin,556,-1.4,4.2,2.8,2.24,Versatile Scorer,Perimeter Scorer
+1628404,1629656,J. Hart - Q. Grimes,556,1.65,-0.95,0.7,0.56,Defensive Wing,Defensive Wing
+1630529,1630700,H. Jones - D. Daniels,555,1.65,-3.5,-1.85,-1.48,Perimeter Scorer,Versatile Scorer
+1630164,1631204,J. Wiseman - M. Sasser,555,3.35,-0.9,2.45,1.96,Bench / Role Player,Versatile Scorer
+203937,1630183,K. Anderson - J. McDaniels,554,2.75,-6.15,-3.4,-2.72,Bench / Role Player,Bench / Role Player
+203501,203939,T. Hardaway Jr. - D. Powell,554,2.6,-0.7,1.9,1.52,Bench / Role Player,Bench / Role Player
+203924,1631133,J. Grant - J. Walker,551,-1.2,-0.05,-1.25,-1.0,Perimeter Scorer,Bench / Role Player
+201942,1628975,D. DeRozan - J. Carter,549,2.3,-0.05,2.25,1.8,Elite Playmaker,Defensive Wing
+1628973,1629628,J. Brunson - R. Barrett,549,-3.55,-1.6,-5.15,-4.12,Elite Playmaker,Perimeter Scorer
+1626172,1641764,K. Looney - B. Podziemski,549,1.9,-0.85,1.05,0.84,Bench / Role Player,Perimeter Scorer
+1626204,1627742,L. Nance Jr. - B. Ingram,547,2.1,-1.25,0.85,0.68,Bench / Role Player,Versatile Scorer
+201939,1630541,S. Curry - M. Moody,547,3.55,-3.9,-0.35,-0.28,Elite Playmaker,Defensive Wing
+202681,1628467,K. Irving - M. Kleber,546,3.95,2.65,6.6,5.28,Elite Playmaker,Defensive Wing
+1630541,1641764,M. Moody - B. Podziemski,546,3.9,2.1,6.0,4.8,Defensive Wing,Perimeter Scorer
+201587,1630194,N. Batum - P. Reed,546,-1.25,0.25,-1.0,-0.8,Perimeter Scorer,Perimeter Scorer
+1641708,1641715,A. Thompson - C. Whitmore,545,2.05,-5.3,-3.25,-2.6,Versatile Scorer,Bench / Role Player
+1627777,1630596,G. Niang - E. Mobley,545,3.7,-1.5,2.2,1.76,Bench / Role Player,Two-Way Big
+1630171,1630596,I. Okoro - E. Mobley,545,3.7,-1.95,1.75,1.4,Bench / Role Player,Two-Way Big
+1629014,1631133,A. Simons - J. Walker,544,-2.2,1.6,-0.6,-0.48,Versatile Scorer,Bench / Role Player
+1629048,1641710,G. Bitadze - A. Black,544,4.7,0.15,4.85,3.88,Two-Way Big,Bench / Role Player
+203083,1628975,A. Drummond - J. Carter,543,2.35,-1.95,0.4,0.32,Perimeter Scorer,Defensive Wing
+1629628,1630567,R. Barrett - S. Barnes,543,0.55,0.4,0.95,0.76,Perimeter Scorer,Elite Playmaker
+1629026,1641717,K. Williams - C. Wallace,542,4.95,-2.95,2.0,1.6,Defensive Wing,Bench / Role Player
+1629008,1631128,M. Porter Jr. - C. Braun,541,3.5,-5.6,-2.1,-1.68,Perimeter Scorer,Bench / Role Player
+1630172,1630245,P. Williams - A. Dosunmu,541,-2.3,-3.75,-6.05,-4.84,Perimeter Scorer,Bench / Role Player
+1628988,1631095,A. Holiday - J. Smith Jr.,539,-1.6,-3.0,-4.6,-3.68,Defensive Wing,Bench / Role Player
+1629014,1641871,A. Simons - D. Reath,538,-4.05,-1.95,-6.0,-4.8,Versatile Scorer,Perimeter Scorer
+1630174,1631097,A. Nesmith - B. Mathurin,537,-1.55,-4.85,-6.4,-5.12,Perimeter Scorer,Bench / Role Player
+1627741,1631097,B. Hield - B. Mathurin,537,-2.3,0.15,-2.15,-1.72,Perimeter Scorer,Bench / Role Player
+201567,202710,K. Love - J. Butler,536,1.45,1.75,3.2,2.56,Defensive Wing,Elite Playmaker
+203915,1626220,S. Dinwiddie - R. O'Neale,536,-2.3,-2.4,-4.7,-3.76,Versatile Scorer,Defensive Wing
+202711,1631105,B. Bogdanovic - J. Duren,534,-5.45,4.8,-0.65,-0.52,Bench / Role Player,Perimeter Scorer
+101108,203967,C. Paul - D. Šarić,534,5.95,-2.5,3.45,2.76,Versatile Scorer,Bench / Role Player
+1630224,1630256,J. Green - J. Tate,534,1.9,-2.25,-0.35,-0.28,Versatile Scorer,Defensive Wing
+203903,1629012,J. Clarkson - C. Sexton,533,1.05,1.15,2.2,1.76,Versatile Scorer,Elite Playmaker
+201142,1626220,K. Durant - R. O'Neale,533,6.55,1.05,7.6,6.08,Elite Playmaker,Defensive Wing
+1630530,1630631,T. Murphy III - J. Alvarado,533,2.2,-2.15,0.05,0.04,Perimeter Scorer,Defensive Wing
+203484,1631128,K. Caldwell-Pope - C. Braun,532,9.35,0.4,9.75,7.8,Perimeter Scorer,Bench / Role Player
+1629021,1631094,M. Wagner - P. Banchero,532,-1.75,-3.5,-5.25,-4.2,Perimeter Scorer,Versatile Scorer
+1630200,1631103,T. Jones - M. Branham,532,2.7,-1.0,1.7,1.36,Defensive Wing,Bench / Role Player
+203995,1629684,V. Micic - G. Williams,532,-4.4,-2.35,-6.75,-5.4,Versatile Scorer,Bench / Role Player
+1628368,1631165,D. Fox - K. Ellis,531,3.25,-3.0,0.25,0.2,Elite Playmaker,Perimeter Scorer
+203914,1630175,G. Harris - C. Anthony,531,1.05,1.3,2.35,1.88,Perimeter Scorer,Versatile Scorer
+1631200,1641739,K. Murray - T. Camara,531,8.6,0.5,9.1,7.28,Defensive Wing,Defensive Wing
+1626156,1629629,D. Russell - C. Reddish,530,-0.7,-0.3,-1.0,-0.8,Elite Playmaker,Bench / Role Player
+202397,1628970,I. Smith - M. Bridges,528,1.15,-2.45,-1.3,-1.04,Bench / Role Player,Versatile Scorer
+1628384,1628978,O. Anunoby - D. DiVincenzo,528,4.4,5.65,10.05,8.04,Perimeter Scorer,Perimeter Scorer
+1628970,1631121,M. Bridges - B. McGowens,527,-0.8,-3.95,-4.75,-3.8,Versatile Scorer,Bench / Role Player
+1629014,1631200,A. Simons - K. Murray,526,-1.5,3.9,2.4,1.92,Versatile Scorer,Defensive Wing
+1629684,1641726,G. Williams - D. Lively II,526,1.1,4.9,6.0,4.8,Bench / Role Player,Two-Way Big
+1626224,1630170,C. Osman - D. Vassell,525,-1.6,-3.75,-5.35,-4.28,Bench / Role Player,Perimeter Scorer
+1630182,1641726,J. Green - D. Lively II,524,2.4,2.55,4.95,3.96,Bench / Role Player,Two-Way Big
+204456,1641767,T. McConnell - B. Sheppard,523,2.6,2.4,5.0,4.0,Elite Playmaker,Defensive Wing
+1627747,1630241,C. LeVert - S. Merrill,522,3.25,-1.15,2.1,1.68,Versatile Scorer,Bench / Role Player
+1628960,1629234,G. Allen - D. Eubanks,522,-3.5,-6.85,-10.35,-8.28,Perimeter Scorer,Bench / Role Player
+1626224,1641705,C. Osman - V. Wembanyama,521,1.9,-0.75,1.15,0.92,Bench / Role Player,Two-Way Big
+101108,1630541,C. Paul - M. Moody,521,3.7,-2.8,0.9,0.72,Versatile Scorer,Defensive Wing
+202695,1629599,K. Leonard - A. Coffey,521,2.15,-2.65,-0.5,-0.4,Elite Playmaker,Bench / Role Player
+201566,1628464,R. Westbrook - D. Theis,521,-0.7,-0.25,-0.95,-0.76,Versatile Scorer,Bench / Role Player
+1629629,1630559,C. Reddish - A. Reaves,520,-0.65,-4.75,-5.4,-4.32,Bench / Role Player,Versatile Scorer
+1628464,1629599,D. Theis - A. Coffey,520,0.5,1.0,1.5,1.2,Bench / Role Player,Bench / Role Player
+1627752,1629629,T. Prince - C. Reddish,519,1.7,-3.5,-1.8,-1.44,Bench / Role Player,Bench / Role Player
+202330,1641706,G. Hayward - B. Miller,518,-0.55,4.45,3.9,3.12,Bench / Role Player,Versatile Scorer
+1626166,1626171,C. Payne - B. Portis,517,-3.7,4.45,0.75,0.6,Bench / Role Player,Bench / Role Player
+1630198,1631119,I. Joe - J. Williams,516,1.1,-0.55,0.55,0.44,Perimeter Scorer,Defensive Wing
+203935,1630217,M. Smart - D. Bane,516,2.5,0.25,2.75,2.2,Elite Playmaker,Elite Playmaker
+204060,1631094,J. Ingles - P. Banchero,515,-1.6,-0.8,-2.4,-1.92,Perimeter Scorer,Versatile Scorer
+1629723,1631246,J. Konchar - V. Williams Jr.,515,1.0,-1.45,-0.45,-0.36,Defensive Wing,Perimeter Scorer
+203944,1629628,J. Randle - R. Barrett,515,-3.15,0.85,-2.3,-1.84,Versatile Scorer,Perimeter Scorer
+1628365,1628976,M. Fultz - W. Carter Jr.,515,0.6,-3.1,-2.5,-2.0,Versatile Scorer,Bench / Role Player
+1628384,1628392,O. Anunoby - I. Hartenstein,515,9.15,3.25,12.4,9.92,Perimeter Scorer,Perimeter Scorer
+1628379,1628991,L. Kennard - J. Jackson Jr.,513,-3.35,-4.2,-7.55,-6.04,Bench / Role Player,Two-Way Big
+1629028,1631200,D. Ayton - K. Murray,512,1.5,-1.85,-0.35,-0.28,Perimeter Scorer,Defensive Wing
+1630591,1641710,J. Suggs - A. Black,512,0.95,0.2,1.15,0.92,Perimeter Scorer,Bench / Role Player
+1628983,1629026,S. Gilgeous-Alexander - K. Williams,512,0.8,1.4,2.2,1.76,Elite Playmaker,Defensive Wing
+1627763,1641739,M. Brogdon - T. Camara,509,1.8,2.7,4.5,3.6,Elite Playmaker,Defensive Wing
+1629627,1630230,Z. Williamson - N. Marshall,507,5.2,-0.45,4.75,3.8,Elite Playmaker,Defensive Wing
+203482,1629012,K. Olynyk - C. Sexton,505,1.85,-0.05,1.8,1.44,Perimeter Scorer,Elite Playmaker
+201935,1628464,J. Harden - D. Theis,504,1.4,-0.35,1.05,0.84,Elite Playmaker,Bench / Role Player
+1628998,1630208,C. Martin - N. Richards,503,-0.5,-0.8,-1.3,-1.04,Versatile Scorer,Two-Way Big
+202710,1631107,J. Butler - N. Jovic,503,2.2,0.0,2.2,1.76,Elite Playmaker,Perimeter Scorer
+201569,1629006,E. Gordon - J. Okogie,501,-2.35,-0.8,-3.15,-2.52,Perimeter Scorer,Defensive Wing
+204001,1630573,K. Porzingis - S. Hauser,501,2.35,-5.45,-3.1,-2.48,Two-Way Big,Perimeter Scorer
+1630230,1641722,N. Marshall - J. Hawkins,500,0.65,-0.2,0.45,0.36,Defensive Wing,Bench / Role Player
+1627749,1629726,D. Murray - G. Mathews,499,-2.45,-2.7,-5.15,-4.12,Elite Playmaker,Bench / Role Player
+201145,1641708,J. Green - A. Thompson,499,1.1,-4.25,-3.15,-2.52,Bench / Role Player,Versatile Scorer
+202691,203967,K. Thompson - D. Šarić,498,-1.2,-2.25,-3.45,-2.76,Bench / Role Player,Bench / Role Player
+1626181,1629611,N. Powell - T. Mann,497,1.8,-5.55,-3.75,-3.0,Perimeter Scorer,Bench / Role Player
+1626179,1629023,T. Rozier - P. Washington,497,-5.7,2.8,-2.9,-2.32,Versatile Scorer,Versatile Scorer
+204060,1628371,J. Ingles - J. Isaac,495,3.2,0.25,3.45,2.76,Perimeter Scorer,Defensive Wing
+203114,1626171,K. Middleton - B. Portis,495,-2.8,-3.75,-6.55,-5.24,Elite Playmaker,Bench / Role Player
+1628369,1628436,J. Tatum - L. Kornet,494,1.8,4.25,6.05,4.84,Elite Playmaker,Two-Way Big
+202681,1629655,K. Irving - D. Gafford,493,4.9,-3.65,1.25,1.0,Elite Playmaker,Two-Way Big
+1626220,1627827,R. O'Neale - D. Finney-Smith,492,-3.1,-6.1,-9.2,-7.36,Defensive Wing,Defensive Wing
+1626156,1629637,D. Russell - J. Hayes,491,-2.25,4.95,2.7,2.16,Elite Playmaker,Bench / Role Player
+1628365,1630591,M. Fultz - J. Suggs,491,1.3,-1.5,-0.2,-0.16,Versatile Scorer,Perimeter Scorer
+1631094,1631216,P. Banchero - C. Houstan,490,-5.05,1.65,-3.4,-2.72,Versatile Scorer,Bench / Role Player
+1627741,1630194,B. Hield - P. Reed,489,3.45,-6.9,-3.45,-2.76,Perimeter Scorer,Perimeter Scorer
+203482,1641711,K. Olynyk - G. Dick,489,-6.3,-1.2,-7.5,-6.0,Perimeter Scorer,Bench / Role Player
+203482,1641718,K. Olynyk - K. George,489,2.8,0.05,2.85,2.28,Perimeter Scorer,Bench / Role Player
+1630256,1630578,J. Tate - A. Sengun,488,0.6,-1.9,-1.3,-1.04,Defensive Wing,Elite Playmaker
+1630164,1631093,J. Wiseman - J. Ivey,488,-0.75,0.55,-0.2,-0.16,Bench / Role Player,Versatile Scorer
+1628392,1630193,I. Hartenstein - I. Quickley,487,5.45,-0.55,4.9,3.92,Perimeter Scorer,Perimeter Scorer
+1628969,1630549,M. Bridges - D. Sharpe,487,3.45,0.2,3.65,2.92,Versatile Scorer,Defensive Wing
+1630174,1630188,A. Nesmith - J. Smith,486,1.5,-1.9,-0.4,-0.32,Perimeter Scorer,Bench / Role Player
+1627742,1630230,B. Ingram - N. Marshall,486,3.1,-1.4,1.7,1.36,Versatile Scorer,Defensive Wing
+204456,1630188,T. McConnell - J. Smith,486,-0.9,2.65,1.75,1.4,Elite Playmaker,Bench / Role Player
+201145,1628415,J. Green - D. Brooks,485,-1.75,-2.65,-4.4,-3.52,Bench / Role Player,Bench / Role Player
+203084,1630558,H. Barnes - D. Mitchell,484,-2.9,-8.7,-11.6,-9.28,Bench / Role Player,Bench / Role Player
+1629008,1631212,M. Porter Jr. - P. Watson,484,4.5,-1.5,3.0,2.4,Perimeter Scorer,Bench / Role Player
+201566,1627826,R. Westbrook - I. Zubac,484,5.5,-3.9,1.6,1.28,Versatile Scorer,Two-Way Big
+1626168,1631099,T. Lyles - K. Murray,484,5.3,0.45,5.75,4.6,Defensive Wing,Perimeter Scorer
+202685,1641722,J. Valančiūnas - J. Hawkins,483,-3.85,1.85,-2.0,-1.6,Bench / Role Player,Bench / Role Player
+1631133,1641871,J. Walker - D. Reath,483,2.45,2.95,5.4,4.32,Bench / Role Player,Perimeter Scorer
+1630167,1630174,O. Toppin - A. Nesmith,483,5.2,-0.45,4.75,3.8,Perimeter Scorer,Perimeter Scorer
+1629023,1629655,P. Washington - D. Gafford,483,7.9,2.05,9.95,7.96,Versatile Scorer,Two-Way Big
+203952,1631218,A. Wiggins - T. Jackson-Davis,481,-0.95,-0.1,-1.05,-0.84,Bench / Role Player,Two-Way Big
+1628372,1630560,D. Smith Jr. - C. Thomas,481,6.4,0.7,7.1,5.68,Defensive Wing,Versatile Scorer
+1628991,1641713,J. Jackson Jr. - G. Jackson,481,-2.25,-1.95,-4.2,-3.36,Two-Way Big,Bench / Role Player
+1628971,1641711,B. Brown - G. Dick,479,-1.85,-5.45,-7.3,-5.84,Versatile Scorer,Bench / Role Player
+1629012,1641707,C. Sexton - T. Hendricks,477,-2.9,-2.9,-5.8,-4.64,Elite Playmaker,Bench / Role Player
+1630165,1631105,K. Hayes - J. Duren,477,2.4,-0.4,2.0,1.6,Versatile Scorer,Perimeter Scorer
+203482,1630534,K. Olynyk - O. Agbaji,477,2.95,-0.9,2.05,1.64,Perimeter Scorer,Bench / Role Player
+1629684,1630182,G. Williams - J. Green,476,1.8,-0.05,1.75,1.4,Bench / Role Player,Bench / Role Player
+203482,1629018,K. Olynyk - G. Trent Jr.,476,-1.35,-4.3,-5.65,-4.52,Perimeter Scorer,Perimeter Scorer
+203932,1631128,A. Gordon - C. Braun,475,7.0,-4.2,2.8,2.24,Perimeter Scorer,Bench / Role Player
+203952,203967,A. Wiggins - D. Šarić,475,-6.2,1.1,-5.1,-4.08,Bench / Role Player,Bench / Role Player
+201939,1631218,S. Curry - T. Jackson-Davis,475,5.65,-3.9,1.75,1.4,Elite Playmaker,Two-Way Big
+1629026,1630198,K. Williams - I. Joe,474,3.4,1.0,4.4,3.52,Defensive Wing,Perimeter Scorer
+203076,1631108,A. Davis - M. Christie,473,5.65,2.15,7.8,6.24,Two-Way Big,Bench / Role Player
+1629684,1630544,G. Williams - T. Mann,473,0.55,-0.6,-0.05,-0.04,Bench / Role Player,Versatile Scorer
+1628386,1630241,J. Allen - S. Merrill,473,5.4,-3.85,1.55,1.24,Two-Way Big,Bench / Role Player
+1628973,1630540,J. Brunson - M. McBride,472,0.9,8.1,9.0,7.2,Elite Playmaker,Bench / Role Player
+1630165,1641709,K. Hayes - A. Thompson,472,1.75,-5.7,-3.95,-3.16,Versatile Scorer,Defensive Wing
+1628975,1630245,J. Carter - A. Dosunmu,470,4.75,-9.5,-4.75,-3.8,Defensive Wing,Bench / Role Player
+1629614,1631097,A. Nembhard - B. Mathurin,469,7.15,-7.35,-0.2,-0.16,Versatile Scorer,Bench / Role Player
+204456,1630174,T. McConnell - A. Nesmith,469,0.8,-4.85,-4.05,-3.24,Elite Playmaker,Perimeter Scorer
+1626220,1628372,R. O'Neale - D. Smith Jr.,467,3.75,-4.05,-0.3,-0.24,Defensive Wing,Defensive Wing
+1627884,1630182,D. Jones Jr. - J. Green,466,-3.25,-1.05,-4.3,-3.44,Bench / Role Player,Bench / Role Player
+1628988,1630256,A. Holiday - J. Tate,465,6.1,-3.1,3.0,2.4,Defensive Wing,Defensive Wing
+1630167,1641767,O. Toppin - B. Sheppard,464,2.8,-0.3,2.5,2.0,Perimeter Scorer,Defensive Wing
+1627752,1629637,T. Prince - J. Hayes,464,-4.35,-0.95,-5.3,-4.24,Bench / Role Player,Bench / Role Player
+200768,1631170,K. Lowry - J. Jaquez Jr.,461,-0.6,0.45,-0.15,-0.12,Bench / Role Player,Versatile Scorer
+201976,1630178,P. Beverley - T. Maxey,460,3.0,-0.6,2.4,1.92,Bench / Role Player,Elite Playmaker
+1629018,1641711,G. Trent Jr. - G. Dick,459,-2.35,-1.7,-4.05,-3.24,Perimeter Scorer,Bench / Role Player
+1627763,1631133,M. Brogdon - J. Walker,459,-0.7,0.9,0.2,0.16,Elite Playmaker,Bench / Role Player
+1629680,1641871,M. Thybulle - D. Reath,459,1.85,0.05,1.9,1.52,Perimeter Scorer,Perimeter Scorer
+1628960,1629006,G. Allen - J. Okogie,458,1.2,-2.5,-1.3,-1.04,Perimeter Scorer,Defensive Wing
+1629640,1631104,K. Johnson - B. Wesley,458,-0.75,-1.95,-2.7,-2.16,Bench / Role Player,Bench / Role Player
+1630217,1631223,D. Bane - D. Roddy,457,-0.7,5.15,4.45,3.56,Elite Playmaker,Bench / Role Player
+1628372,1629651,D. Smith Jr. - N. Claxton,457,4.7,-1.45,3.25,2.6,Defensive Wing,Two-Way Big
+1629023,1630163,P. Washington - L. Ball,457,-4.0,-0.4,-4.4,-3.52,Versatile Scorer,Elite Playmaker
+1626179,1629130,T. Rozier - D. Robinson,457,2.4,-4.85,-2.45,-1.96,Versatile Scorer,Bench / Role Player
+1641739,1641871,T. Camara - D. Reath,456,-0.55,-2.35,-2.9,-2.32,Defensive Wing,Perimeter Scorer
+1630165,1630595,K. Hayes - C. Cunningham,455,1.5,-1.9,-0.4,-0.32,Versatile Scorer,Elite Playmaker
+1627763,1629680,M. Brogdon - M. Thybulle,455,2.7,2.3,5.0,4.0,Elite Playmaker,Perimeter Scorer
+1628379,1631246,L. Kennard - V. Williams Jr.,454,-1.9,5.0,3.1,2.48,Bench / Role Player,Perimeter Scorer
+1629659,1631117,T. Horton-Tucker - W. Kessler,453,4.35,-1.45,2.9,2.32,Versatile Scorer,Two-Way Big
+1629599,1629611,A. Coffey - T. Mann,452,-5.2,-7.65,-12.85,-10.28,Bench / Role Player,Bench / Role Player
+203992,1629726,B. Bogdanovic - G. Mathews,452,4.2,0.55,4.75,3.8,Perimeter Scorer,Bench / Role Player
+1627741,1630178,B. Hield - T. Maxey,452,-0.65,-5.6,-6.25,-5.0,Perimeter Scorer,Elite Playmaker
+202685,1630230,J. Valančiūnas - N. Marshall,452,-2.1,-4.35,-6.45,-5.16,Bench / Role Player,Defensive Wing
+200768,1626162,K. Lowry - K. Oubre Jr.,452,6.5,-2.15,4.35,3.48,Bench / Role Player,Versatile Scorer
+1630228,1631218,J. Kuminga - T. Jackson-Davis,451,-3.7,-3.2,-6.9,-5.52,Perimeter Scorer,Two-Way Big
+203482,1630534,K. Olynyk - O. Agbaji,451,-1.45,-2.0,-3.45,-2.76,Perimeter Scorer,Bench / Role Player
+203109,1626192,J. Crowder - P. Connaughton,449,-2.9,-7.5,-10.4,-8.32,Bench / Role Player,Bench / Role Player
+1630581,1630598,J. Giddey - A. Wiggins,449,-3.95,7.3,3.35,2.68,Versatile Scorer,Perimeter Scorer
+1626224,1628380,C. Osman - Z. Collins,448,-2.85,-1.6,-4.45,-3.56,Bench / Role Player,Bench / Role Player
+1630208,1630544,N. Richards - T. Mann,448,5.15,-2.65,2.5,2.0,Two-Way Big,Versatile Scorer
+203076,203915,A. Davis - S. Dinwiddie,447,4.0,4.25,8.25,6.6,Two-Way Big,Versatile Scorer
+1630228,1630541,J. Kuminga - M. Moody,445,1.6,-4.4,-2.8,-2.24,Perimeter Scorer,Defensive Wing
+1628384,1628404,O. Anunoby - J. Hart,444,12.2,2.4,14.6,11.68,Perimeter Scorer,Defensive Wing
+1628370,1628989,M. Monk - K. Huerter,442,1.55,-1.65,-0.1,-0.08,Versatile Scorer,Perimeter Scorer
+203468,1630230,C. McCollum - N. Marshall,441,3.1,-0.55,2.55,2.04,Perimeter Scorer,Defensive Wing
+1628969,1629022,M. Bridges - L. Walker IV,441,4.85,-0.35,4.5,3.6,Versatile Scorer,Perimeter Scorer
+1630530,1630700,T. Murphy III - D. Daniels,441,-1.85,-1.4,-3.25,-2.6,Perimeter Scorer,Versatile Scorer
+203994,1629006,J. Nurkic - J. Okogie,439,4.2,-1.65,2.55,2.04,Defensive Wing,Defensive Wing
+1629012,1629659,C. Sexton - T. Horton-Tucker,438,2.15,-0.25,1.9,1.52,Elite Playmaker,Versatile Scorer
+1630577,1631103,J. Champagnie - M. Branham,438,-1.25,0.6,-0.65,-0.52,Perimeter Scorer,Bench / Role Player
+1628371,1630532,J. Isaac - F. Wagner,438,4.55,-1.45,3.1,2.48,Defensive Wing,Versatile Scorer
+203501,1630702,T. Hardaway Jr. - J. Hardy,438,2.35,-2.0,0.35,0.28,Bench / Role Player,Bench / Role Player
+1628988,1641708,A. Holiday - A. Thompson,437,2.15,-1.35,0.8,0.64,Defensive Wing,Versatile Scorer
+1628379,1630583,L. Kennard - S. Aldama,437,-2.7,3.8,1.1,0.88,Bench / Role Player,Bench / Role Player
+1626220,1628960,R. O'Neale - G. Allen,437,7.45,0.5,7.95,6.36,Defensive Wing,Perimeter Scorer
+1628975,1629632,J. Carter - C. White,435,3.7,3.0,6.7,5.36,Defensive Wing,Versatile Scorer
+201939,203967,S. Curry - D. Šarić,435,-5.4,-0.4,-5.8,-4.64,Elite Playmaker,Bench / Role Player
+203078,1629234,B. Beal - D. Eubanks,434,2.95,-7.45,-4.5,-3.6,Perimeter Scorer,Bench / Role Player
+1626156,1631108,D. Russell - M. Christie,434,-0.5,3.45,2.95,2.36,Elite Playmaker,Bench / Role Player
+1626179,1630208,T. Rozier - N. Richards,434,-5.7,2.15,-3.55,-2.84,Versatile Scorer,Two-Way Big
+1631200,1641871,K. Murray - D. Reath,433,1.65,3.15,4.8,3.84,Defensive Wing,Perimeter Scorer
+1626162,1627741,K. Oubre Jr. - B. Hield,433,1.85,-8.4,-6.55,-5.24,Versatile Scorer,Perimeter Scorer
+1630543,1631097,I. Jackson - B. Mathurin,432,2.1,-1.35,0.75,0.6,Two-Way Big,Bench / Role Player
+1628381,1630534,J. Collins - O. Agbaji,432,0.95,-5.05,-4.1,-3.28,Bench / Role Player,Bench / Role Player
+1627751,1630193,J. Poeltl - I. Quickley,432,1.4,5.9,7.3,5.84,Two-Way Big,Perimeter Scorer
+1627739,1631117,K. Dunn - W. Kessler,432,4.7,2.3,7.0,5.6,Perimeter Scorer,Two-Way Big
+1628964,1630178,M. Bamba - T. Maxey,432,2.25,-4.7,-2.45,-1.96,Bench / Role Player,Elite Playmaker
+1629627,1630631,Z. Williamson - J. Alvarado,432,4.8,-0.3,4.5,3.6,Elite Playmaker,Defensive Wing
+1629627,1641722,Z. Williamson - J. Hawkins,432,-2.95,-1.65,-4.6,-3.68,Elite Playmaker,Bench / Role Player
+1631119,1641717,J. Williams - C. Wallace,431,1.75,-2.2,-0.45,-0.36,Defensive Wing,Bench / Role Player
+1626179,1628997,T. Rozier - C. Martin,430,5.65,-5.5,0.15,0.12,Versatile Scorer,Versatile Scorer
+1628988,1630224,A. Holiday - J. Green,429,3.2,-4.55,-1.35,-1.08,Defensive Wing,Versatile Scorer
+1629130,1629639,D. Robinson - T. Herro,429,-1.45,1.1,-0.35,-0.28,Bench / Role Player,Versatile Scorer
+1629680,1641739,M. Thybulle - T. Camara,429,4.6,-3.2,1.4,1.12,Perimeter Scorer,Defensive Wing
+202330,1626179,G. Hayward - T. Rozier,428,-3.7,3.5,-0.2,-0.16,Bench / Role Player,Versatile Scorer
+202692,1641709,A. Burks - A. Thompson,427,5.3,4.45,9.75,7.8,Bench / Role Player,Defensive Wing
+203484,1631212,K. Caldwell-Pope - P. Watson,427,4.45,-4.4,0.05,0.04,Perimeter Scorer,Bench / Role Player
+1631200,1641712,K. Murray - R. Rupert,427,2.95,-0.4,2.55,2.04,Defensive Wing,Bench / Role Player
+1627832,1628988,F. VanVleet - A. Holiday,425,9.1,1.25,10.35,8.28,Elite Playmaker,Defensive Wing
+203200,203999,J. Holiday - N. Jokic,425,1.95,5.3,7.25,5.8,Bench / Role Player,Elite Playmaker
+203200,1631212,J. Holiday - P. Watson,425,2.1,-4.9,-2.8,-2.24,Bench / Role Player,Bench / Role Player
+1631323,1641718,S. Fontecchio - K. George,425,1.9,-6.0,-4.1,-3.28,Perimeter Scorer,Bench / Role Player
+1629637,1630559,J. Hayes - A. Reaves,424,4.2,-9.4,-5.2,-4.16,Bench / Role Player,Versatile Scorer
+1627763,1631101,M. Brogdon - S. Sharpe,424,2.95,-0.05,2.9,2.32,Elite Playmaker,Versatile Scorer
+1630534,1631117,O. Agbaji - W. Kessler,424,4.2,0.55,4.75,3.8,Bench / Role Player,Two-Way Big
+204456,1630543,T. McConnell - I. Jackson,424,7.65,-0.15,7.5,6.0,Elite Playmaker,Two-Way Big
+203914,1629021,G. Harris - M. Wagner,423,2.05,-1.45,0.6,0.48,Perimeter Scorer,Perimeter Scorer
+1629029,1629655,L. Doncic - D. Gafford,423,10.8,-3.95,6.85,5.48,Elite Playmaker,Two-Way Big
+1630198,1631114,I. Joe - J. Williams,422,6.1,-3.45,2.65,2.12,Perimeter Scorer,Elite Playmaker
+203935,1628991,M. Smart - J. Jackson Jr.,422,4.65,-0.55,4.1,3.28,Elite Playmaker,Two-Way Big
+1629614,1630167,A. Nembhard - O. Toppin,420,1.3,-1.05,0.25,0.2,Versatile Scorer,Perimeter Scorer
+1627734,1630537,D. Sabonis - C. Duarte,420,-3.85,-3.6,-7.45,-5.96,Elite Playmaker,Bench / Role Player
+1631133,1641739,J. Walker - T. Camara,420,5.2,-2.7,2.5,2.0,Bench / Role Player,Defensive Wing
+1628365,1630532,M. Fultz - F. Wagner,420,2.8,-0.25,2.55,2.04,Versatile Scorer,Versatile Scorer
+1628971,1630174,B. Brown - A. Nesmith,419,-1.5,8.45,6.95,5.56,Versatile Scorer,Perimeter Scorer
+1626171,1631260,B. Portis - A. Green,419,2.25,2.75,5.0,4.0,Bench / Role Player,Bench / Role Player
+1626164,1626220,D. Booker - R. O'Neale,419,3.45,-2.15,1.3,1.04,Elite Playmaker,Defensive Wing
+1629013,1630557,L. Shamet - C. Kispert,419,-1.4,1.0,-0.4,-0.32,Bench / Role Player,Bench / Role Player
+1630529,1641722,H. Jones - J. Hawkins,418,-1.35,-0.9,-2.25,-1.8,Perimeter Scorer,Bench / Role Player
+202397,1629023,I. Smith - P. Washington,418,-3.6,-4.15,-7.75,-6.2,Bench / Role Player,Versatile Scorer
+203200,1631128,J. Holiday - C. Braun,418,4.1,-6.9,-2.8,-2.24,Bench / Role Player,Bench / Role Player
+1628380,1630577,Z. Collins - J. Champagnie,418,4.3,-6.75,-2.45,-1.96,Bench / Role Player,Perimeter Scorer
+1629614,1630188,A. Nembhard - J. Smith,417,-1.4,-7.8,-9.2,-7.36,Versatile Scorer,Bench / Role Player
+202722,1629684,D. Bertans - G. Williams,416,-0.5,-4.7,-5.2,-4.16,Bench / Role Player,Bench / Role Player
+1626196,1628997,J. Richardson - C. Martin,416,-1.1,-3.45,-4.55,-3.64,Bench / Role Player,Versatile Scorer
+1628981,1629726,B. Fernando - G. Mathews,415,2.75,-3.75,-1.0,-0.8,Bench / Role Player,Bench / Role Player
+1626204,1630230,L. Nance Jr. - N. Marshall,415,7.5,-0.65,6.85,5.48,Bench / Role Player,Defensive Wing
+1629655,1641731,D. Gafford - B. Coulibaly,414,-1.8,-4.05,-5.85,-4.68,Two-Way Big,Bench / Role Player
+202710,1626196,J. Butler - J. Richardson,414,-2.2,-0.65,-2.85,-2.28,Elite Playmaker,Bench / Role Player
+1627747,1629731,C. LeVert - D. Wade,412,4.45,-4.6,-0.15,-0.12,Versatile Scorer,Defensive Wing
+1629652,1641717,L. Dort - C. Wallace,412,-4.85,-1.1,-5.95,-4.76,Perimeter Scorer,Bench / Role Player
+1630559,1631108,A. Reaves - M. Christie,411,3.85,-4.2,-0.35,-0.28,Versatile Scorer,Bench / Role Player
+1627741,1629614,B. Hield - A. Nembhard,411,-2.95,-0.7,-3.65,-2.92,Perimeter Scorer,Versatile Scorer
+1629111,1630224,J. Landale - J. Green,411,5.45,-0.85,4.6,3.68,Defensive Wing,Versatile Scorer
+202681,203957,K. Irving - D. Exum,411,2.15,0.25,2.4,1.92,Elite Playmaker,Perimeter Scorer
+1628404,1629011,J. Hart - M. Robinson,410,-1.9,2.15,0.25,0.2,Defensive Wing,Perimeter Scorer
+1630256,1631095,J. Tate - J. Smith Jr.,410,4.8,-2.6,2.2,1.76,Defensive Wing,Bench / Role Player
+1628971,1631097,B. Brown - B. Mathurin,409,-0.75,-1.9,-2.65,-2.12,Versatile Scorer,Bench / Role Player
+2544,1626174,L. James - C. Wood,409,7.25,2.55,9.8,7.84,Elite Playmaker,Defensive Wing
+2544,1631108,L. James - M. Christie,409,-2.25,-4.2,-6.45,-5.16,Elite Playmaker,Bench / Role Player
+203957,1627884,D. Exum - D. Jones Jr.,408,3.9,-1.75,2.15,1.72,Perimeter Scorer,Bench / Role Player
+202330,1629023,G. Hayward - P. Washington,407,-7.5,-3.1,-10.6,-8.48,Bench / Role Player,Versatile Scorer
+202695,1628464,K. Leonard - D. Theis,407,0.55,-7.15,-6.6,-5.28,Elite Playmaker,Bench / Role Player
+200768,1630178,K. Lowry - T. Maxey,407,5.8,-2.75,3.05,2.44,Bench / Role Player,Elite Playmaker
+1631204,1641709,M. Sasser - A. Thompson,407,4.9,3.55,8.45,6.76,Versatile Scorer,Defensive Wing
+203924,1641871,J. Grant - D. Reath,406,-0.95,1.2,0.25,0.2,Perimeter Scorer,Perimeter Scorer
+1627936,1630172,A. Caruso - P. Williams,405,2.55,-3.9,-1.35,-1.08,Perimeter Scorer,Perimeter Scorer
+1628988,1630578,A. Holiday - A. Sengun,405,4.7,-2.2,2.5,2.0,Defensive Wing,Elite Playmaker
+203926,1641705,D. McDermott - V. Wembanyama,403,1.65,-6.45,-4.8,-3.84,Bench / Role Player,Two-Way Big
+203507,1626166,G. Antetokounmpo - C. Payne,401,-2.6,0.2,-2.4,-1.92,Elite Playmaker,Bench / Role Player
+101108,1626172,C. Paul - K. Looney,400,9.1,0.55,9.65,7.72,Versatile Scorer,Bench / Role Player
+1626220,1629022,R. O'Neale - L. Walker IV,400,1.3,5.75,7.05,5.64,Defensive Wing,Perimeter Scorer
+1627742,1641722,B. Ingram - J. Hawkins,399,-3.35,-2.7,-6.05,-4.84,Versatile Scorer,Bench / Role Player
+201145,1630256,J. Green - J. Tate,399,1.35,-2.9,-1.55,-1.24,Bench / Role Player,Defensive Wing
+1626220,1629651,R. O'Neale - N. Claxton,399,2.55,-7.0,-4.45,-3.56,Defensive Wing,Two-Way Big
+1630193,1641711,I. Quickley - G. Dick,398,0.75,-4.65,-3.9,-3.12,Perimeter Scorer,Bench / Role Player
+1628983,1630598,S. Gilgeous-Alexander - A. Wiggins,398,8.25,-0.3,7.95,6.36,Elite Playmaker,Perimeter Scorer
+1630533,1630583,Z. Williams - S. Aldama,398,6.5,-3.65,2.85,2.28,Bench / Role Player,Bench / Role Player
+1630583,1641713,S. Aldama - G. Jackson,397,-2.2,-5.35,-7.55,-6.04,Bench / Role Player,Bench / Role Player
+201939,1627780,S. Curry - G. Payton II,395,3.0,2.9,5.9,4.72,Elite Playmaker,Defensive Wing
+1631117,1631323,W. Kessler - S. Fontecchio,395,6.65,1.6,8.25,6.6,Two-Way Big,Perimeter Scorer
+1630625,1631133,D. Banton - J. Walker,394,-2.2,-4.9,-7.1,-5.68,Versatile Scorer,Bench / Role Player
+1626156,1626174,D. Russell - C. Wood,394,1.5,0.8,2.3,1.84,Elite Playmaker,Defensive Wing
+1628372,1629022,D. Smith Jr. - L. Walker IV,394,2.15,-3.2,-1.05,-0.84,Defensive Wing,Perimeter Scorer
+200768,1629130,K. Lowry - D. Robinson,394,3.4,0.45,3.85,3.08,Bench / Role Player,Bench / Role Player
+201976,1626162,P. Beverley - K. Oubre Jr.,394,3.4,-6.8,-3.4,-2.72,Bench / Role Player,Versatile Scorer
+1626171,1630699,B. Portis - M. Beauchamp,393,1.75,2.4,4.15,3.32,Bench / Role Player,Bench / Role Player
+203957,1641726,D. Exum - D. Lively II,392,2.75,4.75,7.5,6.0,Perimeter Scorer,Two-Way Big
+203939,1629029,D. Powell - L. Doncic,391,-0.5,-1.45,-1.95,-1.56,Bench / Role Player,Elite Playmaker
+201950,1628436,J. Holiday - L. Kornet,391,3.5,-0.7,2.8,2.24,Bench / Role Player,Two-Way Big
+1630188,1631097,J. Smith - B. Mathurin,390,-2.65,-4.85,-7.5,-6.0,Bench / Role Player,Bench / Role Player
+203944,1630193,J. Randle - I. Quickley,389,6.8,3.55,10.35,8.28,Versatile Scorer,Perimeter Scorer
+201976,202694,P. Beverley - M. Morris Sr.,388,1.2,2.2,3.4,2.72,Bench / Role Player,Bench / Role Player
+1626168,1630558,T. Lyles - D. Mitchell,388,3.35,2.5,5.85,4.68,Defensive Wing,Bench / Role Player
+1626164,1629006,D. Booker - J. Okogie,387,2.7,2.45,5.15,4.12,Elite Playmaker,Defensive Wing
+202699,1627741,T. Harris - B. Hield,386,6.25,-11.65,-5.4,-4.32,Perimeter Scorer,Perimeter Scorer
+1628988,1641715,A. Holiday - C. Whitmore,384,-3.3,-1.65,-4.95,-3.96,Defensive Wing,Bench / Role Player
+1627742,1630631,B. Ingram - J. Alvarado,384,4.6,1.05,5.65,4.52,Versatile Scorer,Defensive Wing
+1630625,1641871,D. Banton - D. Reath,384,-2.05,-4.55,-6.6,-5.28,Versatile Scorer,Perimeter Scorer
+1627763,1630703,M. Brogdon - S. Henderson,384,4.05,1.6,5.65,4.52,Elite Playmaker,Versatile Scorer
+201587,1629001,N. Batum - D. Melton,384,2.25,8.3,10.55,8.44,Perimeter Scorer,Perimeter Scorer
+1629111,1641708,J. Landale - A. Thompson,383,1.3,1.55,2.85,2.28,Defensive Wing,Versatile Scorer
+1627884,1629023,D. Jones Jr. - P. Washington,382,14.85,0.4,15.25,12.2,Bench / Role Player,Versatile Scorer
+203939,1630182,D. Powell - J. Green,382,-5.5,-1.1,-6.6,-5.28,Bench / Role Player,Bench / Role Player
+1630167,1630543,O. Toppin - I. Jackson,381,3.35,-0.35,3.0,2.4,Perimeter Scorer,Two-Way Big
+1630533,1631246,Z. Williams - V. Williams Jr.,381,4.2,-2.65,1.55,1.24,Bench / Role Player,Perimeter Scorer
+202711,1630540,B. Bogdanovic - M. McBride,380,1.85,-6.25,-4.4,-3.52,Bench / Role Player,Bench / Role Player
+1627832,1629111,F. VanVleet - J. Landale,380,3.15,4.35,7.5,6.0,Elite Playmaker,Defensive Wing
+1627763,1629014,M. Brogdon - A. Simons,380,-0.9,0.9,-1.42e-14,0.0,Elite Playmaker,Versatile Scorer
+203897,1627936,Z. LaVine - A. Caruso,380,4.85,-3.6,1.25,1.0,Versatile Scorer,Perimeter Scorer
+203967,1630541,D. Šarić - M. Moody,379,2.25,-2.7,-0.45,-0.36,Bench / Role Player,Defensive Wing
+203903,1631323,J. Clarkson - S. Fontecchio,378,1.7,0.45,2.15,1.72,Versatile Scorer,Perimeter Scorer
+204001,1630202,K. Porzingis - P. Pritchard,378,-3.1,-2.5,-5.6,-4.48,Two-Way Big,Perimeter Scorer
+1628467,1630182,M. Kleber - J. Green,378,0.55,0.7,1.25,1.0,Defensive Wing,Bench / Role Player
+1630208,1631121,N. Richards - B. McGowens,378,-2.75,-2.8,-5.55,-4.44,Two-Way Big,Bench / Role Player
+201976,1626171,P. Beverley - B. Portis,378,1.2,-4.2,-3.0,-2.4,Bench / Role Player,Bench / Role Player
+1629639,1631107,T. Herro - N. Jovic,378,0.7,4.25,4.95,3.96,Versatile Scorer,Perimeter Scorer
+1628973,1630193,J. Brunson - I. Quickley,377,3.7,4.0,7.7,6.16,Elite Playmaker,Perimeter Scorer
+1630165,1631093,K. Hayes - J. Ivey,377,0.95,-2.3,-1.35,-1.08,Versatile Scorer,Versatile Scorer
+203078,1626220,B. Beal - R. O'Neale,376,2.8,-0.7,2.1,1.68,Perimeter Scorer,Defensive Wing
+1628415,1628988,D. Brooks - A. Holiday,375,3.1,-0.15,2.95,2.36,Bench / Role Player,Defensive Wing
+1628978,1630579,D. DiVincenzo - J. Sims,375,1.95,1.75,3.7,2.96,Perimeter Scorer,Bench / Role Player
+1627884,1629655,D. Jones Jr. - D. Gafford,375,12.75,1.35,14.1,11.28,Bench / Role Player,Two-Way Big
+203482,1631117,K. Olynyk - W. Kessler,375,7.95,-2.15,5.8,4.64,Perimeter Scorer,Two-Way Big
+1630578,1641708,A. Sengun - A. Thompson,374,1.85,-6.15,-4.3,-3.44,Elite Playmaker,Versatile Scorer
+202711,1628404,B. Bogdanovic - J. Hart,374,2.85,-9.85,-7.0,-5.6,Bench / Role Player,Defensive Wing
+1628370,1631165,M. Monk - K. Ellis,374,1.65,0.3,1.95,1.56,Versatile Scorer,Perimeter Scorer
+201976,203954,P. Beverley - J. Embiid,373,9.75,-6.25,3.5,2.8,Bench / Role Player,Elite Playmaker
+1630217,1630533,D. Bane - Z. Williams,372,-1.1,-1.85,-2.95,-2.36,Elite Playmaker,Bench / Role Player
+1627826,1629599,I. Zubac - A. Coffey,372,-4.6,-3.05,-7.65,-6.12,Two-Way Big,Bench / Role Player
+1628365,1630175,M. Fultz - C. Anthony,372,6.4,-3.1,3.3,2.64,Versatile Scorer,Versatile Scorer
+1630537,1631099,C. Duarte - K. Murray,371,1.95,0.6,2.55,2.04,Bench / Role Player,Perimeter Scorer
+1630198,1630598,I. Joe - A. Wiggins,370,4.15,-7.5,-3.35,-2.68,Perimeter Scorer,Perimeter Scorer
+1627777,1641854,G. Niang - C. Porter Jr.,369,0.55,-3.95,-3.4,-2.72,Bench / Role Player,Versatile Scorer
+1628969,1630570,M. Bridges - T. Watford,369,-0.85,-3.8,-4.65,-3.72,Versatile Scorer,Bench / Role Player
+1629162,1629675,J. McLaughlin - N. Reid,368,1.6,-0.7,0.9,0.72,Defensive Wing,Bench / Role Player
+1631124,1631128,J. Strawther - C. Braun,368,-3.95,-6.6,-10.55,-8.44,Bench / Role Player,Bench / Role Player
+1629011,1629656,M. Robinson - Q. Grimes,368,2.85,-5.5,-2.65,-2.12,Perimeter Scorer,Defensive Wing
+1627741,1630188,B. Hield - J. Smith,367,-3.75,-1.9,-5.65,-4.52,Perimeter Scorer,Bench / Role Player
+1630217,1631246,D. Bane - V. Williams Jr.,367,1.1,2.6,3.7,2.96,Elite Playmaker,Perimeter Scorer
+1626153,1630557,D. Wright - C. Kispert,367,3.65,-2.8,0.85,0.68,Versatile Scorer,Bench / Role Player
+202330,1628970,G. Hayward - M. Bridges,367,2.05,-0.7,1.35,1.08,Bench / Role Player,Versatile Scorer
+201567,1629130,K. Love - D. Robinson,367,4.7,-2.5,2.2,1.76,Defensive Wing,Bench / Role Player
+1630534,1641711,O. Agbaji - G. Dick,367,-5.15,0.2,-4.95,-3.96,Bench / Role Player,Bench / Role Player
+201942,1631207,D. DeRozan - D. Terry,366,5.65,2.4,8.05,6.44,Elite Playmaker,Defensive Wing
+203482,1630193,K. Olynyk - I. Quickley,366,1.15,-8.35,-7.2,-5.76,Perimeter Scorer,Perimeter Scorer
+1631105,1631204,J. Duren - M. Sasser,364,-3.05,-9.55,-12.6,-10.08,Perimeter Scorer,Versatile Scorer
+1626224,1631104,C. Osman - B. Wesley,363,0.8,-0.4,0.4,0.32,Bench / Role Player,Bench / Role Player
+1629026,1631114,K. Williams - J. Williams,363,4.8,-6.25,-1.45,-1.16,Defensive Wing,Elite Playmaker
+201567,1628997,K. Love - C. Martin,362,6.75,2.45,9.2,7.36,Defensive Wing,Versatile Scorer
+1626192,1631260,P. Connaughton - A. Green,362,1.4,0.35,1.75,1.4,Bench / Role Player,Bench / Role Player
+203915,1629060,S. Dinwiddie - R. Hachimura,362,-5.65,6.15,0.5,0.4,Versatile Scorer,Perimeter Scorer
+1630163,1641706,L. Ball - B. Miller,361,0.55,3.25,3.8,3.04,Elite Playmaker,Versatile Scorer
+1628971,1629018,B. Brown - G. Trent Jr.,359,-3.8,-6.75,-10.55,-8.44,Versatile Scorer,Perimeter Scorer
+1630625,1630703,D. Banton - S. Henderson,359,-6.35,-8.5,-14.85,-11.88,Versatile Scorer,Versatile Scorer
+1627827,1630549,D. Finney-Smith - D. Sharpe,359,4.7,-2.4,2.3,1.84,Defensive Wing,Defensive Wing
+1628374,1629659,L. Markkanen - T. Horton-Tucker,359,3.4,1.15,4.55,3.64,Perimeter Scorer,Versatile Scorer
+1630175,1641710,C. Anthony - A. Black,358,-1.45,-3.7,-5.15,-4.12,Versatile Scorer,Bench / Role Player
+203926,1630200,D. McDermott - T. Jones,358,2.15,-2.15,-1.42e-14,0.0,Bench / Role Player,Defensive Wing
+1629018,1630534,G. Trent Jr. - O. Agbaji,358,2.2,-4.5,-2.3,-1.84,Perimeter Scorer,Bench / Role Player
+1629162,1629638,J. McLaughlin - N. Alexander-Walker,358,5.2,2.3,7.5,6.0,Defensive Wing,Perimeter Scorer
+202681,203939,K. Irving - D. Powell,358,-3.4,7.25,3.85,3.08,Elite Playmaker,Bench / Role Player
+202691,1630541,K. Thompson - M. Moody,358,2.95,-4.55,-1.6,-1.28,Bench / Role Player,Defensive Wing
+1629013,1641731,L. Shamet - B. Coulibaly,358,1.8,-2.65,-0.85,-0.68,Bench / Role Player,Bench / Role Player
+1629022,1629651,L. Walker IV - N. Claxton,358,-3.25,-4.85,-8.1,-6.48,Perimeter Scorer,Two-Way Big
+1627827,1628372,D. Finney-Smith - D. Smith Jr.,357,6.55,-5.15,1.4,1.12,Defensive Wing,Defensive Wing
+1626162,1630231,K. Oubre Jr. - K. Martin,357,1.55,0.2,1.75,1.4,Versatile Scorer,Bench / Role Player
+1629029,1630702,L. Doncic - J. Hardy,357,-1.85,1.95,0.1,0.08,Elite Playmaker,Bench / Role Player
+1628370,1628426,M. Monk - A. Vezenkov,356,3.45,3.45,6.9,5.52,Versatile Scorer,Bench / Role Player
+1629004,1630202,S. Mykhailiuk - P. Pritchard,356,1.8,0.35,2.15,1.72,Defensive Wing,Perimeter Scorer
+203992,1628981,B. Bogdanovic - B. Fernando,355,3.85,-1.6,2.25,1.8,Perimeter Scorer,Bench / Role Player
+202692,1631093,A. Burks - J. Ivey,354,2.3,-0.25,2.05,1.64,Bench / Role Player,Versatile Scorer
+203076,1629020,A. Davis - J. Vanderbilt,353,2.4,0.55,2.95,2.36,Two-Way Big,Defensive Wing
+1628978,1629628,D. DiVincenzo - R. Barrett,353,-5.15,1.45,-3.7,-2.96,Perimeter Scorer,Perimeter Scorer
+203095,1630164,E. Fournier - J. Wiseman,353,2.85,-2.9,-0.05,-0.04,Bench / Role Player,Bench / Role Player
+1629060,1629637,R. Hachimura - J. Hayes,353,7.35,0.45,7.8,6.24,Perimeter Scorer,Bench / Role Player
+1627936,1628975,A. Caruso - J. Carter,352,6.0,-0.85,5.15,4.12,Perimeter Scorer,Defensive Wing
+1630245,1631207,A. Dosunmu - D. Terry,352,3.0,-3.05,-0.05,-0.04,Bench / Role Player,Defensive Wing
+1630529,1630631,H. Jones - J. Alvarado,352,6.7,3.15,9.85,7.88,Perimeter Scorer,Defensive Wing
+203083,1628470,A. Drummond - T. Craig,351,1.65,-3.05,-1.4,-1.12,Perimeter Scorer,Bench / Role Player
+1627832,1641715,F. VanVleet - C. Whitmore,351,5.7,3.7,9.4,7.52,Elite Playmaker,Bench / Role Player
+1629026,1630598,K. Williams - A. Wiggins,351,-1.55,-3.4,-4.95,-3.96,Defensive Wing,Perimeter Scorer
+1629027,1629726,T. Young - G. Mathews,351,4.25,3.3,7.55,6.04,Elite Playmaker,Bench / Role Player
+1626204,1641722,L. Nance Jr. - J. Hawkins,350,2.35,-4.75,-2.4,-1.92,Bench / Role Player,Bench / Role Player
+1626179,1631170,T. Rozier - J. Jaquez Jr.,350,1.2,-4.15,-2.95,-2.36,Versatile Scorer,Versatile Scorer
+1628981,1629631,B. Fernando - D. Hunter,349,1.4,-2.8,-1.4,-1.12,Bench / Role Player,Perimeter Scorer
+1630560,1630570,C. Thomas - T. Watford,349,-4.05,2.25,-1.8,-1.44,Versatile Scorer,Bench / Role Player
+1626174,1627752,C. Wood - T. Prince,349,-2.6,-4.6,-7.2,-5.76,Defensive Wing,Bench / Role Player
+1630230,1630529,N. Marshall - H. Jones,349,10.1,0.0,10.1,8.08,Defensive Wing,Perimeter Scorer
+1628372,1630549,D. Smith Jr. - D. Sharpe,348,2.95,-1.35,1.6,1.28,Defensive Wing,Defensive Wing
+203944,1628384,J. Randle - O. Anunoby,348,8.4,6.85,15.25,12.2,Versatile Scorer,Perimeter Scorer
+203482,1628374,K. Olynyk - L. Markkanen,348,4.8,5.05,9.85,7.88,Perimeter Scorer,Perimeter Scorer
+203939,1627884,D. Powell - D. Jones Jr.,347,-2.95,0.35,-2.6,-2.08,Bench / Role Player,Bench / Role Player
+1629726,1630168,G. Mathews - O. Okongwu,347,1.2,-0.95,0.25,0.2,Bench / Role Player,Two-Way Big
+1630171,1630241,I. Okoro - S. Merrill,347,3.7,-5.65,-1.95,-1.56,Bench / Role Player,Bench / Role Player
+203482,1628971,K. Olynyk - B. Brown,347,-5.65,-5.55,-11.2,-8.96,Perimeter Scorer,Versatile Scorer
+1628380,1631104,Z. Collins - B. Wesley,347,3.55,1.9,5.45,4.36,Bench / Role Player,Bench / Role Player
+1630533,1631223,Z. Williams - D. Roddy,347,-2.0,-0.7,-2.7,-2.16,Bench / Role Player,Bench / Role Player
+1629130,1631107,D. Robinson - N. Jovic,345,-1.05,2.15,1.1,0.88,Bench / Role Player,Perimeter Scorer
+1628991,1631367,J. Jackson Jr. - J. Gilyard,344,-4.5,-0.8,-5.3,-4.24,Two-Way Big,Bench / Role Player
+202696,1628975,N. Vucevic - J. Carter,344,7.95,-9.55,-1.6,-1.28,Versatile Scorer,Defensive Wing
+1628384,1629018,O. Anunoby - G. Trent Jr.,344,2.4,-3.15,-0.75,-0.6,Perimeter Scorer,Perimeter Scorer
+1626174,1631108,C. Wood - M. Christie,343,2.1,-6.15,-4.05,-3.24,Defensive Wing,Bench / Role Player
+1641713,1641998,G. Jackson - T. Jemison,343,-1.7,3.3,1.6,1.28,Bench / Role Player,Bench / Role Player
+1628404,1630579,J. Hart - J. Sims,343,-1.25,-6.5,-7.75,-6.2,Defensive Wing,Bench / Role Player
+1627751,1629628,J. Poeltl - R. Barrett,343,1.85,3.0,4.85,3.88,Two-Way Big,Perimeter Scorer
+1628370,1630537,M. Monk - C. Duarte,343,-0.9,0.1,-0.8,-0.64,Versatile Scorer,Bench / Role Player
+1628392,1630173,I. Hartenstein - P. Achiuwa,342,-4.7,-2.45,-7.15,-5.72,Perimeter Scorer,Bench / Role Player
+204060,1630532,J. Ingles - F. Wagner,342,1.05,4.4,5.45,4.36,Perimeter Scorer,Versatile Scorer
+1628988,1629111,A. Holiday - J. Landale,341,4.15,0.8,4.95,3.96,Defensive Wing,Defensive Wing
+203995,1630544,V. Micić - T. Mann,341,-7.95,2.05,-5.9,-4.72,Versatile Scorer,Versatile Scorer
+203991,1630249,C. Capela - V. Krejci,340,2.85,5.35,8.2,6.56,Two-Way Big,Perimeter Scorer
+1630188,1641767,J. Smith - B. Sheppard,340,4.6,5.05,9.65,7.72,Bench / Role Player,Defensive Wing
+1629026,1631096,K. Williams - C. Holmgren,340,5.35,-8.9,-3.55,-2.84,Defensive Wing,Two-Way Big
+1630595,1631323,C. Cunningham - S. Fontecchio,339,8.15,-2.35,5.8,4.64,Elite Playmaker,Perimeter Scorer
+201569,1626220,E. Gordon - R. O'Neale,339,10.5,-3.8,6.7,5.36,Perimeter Scorer,Defensive Wing
+203994,1626220,J. Nurkic - R. O'Neale,339,8.05,2.15,10.2,8.16,Defensive Wing,Defensive Wing
+1630567,1641711,S. Barnes - G. Dick,339,-1.25,-0.65,-1.9,-1.52,Elite Playmaker,Bench / Role Player
+203952,1630541,A. Wiggins - M. Moody,338,-2.55,-3.5,-6.05,-4.84,Bench / Role Player,Defensive Wing
+1626204,1630631,L. Nance Jr. - J. Alvarado,338,5.5,-2.7,2.8,2.24,Bench / Role Player,Defensive Wing
+1626220,1630549,R. O'Neale - D. Sharpe,338,3.5,-0.8,2.7,2.16,Defensive Wing,Defensive Wing
+1626153,1641731,D. Wright - B. Coulibaly,337,3.85,-3.25,0.6,0.48,Versatile Scorer,Bench / Role Player
+1626179,1631107,T. Rozier - N. Jovic,337,2.45,0.6,3.05,2.44,Versatile Scorer,Perimeter Scorer
+1629631,1630168,D. Hunter - O. Okongwu,336,-6.35,-2.1,-8.45,-6.76,Perimeter Scorer,Two-Way Big
+1629026,1630581,K. Williams - J. Giddey,336,-2.0,-5.7,-7.7,-6.16,Defensive Wing,Versatile Scorer
+1626166,1630194,C. Payne - P. Reed,335,3.8,0.25,4.05,3.24,Bench / Role Player,Perimeter Scorer
+201567,1626196,K. Love - J. Richardson,335,-1.35,1.4,0.05,0.04,Defensive Wing,Bench / Role Player
+200768,201567,K. Lowry - K. Love,335,-1.9,5.65,3.75,3.0,Bench / Role Player,Defensive Wing
+1629628,1629656,R. Barrett - Q. Grimes,335,4.3,-0.65,3.65,2.92,Perimeter Scorer,Defensive Wing
+1630201,1630567,M. Flynn - S. Barnes,334,1.8,-0.9,0.9,0.72,Versatile Scorer,Elite Playmaker
+203914,204060,G. Harris - J. Ingles,333,-1.3,0.15,-1.15,-0.92,Perimeter Scorer,Perimeter Scorer
+203915,1627752,S. Dinwiddie - T. Prince,333,8.05,0.85,8.9,7.12,Versatile Scorer,Bench / Role Player
+203501,1629023,T. Hardaway Jr. - P. Washington,333,11.1,-2.25,8.85,7.08,Bench / Role Player,Versatile Scorer
+203110,1630541,D. Green - M. Moody,332,1.35,-5.55,-4.2,-3.36,Perimeter Scorer,Defensive Wing
+1626220,1629661,R. O'Neale - C. Johnson,332,2.65,0.25,2.9,2.32,Defensive Wing,Perimeter Scorer
+201566,1629611,R. Westbrook - T. Mann,332,1.2,-6.8,-5.6,-4.48,Versatile Scorer,Bench / Role Player
+1630241,1641854,S. Merrill - C. Porter Jr.,332,-1.75,0.45,-1.3,-1.04,Bench / Role Player,Versatile Scorer
+1629003,1629675,S. Milton - N. Reid,332,1.15,-3.25,-2.1,-1.68,Bench / Role Player,Bench / Role Player
+202711,1630165,B. Bogdanovic - K. Hayes,331,-1.35,-2.7,-4.05,-3.24,Bench / Role Player,Versatile Scorer
+1631124,1631212,J. Strawther - P. Watson,331,0.65,0.1,0.75,0.6,Bench / Role Player,Bench / Role Player
+1628398,1628963,K. Kuzma - M. Bagley III,331,1.75,-3.7,-1.95,-1.56,Versatile Scorer,Perimeter Scorer
+1630541,1631218,M. Moody - T. Jackson-Davis,331,-1.1,4.0,2.9,2.32,Defensive Wing,Two-Way Big
+202692,1631204,A. Burks - M. Sasser,330,-7.2,7.5,0.3,0.24,Bench / Role Player,Versatile Scorer
+1630175,1630591,C. Anthony - J. Suggs,330,-6.2,-5.2,-11.4,-9.12,Versatile Scorer,Perimeter Scorer
+1627759,1628436,J. Brown - L. Kornet,330,-0.65,-6.5,-7.15,-5.72,Versatile Scorer,Two-Way Big
+1629636,1629731,D. Garland - D. Wade,329,5.45,-6.2,-0.75,-0.6,Versatile Scorer,Defensive Wing
+1628470,1628975,T. Craig - J. Carter,329,5.9,-7.7,-1.8,-1.44,Bench / Role Player,Defensive Wing
+204060,1628365,J. Ingles - M. Fultz,328,1.75,0.95,2.7,2.16,Perimeter Scorer,Versatile Scorer
+201976,1630194,P. Beverley - P. Reed,328,-4.4,2.4,-2.0,-1.6,Bench / Role Player,Perimeter Scorer
+203897,1630172,Z. LaVine - P. Williams,328,1.2,1.9,3.1,2.48,Versatile Scorer,Perimeter Scorer
+1629631,1629726,D. Hunter - G. Mathews,327,-1.25,-5.55,-6.8,-5.44,Perimeter Scorer,Bench / Role Player
+1631103,1631104,M. Branham - B. Wesley,327,6.4,-4.95,1.45,1.16,Bench / Role Player,Bench / Role Player
+1626224,1631110,C. Osman - J. Sochan,326,2.1,-6.35,-4.25,-3.4,Bench / Role Player,Versatile Scorer
+1629052,1630573,O. Brissett - S. Hauser,326,3.75,-3.75,0.0,0.0,Bench / Role Player,Perimeter Scorer
+1629661,1630549,C. Johnson - D. Sharpe,325,5.45,2.35,7.8,6.24,Perimeter Scorer,Defensive Wing
+1630631,1630700,J. Alvarado - D. Daniels,325,3.95,3.95,7.9,6.32,Defensive Wing,Versatile Scorer
+1630570,1630592,T. Watford - J. Wilson,325,4.8,-3.0,1.8,1.44,Bench / Role Player,Defensive Wing
+1628971,1630567,B. Brown - S. Barnes,324,1.3,-6.7,-5.4,-4.32,Versatile Scorer,Elite Playmaker
+203903,1629659,J. Clarkson - T. Horton-Tucker,324,-5.9,-2.6,-8.5,-6.8,Versatile Scorer,Versatile Scorer
+202695,203486,K. Leonard - M. Plumlee,324,4.0,5.75,9.75,7.8,Elite Playmaker,Bench / Role Player
+1628963,1629673,M. Bagley III - J. Poole,324,7.3,-1.65,5.65,4.52,Perimeter Scorer,Versatile Scorer
+1629636,1630241,D. Garland - S. Merrill,323,0.55,-3.75,-3.2,-2.56,Versatile Scorer,Bench / Role Player
+202397,1630208,I. Smith - N. Richards,323,1.6,-8.1,-6.5,-5.2,Bench / Role Player,Two-Way Big
+201145,1641715,J. Green - C. Whitmore,323,-6.05,-4.75,-10.8,-8.64,Bench / Role Player,Bench / Role Player
+202397,1641706,I. Smith - B. Miller,322,-2.15,-0.1,-2.25,-1.8,Bench / Role Player,Versatile Scorer
+203937,1629162,K. Anderson - J. McLaughlin,322,6.3,1.4,7.7,6.16,Bench / Role Player,Defensive Wing
+1630590,1641713,S. Pippen Jr. - G. Jackson,322,-3.6,2.05,-1.55,-1.24,Elite Playmaker,Bench / Role Player
+202711,1630191,B. Bogdanovic - I. Stewart,321,-6.2,9.5,3.3,2.64,Bench / Role Player,Perimeter Scorer
+1630557,1631098,C. Kispert - J. Davis,321,-6.2,-3.8,-10.0,-8.0,Bench / Role Player,Bench / Role Player
+201935,203486,J. Harden - M. Plumlee,321,-0.55,11.65,11.1,8.88,Elite Playmaker,Bench / Role Player
+1629022,1630549,L. Walker IV - D. Sharpe,321,9.9,-6.75,3.15,2.52,Perimeter Scorer,Defensive Wing
+201587,1627741,N. Batum - B. Hield,321,7.3,-10.35,-3.05,-2.44,Perimeter Scorer,Perimeter Scorer
+1628973,1630579,J. Brunson - J. Sims,320,-4.55,2.9,-1.65,-1.32,Elite Playmaker,Bench / Role Player
+1629020,1630559,J. Vanderbilt - A. Reaves,320,0.8,-3.1,-2.3,-1.84,Defensive Wing,Versatile Scorer
+1630583,1631223,S. Aldama - D. Roddy,320,2.7,-0.85,1.85,1.48,Bench / Role Player,Bench / Role Player
+1630703,1631101,S. Henderson - S. Sharpe,320,1.0,-6.75,-5.75,-4.6,Versatile Scorer,Versatile Scorer
+1629632,1631207,C. White - D. Terry,319,-2.45,5.45,3.0,2.4,Versatile Scorer,Defensive Wing
+202685,1630631,J. Valanciunas - J. Alvarado,319,4.7,0.1,4.8,3.84,Bench / Role Player,Defensive Wing
+1627739,1641718,K. Dunn - K. George,319,12.45,-4.2,8.25,6.6,Perimeter Scorer,Bench / Role Player
+203995,1630208,V. Micic - N. Richards,319,-2.4,-1.5,-3.9,-3.12,Versatile Scorer,Two-Way Big
+203939,1630702,D. Powell - J. Hardy,318,6.85,-2.7,4.15,3.32,Bench / Role Player,Bench / Role Player
+1631223,1631246,D. Roddy - V. Williams Jr.,318,-2.9,4.75,1.85,1.48,Bench / Role Player,Perimeter Scorer
+1630170,1631104,D. Vassell - B. Wesley,318,-2.9,-3.45,-6.35,-5.08,Perimeter Scorer,Bench / Role Player
+1626162,1626166,K. Oubre Jr. - C. Payne,318,3.9,-5.55,-1.65,-1.32,Versatile Scorer,Bench / Role Player
+1630214,1630217,X. Tillman - D. Bane,318,3.5,-6.8,-3.3,-2.64,Bench / Role Player,Elite Playmaker
+101108,1627780,C. Paul - G. Payton II,317,3.85,-7.4,-3.55,-2.84,Versatile Scorer,Defensive Wing
+1626166,1626192,C. Payne - P. Connaughton,317,-5.75,4.75,-1.0,-0.8,Bench / Role Player,Bench / Role Player
+1628997,1631107,C. Martin - N. Jovic,316,-0.6,0.8,0.2,0.16,Versatile Scorer,Perimeter Scorer
+203926,1629640,D. McDermott - K. Johnson,316,-0.7,-0.55,-1.25,-1.0,Bench / Role Player,Bench / Role Player
+1629637,1631108,J. Hayes - M. Christie,316,-1.95,-5.3,-7.25,-5.8,Bench / Role Player,Bench / Role Player
+1630703,1641712,S. Henderson - R. Rupert,316,-0.7,0.8,0.1,0.08,Versatile Scorer,Bench / Role Player
+1627936,1628470,A. Caruso - T. Craig,315,0.9,1.45,2.35,1.88,Perimeter Scorer,Bench / Role Player
+203992,1630249,B. Bogdanovic - V. Krejci,315,3.85,-1.25,2.6,2.08,Perimeter Scorer,Perimeter Scorer
+1626166,1627741,C. Payne - B. Hield,315,10.35,-7.85,2.5,2.0,Bench / Role Player,Perimeter Scorer
+1629006,1629234,J. Okogie - D. Eubanks,315,3.1,-3.35,-0.25,-0.2,Defensive Wing,Bench / Role Player
+1631121,1641706,B. McGowens - B. Miller,314,-4.5,-3.8,-8.3,-6.64,Bench / Role Player,Versatile Scorer
+1627827,1629022,D. Finney-Smith - L. Walker IV,314,-4.0,1.55,-2.45,-1.96,Defensive Wing,Perimeter Scorer
+200768,201587,K. Lowry - N. Batum,314,0.95,-4.4,-3.45,-2.76,Bench / Role Player,Perimeter Scorer
+1628963,1630595,M. Bagley III - C. Cunningham,314,-2.35,2.6,0.25,0.2,Perimeter Scorer,Elite Playmaker
+203486,1629599,M. Plumlee - A. Coffey,314,-4.15,-3.3,-7.45,-5.96,Bench / Role Player,Bench / Role Player
+1630595,1631204,C. Cunningham - M. Sasser,313,-2.05,-2.65,-4.7,-3.76,Elite Playmaker,Versatile Scorer
+1630164,1641709,J. Wiseman - A. Thompson,313,-1.55,-0.75,-2.3,-1.84,Bench / Role Player,Defensive Wing
+203468,1641722,C. McCollum - J. Hawkins,312,1.45,6.15,7.6,6.08,Perimeter Scorer,Bench / Role Player
+203471,1629661,D. Schroder - C. Johnson,312,-0.65,-8.15,-8.8,-7.04,Versatile Scorer,Perimeter Scorer
+1628381,1641707,J. Collins - T. Hendricks,312,-0.65,-2.8,-3.45,-2.76,Bench / Role Player,Bench / Role Player
+203200,1629008,J. Holiday - M. Porter Jr.,312,-5.2,1.6,-3.6,-2.88,Bench / Role Player,Perimeter Scorer
+203482,1629659,K. Olynyk - T. Horton-Tucker,312,6.5,3.8,10.3,8.24,Perimeter Scorer,Versatile Scorer
+1628963,1630166,M. Bagley III - D. Avdija,312,5.45,-3.9,1.55,1.24,Perimeter Scorer,Perimeter Scorer
+202331,203486,P. George - M. Plumlee,312,0.8,10.7,11.5,9.2,Elite Playmaker,Bench / Role Player
+1629631,1630249,D. Hunter - V. Krejci,311,2.6,4.65,7.25,5.8,Perimeter Scorer,Perimeter Scorer
+203926,1626224,D. McDermott - C. Osman,311,-1.05,-5.8,-6.85,-5.48,Bench / Role Player,Bench / Role Player
+201145,1630578,J. Green - A. Sengun,311,-3.15,4.4,1.25,1.0,Bench / Role Player,Elite Playmaker
+1630209,1641718,O. Yurtseven - K. George,311,2.05,-5.3,-3.25,-2.6,Bench / Role Player,Bench / Role Player
+202699,1626166,T. Harris - C. Payne,311,3.8,-3.4,0.4,0.32,Perimeter Scorer,Bench / Role Player
+1628978,1630193,D. DiVincenzo - I. Quickley,310,3.1,-3.25,-0.15,-0.12,Perimeter Scorer,Perimeter Scorer
+1628970,1641733,M. Bridges - N. Smith Jr.,310,-2.2,-3.3,-5.5,-4.4,Versatile Scorer,Bench / Role Player
+1631093,1631323,J. Ivey - S. Fontecchio,309,5.8,-1.05,4.75,3.8,Versatile Scorer,Perimeter Scorer
+1630591,1631216,J. Suggs - C. Houstan,309,-4.6,1.4,-3.2,-2.56,Perimeter Scorer,Bench / Role Player
+1629060,1629629,R. Hachimura - C. Reddish,309,6.3,-6.6,-0.3,-0.24,Perimeter Scorer,Bench / Role Player
+1628398,1629013,K. Kuzma - L. Shamet,308,4.8,-2.3,2.5,2.0,Versatile Scorer,Bench / Role Player
+1629013,1630166,L. Shamet - D. Avdija,308,5.2,5.7,10.9,8.72,Bench / Role Player,Perimeter Scorer
+1626164,1628966,D. Booker - K. Bates-Diop,307,4.1,-0.3,3.8,3.04,Elite Playmaker,Bench / Role Player
+203926,1631110,D. McDermott - J. Sochan,307,-2.45,0.85,-1.6,-1.28,Bench / Role Player,Versatile Scorer
+203914,1628371,G. Harris - J. Isaac,307,3.6,-4.9,-1.3,-1.04,Perimeter Scorer,Defensive Wing
+1628381,1629659,J. Collins - T. Horton-Tucker,307,-3.1,-3.75,-6.85,-5.48,Bench / Role Player,Versatile Scorer
+1631105,1631323,J. Duren - S. Fontecchio,307,4.95,-5.15,-0.2,-0.16,Perimeter Scorer,Perimeter Scorer
+1628379,1641713,L. Kennard - G. Jackson,307,-2.4,-6.85,-9.25,-7.4,Bench / Role Player,Bench / Role Player
+1630598,1631119,A. Wiggins - J. Williams,306,1.65,1.55,3.2,2.56,Perimeter Scorer,Defensive Wing
+1629655,1630557,D. Gafford - C. Kispert,306,1.9,-1.0,0.9,0.72,Two-Way Big,Bench / Role Player
+202711,1630173,B. Bogdanovic - P. Achiuwa,305,3.4,-8.55,-5.15,-4.12,Bench / Role Player,Bench / Role Player
+201568,1630557,D. Gallinari - C. Kispert,305,-2.25,0.8,-1.45,-1.16,Bench / Role Player,Bench / Role Player
+203507,1630699,G. Antetokounmpo - M. Beauchamp,305,-0.95,3.95,3.0,2.4,Elite Playmaker,Bench / Role Player
+1626172,1630541,K. Looney - M. Moody,305,6.5,-5.95,0.55,0.44,Bench / Role Player,Defensive Wing
+1631246,1641713,V. Williams Jr. - G. Jackson,305,5.6,-3.35,2.25,1.8,Perimeter Scorer,Bench / Role Player
+101108,203110,C. Paul - D. Green,304,7.25,-8.55,-1.3,-1.04,Versatile Scorer,Perimeter Scorer
+203937,1629003,K. Anderson - S. Milton,304,1.95,-5.95,-4.0,-3.2,Bench / Role Player,Bench / Role Player
+203915,1630549,S. Dinwiddie - D. Sharpe,304,5.6,6.8,12.4,9.92,Versatile Scorer,Defensive Wing
+204456,1626167,T. McConnell - M. Turner,304,2.15,-8.3,-6.15,-4.92,Elite Playmaker,Two-Way Big
+1627884,1630702,D. Jones Jr. - J. Hardy,303,-4.8,-0.25,-5.05,-4.04,Bench / Role Player,Bench / Role Player
+201599,202704,D. Jordan - R. Jackson,303,-0.85,-1.0,-1.85,-1.48,Bench / Role Player,Bench / Role Player
+203471,1628449,D. Schroder - C. Boucher,303,7.2,8.4,15.6,12.48,Versatile Scorer,Defensive Wing
+1628960,1628966,G. Allen - K. Bates-Diop,303,-1.2,-1.15,-2.35,-1.88,Perimeter Scorer,Bench / Role Player
+1626196,1629312,J. Richardson - H. Highsmith,303,-0.85,-8.3,-9.15,-7.32,Bench / Role Player,Bench / Role Player
+1630550,1641706,J. Thor - B. Miller,303,4.2,-1.4,2.8,2.24,Defensive Wing,Versatile Scorer
+2544,1629020,L. James - J. Vanderbilt,303,5.8,-5.3,0.5,0.4,Elite Playmaker,Defensive Wing
+1629021,1631216,M. Wagner - C. Houstan,303,-0.7,1.05,0.35,0.28,Perimeter Scorer,Bench / Role Player
+201976,1626192,P. Beverley - P. Connaughton,303,1.05,-6.5,-5.45,-4.36,Bench / Role Player,Bench / Role Player
+1631223,1631367,D. Roddy - J. Gilyard,302,-5.95,-2.85,-8.8,-7.04,Bench / Role Player,Bench / Role Player
+1629011,1629628,M. Robinson - R. Barrett,302,5.35,1.25,6.6,5.28,Perimeter Scorer,Perimeter Scorer
+202704,1631124,R. Jackson - J. Strawther,302,-2.4,-1.7,-4.1,-3.28,Bench / Role Player,Bench / Role Player
+202711,1628978,B. Bogdanovic - D. DiVincenzo,301,-3.35,-9.0,-12.35,-9.88,Bench / Role Player,Perimeter Scorer
+1630194,1630231,P. Reed - K. Martin,301,5.25,3.3,8.55,6.84,Perimeter Scorer,Bench / Role Player
+1629012,1630534,C. Sexton - O. Agbaji,300,5.4,-0.55,4.85,3.88,Elite Playmaker,Bench / Role Player
+1628978,1629011,D. DiVincenzo - M. Robinson,300,-8.1,5.8,-2.3,-1.84,Perimeter Scorer,Perimeter Scorer
+202330,1630163,G. Hayward - L. Ball,300,-2.8,0.2,-2.6,-2.08,Bench / Role Player,Elite Playmaker
+1630182,1630702,J. Green - J. Hardy,300,1.75,-12.9,-11.15,-8.92,Bench / Role Player,Bench / Role Player
+1629651,1630570,N. Claxton - T. Watford,300,-1.15,-2.7,-3.85,-3.08,Two-Way Big,Bench / Role Player
+1626145,1628963,T. Jones - M. Bagley III,300,0.5,-0.95,-0.45,-0.36,Versatile Scorer,Perimeter Scorer
+1630625,1641712,D. Banton - R. Rupert,299,-7.35,-0.6,-7.95,-6.36,Versatile Scorer,Bench / Role Player
+1628995,1631093,K. Knox II - J. Ivey,299,1.75,6.05,7.8,6.24,Perimeter Scorer,Versatile Scorer
+1629012,1641729,C. Sexton - B. Sensabaugh,298,-7.65,-0.35,-8.0,-6.4,Elite Playmaker,Bench / Role Player
+1627832,1631106,F. VanVleet - T. Eason,298,6.25,-1.7,4.55,3.64,Elite Playmaker,Defensive Wing
+1629723,1641713,J. Konchar - G. Jackson,298,7.1,-0.4,6.7,5.36,Defensive Wing,Bench / Role Player
+200768,1628964,K. Lowry - M. Bamba,298,3.35,-2.95,0.4,0.32,Bench / Role Player,Bench / Role Player
+1628991,1631222,J. Jackson Jr. - J. LaRavia,297,-2.5,-1.9,-4.4,-3.52,Two-Way Big,Versatile Scorer
+1628381,1631117,J. Collins - W. Kessler,296,-6.05,-8.1,-14.15,-11.32,Bench / Role Player,Two-Way Big
+1629022,1630570,L. Walker IV - T. Watford,296,2.8,-0.95,1.85,1.48,Perimeter Scorer,Bench / Role Player
+1629023,1641733,P. Washington - N. Smith Jr.,296,-0.75,-5.7,-6.45,-5.16,Versatile Scorer,Bench / Role Player
+202692,1631105,A. Burks - J. Duren,295,2.75,4.55,7.3,5.84,Bench / Role Player,Perimeter Scorer
+1626196,1629639,J. Richardson - T. Herro,295,1.5,-0.9,0.6,0.48,Bench / Role Player,Versatile Scorer
+1628989,1630558,K. Huerter - D. Mitchell,295,-3.35,-8.5,-11.85,-9.48,Perimeter Scorer,Bench / Role Player
+200768,1628997,K. Lowry - C. Martin,295,-4.65,6.1,1.45,1.16,Bench / Role Player,Versatile Scorer
+1628963,1630557,M. Bagley III - C. Kispert,295,5.25,-1.0,4.25,3.4,Perimeter Scorer,Bench / Role Player
+1628970,1630163,M. Bridges - L. Ball,295,1.95,0.5,2.45,1.96,Versatile Scorer,Elite Playmaker
+1630540,1630579,M. McBride - J. Sims,295,6.95,-10.8,-3.85,-3.08,Bench / Role Player,Bench / Role Player
+202684,1630241,T. Thompson - S. Merrill,295,1.25,5.75,7.0,5.6,Bench / Role Player,Bench / Role Player
+1630198,1630581,I. Joe - J. Giddey,294,1.3,-0.6,0.7,0.56,Perimeter Scorer,Versatile Scorer
+1641718,1641729,K. George - B. Sensabaugh,294,-3.1,-3.85,-6.95,-5.56,Bench / Role Player,Bench / Role Player
+201599,1631128,D. Jordan - C. Braun,293,-3.4,-5.8,-9.2,-7.36,Bench / Role Player,Bench / Role Player
+1627749,1628981,D. Murray - B. Fernando,293,-4.2,-4.45,-8.65,-6.92,Elite Playmaker,Bench / Role Player
+1629723,1630217,J. Konchar - D. Bane,293,-3.6,3.25,-0.35,-0.28,Defensive Wing,Elite Playmaker
+1629673,1631098,J. Poole - J. Davis,293,-2.45,-8.15,-10.6,-8.48,Versatile Scorer,Bench / Role Player
+1628969,1630592,M. Bridges - J. Wilson,293,3.75,-8.5,-4.75,-3.8,Versatile Scorer,Defensive Wing
+202704,1627750,R. Jackson - J. Murray,293,3.9,-6.95,-3.05,-2.44,Bench / Role Player,Elite Playmaker
+1631101,1631133,S. Sharpe - J. Walker,293,1.55,1.95,3.5,2.8,Versatile Scorer,Bench / Role Player
+1630174,1630543,A. Nesmith - I. Jackson,292,1.25,-5.3,-4.05,-3.24,Perimeter Scorer,Two-Way Big
+202722,1630544,D. Bertans - T. Mann,292,1.55,-1.6,-0.05,-0.04,Bench / Role Player,Versatile Scorer
+203507,1641748,G. Antetokounmpo - A. Jackson Jr.,292,-5.2,2.35,-2.85,-2.28,Elite Playmaker,Bench / Role Player
+1626162,1629001,K. Oubre Jr. - D. Melton,292,-1.5,2.65,1.15,0.92,Versatile Scorer,Perimeter Scorer
+1626174,1629060,C. Wood - R. Hachimura,291,4.9,-2.8,2.1,1.68,Defensive Wing,Perimeter Scorer
+1630193,1630534,I. Quickley - O. Agbaji,291,2.6,-2.85,-0.25,-0.2,Perimeter Scorer,Bench / Role Player
+1628371,1631094,J. Isaac - P. Banchero,291,6.2,-6.25,-0.05,-0.04,Defensive Wing,Versatile Scorer
+1627739,1641707,K. Dunn - T. Hendricks,291,5.9,-1.0,4.9,3.92,Perimeter Scorer,Bench / Role Player
+1627783,1631097,P. Siakam - B. Mathurin,291,3.9,-1.7,2.2,1.76,Perimeter Scorer,Bench / Role Player
+203482,1631323,K. Olynyk - S. Fontecchio,290,1.9,1.05,2.95,2.36,Perimeter Scorer,Perimeter Scorer
+202691,1627780,K. Thompson - G. Payton II,290,-0.5,-0.15,-0.65,-0.52,Bench / Role Player,Defensive Wing
+1629234,1630692,D. Eubanks - J. Goodwin,289,1.0,-3.75,-2.75,-2.2,Bench / Role Player,Versatile Scorer
+203084,1630537,H. Barnes - C. Duarte,289,-3.5,-4.25,-7.75,-6.2,Bench / Role Player,Bench / Role Player
+1630224,1641715,J. Green - C. Whitmore,289,6.3,-0.7,5.6,4.48,Versatile Scorer,Bench / Role Player
+1626179,1629312,T. Rozier - H. Highsmith,289,5.0,-7.95,-2.95,-2.36,Versatile Scorer,Bench / Role Player
+1628368,1628426,D. Fox - A. Vezenkov,288,-1.65,2.55,0.9,0.72,Elite Playmaker,Bench / Role Player
+1626156,1629020,D. Russell - J. Vanderbilt,288,7.25,0.75,8.0,6.4,Elite Playmaker,Defensive Wing
+1629111,1641715,J. Landale - C. Whitmore,288,1.35,6.05,7.4,5.92,Defensive Wing,Bench / Role Player
+201567,1629312,K. Love - H. Highsmith,288,-0.5,-2.6,-3.1,-2.48,Defensive Wing,Bench / Role Player
+2544,203915,L. James - S. Dinwiddie,288,1.9,7.3,9.2,7.36,Elite Playmaker,Versatile Scorer
+201599,1631212,D. Jordan - P. Watson,287,-2.0,-3.2,-5.2,-4.16,Bench / Role Player,Bench / Role Player
+1630191,1631204,I. Stewart - M. Sasser,287,4.1,-4.55,-0.45,-0.36,Perimeter Scorer,Versatile Scorer
+1628420,1630162,M. Morris - A. Edwards,287,3.7,-2.65,1.05,0.84,Defensive Wing,Elite Playmaker
+201572,1626166,B. Lopez - C. Payne,286,3.35,-7.05,-3.7,-2.96,Two-Way Big,Bench / Role Player
+1626171,1641748,B. Portis - A. Jackson Jr.,284,-8.2,1.0,-7.2,-5.76,Bench / Role Player,Bench / Role Player
+1629726,1630552,G. Mathews - J. Johnson,284,5.2,-5.35,-0.15,-0.12,Bench / Role Player,Perimeter Scorer
+204456,1627783,T. McConnell - P. Siakam,284,-5.05,4.1,-0.95,-0.76,Elite Playmaker,Perimeter Scorer
+1630215,1630557,J. Butler - C. Kispert,283,-2.3,-6.65,-8.95,-7.16,Defensive Wing,Bench / Role Player
+1630581,1631119,J. Giddey - J. Williams,282,-4.5,-6.85,-11.35,-9.08,Versatile Scorer,Defensive Wing
+1630208,1641733,N. Richards - N. Smith Jr.,282,10.15,5.55,15.7,12.56,Two-Way Big,Bench / Role Player
+1629023,1631121,P. Washington - B. McGowens,281,-1.65,2.85,1.2,0.96,Versatile Scorer,Bench / Role Player
+202722,1641706,D. Bertans - B. Miller,280,3.45,-5.85,-2.4,-1.92,Bench / Role Player,Versatile Scorer
+1630557,1631116,C. Kispert - P. Baldwin Jr.,279,-4.0,1.85,-2.15,-1.72,Bench / Role Player,Defensive Wing
+1628415,1629111,D. Brooks - J. Landale,279,4.45,2.85,7.3,5.84,Bench / Role Player,Defensive Wing
+203081,1641748,D. Lillard - A. Jackson Jr.,279,-6.5,2.55,-3.95,-3.16,Elite Playmaker,Bench / Role Player
+1628368,1630558,D. Fox - D. Mitchell,278,6.3,2.55,8.85,7.08,Elite Playmaker,Bench / Role Player
+200768,1626196,K. Lowry - J. Richardson,278,-1.25,-2.35,-3.6,-2.88,Bench / Role Player,Bench / Role Player
+203114,1626166,K. Middleton - C. Payne,278,-1.1,-5.0,-6.1,-4.88,Elite Playmaker,Bench / Role Player
+201568,1641731,D. Gallinari - B. Coulibaly,277,2.15,2.45,4.6,3.68,Bench / Role Player,Bench / Role Player
+202681,1630702,K. Irving - J. Hardy,277,-4.25,-0.15,-4.4,-3.52,Elite Playmaker,Bench / Role Player
+201567,1629639,K. Love - T. Herro,277,2.55,-7.6,-5.05,-4.04,Defensive Wing,Versatile Scorer
+203081,1630699,D. Lillard - M. Beauchamp,276,-1.35,2.15,0.8,0.64,Elite Playmaker,Bench / Role Player
+1630577,1631104,J. Champagnie - B. Wesley,276,4.15,0.75,4.9,3.92,Perimeter Scorer,Bench / Role Player
+1628991,1630214,J. Jackson Jr. - X. Tillman,276,3.45,-6.6,-3.15,-2.52,Two-Way Big,Bench / Role Player
+1630214,1631246,X. Tillman - V. Williams Jr.,276,3.1,-0.6,2.5,2.0,Bench / Role Player,Perimeter Scorer
+203957,1629023,D. Exum - P. Washington,275,7.05,-1.25,5.8,4.64,Perimeter Scorer,Versatile Scorer
+202694,1626162,M. Morris Sr. - K. Oubre Jr.,275,2.7,-3.4,-0.7,-0.56,Bench / Role Player,Versatile Scorer
+1626179,1631121,T. Rozier - B. McGowens,275,-7.15,0.15,-7.0,-5.6,Versatile Scorer,Bench / Role Player
+1628988,1631106,A. Holiday - T. Eason,274,4.85,0.15,5.0,4.0,Defensive Wing,Defensive Wing
+1628971,1630193,B. Brown - I. Quickley,274,-4.2,-12.9,-17.1,-13.68,Versatile Scorer,Perimeter Scorer
+1630549,1630570,D. Sharpe - T. Watford,274,4.1,-1.6,2.5,2.0,Defensive Wing,Bench / Role Player
+1629018,1630201,G. Trent Jr. - M. Flynn,274,2.0,1.95,3.95,3.16,Perimeter Scorer,Versatile Scorer
+1629060,1631108,R. Hachimura - M. Christie,274,5.4,-4.65,0.75,0.6,Perimeter Scorer,Bench / Role Player
+1628449,1629018,C. Boucher - G. Trent Jr.,273,6.6,5.05,11.65,9.32,Defensive Wing,Perimeter Scorer
+202694,1630194,M. Morris Sr. - P. Reed,273,-2.8,4.2,1.4,1.12,Bench / Role Player,Perimeter Scorer
+203939,1629684,D. Powell - G. Williams,272,-0.6,-6.55,-7.15,-5.72,Bench / Role Player,Bench / Role Player
+1630532,1631216,F. Wagner - C. Houstan,272,-1.0,4.65,3.65,2.92,Versatile Scorer,Bench / Role Player
+1629726,1630180,G. Mathews - S. Bey,272,3.65,-3.2,0.45,0.36,Bench / Role Player,Perimeter Scorer
+202684,1627747,T. Thompson - C. LeVert,272,-2.0,0.0,-2.0,-1.6,Bench / Role Player,Versatile Scorer
+1628464,1629611,D. Theis - T. Mann,271,-0.8,-4.45,-5.25,-4.2,Bench / Role Player,Bench / Role Player
+1628404,1629628,J. Hart - R. Barrett,271,2.65,-5.9,-3.25,-2.6,Defensive Wing,Perimeter Scorer
+203482,1629628,K. Olynyk - R. Barrett,271,-1.4,-1.65,-3.05,-2.44,Perimeter Scorer,Perimeter Scorer
+1629018,1630173,G. Trent Jr. - P. Achiuwa,270,-0.55,-3.95,-4.5,-3.6,Perimeter Scorer,Bench / Role Player
+203497,1629162,R. Gobert - J. McLaughlin,270,5.35,-3.35,2.0,1.6,Two-Way Big,Defensive Wing
+1628386,1641854,J. Allen - C. Porter Jr.,269,-1.75,2.5,0.75,0.6,Two-Way Big,Versatile Scorer
+1629622,1630241,M. Strus - S. Merrill,269,3.4,1.25,4.65,3.72,Perimeter Scorer,Bench / Role Player
+1627884,1628467,D. Jones Jr. - M. Kleber,268,3.7,-4.65,-0.95,-0.76,Bench / Role Player,Defensive Wing
+1629640,1630577,K. Johnson - J. Champagnie,268,4.6,-3.0,1.6,1.28,Bench / Role Player,Perimeter Scorer
+1630173,1630201,P. Achiuwa - M. Flynn,268,-0.85,1.6,0.75,0.6,Bench / Role Player,Versatile Scorer
+1627741,1630543,B. Hield - I. Jackson,267,-5.1,-2.5,-7.6,-6.08,Perimeter Scorer,Two-Way Big
+201572,1641748,B. Lopez - A. Jackson Jr.,267,-8.15,2.5,-5.65,-4.52,Two-Way Big,Bench / Role Player
+1628378,1630241,D. Mitchell - S. Merrill,267,9.65,-3.75,5.9,4.72,Elite Playmaker,Bench / Role Player
+203114,1626192,K. Middleton - P. Connaughton,267,-10.65,-4.25,-14.9,-11.92,Elite Playmaker,Bench / Role Player
+1629628,1641711,R. Barrett - G. Dick,267,-1.6,-0.65,-2.25,-1.8,Perimeter Scorer,Bench / Role Player
+203501,1629655,T. Hardaway Jr. - D. Gafford,267,7.8,1.1,8.9,7.12,Bench / Role Player,Two-Way Big
+203507,1631260,G. Antetokounmpo - A. Green,266,-1.15,-2.5,-3.65,-2.92,Elite Playmaker,Bench / Role Player
+1630631,1641722,J. Alvarado - J. Hawkins,266,-1.25,-0.55,-1.8,-1.44,Defensive Wing,Bench / Role Player
+1630692,1641713,J. Goodwin - G. Jackson,266,3.15,-3.35,-0.2,-0.16,Versatile Scorer,Bench / Role Player
+1627783,1641767,P. Siakam - B. Sheppard,266,-2.25,4.6,2.35,1.88,Perimeter Scorer,Defensive Wing
+202692,1630164,A. Burks - J. Wiseman,265,-5.45,1.8,-3.65,-2.92,Bench / Role Player,Bench / Role Player
+1629048,1631216,G. Bitadze - C. Houstan,265,-1.65,-5.75,-7.4,-5.92,Two-Way Big,Bench / Role Player
+202397,1631121,I. Smith - B. McGowens,265,5.65,-3.6,2.05,1.64,Bench / Role Player,Bench / Role Player
+1629013,1629673,L. Shamet - J. Poole,265,-5.35,-4.15,-9.5,-7.6,Bench / Role Player,Versatile Scorer
+201976,203507,P. Beverley - G. Antetokounmpo,265,-4.2,-7.35,-11.55,-9.24,Bench / Role Player,Elite Playmaker
+1629628,1630193,R. Barrett - I. Quickley,265,9.05,-0.6,8.45,6.76,Perimeter Scorer,Perimeter Scorer
+1628976,1641710,W. Carter Jr. - A. Black,265,-8.25,-7.2,-15.45,-12.36,Bench / Role Player,Bench / Role Player
+203897,1628470,Z. LaVine - T. Craig,265,3.75,-7.45,-3.7,-2.96,Versatile Scorer,Bench / Role Player
+203200,203932,J. Holiday - A. Gordon,264,3.7,-3.0,0.7,0.56,Bench / Role Player,Perimeter Scorer
+1629111,1631095,J. Landale - J. Smith Jr.,264,2.65,-7.4,-4.75,-3.8,Defensive Wing,Bench / Role Player
+1630550,1641733,J. Thor - N. Smith Jr.,264,1.3,1.55,2.85,2.28,Defensive Wing,Bench / Role Player
+202083,203992,W. Matthews - B. Bogdanovic,262,2.25,-2.4,-0.15,-0.12,Bench / Role Player,Perimeter Scorer
+1630560,1630592,C. Thomas - J. Wilson,260,-1.65,4.95,3.3,2.64,Versatile Scorer,Defensive Wing
+203994,1628966,J. Nurkic - K. Bates-Diop,260,4.5,0.1,4.6,3.68,Defensive Wing,Bench / Role Player
+1630169,1630543,T. Haliburton - I. Jackson,260,3.85,2.95,6.8,5.44,Elite Playmaker,Two-Way Big
+1627863,1630178,D. House Jr. - T. Maxey,259,0.85,4.2,5.05,4.04,Defensive Wing,Elite Playmaker
+203200,1627750,J. Holiday - J. Murray,259,-4.15,-1.65,-5.8,-4.64,Bench / Role Player,Elite Playmaker
+1630550,1631121,J. Thor - B. McGowens,259,7.4,-1.1,6.3,5.04,Defensive Wing,Bench / Role Player
+1630164,1630595,J. Wiseman - C. Cunningham,259,-2.6,-2.35,-4.95,-3.96,Bench / Role Player,Elite Playmaker
+203486,1629611,M. Plumlee - T. Mann,259,-5.05,5.45,0.4,0.32,Bench / Role Player,Bench / Role Player
+203501,203552,T. Hardaway Jr. - S. Curry,259,8.05,-0.35,7.7,6.16,Bench / Role Player,Defensive Wing
+1626168,1628989,T. Lyles - K. Huerter,259,5.1,3.3,8.4,6.72,Defensive Wing,Perimeter Scorer
+202711,1641709,B. Bogdanovic - A. Thompson,258,-3.5,-8.1,-11.6,-9.28,Bench / Role Player,Defensive Wing
+1628970,1630197,M. Bridges - A. Pokusevski,258,2.95,2.65,5.6,4.48,Versatile Scorer,Defensive Wing
+1629674,1630202,N. Queta - P. Pritchard,258,-5.25,-0.25,-5.5,-4.4,Perimeter Scorer,Perimeter Scorer
+201566,203486,R. Westbrook - M. Plumlee,258,2.35,-1.25,1.1,0.88,Versatile Scorer,Bench / Role Player
+1626145,1629013,T. Jones - L. Shamet,258,1.65,1.85,3.5,2.8,Versatile Scorer,Bench / Role Player
+1628392,1629656,I. Hartenstein - Q. Grimes,257,-1.6,2.9,1.3,1.04,Perimeter Scorer,Defensive Wing
+1628379,1629723,L. Kennard - J. Konchar,257,-2.4,1.05,-1.35,-1.08,Bench / Role Player,Defensive Wing
+203496,1630178,R. Covington - T. Maxey,257,0.7,1.35,2.05,1.64,Defensive Wing,Elite Playmaker
+1629014,1630625,A. Simons - D. Banton,256,-6.4,5.8,-0.6,-0.48,Versatile Scorer,Versatile Scorer
+1630625,1641739,D. Banton - T. Camara,256,3.5,-0.2,3.3,2.64,Versatile Scorer,Defensive Wing
+1631104,1641705,B. Wesley - V. Wembanyama,255,-4.1,-10.25,-14.35,-11.48,Bench / Role Player,Two-Way Big
+1628971,1630534,B. Brown - O. Agbaji,254,-5.0,-8.45,-13.45,-10.76,Versatile Scorer,Bench / Role Player
+203471,1629628,D. Schroder - R. Barrett,254,-2.05,0.8,-1.25,-1.0,Versatile Scorer,Perimeter Scorer
+1631200,1631303,K. Murray - J. Minaya,254,4.35,-2.8,1.55,1.24,Defensive Wing,Defensive Wing
+1641707,1641729,T. Hendricks - B. Sensabaugh,254,-1.15,-6.85,-8.0,-6.4,Bench / Role Player,Bench / Role Player
+1630578,1641715,A. Sengun - C. Whitmore,253,1.6,-5.25,-3.65,-2.92,Elite Playmaker,Bench / Role Player
+203957,1629684,D. Exum - G. Williams,253,-2.15,2.25,0.1,0.08,Perimeter Scorer,Bench / Role Player
+1628975,1630172,J. Carter - P. Williams,253,-0.95,3.05,2.1,1.68,Defensive Wing,Perimeter Scorer
+204060,1641710,J. Ingles - A. Black,253,4.5,8.15,12.65,10.12,Perimeter Scorer,Bench / Role Player
+203926,1628380,D. McDermott - Z. Collins,252,-2.7,1.9,-0.8,-0.64,Bench / Role Player,Bench / Role Player
+1628963,1641709,M. Bagley III - A. Thompson,251,-4.8,-2.8,-7.6,-6.08,Perimeter Scorer,Defensive Wing
+1629021,1630591,M. Wagner - J. Suggs,251,-7.1,-7.55,-14.65,-11.72,Perimeter Scorer,Perimeter Scorer
+1630256,1641708,J. Tate - A. Thompson,250,10.35,-6.95,3.4,2.72,Defensive Wing,Versatile Scorer
+1629023,1630182,P. Washington - J. Green,250,-3.6,4.55,0.95,0.76,Versatile Scorer,Bench / Role Player
+201152,1630567,T. Young - S. Barnes,250,-3.05,5.15,2.1,1.68,Bench / Role Player,Elite Playmaker
+202687,1630583,B. Biyombo - S. Aldama,249,2.15,-2.7,-0.55,-0.44,Bench / Role Player,Bench / Role Player
+203488,1641731,M. Muscala - B. Coulibaly,249,-3.2,-6.7,-9.9,-7.92,Bench / Role Player,Bench / Role Player
+1629651,1630592,N. Claxton - J. Wilson,249,2.25,0.2,2.45,1.96,Two-Way Big,Defensive Wing
+202687,1631223,B. Biyombo - D. Roddy,248,4.35,2.55,6.9,5.52,Bench / Role Player,Bench / Role Player
+1630166,1631098,D. Avdija - J. Davis,248,1.6,-4.7,-3.1,-2.48,Perimeter Scorer,Bench / Role Player
+203084,1626168,H. Barnes - T. Lyles,248,1.45,-10.8,-9.35,-7.48,Bench / Role Player,Defensive Wing
+1631114,1631119,J. Williams - J. Williams,248,1.6,-3.6,-2.0,-1.6,Elite Playmaker,Defensive Wing
+1627783,1630188,P. Siakam - J. Smith,248,1.95,-0.75,1.2,0.96,Perimeter Scorer,Bench / Role Player
+1628995,1630595,K. Knox II - C. Cunningham,247,-0.6,-3.05,-3.65,-2.92,Perimeter Scorer,Elite Playmaker
+203095,1631204,E. Fournier - M. Sasser,246,6.8,-5.4,1.4,1.12,Bench / Role Player,Versatile Scorer
+201569,1628966,E. Gordon - K. Bates-Diop,246,-3.95,4.05,0.1,0.08,Perimeter Scorer,Bench / Role Player
+201145,1631106,J. Green - T. Eason,246,5.2,-1.55,3.65,2.92,Bench / Role Player,Defensive Wing
+201142,1630692,K. Durant - J. Goodwin,246,6.4,-3.75,2.65,2.12,Elite Playmaker,Versatile Scorer
+202692,202711,A. Burks - B. Bogdanovic,245,9.6,-10.65,-1.05,-0.84,Bench / Role Player,Bench / Role Player
+201143,1628436,A. Horford - L. Kornet,245,-8.4,2.35,-6.05,-4.84,Perimeter Scorer,Two-Way Big
+1641712,1641871,R. Rupert - D. Reath,245,-2.1,0.55,-1.55,-1.24,Bench / Role Player,Perimeter Scorer
+1629002,1631204,C. Metu - M. Sasser,244,5.55,-5.25,0.3,0.24,Defensive Wing,Versatile Scorer
+202722,1630208,D. Bertans - N. Richards,244,7.5,-5.85,1.65,1.32,Bench / Role Player,Two-Way Big
+203967,1631218,D. Saric - T. Jackson-Davis,244,3.35,-5.5,-2.15,-1.72,Bench / Role Player,Two-Way Big
+1630173,1630579,P. Achiuwa - J. Sims,244,6.3,4.5,10.8,8.64,Bench / Role Player,Bench / Role Player
+201572,201976,B. Lopez - P. Beverley,243,3.55,-0.3,3.25,2.6,Two-Way Big,Bench / Role Player
+1626166,1627736,C. Payne - M. Beasley,243,0.6,-1.55,-0.95,-0.76,Bench / Role Player,Perimeter Scorer
+201565,1628991,D. Rose - J. Jackson Jr.,243,6.8,-0.45,6.35,5.08,Defensive Wing,Two-Way Big
+1627780,1630228,G. Payton II - J. Kuminga,243,-1.25,-3.2,-4.45,-3.56,Defensive Wing,Perimeter Scorer
+204060,1630591,J. Ingles - J. Suggs,243,0.95,1.25,2.2,1.76,Perimeter Scorer,Perimeter Scorer
+201142,1628966,K. Durant - K. Bates-Diop,243,-4.8,0.8,-4.0,-3.2,Elite Playmaker,Bench / Role Player
+1629022,1629661,L. Walker IV - C. Johnson,243,2.45,-3.8,-1.35,-1.08,Perimeter Scorer,Perimeter Scorer
+1628972,1631204,T. Brown Jr. - M. Sasser,243,-5.35,-6.9,-12.25,-9.8,Bench / Role Player,Versatile Scorer
+203078,1629626,B. Beal - B. Bol,242,3.6,-2.35,1.25,1.0,Perimeter Scorer,Bench / Role Player
+1626181,1630538,N. Powell - B. Hyland,242,0.85,-5.75,-4.9,-3.92,Perimeter Scorer,Bench / Role Player
+202692,1628995,A. Burks - K. Knox II,241,-5.15,-5.2,-10.35,-8.28,Bench / Role Player,Perimeter Scorer
+1629622,1641854,M. Strus - C. Porter Jr.,241,4.35,2.8,7.15,5.72,Perimeter Scorer,Versatile Scorer
+1630205,1631222,L. Stevens - J. LaRavia,240,3.45,3.45,6.9,5.52,Defensive Wing,Versatile Scorer
+1628420,1629675,M. Morris - N. Reid,240,2.0,0.8,2.8,2.24,Defensive Wing,Bench / Role Player
+202692,202711,A. Burks - B. Bogdanovic,239,-3.1,-6.05,-9.15,-7.32,Bench / Role Player,Bench / Role Player
+203932,1631212,A. Gordon - P. Watson,239,5.9,-9.5,-3.6,-2.88,Perimeter Scorer,Bench / Role Player
+203078,1629006,B. Beal - J. Okogie,239,1.55,-5.8,-4.25,-3.4,Perimeter Scorer,Defensive Wing
+1628981,1630552,B. Fernando - J. Johnson,239,4.45,1.2,5.65,4.52,Bench / Role Player,Perimeter Scorer
+1628449,1630201,C. Boucher - M. Flynn,239,-0.6,-0.5,-1.1,-0.88,Defensive Wing,Versatile Scorer
+203468,1630631,C. McCollum - J. Alvarado,239,-1.4,4.1,2.7,2.16,Perimeter Scorer,Defensive Wing
+203926,1631103,D. McDermott - M. Branham,239,-7.25,0.55,-6.7,-5.36,Bench / Role Player,Bench / Role Player
+1626192,1630699,P. Connaughton - M. Beauchamp,239,-3.4,-2.7,-6.1,-4.88,Bench / Role Player,Bench / Role Player
+1628418,1631170,T. Bryant - J. Jaquez Jr.,239,-0.85,-4.85,-5.7,-4.56,Defensive Wing,Versatile Scorer
+1629026,1631119,K. Williams - J. Williams,238,3.5,-0.85,2.65,2.12,Defensive Wing,Defensive Wing
+1631104,1631110,B. Wesley - J. Sochan,237,-1.3,0.25,-1.05,-0.84,Bench / Role Player,Versatile Scorer
+1630170,1631230,D. Vassell - D. Barlow,237,-4.6,6.5,1.9,1.52,Perimeter Scorer,Perimeter Scorer
+1629684,1630208,G. Williams - N. Richards,237,8.4,-8.35,0.05,0.04,Bench / Role Player,Two-Way Big
+1630164,1630201,J. Wiseman - M. Flynn,237,-5.6,-2.5,-8.1,-6.48,Bench / Role Player,Versatile Scorer
+1629640,1631230,K. Johnson - D. Barlow,237,-5.25,0.4,-4.85,-3.88,Bench / Role Player,Perimeter Scorer
+201587,1626166,N. Batum - C. Payne,236,1.25,-9.4,-8.15,-6.52,Perimeter Scorer,Bench / Role Player
+1627936,1631207,A. Caruso - D. Terry,235,8.45,-0.2,8.25,6.6,Perimeter Scorer,Defensive Wing
+1641706,1641733,B. Miller - N. Smith Jr.,235,2.6,-6.45,-3.85,-3.08,Versatile Scorer,Bench / Role Player
+1630587,1631093,I. Livers - J. Ivey,235,-4.35,2.1,-2.25,-1.8,Bench / Role Player,Versatile Scorer
+1628995,1641709,K. Knox II - A. Thompson,235,8.15,-1.25,6.9,5.52,Perimeter Scorer,Defensive Wing
+203488,1630557,M. Muscala - C. Kispert,235,3.5,-10.75,-7.25,-5.8,Bench / Role Player,Bench / Role Player
+1629659,1630534,T. Horton-Tucker - O. Agbaji,235,9.25,0.6,9.85,7.88,Versatile Scorer,Bench / Role Player
+1628971,1629628,B. Brown - R. Barrett,234,-5.85,-14.2,-20.05,-16.04,Versatile Scorer,Perimeter Scorer
+1627780,1641764,G. Payton II - B. Podziemski,234,7.85,3.7,11.55,9.24,Defensive Wing,Perimeter Scorer
+1629680,1631200,M. Thybulle - K. Murray,234,3.8,1.8,5.6,4.48,Perimeter Scorer,Defensive Wing
+1629014,1631101,A. Simons - S. Sharpe,233,-3.05,1.85,-1.2,-0.96,Versatile Scorer,Versatile Scorer
+200782,202331,P. Tucker - P. George,233,1.6,1.5,3.1,2.48,Bench / Role Player,Elite Playmaker
+203957,1628467,D. Exum - M. Kleber,232,9.6,0.6,10.2,8.16,Perimeter Scorer,Defensive Wing
+203110,1627780,D. Green - G. Payton II,232,-1.3,-2.35,-3.65,-2.92,Perimeter Scorer,Defensive Wing
+1629001,1630194,D. Melton - P. Reed,232,-0.9,-2.35,-3.25,-2.6,Perimeter Scorer,Perimeter Scorer
+1630587,1630595,I. Livers - C. Cunningham,232,-6.5,0.6,-5.9,-4.72,Bench / Role Player,Elite Playmaker
+1630346,1641722,M. Ryan - J. Hawkins,232,3.4,-8.75,-5.35,-4.28,Bench / Role Player,Bench / Role Player
+201976,203081,P. Beverley - D. Lillard,232,7.2,-5.95,1.25,1.0,Bench / Role Player,Elite Playmaker
+1630570,1641730,T. Watford - N. Clowney,232,-1.15,-11.8,-12.95,-10.36,Bench / Role Player,Bench / Role Player
+1628971,1629614,B. Brown - A. Nembhard,231,5.4,-0.05,5.35,4.28,Versatile Scorer,Versatile Scorer
+1628379,1631223,L. Kennard - D. Roddy,231,1.0,-12.65,-11.65,-9.32,Bench / Role Player,Bench / Role Player
+1629139,1630692,Y. Watanabe - J. Goodwin,231,1.9,0.5,2.4,1.92,Bench / Role Player,Versatile Scorer
+202687,203935,B. Biyombo - M. Smart,230,0.75,5.75,6.5,5.2,Bench / Role Player,Elite Playmaker
+1628449,1641711,C. Boucher - G. Dick,230,4.25,-0.75,3.5,2.8,Defensive Wing,Bench / Role Player
+202330,1630208,G. Hayward - N. Richards,230,-2.0,-2.25,-4.25,-3.4,Bench / Role Player,Two-Way Big
+1627763,1641871,M. Brogdon - D. Reath,230,3.45,13.15,16.6,13.28,Elite Playmaker,Perimeter Scorer
+1628420,1629638,M. Morris - N. Alexander-Walker,230,3.2,3.2,6.4,5.12,Defensive Wing,Perimeter Scorer
+1626168,1628426,T. Lyles - A. Vezenkov,230,-1.0,2.4,1.4,1.12,Defensive Wing,Bench / Role Player
+202687,1631246,B. Biyombo - V. Williams Jr.,229,-6.45,-0.2,-6.65,-5.32,Bench / Role Player,Perimeter Scorer
+201569,1629002,E. Gordon - C. Metu,229,2.9,-1.75,1.15,0.92,Perimeter Scorer,Defensive Wing
+1626157,1629003,K. Towns - S. Milton,229,3.35,1.35,4.7,3.76,Perimeter Scorer,Bench / Role Player
+1626158,1630557,R. Holmes - C. Kispert,229,2.8,4.4,7.2,5.76,Bench / Role Player,Bench / Role Player
+202692,1630191,A. Burks - I. Stewart,228,12.0,1.55,13.55,10.84,Bench / Role Player,Perimeter Scorer
+202722,203995,D. Bertans - V. Micic,228,-7.3,-5.35,-12.65,-10.12,Bench / Role Player,Versatile Scorer
+1631222,1641998,J. LaRavia - T. Jemison,228,-3.85,6.35,2.5,2.0,Versatile Scorer,Bench / Role Player
+1628995,1631105,K. Knox II - J. Duren,228,-4.9,0.55,-4.35,-3.48,Perimeter Scorer,Perimeter Scorer
+1626220,1630570,R. O'Neale - T. Watford,228,6.1,7.3,13.4,10.72,Defensive Wing,Bench / Role Player
+1626168,1631165,T. Lyles - K. Ellis,228,-4.4,1.65,-2.75,-2.2,Defensive Wing,Perimeter Scorer
+1628415,1641715,D. Brooks - C. Whitmore,227,0.8,-8.9,-8.1,-6.48,Bench / Role Player,Bench / Role Player
+203915,1629022,S. Dinwiddie - L. Walker IV,227,-1.6,9.15,7.55,6.04,Versatile Scorer,Perimeter Scorer
+1628415,1630256,D. Brooks - J. Tate,226,13.5,-5.05,8.45,6.76,Bench / Role Player,Defensive Wing
+203110,1631218,D. Green - T. Jackson-Davis,226,12.65,-5.05,7.6,6.08,Perimeter Scorer,Two-Way Big
+1631241,1641711,J. Freeman-Liberty - G. Dick,226,-1.9,-4.45,-6.35,-5.08,Bench / Role Player,Bench / Role Player
+1629162,1630183,J. McLaughlin - J. McDaniels,226,6.15,-2.35,3.8,3.04,Defensive Wing,Bench / Role Player
+1630256,1631106,J. Tate - T. Eason,226,3.85,3.15,7.0,5.6,Defensive Wing,Defensive Wing
+201567,1628389,K. Love - B. Adebayo,226,6.85,-5.4,1.45,1.16,Defensive Wing,Versatile Scorer
+203497,1628972,R. Gobert - T. Brown Jr.,226,6.3,10.7,17.0,13.6,Two-Way Big,Bench / Role Player
+1628963,1630191,M. Bagley III - I. Stewart,225,1.9,4.3,6.2,4.96,Perimeter Scorer,Perimeter Scorer
+201976,1627863,P. Beverley - D. House Jr.,225,8.25,-4.4,3.85,3.08,Bench / Role Player,Defensive Wing
+1631246,1631367,V. Williams Jr. - J. Gilyard,225,4.85,-2.1,2.75,2.2,Perimeter Scorer,Bench / Role Player
+1629731,1630596,D. Wade - E. Mobley,224,7.2,-7.15,0.05,0.04,Defensive Wing,Two-Way Big
+1630163,1630208,L. Ball - N. Richards,223,-4.0,-4.75,-8.75,-7.0,Elite Playmaker,Two-Way Big
+202696,1631207,N. Vucevic - D. Terry,223,3.5,-3.4,0.1,0.08,Versatile Scorer,Defensive Wing
+1628970,1630550,M. Bridges - J. Thor,222,5.1,-5.35,-0.25,-0.2,Versatile Scorer,Defensive Wing
+1630583,1631222,S. Aldama - J. LaRavia,222,-3.05,-0.6,-3.65,-2.92,Bench / Role Player,Versatile Scorer
+203991,1629726,C. Capela - G. Mathews,221,-1.7,5.55,3.85,3.08,Two-Way Big,Bench / Role Player
+1630166,1631116,D. Avdija - P. Baldwin Jr.,221,3.4,-4.35,-0.95,-0.76,Perimeter Scorer,Defensive Wing
+1628467,1629023,M. Kleber - P. Washington,221,18.55,-2.55,16.0,12.8,Defensive Wing,Versatile Scorer
+201565,1631223,D. Rose - D. Roddy,220,1.95,-2.6,-0.65,-0.52,Defensive Wing,Bench / Role Player
+1630702,1641726,J. Hardy - D. Lively II,220,-3.35,-3.55,-6.9,-5.52,Bench / Role Player,Two-Way Big
+1629723,1630533,J. Konchar - Z. Williams,220,4.5,-7.4,-2.9,-2.32,Defensive Wing,Bench / Role Player
+204456,1630169,T. McConnell - T. Haliburton,220,7.0,5.8,12.8,10.24,Elite Playmaker,Elite Playmaker
+201569,1629626,E. Gordon - B. Bol,219,4.0,-4.75,-0.75,-0.6,Perimeter Scorer,Bench / Role Player
+1628972,1631093,T. Brown Jr. - J. Ivey,219,-3.45,-2.95,-6.4,-5.12,Bench / Role Player,Versatile Scorer
+1629614,1630543,A. Nembhard - I. Jackson,218,3.65,-3.5,0.15,0.12,Versatile Scorer,Two-Way Big
+202330,1630198,G. Hayward - I. Joe,218,-1.35,-2.5,-3.85,-3.08,Bench / Role Player,Perimeter Scorer
+1626157,1628972,K. Towns - T. Brown Jr.,218,2.45,-1.15,1.3,1.04,Perimeter Scorer,Bench / Role Player
+202694,202699,M. Morris Sr. - T. Harris,218,-6.8,1.65,-5.15,-4.12,Bench / Role Player,Perimeter Scorer
+1626220,1629234,R. O'Neale - D. Eubanks,218,3.75,0.35,4.1,3.28,Defensive Wing,Bench / Role Player
+1629002,1631093,C. Metu - J. Ivey,217,8.85,-10.1,-1.25,-1.0,Defensive Wing,Versatile Scorer
+1626166,1630699,C. Payne - M. Beauchamp,217,-0.55,-1.45,-2.0,-1.6,Bench / Role Player,Bench / Role Player
+203935,1630533,M. Smart - Z. Williams,217,2.9,-0.4,2.5,2.0,Elite Playmaker,Bench / Role Player
+1630166,1630215,D. Avdija - J. Butler,216,11.9,-7.45,4.45,3.56,Perimeter Scorer,Defensive Wing
+203110,1626172,D. Green - K. Looney,216,0.75,-5.9,-5.15,-4.12,Perimeter Scorer,Bench / Role Player
+1631367,1641713,J. Gilyard - G. Jackson,216,7.15,9.55,16.7,13.36,Bench / Role Player,Bench / Role Player
+204060,1628976,J. Ingles - W. Carter Jr.,216,1.65,-1.85,-0.2,-0.16,Perimeter Scorer,Bench / Role Player
+201587,201976,N. Batum - P. Beverley,216,-7.25,-0.65,-7.9,-6.32,Perimeter Scorer,Bench / Role Player
+1630533,1641713,Z. Williams - G. Jackson,216,6.1,-2.5,3.6,2.88,Bench / Role Player,Bench / Role Player
+1627863,1630194,D. House Jr. - P. Reed,215,0.95,-4.1,-3.15,-2.52,Defensive Wing,Perimeter Scorer
+1630202,1630214,P. Pritchard - X. Tillman,215,2.2,3.8,6.0,4.8,Perimeter Scorer,Bench / Role Player
+203914,1629048,G. Harris - G. Bitadze,214,1.9,5.35,7.25,5.8,Perimeter Scorer,Two-Way Big
+1630692,1631222,J. Goodwin - J. LaRavia,214,3.4,2.1,5.5,4.4,Versatile Scorer,Versatile Scorer
+1627739,1629659,K. Dunn - T. Horton-Tucker,214,-1.25,0.55,-0.7,-0.56,Perimeter Scorer,Versatile Scorer
+201144,1629162,M. Conley - J. McLaughlin,214,5.75,-1.6,4.15,3.32,Perimeter Scorer,Defensive Wing
+1629659,1641718,T. Horton-Tucker - K. George,214,-1.4,-10.65,-12.05,-9.64,Versatile Scorer,Bench / Role Player
+1631121,1641733,B. McGowens - N. Smith Jr.,213,6.9,-1.75,5.15,4.12,Bench / Role Player,Bench / Role Player
+1629048,1630175,G. Bitadze - C. Anthony,213,0.85,4.25,5.1,4.08,Two-Way Big,Versatile Scorer
+202710,1628418,J. Butler - T. Bryant,213,1.7,1.3,3.0,2.4,Elite Playmaker,Defensive Wing
+1629020,1631108,J. Vanderbilt - M. Christie,213,-0.85,0.7,-0.15,-0.12,Defensive Wing,Bench / Role Player
+1626192,1641748,P. Connaughton - A. Jackson Jr.,213,-6.85,1.1,-5.75,-4.6,Bench / Role Player,Bench / Role Player
+1630590,1641998,S. Pippen Jr. - T. Jemison,213,1.9,0.85,2.75,2.2,Elite Playmaker,Bench / Role Player
+1629659,1631323,T. Horton-Tucker - S. Fontecchio,213,2.1,0.45,2.55,2.04,Versatile Scorer,Perimeter Scorer
+203995,1631096,V. Micić - C. Holmgren,213,13.8,5.15,18.95,15.16,Versatile Scorer,Two-Way Big
+1629002,1630164,C. Metu - J. Wiseman,212,5.5,-8.55,-3.05,-2.44,Defensive Wing,Bench / Role Player
+1627780,1630541,G. Payton II - M. Moody,212,5.65,-1.0,4.65,3.72,Defensive Wing,Defensive Wing
+1630692,1641998,J. Goodwin - T. Jemison,212,-3.25,-2.65,-5.9,-4.72,Versatile Scorer,Bench / Role Player
+1629162,1630162,J. McLaughlin - A. Edwards,212,3.6,-0.35,3.25,2.6,Defensive Wing,Elite Playmaker
+203935,1630214,M. Smart - X. Tillman,212,2.6,-8.25,-5.65,-4.52,Elite Playmaker,Bench / Role Player
+1630543,1641767,I. Jackson - B. Sheppard,211,8.65,-5.75,2.9,2.32,Two-Way Big,Defensive Wing
+1628379,1630217,L. Kennard - D. Bane,211,5.2,0.3,5.5,4.4,Bench / Role Player,Elite Playmaker
+1628963,1641731,M. Bagley III - B. Coulibaly,211,-1.45,-4.95,-6.4,-5.12,Perimeter Scorer,Bench / Role Player
+201976,1629001,P. Beverley - D. Melton,211,3.9,-2.15,1.75,1.4,Bench / Role Player,Perimeter Scorer
+203995,1641717,V. Micić - C. Wallace,211,14.9,-1.1,13.8,11.04,Versatile Scorer,Bench / Role Player
+203471,1641711,D. Schroder - G. Dick,210,6.65,-8.15,-1.5,-1.2,Versatile Scorer,Bench / Role Player
+203995,1631114,V. Micić - J. Williams,210,9.55,5.8,15.35,12.28,Versatile Scorer,Elite Playmaker
+203897,1630245,Z. LaVine - A. Dosunmu,210,1.7,1.05,2.75,2.2,Versatile Scorer,Bench / Role Player
+1626153,1630166,D. Wright - D. Avdija,209,5.15,-2.4,2.75,2.2,Versatile Scorer,Perimeter Scorer
+202330,1628983,G. Hayward - S. Gilgeous-Alexander,209,-0.85,-2.2,-3.05,-2.44,Bench / Role Player,Elite Playmaker
+1630215,1631116,J. Butler - P. Baldwin Jr.,209,4.0,-2.1,1.9,1.52,Defensive Wing,Defensive Wing
+201142,1629642,K. Durant - N. Little,209,-1.5,-0.35,-1.85,-1.48,Elite Playmaker,Bench / Role Player
+1628365,1628371,M. Fultz - J. Isaac,209,9.95,6.7,16.65,13.32,Versatile Scorer,Defensive Wing
+1626179,1630550,T. Rozier - J. Thor,209,1.25,-14.05,-12.8,-10.24,Versatile Scorer,Defensive Wing
+1630578,1631106,A. Sengun - T. Eason,208,7.45,1.75,9.2,7.36,Elite Playmaker,Defensive Wing
+1626224,1630577,C. Osman - J. Champagnie,208,-11.35,-4.55,-15.9,-12.72,Bench / Role Player,Perimeter Scorer
+203471,1630592,D. Schröder - J. Wilson,208,5.7,-1.7,4.0,3.2,Versatile Scorer,Defensive Wing
+1628975,1631207,J. Carter - D. Terry,208,1.35,-4.55,-3.2,-2.56,Defensive Wing,Defensive Wing
+1628966,1629234,K. Bates-Diop - D. Eubanks,208,-3.6,-0.9,-4.5,-3.6,Bench / Role Player,Bench / Role Player
+1630205,1641713,L. Stevens - G. Jackson,208,0.9,3.3,4.2,3.36,Defensive Wing,Bench / Role Player
+202083,1627749,W. Matthews - D. Murray,208,-2.1,-5.15,-7.25,-5.8,Bench / Role Player,Elite Playmaker
+1628372,1630570,D. Smith Jr. - T. Watford,207,1.05,1.25,2.3,1.84,Defensive Wing,Bench / Role Player
+1629723,1631222,J. Konchar - J. LaRavia,207,8.75,0.75,9.5,7.6,Defensive Wing,Versatile Scorer
+1628963,1630165,M. Bagley III - K. Hayes,207,-1.85,5.6,3.75,3.0,Perimeter Scorer,Versatile Scorer
+1631216,1641710,C. Houstan - A. Black,206,2.45,-13.1,-10.65,-8.52,Bench / Role Player,Bench / Role Player
+203967,1627780,D. Šarić - G. Payton II,206,6.0,-3.3,2.7,2.16,Bench / Role Player,Defensive Wing
+1629723,1630214,J. Konchar - X. Tillman,206,7.6,-5.35,2.25,1.8,Defensive Wing,Bench / Role Player
+1627783,1630173,P. Siakam - P. Achiuwa,206,5.5,-1.3,4.2,3.36,Perimeter Scorer,Bench / Role Player
+203552,1629029,S. Curry - L. Doncic,206,2.05,3.4,5.45,4.36,Defensive Wing,Elite Playmaker
+1629012,1630209,C. Sexton - O. Yurtseven,205,-3.1,-5.6,-8.7,-6.96,Elite Playmaker,Bench / Role Player
+1626174,1629020,C. Wood - J. Vanderbilt,205,3.15,-3.75,-0.6,-0.48,Defensive Wing,Defensive Wing
+203957,1630182,D. Exum - J. Green,205,-2.15,9.0,6.85,5.48,Perimeter Scorer,Bench / Role Player
+201145,1629111,J. Green - J. Landale,205,5.5,4.6,10.1,8.08,Bench / Role Player,Defensive Wing
+1628991,1630590,J. Jackson Jr. - S. Pippen Jr.,205,-4.75,-1.2,-5.95,-4.76,Two-Way Big,Elite Playmaker
+203937,1628420,K. Anderson - M. Morris,205,8.1,2.6,10.7,8.56,Bench / Role Player,Defensive Wing
+202684,1641854,T. Thompson - C. Porter Jr.,205,4.7,10.6,15.3,12.24,Bench / Role Player,Versatile Scorer
+202711,1628995,B. Bogdanovic - K. Knox II,204,-4.15,-3.55,-7.7,-6.16,Bench / Role Player,Perimeter Scorer
+1628981,1630235,B. Fernando - T. Forrest,204,11.4,-2.2,9.2,7.36,Bench / Role Player,Bench / Role Player
+1628436,1629004,L. Kornet - S. Mykhailiuk,204,-1.65,8.25,6.6,5.28,Two-Way Big,Defensive Wing
+1628374,1641707,L. Markkanen - T. Hendricks,204,6.65,-8.9,-2.25,-1.8,Perimeter Scorer,Bench / Role Player
+202696,203083,N. Vucevic - A. Drummond,204,-6.3,6.6,0.3,0.24,Versatile Scorer,Perimeter Scorer
+1629023,1641726,P. Washington - D. Lively II,204,-2.6,1.42e-14,-2.6,-2.08,Versatile Scorer,Two-Way Big
+203497,1629003,R. Gobert - S. Milton,204,-0.8,-12.1,-12.9,-10.32,Two-Way Big,Bench / Role Player
+203471,1630193,D. Schroder - I. Quickley,203,-5.1,-4.5,-9.6,-7.68,Versatile Scorer,Perimeter Scorer
+203095,1630201,E. Fournier - M. Flynn,203,-6.95,-10.7,-17.65,-14.12,Bench / Role Player,Versatile Scorer
+1630171,1641854,I. Okoro - C. Porter Jr.,203,-8.05,-5.1,-13.15,-10.52,Bench / Role Player,Versatile Scorer
+1631323,1641709,S. Fontecchio - A. Thompson,203,7.9,-5.05,2.85,2.28,Perimeter Scorer,Defensive Wing
+202699,1627863,T. Harris - D. House Jr.,203,3.65,-2.45,1.2,0.96,Perimeter Scorer,Defensive Wing
+203078,1628966,B. Beal - K. Bates-Diop,202,3.65,-3.65,0.0,0.0,Perimeter Scorer,Bench / Role Player
+1628960,1629626,G. Allen - B. Bol,202,0.95,-1.15,-0.2,-0.16,Perimeter Scorer,Bench / Role Player
+201152,203471,T. Young - D. Schroder,202,-8.05,4.85,-3.2,-2.56,Bench / Role Player,Versatile Scorer
+1629599,1630527,A. Coffey - B. Boston Jr.,201,-8.9,-8.0,-16.9,-13.52,Bench / Role Player,Bench / Role Player
+1627741,1627783,B. Hield - P. Siakam,201,-4.3,9.85,5.55,4.44,Perimeter Scorer,Perimeter Scorer
+1631223,1641713,D. Roddy - G. Jackson,201,4.8,-2.9,1.9,1.52,Bench / Role Player,Bench / Role Player
+1631311,1641764,L. Quinones - B. Podziemski,201,6.0,-0.35,5.65,4.52,Bench / Role Player,Perimeter Scorer
+1628384,1630173,O. Anunoby - P. Achiuwa,201,19.65,4.2,23.85,19.08,Perimeter Scorer,Bench / Role Player
+203497,1628420,R. Gobert - M. Morris,201,1.05,-0.75,0.3,0.24,Two-Way Big,Defensive Wing
+1631101,1641871,S. Sharpe - D. Reath,201,2.7,6.9,9.6,7.68,Versatile Scorer,Perimeter Scorer
+1628972,1629638,T. Brown Jr. - N. Alexander-Walker,201,1.35,-0.45,0.9,0.72,Bench / Role Player,Perimeter Scorer
+1630169,1641767,T. Haliburton - B. Sheppard,201,-1.8,0.2,-1.6,-1.28,Elite Playmaker,Defensive Wing
+1630587,1631105,I. Livers - J. Duren,200,-7.8,5.9,-1.9,-1.52,Bench / Role Player,Perimeter Scorer
+203954,1627863,J. Embiid - D. House Jr.,200,-1.3,-4.55,-5.85,-4.68,Elite Playmaker,Defensive Wing
+1641716,1641767,J. Walker - B. Sheppard,200,3.5,-1.05,2.45,1.96,Bench / Role Player,Defensive Wing
+202331,1630538,P. George - B. Hyland,200,4.6,1.05,5.65,4.52,Elite Playmaker,Bench / Role Player
+1630649,1631204,S. Umude - M. Sasser,200,4.05,6.45,10.5,8.4,Bench / Role Player,Versatile Scorer
+1628972,1629675,T. Brown Jr. - N. Reid,200,-2.35,-0.45,-2.8,-2.24,Bench / Role Player,Bench / Role Player
+1630537,1630558,C. Duarte - D. Mitchell,199,-3.8,-16.15,-19.95,-15.96,Bench / Role Player,Bench / Role Player
+201569,1630692,E. Gordon - J. Goodwin,199,3.25,-7.3,-4.05,-3.24,Perimeter Scorer,Versatile Scorer
+202695,1630538,K. Leonard - B. Hyland,199,12.3,-0.3,12.0,9.6,Elite Playmaker,Bench / Role Player
+203915,1629637,S. Dinwiddie - J. Hayes,199,-0.7,5.6,4.9,3.92,Versatile Scorer,Bench / Role Player
+1628418,1629130,T. Bryant - D. Robinson,199,-3.55,-0.95,-4.5,-3.6,Defensive Wing,Bench / Role Player
+203081,1631260,D. Lillard - A. Green,198,7.55,4.3,11.85,9.48,Elite Playmaker,Bench / Role Player
+1628369,1629052,J. Tatum - O. Brissett,198,3.15,3.85,7.0,5.6,Elite Playmaker,Bench / Role Player
+1628963,1631093,M. Bagley III - J. Ivey,198,-1.7,-1.3,-3.0,-2.4,Perimeter Scorer,Versatile Scorer
+1630534,1631323,O. Agbaji - S. Fontecchio,198,-2.85,-8.05,-10.9,-8.72,Bench / Role Player,Perimeter Scorer
+202684,1629622,T. Thompson - M. Strus,198,-5.55,-3.3,-8.85,-7.08,Bench / Role Player,Perimeter Scorer
+1628971,1629670,B. Brown - J. Nwora,197,3.1,-7.95,-4.85,-3.88,Versatile Scorer,Bench / Role Player
+202709,1641764,C. Joseph - B. Podziemski,197,2.1,1.25,3.35,2.68,Bench / Role Player,Perimeter Scorer
+200768,1627741,K. Lowry - B. Hield,197,2.85,-13.65,-10.8,-8.64,Bench / Role Player,Perimeter Scorer
+203496,1629001,R. Covington - D. Melton,197,-2.0,-7.4,-9.4,-7.52,Defensive Wing,Perimeter Scorer
+1628418,1629312,T. Bryant - H. Highsmith,197,4.45,6.45,10.9,8.72,Defensive Wing,Bench / Role Player
+202699,203496,T. Harris - R. Covington,197,3.5,3.1,6.6,5.28,Perimeter Scorer,Defensive Wing
+202330,1631096,G. Hayward - C. Holmgren,196,-2.9,-3.1,-6.0,-4.8,Bench / Role Player,Two-Way Big
+1629723,1631367,J. Konchar - J. Gilyard,196,-9.05,-5.85,-14.9,-11.92,Defensive Wing,Bench / Role Player
+1630165,1630587,K. Hayes - I. Livers,196,-0.8,-4.4,-5.2,-4.16,Versatile Scorer,Bench / Role Player
+203482,1631241,K. Olynyk - J. Freeman-Liberty,195,-1.7,5.45,3.75,3.0,Perimeter Scorer,Bench / Role Player
+202083,1630168,W. Matthews - O. Okongwu,195,-1.45,1.7,0.25,0.2,Bench / Role Player,Two-Way Big
+1626164,1630692,D. Booker - J. Goodwin,194,-3.1,5.15,2.05,1.64,Elite Playmaker,Versatile Scorer
+203957,1630702,D. Exum - J. Hardy,194,-4.4,-2.8,-7.2,-5.76,Perimeter Scorer,Bench / Role Player
+1628372,1630592,D. Smith Jr. - J. Wilson,194,-1.85,5.75,3.9,3.12,Defensive Wing,Defensive Wing
+1631098,1631116,J. Davis - P. Baldwin Jr.,194,-5.7,2.65,-3.05,-2.44,Bench / Role Player,Defensive Wing
+200782,1626181,P. Tucker - N. Powell,194,-3.05,-8.7,-11.75,-9.4,Bench / Role Player,Perimeter Scorer
+1629656,1630173,Q. Grimes - P. Achiuwa,194,4.3,3.05,7.35,5.88,Defensive Wing,Bench / Role Player
+1631117,1641729,W. Kessler - B. Sensabaugh,194,-7.35,-0.45,-7.8,-6.24,Two-Way Big,Bench / Role Player
+202709,1630228,C. Joseph - J. Kuminga,193,1.0,3.55,4.55,3.64,Bench / Role Player,Perimeter Scorer
+1629731,1630241,D. Wade - S. Merrill,193,4.7,-8.05,-3.35,-2.68,Defensive Wing,Bench / Role Player
+1629726,1630249,G. Mathews - V. Krejci,193,-3.25,6.0,2.75,2.2,Bench / Role Player,Perimeter Scorer
+1630219,1631101,S. Mays - S. Sharpe,193,-2.3,-3.95,-6.25,-5.0,Bench / Role Player,Versatile Scorer
+1630560,1641730,C. Thomas - N. Clowney,192,-2.8,-0.25,-3.05,-2.44,Versatile Scorer,Bench / Role Player
+1629656,1630540,Q. Grimes - M. McBride,192,3.75,-12.15,-8.4,-6.72,Defensive Wing,Bench / Role Player
+1626179,1630163,T. Rozier - L. Ball,192,-4.6,6.4,1.8,1.44,Versatile Scorer,Elite Playmaker
+1626174,1629637,C. Wood - J. Hayes,191,2.75,-14.65,-11.9,-9.52,Defensive Wing,Bench / Role Player
+203939,203957,D. Powell - D. Exum,191,-0.95,-1.7,-2.65,-2.12,Bench / Role Player,Perimeter Scorer
+1628976,1631216,W. Carter Jr. - C. Houstan,191,3.2,6.6,9.8,7.84,Bench / Role Player,Bench / Role Player
+201572,1630699,B. Lopez - M. Beauchamp,190,6.0,-4.9,1.1,0.88,Two-Way Big,Bench / Role Player
+1626164,1629642,D. Booker - N. Little,190,2.4,-0.35,2.05,1.64,Elite Playmaker,Bench / Role Player
+1630549,1630592,D. Sharpe - J. Wilson,190,-1.3,1.7,0.4,0.32,Defensive Wing,Defensive Wing
+203994,1630692,J. Nurkic - J. Goodwin,190,3.6,-3.85,-0.25,-0.2,Defensive Wing,Versatile Scorer
+1629004,1629052,S. Mykhailiuk - O. Brissett,190,5.4,-6.45,-1.05,-0.84,Defensive Wing,Bench / Role Player
+1628971,1630188,B. Brown - J. Smith,189,3.2,5.55,8.75,7.0,Versatile Scorer,Bench / Role Player
+1626153,1629013,D. Wright - L. Shamet,189,2.95,-1.0,1.95,1.56,Versatile Scorer,Bench / Role Player
+1630224,1631106,J. Green - T. Eason,189,-2.55,-7.1,-9.65,-7.72,Versatile Scorer,Defensive Wing
+1630228,1631311,J. Kuminga - L. Quinones,189,-0.5,-4.15,-4.65,-3.72,Perimeter Scorer,Bench / Role Player
+1629673,1631116,J. Poole - P. Baldwin Jr.,189,-1.55,-5.8,-7.35,-5.88,Versatile Scorer,Defensive Wing
+203995,1630598,V. Micić - A. Wiggins,189,6.9,4.35,11.25,9.0,Versatile Scorer,Perimeter Scorer
+1631104,1631230,B. Wesley - D. Barlow,188,-1.7,-4.45,-6.15,-4.92,Bench / Role Player,Perimeter Scorer
+202330,1641717,G. Hayward - C. Wallace,188,3.4,-4.65,-1.25,-1.0,Bench / Role Player,Bench / Role Player
+1628371,1641710,J. Isaac - A. Black,188,3.7,-0.9,2.8,2.24,Defensive Wing,Bench / Role Player
+1630592,1641730,J. Wilson - N. Clowney,188,11.05,-1.9,9.15,7.32,Defensive Wing,Bench / Role Player
+1628379,1630214,L. Kennard - X. Tillman,188,4.3,0.7,5.0,4.0,Bench / Role Player,Bench / Role Player
+1630209,1641707,O. Yurtseven - T. Hendricks,188,-6.4,-0.4,-6.8,-5.44,Bench / Role Player,Bench / Role Player
+204456,1641716,T. McConnell - J. Walker,188,2.6,4.45,7.05,5.64,Elite Playmaker,Bench / Role Player
+1626179,1629639,T. Rozier - T. Herro,188,-3.55,3.55,0.0,0.0,Versatile Scorer,Versatile Scorer
+202711,1628973,B. Bogdanovic - J. Brunson,187,9.55,-5.75,3.8,3.04,Bench / Role Player,Elite Playmaker
+1629312,1631107,H. Highsmith - N. Jovic,187,0.85,-3.15,-2.3,-1.84,Bench / Role Player,Perimeter Scorer
+201144,1628972,M. Conley - T. Brown Jr.,187,0.9,10.25,11.15,8.92,Perimeter Scorer,Bench / Role Player
+1628384,1630540,O. Anunoby - M. McBride,187,16.2,-5.8,10.4,8.32,Perimeter Scorer,Bench / Role Player
+1626166,1630231,C. Payne - K. Martin,186,4.55,-2.05,2.5,2.0,Bench / Role Player,Bench / Role Player
+201568,1630166,D. Gallinari - D. Avdija,186,0.55,-5.2,-4.65,-3.72,Bench / Role Player,Perimeter Scorer
+1626153,1629312,D. Wright - H. Highsmith,186,-1.45,7.6,6.15,4.92,Versatile Scorer,Bench / Role Player
+1631110,1631230,J. Sochan - D. Barlow,186,2.9,3.9,6.8,5.44,Versatile Scorer,Perimeter Scorer
+1628467,1641726,M. Kleber - D. Lively II,186,-2.35,6.25,3.9,3.12,Defensive Wing,Two-Way Big
+202692,1630540,A. Burks - M. McBride,185,-0.85,-16.0,-16.85,-13.48,Bench / Role Player,Bench / Role Player
+1629028,1641712,D. Ayton - R. Rupert,185,-1.25,-4.95,-6.2,-4.96,Perimeter Scorer,Bench / Role Player
+1630191,1631323,I. Stewart - S. Fontecchio,185,11.7,-2.35,9.35,7.48,Perimeter Scorer,Perimeter Scorer
+203200,203484,J. Holiday - K. Caldwell-Pope,185,-3.15,19.1,15.95,12.76,Bench / Role Player,Perimeter Scorer
+1627739,1630534,K. Dunn - O. Agbaji,185,8.1,3.35,11.45,9.16,Perimeter Scorer,Bench / Role Player
+1626179,1628998,T. Rozier - C. Martin,185,1.5,-4.55,-3.05,-2.44,Versatile Scorer,Versatile Scorer
+203995,1630197,V. Micic - A. Pokusevski,185,1.4,4.9,6.3,5.04,Versatile Scorer,Defensive Wing
+202692,1630587,A. Burks - I. Livers,184,-4.75,-7.15,-11.9,-9.52,Bench / Role Player,Bench / Role Player
+202397,1630550,I. Smith - J. Thor,184,6.75,-3.0,3.75,3.0,Bench / Role Player,Defensive Wing
+1630215,1631098,J. Butler - J. Davis,184,-2.2,-0.05,-2.25,-1.8,Defensive Wing,Bench / Role Player
+1628963,1629013,M. Bagley III - L. Shamet,184,4.75,0.6,5.35,4.28,Perimeter Scorer,Bench / Role Player
+1628964,1630231,M. Bamba - K. Martin,184,1.3,-4.2,-2.9,-2.32,Bench / Role Player,Bench / Role Player
+1627783,1630193,P. Siakam - I. Quickley,184,-1.15,-3.5,-4.65,-3.72,Perimeter Scorer,Perimeter Scorer
+1630241,1630596,S. Merrill - E. Mobley,184,-4.8,-5.3,-10.1,-8.08,Bench / Role Player,Two-Way Big
+1630533,1631367,Z. Williams - J. Gilyard,184,-10.05,-7.75,-17.8,-14.24,Bench / Role Player,Bench / Role Player
+1628381,1641729,J. Collins - B. Sensabaugh,183,-1.9,1.35,-0.55,-0.44,Bench / Role Player,Bench / Role Player
+1628371,1630591,J. Isaac - J. Suggs,183,8.35,-2.8,5.55,4.44,Defensive Wing,Perimeter Scorer
+1629667,1641711,J. McDaniels - G. Dick,183,3.85,-7.5,-3.65,-2.92,Bench / Role Player,Bench / Role Player
+200782,201935,P. Tucker - J. Harden,183,-6.55,-0.95,-7.5,-6.0,Bench / Role Player,Elite Playmaker
+203552,1629684,S. Curry - G. Williams,183,-2.95,1.5,-1.45,-1.16,Defensive Wing,Bench / Role Player
+1630530,1641722,T. Murphy III - J. Hawkins,183,2.25,-1.7,0.55,0.44,Perimeter Scorer,Bench / Role Player
+202330,1629652,G. Hayward - L. Dort,182,-5.15,-2.25,-7.4,-5.92,Bench / Role Player,Perimeter Scorer
+1631172,1641717,O. Dieng - C. Wallace,182,1.0,-5.2,-4.2,-3.36,Bench / Role Player,Bench / Role Player
+1630209,1631323,O. Yurtseven - S. Fontecchio,182,-0.65,-3.0,-3.65,-2.92,Bench / Role Player,Perimeter Scorer
+201976,1627736,P. Beverley - M. Beasley,182,-3.0,-1.6,-4.6,-3.68,Bench / Role Player,Perimeter Scorer
+1629661,1630570,C. Johnson - T. Watford,181,-1.15,-5.05,-6.2,-4.96,Perimeter Scorer,Bench / Role Player
+1626153,1631170,D. Wright - J. Jaquez Jr.,181,5.75,-3.9,1.85,1.48,Versatile Scorer,Versatile Scorer
+1630165,1631204,K. Hayes - M. Sasser,181,1.55,-1.55,1.42e-14,0.0,Versatile Scorer,Versatile Scorer
+1629003,1629638,S. Milton - N. Alexander-Walker,181,-0.55,-8.35,-8.9,-7.12,Bench / Role Player,Perimeter Scorer
+1628449,1630173,C. Boucher - P. Achiuwa,180,-6.25,-0.8,-7.05,-5.64,Defensive Wing,Bench / Role Player
+201568,1629673,D. Gallinari - J. Poole,180,-2.9,-9.55,-12.45,-9.96,Bench / Role Player,Versatile Scorer
+1628989,1631165,K. Huerter - K. Ellis,180,0.9,4.25,5.15,4.12,Perimeter Scorer,Perimeter Scorer
+200768,1630194,K. Lowry - P. Reed,180,3.2,-5.55,-2.35,-1.88,Bench / Role Player,Perimeter Scorer
+203496,203954,R. Covington - J. Embiid,180,-2.85,-12.8,-15.65,-12.52,Defensive Wing,Elite Playmaker
+203552,1627884,S. Curry - D. Jones Jr.,180,7.3,-5.1,2.2,1.76,Defensive Wing,Bench / Role Player
+1629614,1641767,A. Nembhard - B. Sheppard,179,-0.7,-3.45,-4.15,-3.32,Versatile Scorer,Defensive Wing
+1628984,1630577,D. Graham - J. Champagnie,179,-3.25,6.4,3.15,2.52,Defensive Wing,Perimeter Scorer
+1628401,1629052,D. White - O. Brissett,179,8.15,-3.6,4.55,3.64,Perimeter Scorer,Bench / Role Player
+1629022,1630592,L. Walker IV - J. Wilson,179,7.1,-7.45,-0.35,-0.28,Perimeter Scorer,Defensive Wing
+202694,203954,M. Morris Sr. - J. Embiid,179,2.35,-3.75,-1.4,-1.12,Bench / Role Player,Elite Playmaker
+1629642,1630692,N. Little - J. Goodwin,179,8.8,-4.4,4.4,3.52,Bench / Role Player,Versatile Scorer
+1630214,1630583,X. Tillman - S. Aldama,179,4.1,1.2,5.3,4.24,Bench / Role Player,Bench / Role Player
+202692,1630173,A. Burks - P. Achiuwa,178,2.0,-8.9,-6.9,-5.52,Bench / Role Player,Bench / Role Player
+1629018,1631241,G. Trent Jr. - J. Freeman-Liberty,178,-3.25,4.35,1.1,0.88,Perimeter Scorer,Bench / Role Player
+1628436,1629052,L. Kornet - O. Brissett,178,-0.85,-8.6,-9.45,-7.56,Two-Way Big,Bench / Role Player
+1627741,1628964,B. Hield - M. Bamba,177,5.1,-0.7,4.4,3.52,Perimeter Scorer,Bench / Role Player
+203471,1628971,D. Schroder - B. Brown,177,7.3,-3.2,4.1,3.28,Versatile Scorer,Versatile Scorer
+1630534,1631241,O. Agbaji - J. Freeman-Liberty,177,5.15,0.15,5.3,4.24,Bench / Role Player,Bench / Role Player
+1627783,1630201,P. Siakam - M. Flynn,177,6.55,0.8,7.35,5.88,Perimeter Scorer,Versatile Scorer
+1626179,1641733,T. Rozier - N. Smith Jr.,177,-17.95,-6.0,-23.95,-19.16,Versatile Scorer,Bench / Role Player
+1627827,1630570,D. Finney-Smith - T. Watford,176,4.2,-10.5,-6.3,-5.04,Defensive Wing,Bench / Role Player
+1628960,1629642,G. Allen - N. Little,175,-7.4,-11.1,-18.5,-14.8,Perimeter Scorer,Bench / Role Player
+1630164,1630165,J. Wiseman - K. Hayes,175,1.2,-3.85,-2.65,-2.12,Bench / Role Player,Versatile Scorer
+1628418,1628997,T. Bryant - C. Martin,175,-3.7,1.7,-2.0,-1.6,Defensive Wing,Versatile Scorer
+1629659,1641707,T. Horton-Tucker - T. Hendricks,175,0.85,-0.05,0.8,0.64,Versatile Scorer,Bench / Role Player
+1629234,1629626,D. Eubanks - B. Bol,174,-0.55,-7.2,-7.75,-6.2,Bench / Role Player,Bench / Role Player
+1630163,1630550,L. Ball - J. Thor,174,4.65,7.85,12.5,10.0,Elite Playmaker,Defensive Wing
+1641733,1641877,N. Smith Jr. - N. Mensah,174,-1.2,-6.85,-8.05,-6.44,Bench / Role Player,Bench / Role Player
+1626166,1630178,C. Payne - T. Maxey,173,-3.4,-3.95,-7.35,-5.88,Bench / Role Player,Elite Playmaker
+1627759,1629052,J. Brown - O. Brissett,173,2.3,-6.6,-4.3,-3.44,Versatile Scorer,Bench / Role Player
+1628379,1630533,L. Kennard - Z. Williams,173,-6.4,-7.25,-13.65,-10.92,Bench / Role Player,Bench / Role Player
+1630219,1631133,S. Mays - J. Walker,173,-4.25,-3.7,-7.95,-6.36,Bench / Role Player,Bench / Role Player
+202711,1630587,B. Bogdanovic - I. Livers,172,-10.35,5.9,-4.45,-3.56,Bench / Role Player,Bench / Role Player
+1630217,1631367,D. Bane - J. Gilyard,172,-1.35,1.2,-0.15,-0.12,Elite Playmaker,Bench / Role Player
+201142,1629626,K. Durant - B. Bol,172,8.85,-8.9,-0.05,-0.04,Elite Playmaker,Bench / Role Player
+1628969,1641730,M. Bridges - N. Clowney,172,2.5,-5.1,-2.6,-2.08,Versatile Scorer,Bench / Role Player
+1630583,1630590,S. Aldama - S. Pippen Jr.,172,-7.8,3.8,-4.0,-3.2,Bench / Role Player,Elite Playmaker
+1628981,1630249,B. Fernando - V. Krejci,171,-3.9,-2.85,-6.75,-5.4,Bench / Role Player,Perimeter Scorer
+203967,1626172,D. Šarić - K. Looney,171,-5.85,-1.65,-7.5,-6.0,Bench / Role Player,Bench / Role Player
+203994,1629642,J. Nurkic - N. Little,171,-11.0,-1.35,-12.35,-9.88,Defensive Wing,Bench / Role Player
+203935,1631223,M. Smart - D. Roddy,171,3.9,4.7,8.6,6.88,Elite Playmaker,Bench / Role Player
+1629656,1630193,Q. Grimes - I. Quickley,171,3.85,-2.75,1.1,0.88,Defensive Wing,Perimeter Scorer
+202066,1641711,G. Temple - G. Dick,170,1.85,-0.5,1.35,1.08,Bench / Role Player,Bench / Role Player
+1629684,1630197,G. Williams - A. Pokusevski,170,-2.7,-8.85,-11.55,-9.24,Bench / Role Player,Defensive Wing
+203486,1630538,M. Plumlee - B. Hyland,170,-2.7,-7.95,-10.65,-8.52,Bench / Role Player,Bench / Role Player
+1629023,1630550,P. Washington - J. Thor,170,-1.85,6.45,4.6,3.68,Versatile Scorer,Defensive Wing
+1631097,1641767,B. Mathurin - B. Sheppard,169,6.35,3.4,9.75,7.8,Bench / Role Player,Defensive Wing
+1627734,1628426,D. Sabonis - A. Vezenkov,169,-4.6,-4.15,-8.75,-7.0,Elite Playmaker,Bench / Role Player
+1629731,1641854,D. Wade - C. Porter Jr.,169,3.65,7.7,11.35,9.08,Defensive Wing,Versatile Scorer
+203095,1629002,E. Fournier - C. Metu,169,5.85,-7.65,-1.8,-1.44,Bench / Role Player,Defensive Wing
+1629726,1630235,G. Mathews - T. Forrest,169,4.55,-6.05,-1.5,-1.2,Bench / Role Player,Bench / Role Player
+1627780,1631218,G. Payton II - T. Jackson-Davis,169,1.15,1.1,2.25,1.8,Defensive Wing,Two-Way Big
+1631303,1641712,J. Minaya - R. Rupert,169,10.6,-4.7,5.9,4.72,Defensive Wing,Bench / Role Player
+1626162,1627863,K. Oubre Jr. - D. House Jr.,169,-5.15,-4.4,-9.55,-7.64,Versatile Scorer,Defensive Wing
+201976,203496,P. Beverley - R. Covington,169,1.0,-11.65,-10.65,-8.52,Bench / Role Player,Defensive Wing
+203496,1630194,R. Covington - P. Reed,169,7.5,5.75,13.25,10.6,Defensive Wing,Perimeter Scorer
+1626158,1628398,R. Holmes - K. Kuzma,169,4.5,8.9,13.4,10.72,Bench / Role Player,Versatile Scorer
+1630583,1630692,S. Aldama - J. Goodwin,169,-6.65,-1.4,-8.05,-6.44,Bench / Role Player,Versatile Scorer
+1626174,1629629,C. Wood - C. Reddish,168,9.5,1.6,11.1,8.88,Defensive Wing,Bench / Role Player
+203957,1629655,D. Exum - D. Gafford,168,8.85,0.8,9.65,7.72,Perimeter Scorer,Two-Way Big
+1628464,1630527,D. Theis - B. Boston Jr.,168,5.1,-0.7,4.4,3.52,Bench / Role Player,Bench / Role Player
+1631095,1631106,J. Smith Jr. - T. Eason,168,7.05,-6.65,0.4,0.32,Bench / Role Player,Defensive Wing
+1630625,1631303,D. Banton - J. Minaya,167,6.35,-7.8,-1.45,-1.16,Versatile Scorer,Defensive Wing
+203994,1629626,J. Nurkic - B. Bol,167,9.45,-1.3,8.15,6.52,Defensive Wing,Bench / Role Player
+1630346,1630700,M. Ryan - D. Daniels,167,3.7,-5.15,-1.45,-1.16,Bench / Role Player,Versatile Scorer
+1627751,1641711,J. Poeltl - G. Dick,166,2.45,-9.05,-6.6,-5.28,Two-Way Big,Bench / Role Player
+1628995,1630165,K. Knox II - K. Hayes,166,1.3,2.35,3.65,2.92,Perimeter Scorer,Versatile Scorer
+1629028,1630219,D. Ayton - S. Mays,165,-1.15,2.65,1.5,1.2,Perimeter Scorer,Bench / Role Player
+1628960,1629002,G. Allen - C. Metu,165,-5.75,2.25,-3.5,-2.8,Perimeter Scorer,Defensive Wing
+1629670,1631241,J. Nwora - J. Freeman-Liberty,165,-1.65,-9.75,-11.4,-9.12,Bench / Role Player,Bench / Role Player
+1626172,1627780,K. Looney - G. Payton II,165,7.45,2.25,9.7,7.76,Bench / Role Player,Defensive Wing
+1628379,1631367,L. Kennard - J. Gilyard,165,1.65,1.9,3.55,2.84,Bench / Role Player,Bench / Role Player
+1630194,1630531,P. Reed - J. Springer,165,-1.55,-11.65,-13.2,-10.56,Perimeter Scorer,Bench / Role Player
+1629628,1630534,R. Barrett - O. Agbaji,165,0.75,4.35,5.1,4.08,Perimeter Scorer,Bench / Role Player
+1630178,1630531,T. Maxey - J. Springer,165,-13.85,-9.45,-23.3,-18.64,Elite Playmaker,Bench / Role Player
+202083,1629027,W. Matthews - T. Young,165,-1.4,6.95,5.55,4.44,Bench / Role Player,Elite Playmaker
+1626164,1629626,D. Booker - B. Bol,164,1.55,-2.5,-0.95,-0.76,Elite Playmaker,Bench / Role Player
+1630590,1631222,S. Pippen Jr. - J. LaRavia,164,-0.65,2.4,1.75,1.4,Elite Playmaker,Versatile Scorer
+1630200,1631230,T. Jones - D. Barlow,164,-5.8,6.9,1.1,0.88,Defensive Wing,Perimeter Scorer
+203078,1629002,B. Beal - C. Metu,163,-4.2,-9.35,-13.55,-10.84,Perimeter Scorer,Defensive Wing
+1630558,1631165,D. Mitchell - K. Ellis,163,12.65,-6.35,6.3,5.04,Bench / Role Player,Perimeter Scorer
+201569,1629139,E. Gordon - Y. Watanabe,163,-0.55,-1.9,-2.45,-1.96,Perimeter Scorer,Bench / Role Player
+202694,1627863,M. Morris Sr. - D. House Jr.,163,6.45,-2.3,4.15,3.32,Bench / Role Player,Defensive Wing
+1641733,1641778,N. Smith Jr. - L. Black,163,7.05,-5.55,1.5,1.2,Bench / Role Player,Defensive Wing
+1627783,1629628,P. Siakam - R. Barrett,163,1.2,-1.4,-0.2,-0.16,Perimeter Scorer,Perimeter Scorer
+1631303,1641871,J. Minaya - D. Reath,162,8.1,-5.35,2.75,2.2,Defensive Wing,Perimeter Scorer
+201565,1630217,D. Rose - D. Bane,161,4.25,-2.85,1.4,1.12,Defensive Wing,Elite Playmaker
+203109,203114,J. Crowder - K. Middleton,161,-6.45,-18.25,-24.7,-19.76,Bench / Role Player,Elite Playmaker
+1629673,1630215,J. Poole - J. Butler,161,9.35,-9.7,-0.35,-0.28,Versatile Scorer,Defensive Wing
+203937,1628972,K. Anderson - T. Brown Jr.,161,-2.65,-7.95,-10.6,-8.48,Bench / Role Player,Bench / Role Player
+1629680,1630625,M. Thybulle - D. Banton,161,4.5,-5.5,-1.0,-0.8,Perimeter Scorer,Versatile Scorer
+1628449,1629667,C. Boucher - J. McDaniels,160,-4.7,-1.95,-6.65,-5.32,Defensive Wing,Bench / Role Player
+1631103,1631230,M. Branham - D. Barlow,160,-1.8,-2.0,-3.8,-3.04,Bench / Role Player,Perimeter Scorer
+1626167,1641767,M. Turner - B. Sheppard,160,-2.55,-6.7,-9.25,-7.4,Two-Way Big,Defensive Wing
+201152,1629628,T. Young - R. Barrett,160,-3.1,8.25,5.15,4.12,Bench / Role Player,Perimeter Scorer
+1628998,1630544,C. Martin - T. Mann,159,3.45,-0.65,2.8,2.24,Versatile Scorer,Versatile Scorer
+202330,202397,G. Hayward - I. Smith,159,1.0,-8.35,-7.35,-5.88,Bench / Role Player,Bench / Role Player
+1628966,1630692,K. Bates-Diop - J. Goodwin,159,3.6,-5.65,-2.05,-1.64,Bench / Role Player,Versatile Scorer
+203488,1630166,M. Muscala - D. Avdija,159,-2.1,-1.35,-3.45,-2.76,Bench / Role Player,Perimeter Scorer
+1629011,1630193,M. Robinson - I. Quickley,159,3.6,5.95,9.55,7.64,Perimeter Scorer,Perimeter Scorer
+200782,201566,P. Tucker - R. Westbrook,159,-5.95,-4.85,-10.8,-8.64,Bench / Role Player,Versatile Scorer
+1629659,1630209,T. Horton-Tucker - O. Yurtseven,159,-1.75,-0.65,-2.4,-1.92,Versatile Scorer,Bench / Role Player
+1628420,1630183,M. Morris - J. McDaniels,158,-3.15,-9.15,-12.3,-9.84,Defensive Wing,Bench / Role Player
+202684,1628378,T. Thompson - D. Mitchell,158,3.9,4.5,8.4,6.72,Bench / Role Player,Elite Playmaker
+203952,1627780,A. Wiggins - G. Payton II,157,7.3,-9.2,-1.9,-1.52,Bench / Role Player,Defensive Wing
+203471,1630549,D. Schroder - D. Sharpe,157,0.8,-4.6,-3.8,-3.04,Versatile Scorer,Defensive Wing
+203471,1629022,D. Schröder - L. Walker IV,157,2.6,-10.45,-7.85,-6.28,Versatile Scorer,Perimeter Scorer
+1627739,1630209,K. Dunn - O. Yurtseven,157,7.6,-3.1,4.5,3.6,Perimeter Scorer,Bench / Role Player
+203915,1628372,S. Dinwiddie - D. Smith Jr.,157,4.25,-2.05,2.2,1.76,Versatile Scorer,Defensive Wing
+1629003,1630162,S. Milton - A. Edwards,157,6.65,0.4,7.05,5.64,Bench / Role Player,Elite Playmaker
+1630174,1641767,A. Nesmith - B. Sheppard,156,1.5,-9.85,-8.35,-6.68,Perimeter Scorer,Defensive Wing
+202711,1628392,B. Bogdanovic - I. Hartenstein,156,2.3,-3.5,-1.2,-0.96,Bench / Role Player,Perimeter Scorer
+203095,1631093,E. Fournier - J. Ivey,156,6.5,0.05,6.55,5.24,Bench / Role Player,Versatile Scorer
+1630256,1641715,J. Tate - C. Whitmore,156,12.7,0.45,13.15,10.52,Defensive Wing,Bench / Role Player
+1627739,1641729,K. Dunn - B. Sensabaugh,156,-8.75,-8.35,-17.1,-13.68,Perimeter Scorer,Bench / Role Player
+203114,1641748,K. Middleton - A. Jackson Jr.,156,-7.1,4.95,-2.15,-1.72,Elite Playmaker,Bench / Role Player
+1628384,1629656,O. Anunoby - Q. Grimes,156,15.35,0.55,15.9,12.72,Perimeter Scorer,Defensive Wing
+1627783,1630167,P. Siakam - O. Toppin,156,1.55,-1.6,-0.05,-0.04,Perimeter Scorer,Perimeter Scorer
+1628470,1630172,T. Craig - P. Williams,156,5.35,-6.65,-1.3,-1.04,Bench / Role Player,Perimeter Scorer
+1630245,1641931,A. Dosunmu - O. Bitim,155,-2.1,1.9,-0.2,-0.16,Bench / Role Player,Bench / Role Player
+1628998,1641733,C. Martin - N. Smith Jr.,155,1.55,0.65,2.2,1.76,Versatile Scorer,Bench / Role Player
+1629002,1630201,C. Metu - M. Flynn,155,3.7,-3.25,0.45,0.36,Defensive Wing,Versatile Scorer
+202066,1629670,G. Temple - J. Nwora,155,7.3,-4.1,3.2,2.56,Bench / Role Player,Bench / Role Player
+203552,1641726,S. Curry - D. Lively II,155,0.55,4.2,4.75,3.8,Defensive Wing,Two-Way Big
+1628972,1629002,T. Brown Jr. - C. Metu,155,5.1,-3.15,1.95,1.56,Bench / Role Player,Defensive Wing
+201152,1629018,T. Young - G. Trent Jr.,155,-11.25,4.2,-7.05,-5.64,Bench / Role Player,Perimeter Scorer
+201152,1630193,T. Young - I. Quickley,155,-12.75,4.45,-8.3,-6.64,Bench / Role Player,Perimeter Scorer
+202687,1630533,B. Biyombo - Z. Williams,154,-1.25,0.15,-1.1,-0.88,Bench / Role Player,Bench / Role Player
+203926,204456,D. McDermott - T. McConnell,154,-3.85,7.4,3.55,2.84,Bench / Role Player,Elite Playmaker
+1626153,1628997,D. Wright - C. Martin,154,3.5,0.65,4.15,3.32,Versatile Scorer,Versatile Scorer
+1630587,1641709,I. Livers - A. Thompson,154,8.75,-5.1,3.65,2.92,Bench / Role Player,Defensive Wing
+1627826,1630538,I. Zubac - B. Hyland,154,0.95,-5.7,-4.75,-3.8,Two-Way Big,Bench / Role Player
+203200,1631124,J. Holiday - J. Strawther,154,6.85,-8.9,-2.05,-1.64,Bench / Role Player,Bench / Role Player
+1629111,1630256,J. Landale - J. Tate,154,9.55,-3.9,5.65,4.52,Defensive Wing,Defensive Wing
+203482,1627739,K. Olynyk - K. Dunn,154,-4.25,-10.15,-14.4,-11.52,Perimeter Scorer,Perimeter Scorer
+201587,202694,N. Batum - M. Morris Sr.,154,-6.05,-3.35,-9.4,-7.52,Perimeter Scorer,Bench / Role Player
+201988,1630168,P. Mills - O. Okongwu,154,-4.35,-8.45,-12.8,-10.24,Bench / Role Player,Two-Way Big
+203471,1630173,D. Schroder - P. Achiuwa,153,-0.95,-5.9,-6.85,-5.48,Versatile Scorer,Bench / Role Player
+1630699,1641748,M. Beauchamp - A. Jackson Jr.,153,9.85,-12.0,-2.15,-1.72,Bench / Role Player,Bench / Role Player
+201976,1628964,P. Beverley - M. Bamba,153,-0.55,-3.4,-3.95,-3.16,Bench / Role Player,Bench / Role Player
+1626224,1631230,C. Osman - D. Barlow,152,-2.5,1.65,-0.85,-0.68,Bench / Role Player,Perimeter Scorer
+202330,1630598,G. Hayward - A. Wiggins,152,3.6,-3.1,0.5,0.4,Bench / Role Player,Perimeter Scorer
+1631170,1631288,J. Jaquez Jr. - J. Cain,152,0.9,-0.35,0.55,0.44,Versatile Scorer,Bench / Role Player
+1628995,1631204,K. Knox II - M. Sasser,152,2.65,2.5,5.15,4.12,Perimeter Scorer,Versatile Scorer
+1630168,1630235,O. Okongwu - T. Forrest,152,-9.35,-5.7,-15.05,-12.04,Two-Way Big,Bench / Role Player
+1626220,1629626,R. O'Neale - B. Bol,152,3.0,-6.95,-3.95,-3.16,Defensive Wing,Bench / Role Player
+1628470,1631207,T. Craig - D. Terry,152,-8.35,12.75,4.4,3.52,Bench / Role Player,Defensive Wing

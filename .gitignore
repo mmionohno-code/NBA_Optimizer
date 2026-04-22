@@ -1,0 +1,15 @@
+# Claude Code internal files
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp/debug files
+*.tmp
+salary_check.csv
+wrong_salaries.csv

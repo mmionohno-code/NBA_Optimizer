@@ -71,7 +71,7 @@ SCENARIO_COLORS = {
 ARCHETYPE_COLORS = {
     'Elite Playmaker':     'FFD700',  # Gold — franchise cornerstones
     'Two-Way Big':         'D5E8D4',  # Green — versatile two-way bigs
-    'Two-Way Guard':       'FFE6CC',  # Orange — perimeter two-way
+    'Versatile Scorer':    'FFE6CC',  # Orange — versatile guards/wings/bigs
     'Defensive Wing':      'F8CECC',  # Pink-red — defensive wings
     'Perimeter Scorer':    'FFF2CC',  # Yellow — three-point scorers
     'Bench / Role Player': 'F5F5F5',  # Gray — bench/role
@@ -135,8 +135,8 @@ ws_cover['A5'].alignment = Alignment(horizontal='left')
 rows_overview = [
     ("Data",        f"{len(df_all):,} player-seasons: 3 seasons x ~400 players (2021-22 to 2023-24). Minimum 20 GP and 10 MPG filter applied."),
     ("Method",      "3-framework Pearson + Spearman correlation -> PCA composite score (0-100) -> K-Means clustering (6 archetypes) -> MILP optimization + Synergy Layer"),
-    ("Key Stats",   "10 validated stats: OFF/DEF rating (team-adjusted), ON/OFF Split Diff, Influence Score (USG% x TS%), BLK, STL, DREB%, AST%, TS%, FG3%"),
-    ("Archetypes",  "6 archetypes: Elite Playmaker, Two-Way Big, Two-Way Guard, Defensive Wing, Perimeter Scorer, Bench / Role Player"),
+    ("Key Stats",   "9 validated stats: OFF/DEF rating (team-adjusted), ON/OFF Split Diff, Influence Score (USG% x TS%), BLK, STL, AST%, TS%, FG3%"),
+    ("Archetypes",  "6 archetypes: Elite Playmaker, Two-Way Big, Versatile Scorer, Defensive Wing, Perimeter Scorer, Bench / Role Player"),
     ("Scenarios",   "10 optimized 15-man rosters: Hard Cap, Luxury Tax, Budget, Rebuild, Win-Now, Defensive Identity, Offensive Identity, Three-Point Era, Small Ball, Value/Efficiency"),
 ]
 
@@ -167,18 +167,16 @@ cols_db = ['PLAYER_NAME', 'TEAM_ABBREVIATION', 'ARCHETYPE',
            'COMPOSITE_SCORE_NORM', 'SALARY', 'VORPD',
            'OFF_RATING_ADJUSTED', 'DEF_RATING_ADJUSTED',
            'ON_OFF_DIFF', 'INFLUENCE_SCORE',
-           'TS_PCT', 'BLK', 'STL', 'AST_PCT_ADJUSTED',
-           'DREB_PCT_ADJUSTED', 'FG3_PCT']
+           'TS_PCT', 'BLK', 'STL', 'AST_PCT_ADJUSTED', 'FG3_PCT']
 
 col_labels = ['Rank', 'Player', 'Team', 'Archetype', 'Score (0-100)',
               'Salary', 'VORPD', 'OFF Rtg Adj',
               'DEF Rtg Adj', 'ON/OFF Diff', 'Influence',
-              'TS%', 'BLK', 'STL',
-              'AST% Adj', 'DREB% Adj', 'FG3%']
+              'TS%', 'BLK', 'STL', 'AST% Adj', 'FG3%']
 
 # Title row
-ws_db.merge_cells('A1:Q1')
-header_cell(ws_db, 1, 1, "NBA Player Database - 2023-24 Season (399 Players, ranked by Composite Score)", bg=NAVY, size=13)
+ws_db.merge_cells(f'A1:{get_column_letter(len(col_labels)+1)}1')
+header_cell(ws_db, 1, 1, f"NBA Player Database - 2023-24 Season ({len(df_2324)} Players, ranked by Composite Score)", bg=NAVY, size=13)
 ws_db.row_dimensions[1].height = 30
 
 # Column headers
@@ -213,13 +211,14 @@ for r_idx, row in df_db.iterrows():
         else:
             data_cell(ws_db, row_num, c_idx, val, bg=bg, align='left' if c_idx <= 4 else 'center')
 
-# Column widths: Rank | Player | Team | Archetype | Score | Salary | VORPD | OFF | DEF | ON/OFF | Influence | TS% | BLK | STL | AST% | DREB% | FG3%
-widths_db = [6, 22, 7, 22, 13, 14, 8, 11, 11, 10, 9, 7, 6, 6, 9, 10, 7]
+# Column widths: Rank | Player | Team | Archetype | Score | Salary | VORPD | OFF | DEF | ON/OFF | Influence | TS% | BLK | STL | AST% | FG3%
+widths_db = [6, 22, 7, 22, 13, 14, 8, 11, 11, 10, 9, 7, 6, 6, 9, 7]
 for c, w in enumerate(widths_db, 1):
     set_col_width(ws_db, c, w)
 
+n_cols_db = len(col_labels) + 1  # +1 for Rank col
 ws_db.freeze_panes = ws_db.cell(row=3, column=1)
-ws_db.auto_filter.ref = f"A2:Q{len(df_db)+2}"
+ws_db.auto_filter.ref = f"A2:{get_column_letter(n_cols_db)}{len(df_db)+2}"
 print("Tab 2 (Player Database) done")
 
 # ============================================================
@@ -383,28 +382,29 @@ ws_cmp.row_dimensions[2].height = 40
 
 # Metrics
 def get_stats(roster, cap):
+    score_col = 'COMPOSITE_SYNERGY' if 'COMPOSITE_SYNERGY' in roster.columns else 'COMPOSITE_SCORE_NORM'
     return {
-        'total_score': roster['COMPOSITE_SCORE_NORM'].sum(),
-        'avg_score':   roster['COMPOSITE_SCORE_NORM'].mean(),
-        'max_score':   roster['COMPOSITE_SCORE_NORM'].max(),
+        'total_score': roster[score_col].sum(),
+        'avg_score':   roster[score_col].mean(),
+        'max_score':   roster[score_col].max(),
         'total_sal':   roster['SALARY'].sum(),
         'cap_used':    roster['SALARY'].sum() / cap * 100,
         'avg_vorpd':   roster['VORPD'].mean() if 'VORPD' in roster.columns else 0,
-        'n_stars':     int((roster['COMPOSITE_SCORE_NORM'] >= 70).sum()),
+        'n_stars':     int((roster[score_col] >= 70).sum()),
         'avg_age':     roster['AGE'].mean() if 'AGE' in roster.columns else 0,
     }
 
 stats = {key: get_stats(rosters[key], roster_files[key][1]) for key in rosters}
 
 metric_rows = [
-    ('Total Composite Score', 'total_score', '0.00'),
-    ('Average Player Score',  'avg_score',   '0.00'),
-    ('Best Player Score',     'max_score',   '0.00'),
-    ('Total Salary Used',     'total_sal',   '$#,##0'),
-    ('Cap % Used',            'cap_used',    '0.0'),
-    ('Average VORPD',         'avg_vorpd',   '0.00'),
-    ('Players Scoring 70+',   'n_stars',     '0'),
-    ('Average Age',           'avg_age',     '0.0'),
+    ('Total Synergy Score',  'total_score', '0.00'),
+    ('Average Synergy Score','avg_score',   '0.00'),
+    ('Best Synergy Score',   'max_score',   '0.00'),
+    ('Total Salary Used',    'total_sal',   '$#,##0'),
+    ('Cap % Used',           'cap_used',    '0.0'),
+    ('Average VORPD',        'avg_vorpd',   '0.00'),
+    ('Players Scoring 70+',  'n_stars',     '0'),
+    ('Average Age',          'avg_age',     '0.0'),
 ]
 
 for i, (label, metric, fmt) in enumerate(metric_rows):
@@ -442,7 +442,7 @@ ws_arch.row_dimensions[2].height = 35
 arch_traits = {
     'Elite Playmaker':     'Highest OFF_RATING_ADJUSTED + ON_OFF_DIFF. Franchise cornerstones who elevate everyone. Jokic, Embiid, SGA, Giannis, Luka.',
     'Two-Way Big':         'High BLK + balanced OFF/DEF impact. Versatile bigs who anchor both ends. Wembanyama, AD, Gobert, Nurkic, Hartenstein, Chet.',
-    'Two-Way Guard':       'Highest STL + AST%. Perimeter disruptors who create offense. Marcus Smart, VanVleet, De\'Anthony Melton.',
+    'Versatile Scorer':    'High STL + AST%. Positionally diverse scorers and playmakers — guards, wings, and forwards. Franz Wagner, Garland, Randle, Giddey.',
     'Defensive Wing':      'High court impact (ON_OFF_DIFF) on weaker defensive teams. OG Anunoby, KCP, Tari Eason, Aaron Gordon.',
     'Perimeter Scorer':    'High FG3%. Outside scoring and spacing wings. Markkanen, RJ Barrett, Grayson Allen, Kuminga.',
     'Bench / Role Player': 'Below average across all stats. Lowest ON_OFF_DIFF. End-of-bench depth pieces.',
@@ -483,7 +483,7 @@ ws_meth.row_dimensions[1].height = 35
 methodology_text = [
     ("DATA COLLECTION", ""),
     ("Source", "NBA Stats API (nba_api Python package) - official NBA.com backend"),
-    ("Seasons", "2021-22, 2022-23, 2023-24 (3 seasons x ~400 players = 1,208 player-seasons)"),
+    ("Seasons", f"2021-22, 2022-23, 2023-24 (3 seasons x ~400 players = {len(df_all):,} player-seasons after quality filter)"),
     ("Filter", "Minimum 20 games played and 10 minutes per game to exclude noise"),
     ("Salary", "Basketball Reference contracts scaled to historical seasons via cap-ratio method"),
     ("Recency Weights", "2021-22: 20%, 2022-23: 35%, 2023-24: 45% - recent seasons weighted more"),
@@ -502,23 +502,23 @@ methodology_text = [
     ("Selection Rule", "Stat included if p < 0.05 in at least one framework AND validated by Spearman"),
     ("", ""),
     ("PCA COMPOSITE SCORE", ""),
-    ("Standardization", "All 10 final stats normalized to mean=0, std=1 via StandardScaler before PCA"),
-    ("PCA Method", "Principal Component Analysis on 10 validated stats. Component 1 weights derived from data - no manual weighting. Top weights: OFF_RATING_ADJ (0.483), ON_OFF_DIFF (0.445), INFLUENCE_SCORE (0.407), STL (0.366), TS% (0.290)."),
+    ("Standardization", "All 9 final stats normalized to mean=0, std=1 via StandardScaler before PCA"),
+    ("PCA Method", "Multi-component PCA on 9 validated stats. PC1+PC2+PC3 used (65% variance explained vs 30.5% for PC1 alone) — each component weighted by its share of variance explained (PC1: ~47%, PC2: ~29%, PC3: ~24%). This ensures PC1's dominant basketball excellence signal (ON_OFF_DIFF, OFF_RATING, INFLUENCE_SCORE) carries the most weight while PC2/PC3 add independent information. PC1 weights: OFF_RATING_ADJ (0.497), ON_OFF_DIFF (0.435), INFLUENCE_SCORE (0.389), STL (0.387), TS% (0.292). DREB_PCT excluded: position-group adjustment revealed it fails Spearman (rho=0.025, p=0.365) — positional height was the confound, not rebounding skill."),
     ("Score Normalization", "Raw PCA scores rescaled to 0-100 for interpretability"),
     ("VORPD", "Value Over Replacement Per Dollar = (Score - 10th percentile) / (Salary in $M). Measures salary efficiency."),
     ("", ""),
     ("K-MEANS CLUSTERING", ""),
-    ("Method", "K-Means clustering (K=7) on all 10 standardized stats across 1,185 player-seasons"),
-    ("K Selection", "Elbow method used to validate K=7 as the point of diminishing returns"),
-    ("Archetypes", "7 clusters manually labeled based on average stat profiles and basketball identity of members"),
+    ("Method", f"K-Means clustering (K=7) on 9 standardized stats across {len(df_all):,} player-seasons. 7 clusters mapped to 6 archetype labels (2 clusters merge into Bench / Role Player)."),
+    ("K Selection", "Elbow method used to validate K=6 as the point of diminishing returns"),
+    ("Archetypes", "6 clusters manually labeled based on average stat profiles and basketball identity of members"),
     ("", ""),
     ("MILP OPTIMIZATION (10 SCENARIOS)", ""),
     ("Model Type", "Mixed Integer Linear Programming (MILP) via PuLP/CBC solver"),
-    ("Decision Variables", "399 binary variables (1 = player selected, 0 = not selected)"),
-    ("Base Constraints", "Salary cap, roster size (15), archetype minimums, max 2 players per NBA team, max 7 big men"),
-    ("Scenario A", "Composite score objective | Hard cap: $136M"),
-    ("Scenario B", "Composite score objective | Luxury tax: $165M"),
-    ("Scenario C", "Composite score objective | Budget: $90M"),
+    ("Decision Variables", "399 binary x_i variables (player selection) + ~1,330 binary y_ij variables (pairwise synergy linearization)"),
+    ("Base Constraints", "Salary cap, roster size (15), archetype minimums, max 2 players per NBA team, max 5 big men"),
+    ("Scenario A", "Composite + synergy objective | Hard cap: $136M"),
+    ("Scenario B", "Composite + synergy objective | Luxury tax: $165M"),
+    ("Scenario C", "Composite + synergy objective | Budget: $90M"),
     ("Scenario D", "Composite + synergy | Hard cap + min 9 players age <= 24 (Rebuild)"),
     ("Scenario E", "Composite + synergy | Luxury cap + min 9 players age >= 28 (Win-Now)"),
     ("Scenario F", "Maximize defensive rating | Hard cap (Defensive Identity)"),
@@ -531,16 +531,16 @@ methodology_text = [
     ("Overview", "Three-layer synergy model built on top of individual composite scores. All synergy terms use W_NET_SYNERGY — chosen because it has the highest W_PCT correlation (r=+0.568) across all 3 seasons in validation testing. Offensive and defensive synergy are treated with equal weight."),
     ("Layer 1: Player Profile", "Each player's NET_SYNERGY_PROFILE = their average NET_SYNERGY across all observed 2-man pairs (2023-24). Added to composite score with weight 0.4. Captures whether a player consistently elevates or drags teammates on both ends."),
     ("Layer 2: Pairwise Bonus", "For each pair (i,j) both selected, the optimizer earns W_NET_SYNERGY_SCALED bonus in the objective. MILP linearized via binary y_ij variables: y_ij ≤ x_i, y_ij ≤ x_j, y_ij ≥ x_i+x_j-1. Only pairs with |NET_SYNERGY| >= 1.0 pts/100 poss included to limit variable count."),
-    ("Layer 3: Coverage Zones", "Hard defensive coverage constraints: Paint (≥1 player BLK≥1.5), Perimeter (≥2 players STL≥1.3), Switchability (≥4 players from defensive archetypes: Two-Way Big, Two-Way Guard, Defensive Wing)."),
+    ("Layer 3: Coverage Zones", "Hard defensive coverage constraints: Paint (≥1 player BLK≥1.5), Perimeter (≥2 players STL≥1.3), Switchability (≥4 players from defensive archetypes: Two-Way Big, Versatile Scorer, Defensive Wing)."),
     ("Data Source", "2-man lineup data from NBA Stats API (leaguedashlineups, group_quantity=2). 6,000 pair-seasons across 3 seasons, filtered to MIN≥100 shared minutes for synergy computation."),
     ("Cross-Team Limitation", "Pairs who never played together receive no pairwise bonus — only the player-level profile adjustment. The pairwise bonus is therefore conservative for cross-team rosters (all 10 scenarios are cross-team constructions)."),
     ("", ""),
     ("LIMITATIONS", ""),
-    ("Salary Approximation", "Historical salaries estimated via cap-ratio scaling. ~384 player-seasons used imputed league minimum due to name-matching failures."),
+    ("Salary Approximation", "Historical salaries estimated via cap-ratio scaling. 87 salary imputation errors corrected (2023-24) using verified contract data — including high-profile errors like Jimmy Butler ($45.2M), Malcolm Brogdon ($22.6M), and Bojan Bogdanovic ($18M). ~23 genuine league-minimum players remain at $1,119,563."),
     ("Defensive Measurement", "Individual defensive stats are difficult to isolate from team context. DEF_RATING is shared across all 5 players simultaneously — the model cannot assign individual credit. PCA weight of 0.039 for DEF_RATING_ADJUSTED reflects this honest limitation, not a modeling flaw. STL (0.366) and BLK (0.274) carry the defensive signal because they are individually attributable."),
     ("Advanced Defensive Stats", "Advanced individual defensive metrics (D-EPM, D-LEBRON) require proprietary Second Spectrum tracking data available only through paid subscriptions. Public APIs (NBA Stats, Basketball Reference) do not expose this data. This is an acknowledged constraint of using public data only."),
     ("Team Context Limitation", "PLUS_MINUS still contains lineup contamination bias that team-averaging cannot fully remove."),
-    ("Single Season Optimization", "Optimizer uses 2023-24 data only. Player aging curves not modeled."),
+    ("Player Selection Scope", "Composite scores are built from all 3 seasons (1,185 player-seasons) with recency weights (2021-22: 20%, 2022-23: 35%, 2023-24: 45%). The optimizer selects from 2023-24 players only — it reflects current roster construction, not multi-year projections. Player aging curves not modeled."),
 ]
 
 for i, (label, text) in enumerate(methodology_text):
@@ -576,6 +576,79 @@ for c in range(2, 7):
 print("Tab 6 (Methodology) done")
 
 # ============================================================
+# TAB 7 — ANALYTICAL CHARTS
+# Embeds all pipeline-generated charts into the dashboard
+# so everything lives in one file for presentation.
+# ============================================================
+
+from openpyxl.drawing.image import Image as XlImage
+import os
+
+ws_charts = wb.create_sheet("Charts")
+ws_charts.sheet_view.showGridLines = False
+
+ws_charts.merge_cells('A1:N1')
+header_cell(ws_charts, 1, 1, "Analytical Charts — Statistical Process Visualization", bg=NAVY, size=14)
+ws_charts.row_dimensions[1].height = 35
+
+chart_files = [
+    ('charts/top20_players_final.png',       'Top 20 Players by Composite Score (2023-24)',
+     'The final ranking output — PCA-derived composite scores on a 0-100 scale. Jokic, SGA, and Luka lead.'),
+    ('charts/pca_weights_final.png',         'PCA-Derived Stat Weights',
+     'How much each stat contributes to the composite score. Weights are entirely data-driven — OFF_RATING_ADJUSTED and ON_OFF_DIFF dominate.'),
+    ('charts/pca_variance_explained.png',    'PCA Variance Explained Per Component',
+     'PC1 captures ~30% of variance alone. We use PC1+PC2+PC3 (65% combined) weighted by variance share to capture more basketball signal.'),
+    ('charts/intercorrelation_final.png',    'Intercorrelation Matrix — Final 9 Stats',
+     'Checks that no two stats are redundant (|r| > 0.7). All 9 stats passed — each captures an independent dimension of player skill.'),
+    ('charts/elbow_method.png',              'Elbow Method — Optimal Number of Clusters',
+     'Inertia drops steeply until K=7, then flattens. K=7 balances granularity with interpretability (7 clusters → 6 archetype names).'),
+    ('charts/cluster_visualization.png',     'Player Archetypes — K-Means Clustering (PCA 2D Projection)',
+     'All 1,185 player-seasons projected onto 2 PCA dimensions. Colors = archetypes. Notable players annotated. Shows natural groupings.'),
+    ('charts/archetype_radar_charts.png',    'Archetype Stat Profiles — Radar Charts',
+     'Average stat profile per archetype on a 0-1 normalized scale. Each archetype has a distinct fingerprint — Elite Playmakers excel at offense, Two-Way Bigs at blocks, etc.'),
+]
+
+current_row = 3
+
+for filepath, title, description in chart_files:
+    if not os.path.exists(filepath):
+        print(f"  WARNING: {filepath} not found, skipping")
+        continue
+
+    # Chart title
+    ws_charts.merge_cells(f'A{current_row}:N{current_row}')
+    cell = ws_charts[f'A{current_row}']
+    cell.value = title
+    cell.font = Font(bold=True, size=12, color=NAVY)
+    cell.alignment = Alignment(horizontal='left', vertical='center')
+    ws_charts.row_dimensions[current_row].height = 25
+    current_row += 1
+
+    # Chart description
+    ws_charts.merge_cells(f'A{current_row}:N{current_row}')
+    cell = ws_charts[f'A{current_row}']
+    cell.value = description
+    cell.font = Font(size=10, italic=True, color='555555')
+    cell.alignment = Alignment(horizontal='left', vertical='center', wrap_text=True)
+    ws_charts.row_dimensions[current_row].height = 30
+    current_row += 1
+
+    # Insert image
+    img = XlImage(filepath)
+    img.width = 720
+    img.height = 430
+    ws_charts.add_image(img, f'A{current_row}')
+    # Reserve ~22 rows for each chart image
+    for r in range(current_row, current_row + 22):
+        ws_charts.row_dimensions[r].height = 20
+    current_row += 24  # 22 for image + 2 spacing
+
+for c in range(1, 15):
+    set_col_width(ws_charts, c, 10)
+
+print("Tab 7 (Charts) done")
+
+# ============================================================
 # SAVE
 # ============================================================
 
@@ -588,7 +661,9 @@ print(f"{'=' * 60}")
 print("\nTabs:")
 print("  1. Cover               - Project overview (10 scenarios)")
 print("  2. Player Database     - 399 players ranked #1-399 by composite score")
-print("  3. Optimized Rosters   - All 10 salary cap scenarios")
-print("  4. Scenario Comparison - Side-by-side metrics for all 10")
-print("  5. Archetypes          - K-Means cluster summary")
-print("  6. Methodology         - Full statistical methodology")
+print("  3. All Seasons         - All 1,185 player-seasons across 3 years")
+print("  4. Optimized Rosters   - All 10 salary cap scenarios")
+print("  5. Scenario Comparison - Side-by-side metrics for all 10")
+print("  6. Archetypes          - K-Means cluster summary")
+print("  7. Methodology         - Full statistical methodology")
+print("  8. Charts              - All 7 analytical charts with descriptions")
