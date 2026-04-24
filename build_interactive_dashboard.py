@@ -395,94 +395,367 @@ html_content = f"""<!DOCTYPE html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NBA Roster Optimization Engine — Interactive Dashboard</title>
     <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
+        :root {{
+            --gold: #C9A84C;
+            --gold-light: #E8D48B;
+            --gold-dim: rgba(201,168,76,0.15);
+            --navy: #0B1628;
+            --navy-mid: #132240;
+            --navy-light: #1B2A4A;
+            --surface: #0f1729;
+            --surface-card: rgba(15,23,41,0.7);
+            --border: rgba(201,168,76,0.2);
+            --text: #E8EAF0;
+            --text-dim: #8892A4;
+            --accent-blue: #3B82F6;
+            --accent-green: #10B981;
+            --accent-red: #EF4444;
+        }}
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
-        body {{ background: #0a0a1a; color: #fff; font-family: 'Segoe UI', Calibri, sans-serif; }}
-        .header {{
-            background: linear-gradient(135deg, #1B2A4A 0%, #0d1b2e 100%);
-            padding: 40px 60px;
-            border-bottom: 3px solid #C9A84C;
+        html {{ scroll-behavior: smooth; }}
+        body {{
+            background: var(--navy);
+            color: var(--text);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            -webkit-font-smoothing: antialiased;
         }}
-        .header h1 {{ color: #C9A84C; font-size: 32px; margin-bottom: 8px; }}
-        .header p {{ color: #aaa; font-size: 15px; }}
-        .stats-bar {{
-            display: flex; gap: 40px; margin-top: 16px;
+
+        /* ── HERO HEADER ── */
+        .hero {{
+            position: relative;
+            background: linear-gradient(160deg, #0B1628 0%, #132240 40%, #1a2d52 70%, #0B1628 100%);
+            padding: 70px 80px 60px;
+            overflow: hidden;
+            border-bottom: 1px solid var(--border);
         }}
-        .stat-box {{
-            background: rgba(201, 168, 76, 0.1);
-            border: 1px solid #C9A84C;
-            border-radius: 8px;
-            padding: 12px 24px;
-            text-align: center;
+        .hero::before {{
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -10%;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(201,168,76,0.08) 0%, transparent 70%);
+            pointer-events: none;
         }}
-        .stat-box .number {{ color: #C9A84C; font-size: 28px; font-weight: bold; }}
-        .stat-box .label {{ color: #aaa; font-size: 12px; margin-top: 4px; }}
-        .nav {{
-            background: #111;
-            padding: 12px 60px;
-            border-bottom: 1px solid #333;
-            position: sticky; top: 0; z-index: 100;
+        .hero::after {{
+            content: '';
+            position: absolute;
+            bottom: -30%;
+            left: -5%;
+            width: 400px;
+            height: 400px;
+            background: radial-gradient(circle, rgba(59,130,246,0.05) 0%, transparent 70%);
+            pointer-events: none;
         }}
-        .nav a {{
-            color: #C9A84C; text-decoration: none; margin-right: 24px;
-            font-size: 14px; font-weight: 600;
-        }}
-        .nav a:hover {{ color: #fff; }}
-        .section {{
-            padding: 40px 60px;
-            border-bottom: 1px solid #1a1a2e;
-        }}
-        .section h2 {{
-            color: #C9A84C; font-size: 22px; margin-bottom: 8px;
-        }}
-        .section p {{
-            color: #888; font-size: 14px; margin-bottom: 20px;
-        }}
-        .chart-container {{
-            background: #111;
-            border-radius: 12px;
-            padding: 10px;
+        .hero-badge {{
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--gold-dim);
+            border: 1px solid var(--border);
+            border-radius: 100px;
+            padding: 6px 16px;
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--gold);
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
             margin-bottom: 20px;
         }}
-        .footer {{
-            background: #1B2A4A;
-            padding: 30px 60px;
-            text-align: center;
-            color: #888;
+        .hero-badge .dot {{
+            width: 6px; height: 6px;
+            background: var(--accent-green);
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }}
+        @keyframes pulse {{
+            0%, 100% {{ opacity: 1; }}
+            50% {{ opacity: 0.4; }}
+        }}
+        .hero h1 {{
+            font-size: 48px;
+            font-weight: 800;
+            color: #fff;
+            letter-spacing: -1.5px;
+            line-height: 1.1;
+            margin-bottom: 12px;
+        }}
+        .hero h1 span {{ color: var(--gold); }}
+        .hero .subtitle {{
+            font-size: 17px;
+            color: var(--text-dim);
+            font-weight: 400;
+            line-height: 1.6;
+            max-width: 700px;
+        }}
+
+        /* ── STATS ROW ── */
+        .stats-row {{
+            display: flex;
+            gap: 16px;
+            margin-top: 36px;
+            flex-wrap: wrap;
+        }}
+        .stat-card {{
+            background: var(--surface-card);
+            backdrop-filter: blur(12px);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 20px 28px;
+            min-width: 140px;
+            transition: transform 0.2s, border-color 0.2s;
+        }}
+        .stat-card:hover {{
+            transform: translateY(-3px);
+            border-color: var(--gold);
+        }}
+        .stat-card .val {{
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 32px;
+            font-weight: 700;
+            color: #fff;
+        }}
+        .stat-card .lbl {{
+            font-size: 11px;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            margin-top: 4px;
+        }}
+
+        /* ── NAVIGATION ── */
+        .nav {{
+            background: rgba(11,22,40,0.92);
+            backdrop-filter: blur(16px);
+            padding: 0 80px;
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            display: flex;
+            gap: 0;
+            overflow-x: auto;
+        }}
+        .nav a {{
+            color: var(--text-dim);
+            text-decoration: none;
             font-size: 13px;
+            font-weight: 600;
+            padding: 16px 20px;
+            letter-spacing: 0.3px;
+            white-space: nowrap;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+        }}
+        .nav a:hover {{
+            color: var(--gold);
+            border-bottom-color: var(--gold);
+            background: var(--gold-dim);
+        }}
+
+        /* ── SECTIONS ── */
+        .section {{
+            padding: 56px 80px;
+            border-bottom: 1px solid rgba(201,168,76,0.08);
+        }}
+        .section-header {{
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            margin-bottom: 28px;
+        }}
+        .section-icon {{
+            width: 44px;
+            height: 44px;
+            border-radius: 12px;
+            background: var(--gold-dim);
+            border: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            flex-shrink: 0;
+        }}
+        .section-text h2 {{
+            font-size: 24px;
+            font-weight: 700;
+            color: #fff;
+            letter-spacing: -0.5px;
+            margin-bottom: 6px;
+        }}
+        .section-text p {{
+            font-size: 14px;
+            color: var(--text-dim);
+            line-height: 1.6;
+            max-width: 800px;
+        }}
+
+        /* ── CHART CARDS ── */
+        .chart-card {{
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 20px;
+            transition: border-color 0.3s;
+        }}
+        .chart-card:hover {{
+            border-color: rgba(201,168,76,0.4);
+        }}
+
+        /* ── METHODOLOGY SECTION ── */
+        .method-grid {{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 16px;
+            margin-top: 20px;
+        }}
+        .method-card {{
+            background: var(--surface-card);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 24px;
+            transition: transform 0.2s, border-color 0.2s;
+        }}
+        .method-card:hover {{
+            transform: translateY(-2px);
+            border-color: var(--gold);
+        }}
+        .method-card .step {{
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 11px;
+            color: var(--gold);
+            font-weight: 600;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }}
+        .method-card h3 {{
+            font-size: 16px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 8px;
+        }}
+        .method-card p {{
+            font-size: 13px;
+            color: var(--text-dim);
+            line-height: 1.5;
+        }}
+
+        /* ── FOOTER ── */
+        .footer {{
+            background: linear-gradient(180deg, var(--navy) 0%, #060d1a 100%);
+            padding: 60px 80px 40px;
+            border-top: 1px solid var(--border);
+        }}
+        .footer-grid {{
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 48px;
+            margin-bottom: 40px;
+        }}
+        .footer h3 {{
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--gold);
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            margin-bottom: 16px;
+        }}
+        .footer p, .footer li {{
+            font-size: 13px;
+            color: var(--text-dim);
+            line-height: 1.7;
+        }}
+        .footer ul {{
+            list-style: none;
+        }}
+        .footer ul li::before {{
+            content: '>';
+            color: var(--gold);
+            margin-right: 8px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 11px;
+        }}
+        .footer-bottom {{
+            border-top: 1px solid rgba(201,168,76,0.1);
+            padding-top: 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }}
+        .footer-bottom p {{
+            font-size: 12px;
+            color: rgba(136,146,164,0.6);
+        }}
+        .tech-pills {{
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }}
+        .tech-pill {{
+            background: var(--gold-dim);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 4px 10px;
+            font-size: 11px;
+            font-family: 'JetBrains Mono', monospace;
+            color: var(--gold);
+        }}
+
+        /* ── RESPONSIVE ── */
+        @media (max-width: 768px) {{
+            .hero {{ padding: 40px 24px 36px; }}
+            .hero h1 {{ font-size: 28px; }}
+            .nav {{ padding: 0 24px; }}
+            .section {{ padding: 36px 24px; }}
+            .footer {{ padding: 40px 24px 28px; }}
+            .footer-grid {{ grid-template-columns: 1fr; gap: 28px; }}
+            .stats-row {{ gap: 10px; }}
+            .stat-card {{ padding: 14px 18px; min-width: 100px; }}
+            .stat-card .val {{ font-size: 24px; }}
         }}
     </style>
 </head>
 <body>
 
-<div class="header">
-    <h1>NBA ROSTER OPTIMIZATION ENGINE</h1>
-    <p>Interactive Dashboard — PCA Scoring | K-Means Archetypes | MILP Optimization | Synergy Model</p>
-    <div class="stats-bar">
-        <div class="stat-box">
-            <div class="number">1,185</div>
-            <div class="label">Player-Seasons</div>
+<!-- HERO -->
+<div class="hero">
+    <div class="hero-badge"><span class="dot"></span> Live Interactive Dashboard</div>
+    <h1>NBA Roster <span>Optimization</span> Engine</h1>
+    <p class="subtitle">
+        Data-driven player evaluation and roster construction using PCA scoring,
+        K-Means archetypes, MILP optimization, and pairwise synergy modeling
+        across 1,185 player-seasons.
+    </p>
+    <div class="stats-row">
+        <div class="stat-card">
+            <div class="val">1,185</div>
+            <div class="lbl">Player-Seasons</div>
         </div>
-        <div class="stat-box">
-            <div class="number">9</div>
-            <div class="label">Validated Stats</div>
+        <div class="stat-card">
+            <div class="val">9</div>
+            <div class="lbl">Validated Stats</div>
         </div>
-        <div class="stat-box">
-            <div class="number">6</div>
-            <div class="label">Archetypes</div>
+        <div class="stat-card">
+            <div class="val">6</div>
+            <div class="lbl">Archetypes</div>
         </div>
-        <div class="stat-box">
-            <div class="number">10</div>
-            <div class="label">Optimized Rosters</div>
+        <div class="stat-card">
+            <div class="val">10</div>
+            <div class="lbl">Optimized Rosters</div>
         </div>
-        <div class="stat-box">
-            <div class="number">175</div>
-            <div class="label">Quality Checks Passed</div>
+        <div class="stat-card">
+            <div class="val">175</div>
+            <div class="lbl">Checks Passed</div>
         </div>
     </div>
 </div>
 
+<!-- NAV -->
 <div class="nav">
+    <a href="#methodology">Methodology</a>
     <a href="#value-map">Value Map</a>
     <a href="#rankings">Rankings</a>
     <a href="#archetypes">Archetypes</a>
@@ -490,75 +763,195 @@ html_content = f"""<!DOCTYPE html>
     <a href="#scenarios">Scenarios</a>
     <a href="#roster">Roster A</a>
     <a href="#synergy">Synergy</a>
-    <a href="#frequency">Player Frequency</a>
+    <a href="#frequency">Frequency</a>
 </div>
 
-<div class="section" id="value-map">
-    <h2>Player Value Map — Score vs Salary</h2>
-    <p>Each dot is a player. Top-left = high value (great score, low salary). Bottom-right = overpaid. Hover for details.</p>
-    <div class="chart-container">
-        <div id="chart1"></div>
+<!-- METHODOLOGY -->
+<div class="section" id="methodology">
+    <div class="section-header">
+        <div class="section-icon">&#9881;</div>
+        <div class="section-text">
+            <h2>Methodology Pipeline</h2>
+            <p>End-to-end analytical framework — from raw NBA API data to mathematically optimal rosters. Every weight is derived from data, not opinion.</p>
+        </div>
     </div>
+    <div class="method-grid">
+        <div class="method-card">
+            <div class="step">Step 01</div>
+            <h3>Data Collection</h3>
+            <p>1,185 player-seasons from the NBA API across 3 seasons (2021-24). Box scores, advanced stats, ON/OFF data, 2-man lineups, and salaries.</p>
+        </div>
+        <div class="method-card">
+            <div class="step">Step 02</div>
+            <h3>Feature Engineering</h3>
+            <p>Team-context adjustments, Bayesian TS% shrinkage, non-shooter neutralization, and OLS residualization to remove team-quality bias.</p>
+        </div>
+        <div class="method-card">
+            <div class="step">Step 03</div>
+            <h3>Statistical Validation</h3>
+            <p>Three-framework correlation analysis (Pearson + Spearman) across W_PCT and PLUS_MINUS targets. Only stats that pass enter PCA.</p>
+        </div>
+        <div class="method-card">
+            <div class="step">Step 04</div>
+            <h3>PCA Composite Score</h3>
+            <p>Multi-component PCA (PC1-PC3) weighted by variance explained (~47%, ~29%, ~24%). Normalized 0-100. Zero manual bias.</p>
+        </div>
+        <div class="method-card">
+            <div class="step">Step 05</div>
+            <h3>K-Means Clustering</h3>
+            <p>K=7 clusters on 9 standardized stats via elbow method. Produces 6 distinct archetypes that pass basketball intuition validation.</p>
+        </div>
+        <div class="method-card">
+            <div class="step">Step 06</div>
+            <h3>Synergy Model</h3>
+            <p>Pairwise chemistry from 2-man lineup data. Expected vs actual performance. Archetype-pair averages for cross-team estimates.</p>
+        </div>
+        <div class="method-card">
+            <div class="step">Step 07</div>
+            <h3>MILP Optimization</h3>
+            <p>Mixed Integer Linear Programming via PuLP/CBC. Maximize composite score subject to salary cap, archetype coverage, and team diversity.</p>
+        </div>
+        <div class="method-card">
+            <div class="step">Step 08</div>
+            <h3>10 Scenarios</h3>
+            <p>Hard cap, luxury tax, budget, rebuild, win-now, defensive, offensive, three-point era, small ball, and value/efficiency builds.</p>
+        </div>
+    </div>
+</div>
+
+<!-- CHART SECTIONS -->
+<div class="section" id="value-map">
+    <div class="section-header">
+        <div class="section-icon">&#128200;</div>
+        <div class="section-text">
+            <h2>Player Value Map</h2>
+            <p>Score vs Salary for all 399 players (2023-24). Top-left quadrant = high value (great score, low salary). Bottom-right = overpaid. Hover for details.</p>
+        </div>
+    </div>
+    <div class="chart-card"><div id="chart1"></div></div>
 </div>
 
 <div class="section" id="rankings">
-    <h2>Top 30 Player Rankings</h2>
-    <p>PCA-derived composite scores. Colors = archetype. Scores are 0-100, data-driven with zero human bias.</p>
-    <div class="chart-container">
-        <div id="chart2"></div>
+    <div class="section-header">
+        <div class="section-icon">&#127942;</div>
+        <div class="section-text">
+            <h2>Top 30 Player Rankings</h2>
+            <p>PCA-derived composite scores on a 0-100 scale. Colors represent archetype classification. Every ranking is data-driven with zero human bias.</p>
+        </div>
     </div>
+    <div class="chart-card"><div id="chart2"></div></div>
 </div>
 
 <div class="section" id="archetypes">
-    <h2>Archetype Distribution</h2>
-    <p>K-Means clustering (K=7) grouped 399 players into 6 archetype categories based on their 9-stat profiles.</p>
-    <div class="chart-container">
-        <div id="chart3"></div>
+    <div class="section-header">
+        <div class="section-icon">&#127912;</div>
+        <div class="section-text">
+            <h2>Archetype Distribution</h2>
+            <p>K-Means clustering (K=7) grouped 399 players into 6 archetype categories based on their 9-stat fingerprints.</p>
+        </div>
     </div>
+    <div class="chart-card"><div id="chart3"></div></div>
 </div>
 
 <div class="section" id="radar">
-    <h2>Archetype Stat Fingerprints</h2>
-    <p>Average normalized stat profile per archetype. Each archetype has a distinct shape — proving the clusters are real, not random.</p>
-    <div class="chart-container">
-        <div id="chart4"></div>
+    <div class="section-header">
+        <div class="section-icon">&#128302;</div>
+        <div class="section-text">
+            <h2>Archetype Stat Fingerprints</h2>
+            <p>Average normalized stat profile per archetype. Each archetype shows a distinct shape — proving the clusters capture real basketball roles, not noise.</p>
+        </div>
     </div>
+    <div class="chart-card"><div id="chart4"></div></div>
 </div>
 
 <div class="section" id="scenarios">
-    <h2>10-Scenario Comparison</h2>
-    <p>Total synergy-adjusted score and salary used across all 10 optimization scenarios.</p>
-    <div class="chart-container">
-        <div id="chart5"></div>
+    <div class="section-header">
+        <div class="section-icon">&#9878;</div>
+        <div class="section-text">
+            <h2>10-Scenario Comparison</h2>
+            <p>Total synergy-adjusted score and salary used across all 10 optimization scenarios. Each scenario applies different constraints and objectives.</p>
+        </div>
     </div>
+    <div class="chart-card"><div id="chart5"></div></div>
 </div>
 
 <div class="section" id="roster">
-    <h2>Scenario A — Hard Cap Roster</h2>
-    <p>The mathematically optimal 15-man roster under a $136M salary cap. Salary shown on each bar.</p>
-    <div class="chart-container">
-        <div id="chart6"></div>
+    <div class="section-header">
+        <div class="section-icon">&#128101;</div>
+        <div class="section-text">
+            <h2>Scenario A — Hard Cap Roster</h2>
+            <p>The mathematically optimal 15-man roster under a $136M salary cap. Each bar shows synergy-adjusted score with salary labels.</p>
+        </div>
     </div>
+    <div class="chart-card"><div id="chart6"></div></div>
 </div>
 
 <div class="section" id="synergy">
-    <h2>Top Synergy Pairs</h2>
-    <p>Player pairs with the strongest observed two-way chemistry from 2-man lineup data. Green = positive synergy.</p>
-    <div class="chart-container">
-        <div id="chart7"></div>
+    <div class="section-header">
+        <div class="section-icon">&#128279;</div>
+        <div class="section-text">
+            <h2>Top Synergy Pairs</h2>
+            <p>Player pairs with the strongest observed two-way chemistry from 2-man lineup data. Green intensity = synergy magnitude.</p>
+        </div>
     </div>
+    <div class="chart-card"><div id="chart7"></div></div>
 </div>
 
 <div class="section" id="frequency">
-    <h2>Most Selected Players Across All Scenarios</h2>
-    <p>Players who appear in the most optimized rosters — the truly indispensable players regardless of strategy.</p>
-    <div class="chart-container">
-        <div id="chart8"></div>
+    <div class="section-header">
+        <div class="section-icon">&#11088;</div>
+        <div class="section-text">
+            <h2>Most Selected Players</h2>
+            <p>Players who appear across the most optimized rosters — the truly indispensable players regardless of team-building strategy.</p>
+        </div>
     </div>
+    <div class="chart-card"><div id="chart8"></div></div>
 </div>
 
+<!-- FOOTER -->
 <div class="footer">
-    NBA Roster Optimization Engine | Python + PCA + K-Means + MILP + Synergy Model | Public Data, Zero Bias
+    <div class="footer-grid">
+        <div>
+            <h3>About This Project</h3>
+            <p>An end-to-end NBA roster optimization engine built entirely in Python. Uses public NBA API data
+            to score every player via PCA, classify them into archetypes via K-Means clustering, model pairwise
+            chemistry from 2-man lineup data, and build mathematically optimal rosters via Mixed Integer Linear
+            Programming. Every weight and ranking is derived from data — zero manual bias.</p>
+        </div>
+        <div>
+            <h3>Pipeline</h3>
+            <ul>
+                <li>Feature Engineering</li>
+                <li>PCA Scoring (PC1-PC3)</li>
+                <li>K-Means Clustering (K=7)</li>
+                <li>Synergy Model</li>
+                <li>MILP Optimization</li>
+                <li>175 Verification Checks</li>
+            </ul>
+        </div>
+        <div>
+            <h3>Deliverables</h3>
+            <ul>
+                <li>Interactive Dashboard</li>
+                <li>Excel Workbook (7 tabs)</li>
+                <li>SQLite Database</li>
+                <li>Tableau Data Exports</li>
+                <li>PowerPoint (19 slides)</li>
+                <li>Full Source on GitHub</li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <p>NBA Roster Optimization Engine &mdash; Built with Python, pandas, scikit-learn, PuLP, and Plotly</p>
+        <div class="tech-pills">
+            <span class="tech-pill">Python</span>
+            <span class="tech-pill">PCA</span>
+            <span class="tech-pill">K-Means</span>
+            <span class="tech-pill">MILP</span>
+            <span class="tech-pill">Plotly</span>
+            <span class="tech-pill">SQL</span>
+        </div>
+    </div>
 </div>
 
 """
