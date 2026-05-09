@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:Synergy_Pairs -path:Players/Seasons",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -88,6 +88,6 @@
   "repelStrength": 14,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08317427835927393,
+  "scale": 0.05932617187499886,
   "close": true
 }
