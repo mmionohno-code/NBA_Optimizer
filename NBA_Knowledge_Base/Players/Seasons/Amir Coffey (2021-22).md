@@ -1,0 +1,35 @@
+---
+player_season: "Amir Coffey (2021-22)"
+player: "Amir Coffey"
+season: "2021-22"
+team: "LAC"
+archetype: "Bench / Role Player"
+composite_score: 37.54
+salary: 1669826
+vorpd: 7.24
+off_rating_adj: 2.14
+def_rating_adj: -1.35
+on_off_diff: -1.90
+season_weight: 0.20
+tags: [season-note, bench-/-role-player]
+---
+# Amir Coffey — 2021-22
+
+> Part of [[Players/Amir Coffey]] | Archetype: [[Archetypes/Bench / Role Player]]
+
+| Metric | Value |
+|---|---|
+| Season | 2021-22 |
+| Team | LAC |
+| Composite Score | **37.5** / 100 |
+| Salary | $1,669,826 |
+| VORPD | 7.24 |
+| Off Rating Adj | 2.14 |
+| Def Rating Adj | -1.35 |
+| On/Off Diff | -1.90 |
+| TS% | 58.9% |
+| 3P% | 37.8% |
+| Influence Score | 0.09 |
+| Season Weight | 0.20 |
+
+_Navigate back to the full player profile: [[Players/Amir Coffey]]_

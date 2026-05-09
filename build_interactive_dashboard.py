@@ -19,14 +19,23 @@ df_all = pd.read_csv('nba_clustered.csv')
 df_2324 = df_all[df_all['SEASON'] == '2023-24'].copy().sort_values('COMPOSITE_SCORE_NORM', ascending=False)
 df_synergy = pd.read_csv('nba_synergy_2324.csv')
 df_profile = pd.read_csv('nba_def_synergy_profile.csv')
+def clean_salary(series):
+    return pd.to_numeric(
+        series.astype(str)
+              .str.replace('$', '', regex=False)
+              .str.replace(',', '', regex=False)
+              .str.strip(),
+        errors='coerce'
+    ).fillna(0)
 
 rosters = {}
 for key in 'ABCDEFGHIJ':
     try:
-        rosters[key] = pd.read_csv(f'optimized_roster_syn_{key}.csv')
+        df_r = pd.read_csv(f'optimized_roster_syn_{key}.csv')
+        df_r['SALARY'] = clean_salary(df_r['SALARY'])
+        rosters[key] = df_r
     except FileNotFoundError:
         pass
-
 scenario_names = {
     'A': 'Hard Cap ($136M)', 'B': 'Luxury Tax ($165M)', 'C': 'Budget ($90M)',
     'D': 'Rebuild ($136M)', 'E': 'Win-Now ($165M)', 'F': 'Defensive Identity',
@@ -226,8 +235,11 @@ print("Building Chart 5: Scenario comparison...")
 scenario_data = []
 for key, roster in rosters.items():
     score_col = 'COMPOSITE_SYNERGY' if 'COMPOSITE_SYNERGY' in roster.columns else 'COMPOSITE_SCORE_NORM'
-    roster['SALARY'] = pd.to_numeric(roster['SALARY'], errors='coerce').fillna(0)
-    roster[score_col] = pd.to_numeric(roster[score_col], errors='coerce').fillna(0)
+roster['SALARY'] = pd.to_numeric(
+    roster['SALARY'].astype(str).str.replace('$', '', regex=False).str.replace(',', '', regex=False).str.strip(),
+    errors='coerce'
+).fillna(0)
+roster[score_col] = pd.to_numeric(roster[score_col], errors='coerce').fillna(0)                                                                          
     scenario_data.append({
         'Scenario': f"{key} - {scenario_names.get(key, key)}",
         'Total Score': roster[score_col].sum(),
