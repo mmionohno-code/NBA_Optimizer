@@ -1,0 +1,404 @@
+---
+type: salary-tier
+tier: "Role"
+tags: [salary, contract]
+---
+
+# Role Tier
+
+_<$10M — role player / minimum_
+
+**Players in tier:** 390
+
+## Members
+
+- [[Players/AJ Green]] — $1,119,563
+- [[Players/AJ Griffin]] — $1,017,781
+- [[Players/Aaron Holiday]] — $2,020,490
+- [[Players/Aaron Nesmith]] — $9,678,893
+- [[Players/Aaron Wiggins]] — $8,889,450
+- [[Players/Admiral Schofield]] — $1,017,781
+- [[Players/Al Horford]] — $5,002,228
+- [[Players/Aleksej Pokusevski]] — $4,000,000
+- [[Players/Alex Len]] — $925,258
+- [[Players/Alperen Sengun]] — $3,922,440
+- [[Players/Amen Thompson]] — $8,526,753
+- [[Players/Amir Coffey]] — $2,020,490
+- [[Players/Andre Drummond]] — $4,399,497
+- [[Players/Andre Iguodala]] — $925,258
+- [[Players/Andre Jackson Jr.]] — $1,954,852
+- [[Players/Anthony Black]] — $7,013,044
+- [[Players/Anthony Gill]] — $1,836,802
+- [[Players/Anthony Lamb]] — $1,017,781
+- [[Players/Armoni Brooks]] — $925,258
+- [[Players/Ausar Thompson]] — $7,721,117
+- [[Players/Austin Rivers]] — $1,017,781
+- [[Players/Avery Bradley]] — $925,258
+- [[Players/Ayo Dosunmu]] — $6,615,539
+- [[Players/Ben McLemore]] — $925,258
+- [[Players/Ben Sheppard]] — $2,455,553
+- [[Players/Ben Simmons]] — $1,017,781
+- [[Players/Bennedict Mathurin]] — $8,084,139
+- [[Players/Bilal Coulibaly]] — $6,401,796
+- [[Players/Bismack Biyombo]] — $2,020,490
+- [[Players/Blake Griffin]] — $1,017,781
+- [[Players/Blake Wesley]] — $4,965,916
+- [[Players/Bol Bol]] — $2,500,000
+- [[Players/Bones Hyland]] — $2,020,490
+- [[Players/Brad Wanamaker]] — $925,258
+- [[Players/Brandin Podziemski]] — $3,245,034
+- [[Players/Brandon Boston]] — $2,500,000
+- [[Players/Brandon Clarke]] — $9,998,819
+- [[Players/Brandon Goodwin]] — $925,258
+- [[Players/Brandon Williams]] — $1,651,254
+- [[Players/Brice Sensabaugh]] — $2,370,238
+- [[Players/Brook Lopez]] — $7,699,119
+- [[Players/Bruce Brown]] — $2,020,490
+- [[Players/Bruno Fernando]] — $1,119,563
+- [[Players/Bryce McGowens]] — $1,119,563
+- [[Players/Bryn Forbes]] — $1,017,781
+- [[Players/Buddy Hield]] — $8,112,243
+- [[Players/CJ Elleby]] — $925,258
+- [[Players/Caleb Houstan]] — $2,019,706
+- [[Players/Caleb Martin]] — $8,441,793
+- [[Players/Cam Reddish]] — $7,000,000
+- [[Players/Cam Thomas]] — $6,016,557
+- [[Players/Cam Whitmore]] — $3,114,633
+- [[Players/Cameron Payne]] — $6,000,000
+- [[Players/Carmelo Anthony]] — $925,258
+- [[Players/Cason Wallace]] — $5,121,225
+- [[Players/Cedi Osman]] — $4,000,000
+- [[Players/Charles Bassey]] — $1,017,781
+- [[Players/Chimezie Metu]] — $3,300,000
+- [[Players/Chris Boucher]] — $2,020,490
+- [[Players/Chris Chiozza]] — $925,258
+- [[Players/Chris Duarte]] — $4,000,000
+- [[Players/Chris Paul]] — $2,020,490
+- [[Players/Christian Braun]] — $4,330,686
+- [[Players/Christian Koloko]] — $1,017,781
+- [[Players/Chuma Okeke]] — $1,017,781
+- [[Players/Clint Capela]] — $5,895,326
+- [[Players/Cody Martin]] — $8,600,000
+- [[Players/Cody Zeller]] — $925,258
+- [[Players/Cole Anthony]] — $5,276,118
+- [[Players/Cory Joseph]] — $2,879,403
+- [[Players/Craig Porter Jr.]] — $1,954,852
+- [[Players/D'Angelo Russell]] — $5,002,228
+- [[Players/D.J. Augustin]] — $925,258
+- [[Players/Daishen Nix]] — $1,017,781
+- [[Players/Dalano Banton]] — $2,019,706
+- [[Players/Dalen Terry]] — $4,750,680
+- [[Players/Damian Jones]] — $1,017,781
+- [[Players/Damion Lee]] — $1,017,781
+- [[Players/Danilo Gallinari]] — $6,500,000
+- [[Players/Danny Green]] — $925,258
+- [[Players/Dante Exum]] — $7,560,000
+- [[Players/Danuel House Jr.]] — $1,119,563
+- [[Players/Dario Saric]] — $5,500,000
+- [[Players/Darius Bazley]] — $1,017,781
+- [[Players/David Duke Jr.]] — $925,258
+- [[Players/David Nwaba]] — $925,258
+- [[Players/David Roddy]] — $2,019,706
+- [[Players/Davon Reed]] — $925,258
+- [[Players/Day'Ron Sharpe]] — $5,499,371
+- [[Players/De'Anthony Melton]] — $2,710,900
+- [[Players/DeAndre Jordan]] — $1,997,266
+- [[Players/DeAndre' Bembry]] — $925,258
+- [[Players/DeMarcus Cousins]] — $925,258
+- [[Players/Dean Wade]] — $5,827,975
+- [[Players/Delon Wright]] — $4,000,000
+- [[Players/Dennis Smith Jr.]] — $3,000,000
+- [[Players/Dereck Lively II]] — $4,622,428
+- [[Players/Derrick Favors]] — $925,258
+- [[Players/Derrick Jones Jr.]] — $8,798,993
+- [[Players/Derrick Rose]] — $2,879,403
+- [[Players/Dewayne Dedmon]] — $1,017,781
+- [[Players/Dominick Barlow]] — $3,004,856
+- [[Players/Doug McDermott]] — $2,020,490
+- [[Players/Drew Eubanks]] — $2,020,490
+- [[Players/Duane Washington Jr.]] — $1,017,781
+- [[Players/Duop Reath]] — $1,954,852
+- [[Players/Dwight Howard]] — $925,258
+- [[Players/Dwight Powell]] — $3,519,597
+- [[Players/Dyson Daniels]] — $6,782,008
+- [[Players/Edmond Sumner]] — $1,017,781
+- [[Players/Elfrid Payton]] — $925,258
+- [[Players/Elijah Hughes]] — $925,258
+- [[Players/Enes Freedom]] — $925,258
+- [[Players/Eric Bledsoe]] — $925,258
+- [[Players/Eric Gordon]] — $2,020,490
+- [[Players/Eric Paschall]] — $925,258
+- [[Players/Eugene Omoruyi]] — $1,017,781
+- [[Players/Facundo Campazzo]] — $925,258
+- [[Players/Frank Jackson]] — $925,258
+- [[Players/Frank Ntilikina]] — $1,017,781
+- [[Players/Furkan Korkmaz]] — $925,258
+- [[Players/GG Jackson]] — $2,019,706
+- [[Players/Gabe Vincent]] — $9,198,914
+- [[Players/Garrett Temple]] — $2,020,490
+- [[Players/Garrison Mathews]] — $1,119,563
+- [[Players/Gary Clark]] — $925,258
+- [[Players/Gary Harris]] — $3,197,689
+- [[Players/Gary Payton II]] — $2,020,490
+- [[Players/Gary Trent Jr.]] — $3,253,080
+- [[Players/George Hill]] — $1,017,781
+- [[Players/Georges Niang]] — $7,215,175
+- [[Players/Goga Bitadze]] — $7,332,494
+- [[Players/Goran Dragic]] — $1,017,781
+- [[Players/Gorgui Dieng]] — $1,017,781
+- [[Players/Gradey Dick]] — $4,391,190
+- [[Players/Greg Brown III]] — $925,258
+- [[Players/Hamidou Diallo]] — $1,017,781
+- [[Players/Hassan Whiteside]] — $925,258
+- [[Players/Haywood Highsmith]] — $5,670,057
+- [[Players/Ibou Badji]] — $1,119,563
+- [[Players/Ignas Brazdeikis]] — $925,258
+- [[Players/Isaac Okoro]] — $9,678,893
+- [[Players/Isaiah Jackson]] — $6,687,235
+- [[Players/Isaiah Livers]] — $1,119,563
+- [[Players/Isaiah Roby]] — $1,017,781
+- [[Players/Isaiah Thomas]] — $925,258
+- [[Players/Ish Smith]] — $2,879,403
+- [[Players/Ish Wainright]] — $1,017,781
+- [[Players/JT Thor]] — $2,019,706
+- [[Players/JaMychal Green]] — $1,017,781
+- [[Players/JaVale McGee]] — $1,606,256
+- [[Players/Jabari Walker]] — $2,019,706
+- [[Players/Jacob Gilyard]] — $1,119,563
+- [[Players/Jaden Hardy]] — $5,279,396
+- [[Players/Jaden Ivey]] — $8,893,286
+- [[Players/Jaden Springer]] — $2,019,706
+- [[Players/Jae Crowder]] — $6,833,333
+- [[Players/Jae'Sean Tate]] — $2,020,490
+- [[Players/Jaime Jaquez Jr.]] — $3,397,819
+- [[Players/Jake LaRavia]] — $5,279,396
+- [[Players/Jalen Duren]] — $5,704,514
+- [[Players/Jalen McDaniels]] — $4,000,000
+- [[Players/Jalen Smith]] — $7,919,094
+- [[Players/Jalen Williams]] — $5,790,615
+- [[Players/Jalen Wilson]] — $1,954,852
+- [[Players/Jamal Cain]] — $1,119,563
+- [[Players/James Bouknight]] — $1,017,781
+- [[Players/James Johnson]] — $925,258
+- [[Players/Jarace Walker]] — $5,864,987
+- [[Players/Jared Butler]] — $2,019,706
+- [[Players/Javon Freeman-Liberty]] — $1,119,563
+- [[Players/Javonte Green]] — $1,836,802
+- [[Players/Jaxson Hayes]] — $3,035,057
+- [[Players/Jaylen Nowell]] — $1,017,781
+- [[Players/Jaylin Williams]] — $7,435,769
+- [[Players/Jeff Dowtin Jr.]] — $1,017,781
+- [[Players/Jeff Green]] — $2,020,490
+- [[Players/Jeremiah Robinson-Earl]] — $1,017,781
+- [[Players/Jeremy Lamb]] — $925,258
+- [[Players/Jeremy Sochan]] — $6,929,078
+- [[Players/Jericho Sims]] — $2,165,840
+- [[Players/Jevon Carter]] — $6,758,088
+- [[Players/Jock Landale]] — $2,020,490
+- [[Players/Joe Harris]] — $1,017,781
+- [[Players/Joe Ingles]] — $2,020,490
+- [[Players/John Konchar]] — $5,424,579
+- [[Players/John Wall]] — $1,017,781
+- [[Players/Johnny Davis]] — $5,000,000
+- [[Players/Johnny Juzang]] — $1,119,563
+- [[Players/Jonas Valančiūnas]] — $9,146,554
+- [[Players/Jontay Porter]] — $2,019,706
+- [[Players/Jordan Goodwin]] — $2,067,392
+- [[Players/Jordan Hawkins]] — $4,171,884
+- [[Players/Jordan McLaughlin]] — $2,020,490
+- [[Players/Jordan Nwora]] — $2,019,706
+- [[Players/Jose Alvarado]] — $3,959,547
+- [[Players/Josh Christopher]] — $1,017,781
+- [[Players/Josh Jackson]] — $925,258
+- [[Players/Josh Okogie]] — $2,020,490
+- [[Players/Josh Richardson]] — $4,780,000
+- [[Players/Joshua Primo]] — $925,258
+- [[Players/Juan Toscano-Anderson]] — $1,017,781
+- [[Players/Juancho Hernangomez]] — $1,017,781
+- [[Players/Julian Champagnie]] — $2,639,698
+- [[Players/Julian Strawther]] — $2,353,027
+- [[Players/Justin Holiday]] — $3,000,000
+- [[Players/Justin Minaya]] — $1,119,563
+- [[Players/Justin Robinson]] — $925,258
+- [[Players/Justise Winslow]] — $1,017,781
+- [[Players/KJ Martin]] — $6,000,000
+- [[Players/KZ Okpala]] — $925,258
+- [[Players/Kai Jones]] — $1,017,781
+- [[Players/Keegan Murray]] — $9,805,680
+- [[Players/Keifer Sykes]] — $925,258
+- [[Players/Keita Bates-Diop]] — $3,000,000
+- [[Players/Kelan Martin]] — $925,258
+- [[Players/Keljin Blevins]] — $925,258
+- [[Players/Kelly Oubre Jr.]] — $7,375,448
+- [[Players/Kemba Walker]] — $925,258
+- [[Players/Kendrick Nunn]] — $1,017,781
+- [[Players/Kenrich Williams]] — $6,302,719
+- [[Players/Kent Bazemore]] — $925,258
+- [[Players/Keon Ellis]] — $2,025,165
+- [[Players/Keon Johnson]] — $1,879,440
+- [[Players/Kessler Edwards]] — $1,017,781
+- [[Players/Kevin Knox II]] — $1,119,563
+- [[Players/Kevin Love]] — $3,651,582
+- [[Players/Kevin Porter Jr.]] — $4,106,715
+- [[Players/Kevon Harris]] — $1,017,781
+- [[Players/Kevon Looney]] — $7,039,195
+- [[Players/Keyonte George]] — $3,765,054
+- [[Players/Khem Birch]] — $925,258
+- [[Players/Killian Hayes]] — $7,500,000
+- [[Players/Killian Tillie]] — $925,258
+- [[Players/Kira Lewis Jr.]] — $925,258
+- [[Players/Kris Dunn]] — $4,774,686
+- [[Players/Kris Murray]] — $2,755,845
+- [[Players/Kyle Anderson]] — $8,112,243
+- [[Players/Kyle Lowry]] — $2,020,490
+- [[Players/LaMarcus Aldridge]] — $925,258
+- [[Players/Lamar Stevens]] — $2,500,000
+- [[Players/Lance Stephenson]] — $925,258
+- [[Players/Landry Shamet]] — $2,020,490
+- [[Players/Larry Nance Jr.]] — $2,020,490
+- [[Players/Leaky Black]] — $1,119,563
+- [[Players/Lester Quinones]] — $1,836,090
+- [[Players/Lindy Waters III]] — $1,836,802
+- [[Players/Lonnie Walker IV]] — $6,100,000
+- [[Players/Lonzo Ball]] — $7,271,892
+- [[Players/Lou Williams]] — $925,258
+- [[Players/Luka Garza]] — $1,789,949
+- [[Players/Luke Kennard]] — $9,678,893
+- [[Players/Luke Kornet]] — $9,678,893
+- [[Players/Malachi Flynn]] — $2,000,000
+- [[Players/Malaki Branham]] — $4,366,090
+- [[Players/MarJon Beauchamp]] — $2,019,706
+- [[Players/Marcus Sasser]] — $2,540,023
+- [[Players/Mark Williams]] — $5,020,632
+- [[Players/Markieff Morris]] — $1,017,781
+- [[Players/Marquese Chriss]] — $925,258
+- [[Players/Marvin Bagley III]] — $2,020,490
+- [[Players/Mason Plumlee]] — $2,659,151
+- [[Players/Matt Ryan]] — $1,119,563
+- [[Players/Matt Thomas]] — $925,258
+- [[Players/Maurice Harkless]] — $925,258
+- [[Players/Max Christie]] — $6,787,795
+- [[Players/Maxi Kleber]] — $9,678,893
+- [[Players/McKinley Wright IV]] — $1,017,781
+- [[Players/Mike Muscala]] — $2,800,000
+- [[Players/Miles McBride]] — $3,812,897
+- [[Players/Mo Bamba]] — $8,100,000
+- [[Players/Monte Morris]] — $5,000,000
+- [[Players/Montrezl Harrell]] — $1,017,781
+- [[Players/Moritz Wagner]] — $4,399,497
+- [[Players/Naji Marshall]] — $7,919,094
+- [[Players/Nassir Little]] — $2,733,973
+- [[Players/Nathan Mensah]] — $1,119,563
+- [[Players/Neemias Queta]] — $2,067,392
+- [[Players/Nemanja Bjelica]] — $925,258
+- [[Players/Nerlens Noel]] — $925,258
+- [[Players/Nick Richards]] — $4,399,497
+- [[Players/Nick Smith Jr.]] — $2,385,126
+- [[Players/Nicolas Batum]] — $4,928,844
+- [[Players/Nikola Jović]] — $3,911,520
+- [[Players/Noah Clowney]] — $2,990,461
+- [[Players/Ochai Agbaji]] — $5,616,859
+- [[Players/Olivier Sarr]] — $925,258
+- [[Players/Omer Yurtseven]] — $2,019,706
+- [[Players/Onuralp Bitim]] — $1,119,563
+- [[Players/Orlando Robinson]] — $1,017,781
+- [[Players/Oshae Brissett]] — $2,200,000
+- [[Players/Otto Porter Jr.]] — $925,258
+- [[Players/Ousmane Dieng]] — $5,869,705
+- [[Players/Pat Connaughton]] — $9,449,840
+- [[Players/Patrick Baldwin Jr.]] — $2,019,706
+- [[Players/Patrick Beverley]] — $4,500,000
+- [[Players/Patty Mills]] — $3,000,000
+- [[Players/Paul Millsap]] — $925,258
+- [[Players/Paul Reed]] — $4,695,050
+- [[Players/Payton Pritchard]] — $6,363,558
+- [[Players/Peyton Watson]] — $3,833,260
+- [[Players/Precious Achiuwa]] — $1,857,922
+- [[Players/Quentin Grimes]] — $7,691,384
+- [[Players/R.J. Hampton]] — $1,017,781
+- [[Players/Rajon Rondo]] — $925,258
+- [[Players/Raul Neto]] — $1,017,781
+- [[Players/Rayan Rupert]] — $2,070,972
+- [[Players/Reggie Bullock Jr.]] — $1,017,781
+- [[Players/Reggie Jackson]] — $6,900,000
+- [[Players/Ricky Rubio]] — $1,017,781
+- [[Players/Robert Williams III]] — $1,017,781
+- [[Players/Robin Lopez]] — $925,258
+- [[Players/Rodney Hood]] — $925,258
+- [[Players/Rodney McGruder]] — $1,017,781
+- [[Players/Romeo Langford]] — $1,017,781
+- [[Players/Royce O'Neale]] — $8,908,981
+- [[Players/Rudy Gay]] — $1,017,781
+- [[Players/Russell Westbrook]] — $2,020,490
+- [[Players/Saben Lee]] — $1,017,781
+- [[Players/Saddiq Bey]] — $5,383,791
+- [[Players/Sam Hauser]] — $8,838,276
+- [[Players/Sam Merrill]] — $7,463,433
+- [[Players/Sandro Mamukelashvili]] — $1,968,938
+- [[Players/Sasha Vezenkov]] — $2,000,000
+- [[Players/Scoot Henderson]] — $9,457,193
+- [[Players/Scotty Pippen Jr.]] — $1,998,018
+- [[Players/Semi Ojeleye]] — $925,258
+- [[Players/Serge Ibaka]] — $925,258
+- [[Players/Seth Curry]] — $1,544,398
+- [[Players/Shaedon Sharpe]] — $7,391,140
+- [[Players/Shake Milton]] — $4,000,000
+- [[Players/Simone Fontecchio]] — $7,309,933
+- [[Players/Skylar Mays]] — $1,119,563
+- [[Players/Spencer Dinwiddie]] — $5,200,000
+- [[Players/Stanley Johnson]] — $1,017,781
+- [[Players/Stanley Umude]] — $1,119,563
+- [[Players/Sterling Brown]] — $925,258
+- [[Players/Svi Mykhailiuk]] — $3,233,630
+- [[Players/T.J. McConnell]] — $8,974,973
+- [[Players/T.J. Warren]] — $1,017,781
+- [[Players/Taj Gibson]] — $1,119,563
+- [[Players/Tari Eason]] — $4,994,103
+- [[Players/Taurean Prince]] — $2,906,989
+- [[Players/Taylor Hendricks]] — $5,391,214
+- [[Players/Terence Davis]] — $1,017,781
+- [[Players/Terrence Ross]] — $1,017,781
+- [[Players/Terry Taylor]] — $925,258
+- [[Players/Thaddeus Young]] — $4,500,000
+- [[Players/Theo Maledon]] — $1,017,781
+- [[Players/Thomas Bryant]] — $2,020,490
+- [[Players/Tim Hardaway Jr.]] — $2,020,490
+- [[Players/Timothe Luwawu-Cabarrot]] — $925,258
+- [[Players/Tomas Satoransky]] — $925,258
+- [[Players/Tony Bradley]] — $2,330,508
+- [[Players/Tony Snell]] — $925,258
+- [[Players/Torrey Craig]] — $3,000,000
+- [[Players/Toumani Camara]] — $1,954,852
+- [[Players/Trayce Jackson-Davis]] — $1,954,852
+- [[Players/Tre Jones]] — $7,039,195
+- [[Players/Tre Mann]] — $7,039,195
+- [[Players/Trendon Watford]] — $2,165,840
+- [[Players/Trent Forrest]] — $1,836,090
+- [[Players/Trevor Ariza]] — $925,258
+- [[Players/Trey Burke]] — $925,258
+- [[Players/Trey Jemison III]] — $1,119,563
+- [[Players/Trey Lyles]] — $6,000,000
+- [[Players/Tristan Thompson]] — $2,879,403
+- [[Players/Troy Brown Jr.]] — $2,800,000
+- [[Players/Ty Jerome]] — $7,023,971
+- [[Players/TyTy Washington Jr.]] — $1,017,781
+- [[Players/Tyler Cook]] — $925,258
+- [[Players/Tyus Jones]] — $6,159,295
+- [[Players/Udoka Azubuike]] — $1,017,781
+- [[Players/Usman Garuba]] — $1,017,781
+- [[Players/Vasilije Micic]] — $2,000,000
+- [[Players/Victor Oladipo]] — $1,017,781
+- [[Players/Vince Williams Jr.]] — $2,025,165
+- [[Players/Vlatko Čančar]] — $1,017,781
+- [[Players/Vít Krejčí]] — $2,067,392
+- [[Players/Walker Kessler]] — $4,292,974
+- [[Players/Wayne Ellington]] — $925,258
+- [[Players/Wendell Carter Jr.]] — $9,546,908
+- [[Players/Wenyen Gabriel]] — $1,017,781
+- [[Players/Wesley Matthews]] — $2,879,403
+- [[Players/Will Barton]] — $1,017,781
+- [[Players/Willy Hernangomez]] — $1,017,781
+- [[Players/Xavier Tillman]] — $2,500,000
+- [[Players/Yuta Watanabe]] — $2,500,000
+- [[Players/Zeke Nnaji]] — $6,541,450
+- [[Players/Ziaire Williams]] — $5,499,371
