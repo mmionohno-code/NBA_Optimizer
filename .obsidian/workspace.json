@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "cf5e4b6b8e67d180",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38dca751255d1fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "910b1aa69a227827",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3d graph"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cc135e2cb1ad15a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e66006f95cacec06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e818f8e9f2cb26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "883c3615f1a03d08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e7ecfb4ff6afa74c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cdd60c598693e743",
+    "type": "split",
+    "children": [
+      {
+        "id": "51e2ecdd431655fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a58ad0fb3d166861",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6b9c29fbc4c6142a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "222d00a8799ecc4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d734dca50d4280a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3fc986669ed0fd34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "new-3d-graph:Open 3d graph": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "910b1aa69a227827",
+  "lastOpenFiles": [
+    "~$NBA_Optimizer_Presentation.tmp",
+    "12_create_research_vault.py.tmp.5944.c8f35f6db1aa",
+    "11_generate_pipeline_docs.py.tmp.5944.65e7b5ccf1cb",
+    "NBA_Knowledge_Base/Players/Seasons/KZ Okpala (2021-22).md",
+    "NBA_Knowledge_Base/Players/Seasons/Duncan Robinson (2022-23).md",
+    "NBA_Knowledge_Base/Players/Seasons/Haywood Highsmith (2022-23).md",
+    "NBA_Knowledge_Base/Players/Seasons/Omer Yurtseven (2021-22).md",
+    "NBA_Knowledge_Base/Players/Seasons/Bam Adebayo (2021-22).md",
+    "NBA_Knowledge_Base/Players/Seasons/Jimmy Butler III (2022-23).md",
+    "NBA_Knowledge_Base/Players/Seasons/Dewayne Dedmon (2021-22).md",
+    "NBA_Knowledge_Base/Players/Seasons/Max Strus (2021-22).md",
+    "NBA_Knowledge_Base/Players/Seasons/P.J. Tucker (2021-22).md",
+    "NBA_Knowledge_Base/Players/Seasons/Caleb Martin (2022-23).md",
+    "NBA_Knowledge_Base/Players/Seasons/Max Strus (2022-23).md",
+    "NBA_Knowledge_Base/Players/KZ Okpala.md",
+    "NBA_Knowledge_Base/Players/Orlando Robinson.md",
+    "NBA_Knowledge_Base/Players/Gabe Vincent.md",
+    "NBA_Knowledge_Base/Players/Victor Oladipo.md",
+    "nba_optimizer.db-journal",
+    "01_feature_engineering.py.tmp.5944.56757aed55b2",
+    "Untitled.base",
+    "_mse_analysis.py",
+    "NBA_Knowledge_Base/Teams/POR - Portland Trail Blazers.md",
+    "NBA_Knowledge_Base/Archetypes/Versatile Scorer.md",
+    "Players/1631212.md",
+    "NBA_Knowledge_Base/Synergy_Pairs/1629008 + 1631212.md",
+    "Players",
+    "NBA_Knowledge_Base/Synergy_Pairs/203471 + 1628969.md",
+    "NBA_Knowledge_Base/Methodology/VORPD Explained.md",
+    "NBA_Knowledge_Base/Teams/MIN - Minnesota Timberwolves.md",
+    "NBA_Knowledge_Base/Archetypes/Perimeter Scorer.md",
+    "NBA_Knowledge_Base/Players/Norman Powell.md",
+    "NBA_Knowledge_Base/Salary_Tiers/Role.md"
+  ]
+}

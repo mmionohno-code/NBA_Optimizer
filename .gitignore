@@ -1,4 +1,4 @@
-# Claude Code internal files
+﻿# Claude Code internal files
 .claude/
 
 # Python cache
@@ -13,13 +13,3 @@ Thumbs.db
 *.tmp
 salary_check.csv
 wrong_salaries.csv
-
-# Obsidian - machine-specific files (don't share these)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache
-
-# Obsidian - empty scratch files
-Untitled*.md
-Untitled*.canvas
-Untitled*.base
