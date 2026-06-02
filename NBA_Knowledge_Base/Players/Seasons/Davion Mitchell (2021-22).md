@@ -4,12 +4,12 @@ player: "Davion Mitchell"
 season: "2021-22"
 team: "SAC"
 archetype: "Versatile Scorer"
-composite_score: 48.85
+composite_score: 44.18
 salary: 8435395
-vorpd: 2.77
-off_rating_adj: -2.67
-def_rating_adj: 1.01
-on_off_diff: -1.28
+vorpd: 2.80
+off_rating_adj: -2.15
+def_rating_adj: 0.82
+on_off_diff: -1.03
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | SAC |
-| Composite Score | **48.9** / 100 |
+| Composite Score | **44.2** / 100 |
 | Salary | $8,435,395 |
-| VORPD | 2.77 |
-| Off Rating Adj | -2.67 |
-| Def Rating Adj | 1.01 |
-| On/Off Diff | -1.28 |
-| TS% | 50.0% |
-| 3P% | 31.6% |
+| VORPD | 2.80 |
+| Off Rating Adj | -2.15 |
+| Def Rating Adj | 0.82 |
+| On/Off Diff | -1.03 |
+| TS% | 50.7% |
+| 3P% | 33.6% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

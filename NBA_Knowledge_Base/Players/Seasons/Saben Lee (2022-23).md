@@ -4,12 +4,12 @@ player: "Saben Lee"
 season: "2022-23"
 team: "PHX"
 archetype: "Bench / Role Player"
-composite_score: 36.21
+composite_score: 29.60
 salary: 1017781
-vorpd: 10.57
-off_rating_adj: -11.52
-def_rating_adj: 4.98
-on_off_diff: -10.55
+vorpd: 12.49
+off_rating_adj: -4.92
+def_rating_adj: 2.12
+on_off_diff: -4.49
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | PHX |
-| Composite Score | **36.2** / 100 |
+| Composite Score | **29.6** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 10.57 |
-| Off Rating Adj | -11.52 |
-| Def Rating Adj | 4.98 |
-| On/Off Diff | -10.55 |
-| TS% | 55.0% |
-| 3P% | 36.7% |
+| VORPD | 12.49 |
+| Off Rating Adj | -4.92 |
+| Def Rating Adj | 2.12 |
+| On/Off Diff | -4.49 |
+| TS% | 55.8% |
+| 3P% | 36.8% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

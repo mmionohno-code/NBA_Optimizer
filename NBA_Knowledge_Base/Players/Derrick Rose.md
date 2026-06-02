@@ -3,12 +3,12 @@ player: "Derrick Rose"
 team: "MEM"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 54.23
+composite_score: 39.49
 salary: 2879403
-vorpd: 9.99
-off_rating_adj: -2.24
-def_rating_adj: 4.00
-on_off_diff: 6.35
+vorpd: 7.77
+off_rating_adj: -0.99
+def_rating_adj: 1.77
+on_off_diff: 2.81
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **54.2** / 100 |
+| Composite Score | **39.5** / 100 |
 | Salary | $2,879,403 |
-| VORPD | 9.99 |
-| Off Rating Adj | -2.24 |
-| Def Rating Adj | 4.00 |
-| On/Off Diff | 6.35 |
-| TS% | 55.7% |
-| 3P% | 36.6% |
+| VORPD | 7.77 |
+| Off Rating Adj | -0.99 |
+| Def Rating Adj | 1.77 |
+| On/Off Diff | 2.81 |
+| TS% | 56.2% |
+| 3P% | 37.3% |
 | Influence Score | 0.12 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-10.8 pts over 3 seasons)
+> **Trend:** Trending DOWN (-13.7 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MEM | 54.2 | $2879403 | 9.99 | -2.24 | 4.00 | 6.35 |
-| 2022-23 | NYK | 35.5 | $1017781 | 9.90 | -8.67 | 4.37 | -5.82 |
-| 2021-22 | NYK | 65.0 | $925258 | 42.73 | 1.37 | 5.02 | 7.46 |
+| 2023-24 | MEM | 39.5 | $2879403 | 7.77 | -0.99 | 1.77 | 2.81 |
+| 2022-23 | NYK | 29.2 | $1017781 | 12.13 | -3.49 | 1.76 | -2.34 |
+| 2021-22 | NYK | 53.2 | $925258 | 35.29 | 0.77 | 2.81 | 4.18 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (0.21, 0.87)
+- **Cluster:** 2
+- **PCA Position:** (-0.06, 0.38)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

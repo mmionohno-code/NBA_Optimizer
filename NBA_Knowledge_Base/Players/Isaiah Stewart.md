@@ -3,12 +3,12 @@ player: "Isaiah Stewart"
 team: "DET"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 42.73
+composite_score: 34.17
 salary: 13198490
-vorpd: 1.31
-off_rating_adj: 3.79
-def_rating_adj: 0.65
-on_off_diff: 9.54
+vorpd: 1.29
+off_rating_adj: 2.80
+def_rating_adj: 0.48
+on_off_diff: 7.05
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **42.7** / 100 |
+| Composite Score | **34.2** / 100 |
 | Salary | $13,198,490 |
-| VORPD | 1.31 |
-| Off Rating Adj | 3.79 |
-| Def Rating Adj | 0.65 |
-| On/Off Diff | 9.54 |
-| TS% | 59.3% |
-| 3P% | 38.3% |
+| VORPD | 1.29 |
+| Off Rating Adj | 2.80 |
+| Def Rating Adj | 0.48 |
+| On/Off Diff | 7.05 |
+| TS% | 59.0% |
+| 3P% | 37.8% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+15.9 pts over 3 seasons)
+> **Trend:** Trending UP (+16.2 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DET | 42.7 | $13198490 | 1.31 | 3.79 | 0.65 | 9.54 |
-| 2022-23 | DET | 36.2 | $11998583 | 0.89 | 0.49 | -0.26 | 1.19 |
-| 2021-22 | DET | 26.8 | $10907838 | 0.12 | -1.47 | -0.17 | -2.98 |
+| 2023-24 | DET | 34.2 | $13198490 | 1.29 | 2.80 | 0.48 | 7.05 |
+| 2022-23 | DET | 29.3 | $11998583 | 1.03 | 0.36 | -0.19 | 0.88 |
+| 2021-22 | DET | 18.0 | $10907838 | 0.00 | -1.15 | -0.14 | -2.34 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.91, -2.08)
+- **Cluster:** 3
+- **PCA Position:** (0.91, -2.17)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

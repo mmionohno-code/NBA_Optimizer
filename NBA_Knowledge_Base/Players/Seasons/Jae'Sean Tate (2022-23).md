@@ -4,12 +4,12 @@ player: "Jae'Sean Tate"
 season: "2022-23"
 team: "HOU"
 archetype: "Defensive Wing"
-composite_score: 47.82
+composite_score: 38.51
 salary: 1836802
-vorpd: 12.18
-off_rating_adj: -0.73
-def_rating_adj: 2.23
-on_off_diff: 0.74
+vorpd: 11.77
+off_rating_adj: -0.42
+def_rating_adj: 1.28
+on_off_diff: 0.42
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | HOU |
-| Composite Score | **47.8** / 100 |
+| Composite Score | **38.5** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 12.18 |
-| Off Rating Adj | -0.73 |
-| Def Rating Adj | 2.23 |
-| On/Off Diff | 0.74 |
-| TS% | 55.8% |
-| 3P% | 28.3% |
+| VORPD | 11.77 |
+| Off Rating Adj | -0.42 |
+| Def Rating Adj | 1.28 |
+| On/Off Diff | 0.42 |
+| TS% | 56.2% |
+| 3P% | 35.5% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

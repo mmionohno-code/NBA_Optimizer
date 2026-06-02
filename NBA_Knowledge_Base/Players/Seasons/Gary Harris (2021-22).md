@@ -4,12 +4,12 @@ player: "Gary Harris"
 season: "2021-22"
 team: "ORL"
 archetype: "Perimeter Scorer"
-composite_score: 48.39
+composite_score: 40.21
 salary: 2642717
-vorpd: 8.68
-off_rating_adj: 1.49
-def_rating_adj: 1.31
-on_off_diff: 5.01
+vorpd: 7.44
+off_rating_adj: 1.15
+def_rating_adj: 1.01
+on_off_diff: 3.89
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | ORL |
-| Composite Score | **48.4** / 100 |
+| Composite Score | **40.2** / 100 |
 | Salary | $2,642,717 |
-| VORPD | 8.68 |
-| Off Rating Adj | 1.49 |
-| Def Rating Adj | 1.31 |
-| On/Off Diff | 5.01 |
-| TS% | 56.9% |
-| 3P% | 38.4% |
+| VORPD | 7.44 |
+| Off Rating Adj | 1.15 |
+| Def Rating Adj | 1.01 |
+| On/Off Diff | 3.89 |
+| TS% | 56.8% |
+| 3P% | 37.4% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

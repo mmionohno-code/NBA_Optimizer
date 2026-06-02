@@ -4,12 +4,12 @@ player: "Austin Reaves"
 season: "2021-22"
 team: "LAL"
 archetype: "Defensive Wing"
-composite_score: 44.94
+composite_score: 38.42
 salary: 10135254
-vorpd: 1.92
-off_rating_adj: 1.95
-def_rating_adj: 3.01
-on_off_diff: 6.61
+vorpd: 1.76
+off_rating_adj: 1.44
+def_rating_adj: 2.22
+on_off_diff: 4.89
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | LAL |
-| Composite Score | **44.9** / 100 |
+| Composite Score | **38.4** / 100 |
 | Salary | $10,135,254 |
-| VORPD | 1.92 |
-| Off Rating Adj | 1.95 |
-| Def Rating Adj | 3.01 |
-| On/Off Diff | 6.61 |
-| TS% | 58.8% |
-| 3P% | 31.7% |
+| VORPD | 1.76 |
+| Off Rating Adj | 1.44 |
+| Def Rating Adj | 2.22 |
+| On/Off Diff | 4.89 |
+| TS% | 58.2% |
+| 3P% | 34.4% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

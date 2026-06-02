@@ -4,12 +4,12 @@ player: "Charles Bassey"
 season: "2022-23"
 team: "SAS"
 archetype: "Defensive Wing"
-composite_score: 48.81
+composite_score: 37.07
 salary: 1017781
-vorpd: 22.95
-off_rating_adj: 1.59
-def_rating_adj: 4.95
-on_off_diff: 8.06
+vorpd: 19.83
+off_rating_adj: 0.80
+def_rating_adj: 2.49
+on_off_diff: 4.06
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | SAS |
-| Composite Score | **48.8** / 100 |
+| Composite Score | **37.1** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 22.95 |
-| Off Rating Adj | 1.59 |
-| Def Rating Adj | 4.95 |
-| On/Off Diff | 8.06 |
-| TS% | 61.5% |
-| 3P% | 35.0% |
+| VORPD | 19.83 |
+| Off Rating Adj | 0.80 |
+| Def Rating Adj | 2.49 |
+| On/Off Diff | 4.06 |
+| TS% | 60.3% |
+| 3P% | 36.4% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

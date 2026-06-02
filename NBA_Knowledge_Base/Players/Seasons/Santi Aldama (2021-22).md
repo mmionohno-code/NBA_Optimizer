@@ -4,12 +4,12 @@ player: "Santi Aldama"
 season: "2021-22"
 team: "MEM"
 archetype: "Bench / Role Player"
-composite_score: 27.53
+composite_score: 24.64
 salary: 13442759
-vorpd: 0.15
-off_rating_adj: -6.23
-def_rating_adj: 2.46
-on_off_diff: -6.28
+vorpd: 0.30
+off_rating_adj: -2.60
+def_rating_adj: 1.03
+on_off_diff: -2.62
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | MEM |
-| Composite Score | **27.5** / 100 |
+| Composite Score | **24.6** / 100 |
 | Salary | $13,442,759 |
-| VORPD | 0.15 |
-| Off Rating Adj | -6.23 |
-| Def Rating Adj | 2.46 |
-| On/Off Diff | -6.28 |
-| TS% | 51.1% |
-| 3P% | 12.5% |
+| VORPD | 0.30 |
+| Off Rating Adj | -2.60 |
+| Def Rating Adj | 1.03 |
+| On/Off Diff | -2.62 |
+| TS% | 52.7% |
+| 3P% | 32.4% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

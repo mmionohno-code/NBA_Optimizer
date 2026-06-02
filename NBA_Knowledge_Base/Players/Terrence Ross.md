@@ -3,12 +3,12 @@ player: "Terrence Ross"
 team: "PHX"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 32.27
+composite_score: 24.25
 salary: 1017781
-vorpd: 6.70
-off_rating_adj: -0.12
-def_rating_adj: -4.62
-on_off_diff: -1.09
+vorpd: 7.24
+off_rating_adj: -0.09
+def_rating_adj: -3.36
+on_off_diff: -0.78
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **32.3** / 100 |
+| Composite Score | **24.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 6.70 |
-| Off Rating Adj | -0.12 |
-| Def Rating Adj | -4.62 |
-| On/Off Diff | -1.09 |
-| TS% | 55.2% |
+| VORPD | 7.24 |
+| Off Rating Adj | -0.09 |
+| Def Rating Adj | -3.36 |
+| On/Off Diff | -0.78 |
+| TS% | 55.6% |
 | 3P% | 36.8% |
 | Influence Score | 0.09 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Stable (-1.2 pts over 2 seasons)
+> **Trend:** Trending DOWN (-4.6 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | PHX | 32.3 | $1017781 | 6.70 | -0.12 | -4.62 | -1.09 |
-| 2021-22 | ORL | 33.5 | $925258 | 8.68 | -0.81 | -2.39 | -4.47 |
+| 2022-23 | PHX | 24.2 | $1017781 | 7.24 | -0.09 | -3.36 | -0.78 |
+| 2021-22 | ORL | 28.8 | $925258 | 8.93 | -0.60 | -1.78 | -3.32 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.84, 0.12)
+- **Cluster:** 1
+- **PCA Position:** (-0.99, 0.19)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

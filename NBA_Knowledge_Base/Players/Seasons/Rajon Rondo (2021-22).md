@@ -4,12 +4,12 @@ player: "Rajon Rondo"
 season: "2021-22"
 team: "CLE"
 archetype: "Bench / Role Player"
-composite_score: 41.28
+composite_score: 32.72
 salary: 925258
-vorpd: 17.10
-off_rating_adj: -10.01
-def_rating_adj: 1.83
-on_off_diff: -6.39
+vorpd: 13.15
+off_rating_adj: -5.83
+def_rating_adj: 1.07
+on_off_diff: -3.72
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | CLE |
-| Composite Score | **41.3** / 100 |
+| Composite Score | **32.7** / 100 |
 | Salary | $925,258 |
-| VORPD | 17.10 |
-| Off Rating Adj | -10.01 |
-| Def Rating Adj | 1.83 |
-| On/Off Diff | -6.39 |
-| TS% | 52.7% |
-| 3P% | 35.2% |
+| VORPD | 13.15 |
+| Off Rating Adj | -5.83 |
+| Def Rating Adj | 1.07 |
+| On/Off Diff | -3.72 |
+| TS% | 53.6% |
+| 3P% | 35.9% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

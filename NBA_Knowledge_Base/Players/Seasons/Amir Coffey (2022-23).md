@@ -4,12 +4,12 @@ player: "Amir Coffey"
 season: "2022-23"
 team: "LAC"
 archetype: "Bench / Role Player"
-composite_score: 14.26
+composite_score: 8.25
 salary: 1836802
 vorpd: 0.00
-off_rating_adj: -7.31
-def_rating_adj: 0.94
-on_off_diff: -11.95
+off_rating_adj: -4.06
+def_rating_adj: 0.52
+on_off_diff: -6.63
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | LAC |
-| Composite Score | **14.3** / 100 |
+| Composite Score | **8.2** / 100 |
 | Salary | $1,836,802 |
 | VORPD | 0.00 |
-| Off Rating Adj | -7.31 |
-| Def Rating Adj | 0.94 |
-| On/Off Diff | -11.95 |
-| TS% | 53.8% |
-| 3P% | 27.5% |
+| Off Rating Adj | -4.06 |
+| Def Rating Adj | 0.52 |
+| On/Off Diff | -6.63 |
+| TS% | 54.9% |
+| 3P% | 35.5% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

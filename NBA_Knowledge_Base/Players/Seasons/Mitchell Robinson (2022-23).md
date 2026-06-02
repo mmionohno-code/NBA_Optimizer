@@ -4,12 +4,12 @@ player: "Mitchell Robinson"
 season: "2022-23"
 team: "NYK"
 archetype: "Two-Way Big"
-composite_score: 45.72
+composite_score: 38.95
 salary: 10362413
-vorpd: 1.96
-off_rating_adj: 6.93
-def_rating_adj: -0.43
-on_off_diff: 6.10
+vorpd: 2.13
+off_rating_adj: 5.27
+def_rating_adj: -0.32
+on_off_diff: 4.66
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | NYK |
-| Composite Score | **45.7** / 100 |
+| Composite Score | **39.0** / 100 |
 | Salary | $10,362,413 |
-| VORPD | 1.96 |
-| Off Rating Adj | 6.93 |
-| Def Rating Adj | -0.43 |
-| On/Off Diff | 6.10 |
-| TS% | 62.5% |
-| 3P% | 35.0% |
+| VORPD | 2.13 |
+| Off Rating Adj | 5.27 |
+| Def Rating Adj | -0.32 |
+| On/Off Diff | 4.66 |
+| TS% | 61.4% |
+| 3P% | 36.4% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

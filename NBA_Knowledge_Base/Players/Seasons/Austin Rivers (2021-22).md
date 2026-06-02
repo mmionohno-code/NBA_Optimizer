@@ -4,12 +4,12 @@ player: "Austin Rivers"
 season: "2021-22"
 team: "DEN"
 archetype: "Bench / Role Player"
-composite_score: 35.86
+composite_score: 28.71
 salary: 925258
-vorpd: 11.24
-off_rating_adj: 1.30
-def_rating_adj: -0.52
-on_off_diff: -2.08
+vorpd: 8.82
+off_rating_adj: 0.97
+def_rating_adj: -0.39
+on_off_diff: -1.54
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | DEN |
-| Composite Score | **35.9** / 100 |
+| Composite Score | **28.7** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.24 |
-| Off Rating Adj | 1.30 |
-| Def Rating Adj | -0.52 |
-| On/Off Diff | -2.08 |
-| TS% | 55.1% |
-| 3P% | 34.2% |
+| VORPD | 8.82 |
+| Off Rating Adj | 0.97 |
+| Def Rating Adj | -0.39 |
+| On/Off Diff | -1.54 |
+| TS% | 55.3% |
+| 3P% | 35.2% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

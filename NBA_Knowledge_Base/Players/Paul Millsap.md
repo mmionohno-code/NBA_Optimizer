@@ -3,12 +3,12 @@ player: "Paul Millsap"
 team: "PHI"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 27.95
+composite_score: 23.96
 salary: 925258
-vorpd: 2.70
-off_rating_adj: -3.39
-def_rating_adj: -1.27
-on_off_diff: -6.08
+vorpd: 3.69
+off_rating_adj: -1.46
+def_rating_adj: -0.54
+on_off_diff: -2.60
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **27.9** / 100 |
+| Composite Score | **24.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 2.70 |
-| Off Rating Adj | -3.39 |
-| Def Rating Adj | -1.27 |
-| On/Off Diff | -6.08 |
-| TS% | 51.7% |
-| 3P% | 22.9% |
+| VORPD | 3.69 |
+| Off Rating Adj | -1.46 |
+| Def Rating Adj | -0.54 |
+| On/Off Diff | -2.60 |
+| TS% | 53.1% |
+| 3P% | 34.5% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | PHI | 27.9 | $925258 | 2.70 | -3.39 | -1.27 | -6.08 |
+| 2021-22 | PHI | 24.0 | $925258 | 3.69 | -1.46 | -0.54 | -2.60 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.79, 0.92)
+- **Cluster:** 5
+- **PCA Position:** (-2.08, 0.69)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

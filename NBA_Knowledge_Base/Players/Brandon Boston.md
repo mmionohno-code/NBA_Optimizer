@@ -3,12 +3,12 @@ player: "Brandon Boston"
 team: "LAC"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 7.70
+composite_score: 13.23
 salary: 2500000
 vorpd: 0.00
-off_rating_adj: -12.77
-def_rating_adj: -3.85
-on_off_diff: -18.76
+off_rating_adj: -5.22
+def_rating_adj: -1.57
+on_off_diff: -7.66
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **7.7** / 100 |
+| Composite Score | **13.2** / 100 |
 | Salary | $2,500,000 |
 | VORPD | 0.00 |
-| Off Rating Adj | -12.77 |
-| Def Rating Adj | -3.85 |
-| On/Off Diff | -18.76 |
-| TS% | 52.4% |
-| 3P% | 26.9% |
+| Off Rating Adj | -5.22 |
+| Def Rating Adj | -1.57 |
+| On/Off Diff | -7.66 |
+| TS% | 53.9% |
+| 3P% | 35.7% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-31.7 pts over 3 seasons)
+> **Trend:** Trending DOWN (-19.8 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | LAC | 7.7 | $2500000 | 0.00 | -12.77 | -3.85 | -18.76 |
-| 2022-23 | LAC | 24.5 | $1017781 | 0.00 | -4.71 | -0.46 | -11.51 |
-| 2021-22 | LAC | 39.4 | $925258 | 15.11 | -5.06 | 4.75 | -1.81 |
+| 2023-24 | LAC | 13.2 | $2500000 | 0.00 | -5.22 | -1.57 | -7.66 |
+| 2022-23 | LAC | 25.1 | $1017781 | 8.07 | -1.56 | -0.15 | -3.82 |
+| 2021-22 | LAC | 33.0 | $925258 | 13.48 | -3.05 | 2.86 | -1.08 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-4.49, 1.42)
+- **Cluster:** 5
+- **PCA Position:** (-2.86, 0.99)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

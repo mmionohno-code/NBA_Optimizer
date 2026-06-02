@@ -4,12 +4,12 @@ player: "Seth Curry"
 season: "2021-22"
 team: "BKN"
 archetype: "Perimeter Scorer"
-composite_score: 49.25
+composite_score: 39.20
 salary: 1276361
-vorpd: 18.64
-off_rating_adj: 2.10
-def_rating_adj: 2.12
-on_off_diff: 1.06
+vorpd: 14.61
+off_rating_adj: 1.70
+def_rating_adj: 1.72
+on_off_diff: 0.87
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | BKN |
-| Composite Score | **49.2** / 100 |
+| Composite Score | **39.2** / 100 |
 | Salary | $1,276,361 |
-| VORPD | 18.64 |
-| Off Rating Adj | 2.10 |
-| Def Rating Adj | 2.12 |
-| On/Off Diff | 1.06 |
-| TS% | 60.6% |
-| 3P% | 42.2% |
+| VORPD | 14.61 |
+| Off Rating Adj | 1.70 |
+| Def Rating Adj | 1.72 |
+| On/Off Diff | 0.87 |
+| TS% | 60.1% |
+| 3P% | 39.7% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

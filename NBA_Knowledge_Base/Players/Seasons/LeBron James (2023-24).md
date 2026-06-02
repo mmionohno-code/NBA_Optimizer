@@ -4,12 +4,12 @@ player: "LeBron James"
 season: "2023-24"
 team: "LAL"
 archetype: "Elite Playmaker"
-composite_score: 79.19
+composite_score: 73.63
 salary: 46306597
-vorpd: 1.16
-off_rating_adj: 4.52
-def_rating_adj: -0.29
-on_off_diff: 8.10
+vorpd: 1.22
+off_rating_adj: 3.76
+def_rating_adj: -0.24
+on_off_diff: 6.77
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | LAL |
-| Composite Score | **79.2** / 100 |
+| Composite Score | **73.6** / 100 |
 | Salary | $46,306,597 |
-| VORPD | 1.16 |
-| Off Rating Adj | 4.52 |
-| Def Rating Adj | -0.29 |
-| On/Off Diff | 8.10 |
-| TS% | 62.4% |
-| 3P% | 41.0% |
+| VORPD | 1.22 |
+| Off Rating Adj | 3.76 |
+| Def Rating Adj | -0.24 |
+| On/Off Diff | 6.77 |
+| TS% | 62.0% |
+| 3P% | 39.5% |
 | Influence Score | 0.18 |
 | Season Weight | 0.45 |
 

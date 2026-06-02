@@ -4,12 +4,12 @@ player: "Jock Landale"
 season: "2021-22"
 team: "SAS"
 archetype: "Bench / Role Player"
-composite_score: 32.47
+composite_score: 25.38
 salary: 1669826
-vorpd: 4.20
-off_rating_adj: -2.26
-def_rating_adj: 0.55
-on_off_diff: -0.13
+vorpd: 2.89
+off_rating_adj: -1.22
+def_rating_adj: 0.30
+on_off_diff: -0.07
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | SAS |
-| Composite Score | **32.5** / 100 |
+| Composite Score | **25.4** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 4.20 |
-| Off Rating Adj | -2.26 |
-| Def Rating Adj | 0.55 |
-| On/Off Diff | -0.13 |
-| TS% | 58.2% |
-| 3P% | 32.6% |
+| VORPD | 2.89 |
+| Off Rating Adj | -1.22 |
+| Def Rating Adj | 0.30 |
+| On/Off Diff | -0.07 |
+| TS% | 57.7% |
+| 3P% | 35.2% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

@@ -4,12 +4,12 @@ player: "Ish Wainright"
 season: "2022-23"
 team: "PHX"
 archetype: "Defensive Wing"
-composite_score: 40.34
+composite_score: 32.59
 salary: 1017781
-vorpd: 14.62
-off_rating_adj: 0.48
-def_rating_adj: 3.48
-on_off_diff: 4.18
+vorpd: 15.43
+off_rating_adj: 0.31
+def_rating_adj: 2.25
+on_off_diff: 2.72
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | PHX |
-| Composite Score | **40.3** / 100 |
+| Composite Score | **32.6** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 14.62 |
-| Off Rating Adj | 0.48 |
-| Def Rating Adj | 3.48 |
-| On/Off Diff | 4.18 |
-| TS% | 54.3% |
-| 3P% | 32.9% |
+| VORPD | 15.43 |
+| Off Rating Adj | 0.31 |
+| Def Rating Adj | 2.25 |
+| On/Off Diff | 2.72 |
+| TS% | 55.2% |
+| 3P% | 35.2% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

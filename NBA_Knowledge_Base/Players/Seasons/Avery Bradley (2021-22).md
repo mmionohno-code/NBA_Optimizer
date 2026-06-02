@@ -4,12 +4,12 @@ player: "Avery Bradley"
 season: "2021-22"
 team: "LAL"
 archetype: "Bench / Role Player"
-composite_score: 32.41
+composite_score: 22.63
 salary: 925258
-vorpd: 7.52
-off_rating_adj: -3.45
-def_rating_adj: 0.81
-on_off_diff: -1.90
+vorpd: 2.25
+off_rating_adj: -2.55
+def_rating_adj: 0.60
+on_off_diff: -1.40
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | LAL |
-| Composite Score | **32.4** / 100 |
+| Composite Score | **22.6** / 100 |
 | Salary | $925,258 |
-| VORPD | 7.52 |
-| Off Rating Adj | -3.45 |
-| Def Rating Adj | 0.81 |
-| On/Off Diff | -1.90 |
-| TS% | 55.4% |
-| 3P% | 39.0% |
+| VORPD | 2.25 |
+| Off Rating Adj | -2.55 |
+| Def Rating Adj | 0.60 |
+| On/Off Diff | -1.40 |
+| TS% | 55.5% |
+| 3P% | 37.4% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

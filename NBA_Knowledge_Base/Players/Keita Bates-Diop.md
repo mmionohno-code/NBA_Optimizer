@@ -3,12 +3,12 @@ player: "Keita Bates-Diop"
 team: "BKN"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 27.41
+composite_score: 20.46
 salary: 3000000
-vorpd: 0.65
-off_rating_adj: -0.82
-def_rating_adj: 0.45
-on_off_diff: -7.66
+vorpd: 1.11
+off_rating_adj: -0.47
+def_rating_adj: 0.26
+on_off_diff: -4.36
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **27.4** / 100 |
+| Composite Score | **20.5** / 100 |
 | Salary | $3,000,000 |
-| VORPD | 0.65 |
-| Off Rating Adj | -0.82 |
-| Def Rating Adj | 0.45 |
-| On/Off Diff | -7.66 |
-| TS% | 55.4% |
-| 3P% | 30.4% |
+| VORPD | 1.11 |
+| Off Rating Adj | -0.47 |
+| Def Rating Adj | 0.26 |
+| On/Off Diff | -4.36 |
+| TS% | 56.0% |
+| 3P% | 36.0% |
 | Influence Score | 0.07 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-7.9 pts over 3 seasons)
+> **Trend:** Trending DOWN (-6.5 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | BKN | 27.4 | $3000000 | 0.65 | -0.82 | 0.45 | -7.66 |
-| 2022-23 | SAS | 40.2 | $1017781 | 14.47 | 0.59 | -0.15 | 2.79 |
-| 2021-22 | SAS | 35.3 | $925258 | 10.61 | -3.16 | 3.35 | 2.26 |
+| 2023-24 | BKN | 20.5 | $3000000 | 1.11 | -0.47 | 0.26 | -4.36 |
+| 2022-23 | SAS | 31.0 | $1017781 | 13.85 | 0.44 | -0.11 | 2.08 |
+| 2021-22 | SAS | 27.0 | $925258 | 6.93 | -2.08 | 2.20 | 1.49 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.93, -0.26)
+- **Cluster:** 5
+- **PCA Position:** (-1.69, -0.33)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -3,12 +3,12 @@ player: "Ben Sheppard"
 team: "IND"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 39.25
+composite_score: 31.55
 salary: 2455553
-vorpd: 5.62
-off_rating_adj: 0.98
-def_rating_adj: 1.62
-on_off_diff: 4.01
+vorpd: 5.87
+off_rating_adj: 0.61
+def_rating_adj: 1.01
+on_off_diff: 2.50
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **39.2** / 100 |
+| Composite Score | **31.6** / 100 |
 | Salary | $2,455,553 |
-| VORPD | 5.62 |
-| Off Rating Adj | 0.98 |
-| Def Rating Adj | 1.62 |
-| On/Off Diff | 4.01 |
-| TS% | 54.4% |
-| 3P% | 31.4% |
+| VORPD | 5.87 |
+| Off Rating Adj | 0.61 |
+| Def Rating Adj | 1.01 |
+| On/Off Diff | 2.50 |
+| TS% | 55.2% |
+| 3P% | 35.2% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | IND | 39.2 | $2455553 | 5.62 | 0.98 | 1.62 | 4.01 |
+| 2023-24 | IND | 31.6 | $2455553 | 5.87 | 0.61 | 1.01 | 2.50 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-1.03, -0.29)
+- **Cluster:** 2
+- **PCA Position:** (-1.05, -0.12)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

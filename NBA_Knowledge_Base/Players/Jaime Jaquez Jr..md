@@ -3,12 +3,12 @@ player: "Jaime Jaquez Jr."
 team: "MIA"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 49.74
+composite_score: 43.24
 salary: 3397819
-vorpd: 7.15
-off_rating_adj: 1.59
+vorpd: 7.68
+off_rating_adj: 1.29
 def_rating_adj: 0.04
-on_off_diff: 1.97
+on_off_diff: 1.61
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **49.7** / 100 |
+| Composite Score | **43.2** / 100 |
 | Salary | $3,397,819 |
-| VORPD | 7.15 |
-| Off Rating Adj | 1.59 |
+| VORPD | 7.68 |
+| Off Rating Adj | 1.29 |
 | Def Rating Adj | 0.04 |
-| On/Off Diff | 1.97 |
+| On/Off Diff | 1.61 |
 | TS% | 57.4% |
-| 3P% | 32.2% |
+| 3P% | 35.1% |
 | Influence Score | 0.10 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, versatile-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MIA | 49.7 | $3397819 | 7.15 | 1.59 | 0.04 | 1.97 |
+| 2023-24 | MIA | 43.2 | $3397819 | 7.68 | 1.29 | 0.04 | 1.61 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (0.42, 0.33)
+- **Cluster:** 6
+- **PCA Position:** (0.43, 0.38)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

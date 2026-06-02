@@ -4,12 +4,12 @@ player: "Troy Brown Jr."
 season: "2021-22"
 team: "CHI"
 archetype: "Bench / Role Player"
-composite_score: 30.95
+composite_score: 23.40
 salary: 925258
-vorpd: 5.94
-off_rating_adj: -1.57
-def_rating_adj: -1.33
-on_off_diff: -1.35
+vorpd: 3.08
+off_rating_adj: -1.06
+def_rating_adj: -0.90
+on_off_diff: -0.90
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | CHI |
-| Composite Score | **30.9** / 100 |
+| Composite Score | **23.4** / 100 |
 | Salary | $925,258 |
-| VORPD | 5.94 |
-| Off Rating Adj | -1.57 |
-| Def Rating Adj | -1.33 |
-| On/Off Diff | -1.35 |
-| TS% | 53.9% |
-| 3P% | 35.3% |
+| VORPD | 3.08 |
+| Off Rating Adj | -1.06 |
+| Def Rating Adj | -0.90 |
+| On/Off Diff | -0.90 |
+| TS% | 54.4% |
+| 3P% | 35.8% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

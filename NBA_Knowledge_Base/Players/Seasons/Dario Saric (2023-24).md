@@ -4,12 +4,12 @@ player: "Dario Saric"
 season: "2023-24"
 team: "GSW"
 archetype: "Bench / Role Player"
-composite_score: 34.64
+composite_score: 25.50
 salary: 5500000
-vorpd: 1.67
-off_rating_adj: -0.94
-def_rating_adj: -2.43
-on_off_diff: -4.85
+vorpd: 1.52
+off_rating_adj: -0.64
+def_rating_adj: -1.67
+on_off_diff: -3.33
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | GSW |
-| Composite Score | **34.6** / 100 |
+| Composite Score | **25.5** / 100 |
 | Salary | $5,500,000 |
-| VORPD | 1.67 |
-| Off Rating Adj | -0.94 |
-| Def Rating Adj | -2.43 |
-| On/Off Diff | -4.85 |
-| TS% | 59.3% |
-| 3P% | 37.6% |
+| VORPD | 1.52 |
+| Off Rating Adj | -0.64 |
+| Def Rating Adj | -1.67 |
+| On/Off Diff | -3.33 |
+| TS% | 59.0% |
+| 3P% | 37.5% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |
 

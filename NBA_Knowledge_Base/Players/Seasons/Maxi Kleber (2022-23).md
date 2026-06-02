@@ -4,12 +4,12 @@ player: "Maxi Kleber"
 season: "2022-23"
 team: "DAL"
 archetype: "Bench / Role Player"
-composite_score: 22.73
+composite_score: 14.50
 salary: 8798961
 vorpd: 0.00
-off_rating_adj: -2.49
-def_rating_adj: 0.42
-on_off_diff: -4.90
+off_rating_adj: -1.62
+def_rating_adj: 0.27
+on_off_diff: -3.18
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | DAL |
-| Composite Score | **22.7** / 100 |
+| Composite Score | **14.5** / 100 |
 | Salary | $8,798,961 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.49 |
-| Def Rating Adj | 0.42 |
-| On/Off Diff | -4.90 |
-| TS% | 58.5% |
-| 3P% | 34.8% |
+| Off Rating Adj | -1.62 |
+| Def Rating Adj | 0.27 |
+| On/Off Diff | -3.18 |
+| TS% | 58.2% |
+| 3P% | 36.2% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

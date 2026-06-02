@@ -4,12 +4,12 @@ player: "Willy Hernangomez"
 season: "2022-23"
 team: "NOP"
 archetype: "Defensive Wing"
-composite_score: 38.08
+composite_score: 30.25
 salary: 1017781
-vorpd: 12.40
-off_rating_adj: -3.26
-def_rating_adj: 3.63
-on_off_diff: -0.61
+vorpd: 13.13
+off_rating_adj: -1.56
+def_rating_adj: 1.73
+on_off_diff: -0.28
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | NOP |
-| Composite Score | **38.1** / 100 |
+| Composite Score | **30.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 12.40 |
-| Off Rating Adj | -3.26 |
-| Def Rating Adj | 3.63 |
-| On/Off Diff | -0.61 |
-| TS% | 59.4% |
-| 3P% | 35.0% |
+| VORPD | 13.13 |
+| Off Rating Adj | -1.56 |
+| Def Rating Adj | 1.73 |
+| On/Off Diff | -0.28 |
+| TS% | 58.9% |
+| 3P% | 36.4% |
 | Influence Score | 0.13 |
 | Season Weight | 0.35 |
 

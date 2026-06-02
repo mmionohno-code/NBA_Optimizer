@@ -3,12 +3,12 @@ player: "Ben McLemore"
 team: "POR"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 30.33
+composite_score: 22.11
 salary: 925258
-vorpd: 5.27
-off_rating_adj: -3.31
-def_rating_adj: -0.72
-on_off_diff: -4.03
+vorpd: 1.69
+off_rating_adj: -2.38
+def_rating_adj: -0.52
+on_off_diff: -2.90
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,13 +20,13 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **30.3** / 100 |
+| Composite Score | **22.1** / 100 |
 | Salary | $925,258 |
-| VORPD | 5.27 |
-| Off Rating Adj | -3.31 |
-| Def Rating Adj | -0.72 |
-| On/Off Diff | -4.03 |
-| TS% | 56.6% |
+| VORPD | 1.69 |
+| Off Rating Adj | -2.38 |
+| Def Rating Adj | -0.52 |
+| On/Off Diff | -2.90 |
+| TS% | 56.5% |
 | 3P% | 36.2% |
 | Influence Score | 0.12 |
 
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | POR | 30.3 | $925258 | 5.27 | -3.31 | -0.72 | -4.03 |
+| 2021-22 | POR | 22.1 | $925258 | 1.69 | -2.38 | -0.52 | -2.90 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.18, -0.19)
+- **Cluster:** 5
+- **PCA Position:** (-1.45, -0.00)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

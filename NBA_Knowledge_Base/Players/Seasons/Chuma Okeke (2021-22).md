@@ -4,12 +4,12 @@ player: "Chuma Okeke"
 season: "2021-22"
 team: "ORL"
 archetype: "Versatile Scorer"
-composite_score: 49.38
+composite_score: 43.87
 salary: 925258
-vorpd: 25.86
-off_rating_adj: -2.41
-def_rating_adj: 2.31
-on_off_diff: -0.21
+vorpd: 25.20
+off_rating_adj: -1.88
+def_rating_adj: 1.79
+on_off_diff: -0.16
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | ORL |
-| Composite Score | **49.4** / 100 |
+| Composite Score | **43.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 25.86 |
-| Off Rating Adj | -2.41 |
-| Def Rating Adj | 2.31 |
-| On/Off Diff | -0.21 |
-| TS% | 51.4% |
-| 3P% | 31.8% |
+| VORPD | 25.20 |
+| Off Rating Adj | -1.88 |
+| Def Rating Adj | 1.79 |
+| On/Off Diff | -0.16 |
+| TS% | 52.1% |
+| 3P% | 33.6% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

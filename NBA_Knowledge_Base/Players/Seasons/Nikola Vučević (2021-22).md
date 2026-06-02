@@ -4,12 +4,12 @@ player: "Nikola Vučević"
 season: "2021-22"
 team: "CHI"
 archetype: "Versatile Scorer"
-composite_score: 49.16
+composite_score: 44.72
 salary: 15621101
-vorpd: 1.52
-off_rating_adj: 0.43
-def_rating_adj: -2.42
-on_off_diff: -4.35
+vorpd: 1.55
+off_rating_adj: 0.36
+def_rating_adj: -2.01
+on_off_diff: -3.59
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | CHI |
-| Composite Score | **49.2** / 100 |
+| Composite Score | **44.7** / 100 |
 | Salary | $15,621,101 |
-| VORPD | 1.52 |
-| Off Rating Adj | 0.43 |
-| Def Rating Adj | -2.42 |
-| On/Off Diff | -4.35 |
-| TS% | 53.6% |
-| 3P% | 31.4% |
+| VORPD | 1.55 |
+| Off Rating Adj | 0.36 |
+| Def Rating Adj | -2.01 |
+| On/Off Diff | -3.59 |
+| TS% | 53.9% |
+| 3P% | 33.5% |
 | Influence Score | 0.13 |
 | Season Weight | 0.20 |
 

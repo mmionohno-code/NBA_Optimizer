@@ -3,12 +3,12 @@ player: "Robin Lopez"
 team: "ORL"
 season: "2021-22"
 archetype: "Defensive Wing"
-composite_score: 40.44
+composite_score: 31.67
 salary: 925258
-vorpd: 16.19
-off_rating_adj: 0.59
-def_rating_adj: 1.71
-on_off_diff: 4.72
+vorpd: 12.02
+off_rating_adj: 0.32
+def_rating_adj: 0.94
+on_off_diff: 2.59
 is_shooter: 0
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **40.4** / 100 |
+| Composite Score | **31.7** / 100 |
 | Salary | $925,258 |
-| VORPD | 16.19 |
-| Off Rating Adj | 0.59 |
-| Def Rating Adj | 1.71 |
-| On/Off Diff | 4.72 |
-| TS% | 56.7% |
-| 3P% | 34.1% |
+| VORPD | 12.02 |
+| Off Rating Adj | 0.32 |
+| Def Rating Adj | 0.94 |
+| On/Off Diff | 2.59 |
+| TS% | 56.5% |
+| 3P% | 35.7% |
 | Influence Score | 0.10 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | ORL | 40.4 | $925258 | 16.19 | 0.59 | 1.71 | 4.72 |
+| 2021-22 | ORL | 31.7 | $925258 | 12.02 | 0.32 | 0.94 | 2.59 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.31, -0.73)
+- **Cluster:** 2
+- **PCA Position:** (-0.54, -0.49)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

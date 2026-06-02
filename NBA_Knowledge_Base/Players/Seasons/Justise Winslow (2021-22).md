@@ -4,12 +4,12 @@ player: "Justise Winslow"
 season: "2021-22"
 team: "POR"
 archetype: "Defensive Wing"
-composite_score: 59.93
+composite_score: 51.42
 salary: 925258
-vorpd: 37.26
-off_rating_adj: 2.89
-def_rating_adj: 8.38
-on_off_diff: 6.86
+vorpd: 33.36
+off_rating_adj: 1.75
+def_rating_adj: 5.09
+on_off_diff: 4.17
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | POR |
-| Composite Score | **59.9** / 100 |
+| Composite Score | **51.4** / 100 |
 | Salary | $925,258 |
-| VORPD | 37.26 |
-| Off Rating Adj | 2.89 |
-| Def Rating Adj | 8.38 |
-| On/Off Diff | 6.86 |
-| TS% | 51.0% |
-| 3P% | 22.7% |
+| VORPD | 33.36 |
+| Off Rating Adj | 1.75 |
+| Def Rating Adj | 5.09 |
+| On/Off Diff | 4.17 |
+| TS% | 52.2% |
+| 3P% | 33.4% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

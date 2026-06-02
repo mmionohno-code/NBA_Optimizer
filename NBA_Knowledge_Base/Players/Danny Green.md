@@ -2,32 +2,32 @@
 player: "Danny Green"
 team: "PHI"
 season: "2021-22"
-archetype: "Perimeter Scorer"
-composite_score: 39.24
+archetype: "Defensive Wing"
+composite_score: 30.83
 salary: 925258
-vorpd: 14.90
-off_rating_adj: 1.21
-def_rating_adj: 0.63
-on_off_diff: -0.69
+vorpd: 11.11
+off_rating_adj: 0.88
+def_rating_adj: 0.46
+on_off_diff: -0.49
 is_shooter: 1
-tags: [player, perimeter-scorer]
+tags: [player, defensive-wing]
 ---
 # Danny Green
 
-> **Archetype:** [[Archetypes/Perimeter Scorer]] | **Team:** PHI | **Latest Season:** 2021-22
+> **Archetype:** [[Archetypes/Defensive Wing]] | **Team:** PHI | **Latest Season:** 2021-22
 
 ## Most Recent Season Stats (2021-22)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **39.2** / 100 |
+| Composite Score | **30.8** / 100 |
 | Salary | $925,258 |
-| VORPD | 14.90 |
-| Off Rating Adj | 1.21 |
-| Def Rating Adj | 0.63 |
-| On/Off Diff | -0.69 |
-| TS% | 56.1% |
-| 3P% | 38.0% |
+| VORPD | 11.11 |
+| Off Rating Adj | 0.88 |
+| Def Rating Adj | 0.46 |
+| On/Off Diff | -0.49 |
+| TS% | 56.2% |
+| 3P% | 37.1% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, perimeter-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | PHI | 39.2 | $925258 | 14.90 | 1.21 | 0.63 | -0.69 |
+| 2021-22 | PHI | 30.8 | $925258 | 11.11 | 0.88 | 0.46 | -0.49 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (-0.14, -0.80)
+- **Cluster:** 2
+- **PCA Position:** (-0.33, -0.75)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

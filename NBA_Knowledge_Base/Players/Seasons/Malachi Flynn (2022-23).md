@@ -4,12 +4,12 @@ player: "Malachi Flynn"
 season: "2022-23"
 team: "TOR"
 archetype: "Bench / Role Player"
-composite_score: 31.85
+composite_score: 24.95
 salary: 1017781
-vorpd: 6.28
-off_rating_adj: -2.51
-def_rating_adj: -1.29
-on_off_diff: -5.31
+vorpd: 7.93
+off_rating_adj: -1.45
+def_rating_adj: -0.75
+on_off_diff: -3.07
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | TOR |
-| Composite Score | **31.9** / 100 |
+| Composite Score | **24.9** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 6.28 |
-| Off Rating Adj | -2.51 |
-| Def Rating Adj | -1.29 |
-| On/Off Diff | -5.31 |
-| TS% | 51.6% |
-| 3P% | 35.3% |
+| VORPD | 7.93 |
+| Off Rating Adj | -1.45 |
+| Def Rating Adj | -0.75 |
+| On/Off Diff | -3.07 |
+| TS% | 53.1% |
+| 3P% | 36.3% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

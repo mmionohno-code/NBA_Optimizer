@@ -6,10 +6,10 @@ team: "DEN"
 archetype: "Elite Playmaker"
 composite_score: 100.00
 salary: 44174405
-vorpd: 1.69
-off_rating_adj: 10.65
-def_rating_adj: 0.82
-on_off_diff: 21.64
+vorpd: 1.88
+off_rating_adj: 8.76
+def_rating_adj: 0.67
+on_off_diff: 17.83
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -23,12 +23,12 @@ tags: [season-note, elite-playmaker]
 | Team | DEN |
 | Composite Score | **100.0** / 100 |
 | Salary | $44,174,405 |
-| VORPD | 1.69 |
-| Off Rating Adj | 10.65 |
-| Def Rating Adj | 0.82 |
-| On/Off Diff | 21.64 |
-| TS% | 68.5% |
-| 3P% | 38.3% |
+| VORPD | 1.88 |
+| Off Rating Adj | 8.76 |
+| Def Rating Adj | 0.67 |
+| On/Off Diff | 17.83 |
+| TS% | 67.5% |
+| 3P% | 37.3% |
 | Influence Score | 0.18 |
 | Season Weight | 0.35 |
 

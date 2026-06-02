@@ -4,12 +4,12 @@ player: "Desmond Bane"
 season: "2022-23"
 team: "MEM"
 archetype: "Elite Playmaker"
-composite_score: 66.20
+composite_score: 58.16
 salary: 29377067
-vorpd: 1.39
-off_rating_adj: 3.41
-def_rating_adj: 2.27
-on_off_diff: 8.29
+vorpd: 1.41
+off_rating_adj: 2.68
+def_rating_adj: 1.79
+on_off_diff: 6.53
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | MEM |
-| Composite Score | **66.2** / 100 |
+| Composite Score | **58.2** / 100 |
 | Salary | $29,377,067 |
-| VORPD | 1.39 |
-| Off Rating Adj | 3.41 |
-| Def Rating Adj | 2.27 |
-| On/Off Diff | 8.29 |
-| TS% | 60.2% |
-| 3P% | 40.8% |
+| VORPD | 1.41 |
+| Off Rating Adj | 2.68 |
+| Def Rating Adj | 1.79 |
+| On/Off Diff | 6.53 |
+| TS% | 59.9% |
+| 3P% | 39.2% |
 | Influence Score | 0.15 |
 | Season Weight | 0.35 |
 

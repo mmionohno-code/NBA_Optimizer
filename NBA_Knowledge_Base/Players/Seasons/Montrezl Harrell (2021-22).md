@@ -4,12 +4,12 @@ player: "Montrezl Harrell"
 season: "2021-22"
 team: "CHA"
 archetype: "Perimeter Scorer"
-composite_score: 45.28
+composite_score: 37.28
 salary: 925258
-vorpd: 21.43
-off_rating_adj: -0.36
-def_rating_adj: 2.28
-on_off_diff: 6.75
+vorpd: 18.08
+off_rating_adj: -0.28
+def_rating_adj: 1.75
+on_off_diff: 5.18
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | CHA |
-| Composite Score | **45.3** / 100 |
+| Composite Score | **37.3** / 100 |
 | Salary | $925,258 |
-| VORPD | 21.43 |
-| Off Rating Adj | -0.36 |
-| Def Rating Adj | 2.28 |
-| On/Off Diff | 6.75 |
-| TS% | 65.5% |
-| 3P% | 34.1% |
+| VORPD | 18.08 |
+| Off Rating Adj | -0.28 |
+| Def Rating Adj | 1.75 |
+| On/Off Diff | 5.18 |
+| TS% | 64.1% |
+| 3P% | 35.7% |
 | Influence Score | 0.13 |
 | Season Weight | 0.20 |
 

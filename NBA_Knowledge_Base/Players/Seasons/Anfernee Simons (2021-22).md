@@ -4,12 +4,12 @@ player: "Anfernee Simons"
 season: "2021-22"
 team: "POR"
 archetype: "Perimeter Scorer"
-composite_score: 61.28
+composite_score: 53.88
 salary: 20127558
-vorpd: 1.78
-off_rating_adj: 5.29
-def_rating_adj: 1.38
-on_off_diff: 11.64
+vorpd: 1.66
+off_rating_adj: 4.08
+def_rating_adj: 1.06
+on_off_diff: 8.98
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | POR |
-| Composite Score | **61.3** / 100 |
+| Composite Score | **53.9** / 100 |
 | Salary | $20,127,558 |
-| VORPD | 1.78 |
-| Off Rating Adj | 5.29 |
-| Def Rating Adj | 1.38 |
-| On/Off Diff | 11.64 |
-| TS% | 58.0% |
-| 3P% | 40.5% |
+| VORPD | 1.66 |
+| Off Rating Adj | 4.08 |
+| Def Rating Adj | 1.06 |
+| On/Off Diff | 8.98 |
+| TS% | 57.8% |
+| 3P% | 38.9% |
 | Influence Score | 0.14 |
 | Season Weight | 0.20 |
 

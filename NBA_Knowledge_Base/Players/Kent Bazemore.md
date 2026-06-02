@@ -3,12 +3,12 @@ player: "Kent Bazemore"
 team: "LAL"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 24.83
+composite_score: 19.58
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -9.05
-def_rating_adj: 3.31
-on_off_diff: -7.25
+off_rating_adj: -4.73
+def_rating_adj: 1.73
+on_off_diff: -3.78
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **24.8** / 100 |
+| Composite Score | **19.6** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -9.05 |
-| Def Rating Adj | 3.31 |
-| On/Off Diff | -7.25 |
-| TS% | 50.8% |
-| 3P% | 36.3% |
+| Off Rating Adj | -4.73 |
+| Def Rating Adj | 1.73 |
+| On/Off Diff | -3.78 |
+| TS% | 52.5% |
+| 3P% | 36.2% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | LAL | 24.8 | $925258 | 0.00 | -9.05 | 3.31 | -7.25 |
+| 2021-22 | LAL | 19.6 | $925258 | 0.00 | -4.73 | 1.73 | -3.78 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-3.04, 0.46)
+- **Cluster:** 5
+- **PCA Position:** (-2.79, 0.52)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

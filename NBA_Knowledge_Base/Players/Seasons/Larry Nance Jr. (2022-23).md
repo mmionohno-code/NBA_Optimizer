@@ -4,12 +4,12 @@ player: "Larry Nance Jr."
 season: "2022-23"
 team: "NOP"
 archetype: "Perimeter Scorer"
-composite_score: 51.32
+composite_score: 42.82
 salary: 1836802
-vorpd: 14.08
-off_rating_adj: 2.34
-def_rating_adj: 3.03
-on_off_diff: 9.69
+vorpd: 14.12
+off_rating_adj: 1.72
+def_rating_adj: 2.22
+on_off_diff: 7.12
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | NOP |
-| Composite Score | **51.3** / 100 |
+| Composite Score | **42.8** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 14.08 |
-| Off Rating Adj | 2.34 |
-| Def Rating Adj | 3.03 |
-| On/Off Diff | 9.69 |
-| TS% | 62.5% |
-| 3P% | 33.3% |
+| VORPD | 14.12 |
+| Off Rating Adj | 1.72 |
+| Def Rating Adj | 2.22 |
+| On/Off Diff | 7.12 |
+| TS% | 61.4% |
+| 3P% | 36.3% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

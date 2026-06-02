@@ -4,12 +4,12 @@ player: "Monte Morris"
 season: "2021-22"
 team: "DEN"
 archetype: "Perimeter Scorer"
-composite_score: 54.88
+composite_score: 48.53
 salary: 925258
-vorpd: 31.80
-off_rating_adj: 4.60
-def_rating_adj: 0.18
-on_off_diff: 7.75
+vorpd: 30.24
+off_rating_adj: 3.76
+def_rating_adj: 0.14
+on_off_diff: 6.35
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | DEN |
-| Composite Score | **54.9** / 100 |
+| Composite Score | **48.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 31.80 |
-| Off Rating Adj | 4.60 |
-| Def Rating Adj | 0.18 |
-| On/Off Diff | 7.75 |
-| TS% | 58.0% |
-| 3P% | 39.5% |
+| VORPD | 30.24 |
+| Off Rating Adj | 3.76 |
+| Def Rating Adj | 0.14 |
+| On/Off Diff | 6.35 |
+| TS% | 57.8% |
+| 3P% | 38.0% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

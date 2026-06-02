@@ -4,12 +4,12 @@ player: "Jordan Nwora"
 season: "2021-22"
 team: "MIL"
 archetype: "Bench / Role Player"
-composite_score: 24.68
+composite_score: 18.00
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -2.35
-def_rating_adj: -3.33
-on_off_diff: -7.88
+off_rating_adj: -1.65
+def_rating_adj: -2.34
+on_off_diff: -5.53
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | MIL |
-| Composite Score | **24.7** / 100 |
+| Composite Score | **18.0** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.35 |
-| Def Rating Adj | -3.33 |
-| On/Off Diff | -7.88 |
-| TS% | 52.0% |
-| 3P% | 34.8% |
+| Off Rating Adj | -1.65 |
+| Def Rating Adj | -2.34 |
+| On/Off Diff | -5.53 |
+| TS% | 52.7% |
+| 3P% | 35.5% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

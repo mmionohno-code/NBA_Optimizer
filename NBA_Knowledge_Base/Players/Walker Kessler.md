@@ -3,12 +3,12 @@ player: "Walker Kessler"
 team: "UTA"
 season: "2023-24"
 archetype: "Two-Way Big"
-composite_score: 32.11
+composite_score: 22.35
 salary: 4292974
-vorpd: 1.55
-off_rating_adj: -1.36
-def_rating_adj: 2.72
-on_off_diff: 0.90
+vorpd: 1.22
+off_rating_adj: -1.02
+def_rating_adj: 2.04
+on_off_diff: 0.68
 is_shooter: 0
 tags: [player, two-way-big]
 ---
@@ -20,29 +20,29 @@ tags: [player, two-way-big]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **32.1** / 100 |
+| Composite Score | **22.4** / 100 |
 | Salary | $4,292,974 |
-| VORPD | 1.55 |
-| Off Rating Adj | -1.36 |
-| Def Rating Adj | 2.72 |
-| On/Off Diff | 0.90 |
-| TS% | 63.7% |
-| 3P% | 35.6% |
+| VORPD | 1.22 |
+| Off Rating Adj | -1.02 |
+| Def Rating Adj | 2.04 |
+| On/Off Diff | 0.68 |
+| TS% | 62.4% |
+| 3P% | 37.0% |
 | Influence Score | 0.08 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-7.6 pts over 2 seasons)
+> **Trend:** Trending DOWN (-9.5 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | UTA | 32.1 | $4292974 | 1.55 | -1.36 | 2.72 | 0.90 |
-| 2022-23 | UTA | 39.7 | $3902690 | 3.66 | 3.87 | 2.03 | 5.54 |
+| 2023-24 | UTA | 22.4 | $4292974 | 1.22 | -1.02 | 2.04 | 0.68 |
+| 2022-23 | UTA | 31.9 | $3902690 | 3.84 | 2.99 | 1.57 | 4.29 |
 
 ## Profile
 
 - **Cluster:** 4
-- **PCA Position:** (0.69, -3.81)
+- **PCA Position:** (0.52, -3.80)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

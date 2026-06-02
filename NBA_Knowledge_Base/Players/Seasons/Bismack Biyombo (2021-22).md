@@ -4,12 +4,12 @@ player: "Bismack Biyombo"
 season: "2021-22"
 team: "PHX"
 archetype: "Bench / Role Player"
-composite_score: 26.85
+composite_score: 22.06
 salary: 1669826
-vorpd: 0.83
-off_rating_adj: -0.12
-def_rating_adj: 0.07
-on_off_diff: -5.81
+vorpd: 0.90
+off_rating_adj: -0.06
+def_rating_adj: 0.04
+on_off_diff: -2.91
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | PHX |
-| Composite Score | **26.9** / 100 |
+| Composite Score | **22.1** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 0.83 |
-| Off Rating Adj | -0.12 |
-| Def Rating Adj | 0.07 |
-| On/Off Diff | -5.81 |
-| TS% | 57.9% |
-| 3P% | 34.1% |
+| VORPD | 0.90 |
+| Off Rating Adj | -0.06 |
+| Def Rating Adj | 0.04 |
+| On/Off Diff | -2.91 |
+| TS% | 57.4% |
+| 3P% | 35.7% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

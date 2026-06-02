@@ -4,12 +4,12 @@ player: "Svi Mykhailiuk"
 season: "2023-24"
 team: "BOS"
 archetype: "Defensive Wing"
-composite_score: 45.37
+composite_score: 31.82
 salary: 3233630
-vorpd: 6.16
-off_rating_adj: 1.95
-def_rating_adj: 5.77
-on_off_diff: 6.89
+vorpd: 4.54
+off_rating_adj: 0.88
+def_rating_adj: 2.61
+on_off_diff: 3.14
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | BOS |
-| Composite Score | **45.4** / 100 |
+| Composite Score | **31.8** / 100 |
 | Salary | $3,233,630 |
-| VORPD | 6.16 |
-| Off Rating Adj | 1.95 |
-| Def Rating Adj | 5.77 |
-| On/Off Diff | 6.89 |
+| VORPD | 4.54 |
+| Off Rating Adj | 0.88 |
+| Def Rating Adj | 2.61 |
+| On/Off Diff | 3.14 |
 | TS% | 57.5% |
-| 3P% | 38.9% |
+| 3P% | 37.9% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

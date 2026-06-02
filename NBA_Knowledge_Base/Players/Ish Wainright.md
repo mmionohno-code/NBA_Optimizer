@@ -3,12 +3,12 @@ player: "Ish Wainright"
 team: "PHX"
 season: "2022-23"
 archetype: "Defensive Wing"
-composite_score: 40.34
+composite_score: 32.59
 salary: 1017781
-vorpd: 14.62
-off_rating_adj: 0.48
-def_rating_adj: 3.48
-on_off_diff: 4.18
+vorpd: 15.43
+off_rating_adj: 0.31
+def_rating_adj: 2.25
+on_off_diff: 2.72
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **40.3** / 100 |
+| Composite Score | **32.6** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 14.62 |
-| Off Rating Adj | 0.48 |
-| Def Rating Adj | 3.48 |
-| On/Off Diff | 4.18 |
-| TS% | 54.3% |
-| 3P% | 32.9% |
+| VORPD | 15.43 |
+| Off Rating Adj | 0.31 |
+| Def Rating Adj | 2.25 |
+| On/Off Diff | 2.72 |
+| TS% | 55.2% |
+| 3P% | 35.2% |
 | Influence Score | 0.06 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | PHX | 40.3 | $1017781 | 14.62 | 0.48 | 3.48 | 4.18 |
+| 2022-23 | PHX | 32.6 | $1017781 | 15.43 | 0.31 | 2.25 | 2.72 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.81, -0.79)
+- **Cluster:** 2
+- **PCA Position:** (-0.89, -0.58)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

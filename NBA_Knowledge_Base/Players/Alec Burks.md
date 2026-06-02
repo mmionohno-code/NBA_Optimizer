@@ -3,12 +3,12 @@ player: "Alec Burks"
 team: "NYK"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 26.12
+composite_score: 17.17
 salary: 10000000
-vorpd: 0.07
-off_rating_adj: -6.42
-def_rating_adj: -5.68
-on_off_diff: -4.22
+vorpd: 0.00
+off_rating_adj: -4.55
+def_rating_adj: -4.02
+on_off_diff: -2.99
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **26.1** / 100 |
+| Composite Score | **17.2** / 100 |
 | Salary | $10,000,000 |
-| VORPD | 0.07 |
-| Off Rating Adj | -6.42 |
-| Def Rating Adj | -5.68 |
-| On/Off Diff | -4.22 |
-| TS% | 54.4% |
-| 3P% | 37.6% |
+| VORPD | 0.00 |
+| Off Rating Adj | -4.55 |
+| Def Rating Adj | -4.02 |
+| On/Off Diff | -2.99 |
+| TS% | 54.9% |
+| 3P% | 37.5% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-28.7 pts over 3 seasons)
+> **Trend:** Trending DOWN (-30.1 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | NYK | 26.1 | $10000000 | 0.07 | -6.42 | -5.68 | -4.22 |
-| 2022-23 | DET | 60.3 | $1017781 | 34.26 | 4.49 | 2.74 | 11.37 |
-| 2021-22 | NYK | 54.8 | $925258 | 31.73 | 2.57 | 0.22 | 6.70 |
+| 2023-24 | NYK | 17.2 | $10000000 | 0.00 | -4.55 | -4.02 | -2.99 |
+| 2022-23 | DET | 50.3 | $1017781 | 32.87 | 3.10 | 1.89 | 7.86 |
+| 2021-22 | NYK | 47.2 | $925258 | 28.85 | 2.11 | 0.18 | 5.52 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.65, 0.83)
+- **Cluster:** 5
+- **PCA Position:** (-1.84, 0.79)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

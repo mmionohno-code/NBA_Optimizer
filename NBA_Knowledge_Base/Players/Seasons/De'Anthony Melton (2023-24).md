@@ -4,12 +4,12 @@ player: "De'Anthony Melton"
 season: "2023-24"
 team: "PHI"
 archetype: "Perimeter Scorer"
-composite_score: 69.16
+composite_score: 61.92
 salary: 2710900
-vorpd: 16.12
-off_rating_adj: 7.97
-def_rating_adj: -0.83
-on_off_diff: 8.51
+vorpd: 16.52
+off_rating_adj: 5.35
+def_rating_adj: -0.55
+on_off_diff: 5.73
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | PHI |
-| Composite Score | **69.2** / 100 |
+| Composite Score | **61.9** / 100 |
 | Salary | $2,710,900 |
-| VORPD | 16.12 |
-| Off Rating Adj | 7.97 |
-| Def Rating Adj | -0.83 |
-| On/Off Diff | 8.51 |
-| TS% | 54.5% |
-| 3P% | 36.0% |
+| VORPD | 16.52 |
+| Off Rating Adj | 5.35 |
+| Def Rating Adj | -0.55 |
+| On/Off Diff | 5.73 |
+| TS% | 55.1% |
+| 3P% | 36.8% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

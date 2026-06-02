@@ -3,12 +3,12 @@ player: "Davis Bertans"
 team: "CHA"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 37.70
+composite_score: 28.81
 salary: 16000000
-vorpd: 0.77
-off_rating_adj: 0.69
-def_rating_adj: 1.08
-on_off_diff: 0.64
+vorpd: 0.73
+off_rating_adj: 0.40
+def_rating_adj: 0.62
+on_off_diff: 0.38
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **37.7** / 100 |
+| Composite Score | **28.8** / 100 |
 | Salary | $16,000,000 |
-| VORPD | 0.77 |
-| Off Rating Adj | 0.69 |
-| Def Rating Adj | 1.08 |
-| On/Off Diff | 0.64 |
-| TS% | 58.0% |
-| 3P% | 38.0% |
+| VORPD | 0.73 |
+| Off Rating Adj | 0.40 |
+| Def Rating Adj | 0.62 |
+| On/Off Diff | 0.38 |
+| TS% | 57.9% |
+| 3P% | 37.7% |
 | Influence Score | 0.10 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+6.3 pts over 3 seasons)
+> **Trend:** Trending UP (+3.2 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHA | 37.7 | $16000000 | 0.77 | 0.69 | 1.08 | 0.64 |
-| 2022-23 | DAL | 23.6 | $1017781 | 0.00 | -2.59 | -0.78 | -2.56 |
-| 2021-22 | DAL | 31.4 | $925258 | 6.38 | -0.03 | -1.41 | 1.63 |
+| 2023-24 | CHA | 28.8 | $16000000 | 0.73 | 0.40 | 0.62 | 0.38 |
+| 2022-23 | DAL | 16.8 | $1017781 | 0.00 | -1.28 | -0.39 | -1.26 |
+| 2021-22 | DAL | 25.6 | $925258 | 5.45 | -0.02 | -0.87 | 1.01 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.18, -0.90)
+- **Cluster:** 1
+- **PCA Position:** (-0.27, -0.89)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

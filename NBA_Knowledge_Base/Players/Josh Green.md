@@ -3,12 +3,12 @@ player: "Josh Green"
 team: "DAL"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 28.56
+composite_score: 18.60
 salary: 12025291
-vorpd: 0.26
-off_rating_adj: 0.62
-def_rating_adj: -4.65
-on_off_diff: -7.90
+vorpd: 0.12
+off_rating_adj: 0.47
+def_rating_adj: -3.49
+on_off_diff: -5.92
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **28.6** / 100 |
+| Composite Score | **18.6** / 100 |
 | Salary | $12,025,291 |
-| VORPD | 0.26 |
-| Off Rating Adj | 0.62 |
-| Def Rating Adj | -4.65 |
-| On/Off Diff | -7.90 |
-| TS% | 58.4% |
-| 3P% | 38.5% |
+| VORPD | 0.12 |
+| Off Rating Adj | 0.47 |
+| Def Rating Adj | -3.49 |
+| On/Off Diff | -5.92 |
+| TS% | 58.3% |
+| 3P% | 37.9% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-9.2 pts over 3 seasons)
+> **Trend:** Trending DOWN (-10.6 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DAL | 28.6 | $12025291 | 0.26 | 0.62 | -4.65 | -7.90 |
-| 2022-23 | DAL | 41.5 | $10932043 | 1.47 | 2.11 | 1.22 | 3.29 |
-| 2021-22 | DAL | 37.7 | $9938253 | 1.23 | -2.03 | 3.29 | -0.40 |
+| 2023-24 | DAL | 18.6 | $12025291 | 0.12 | 0.47 | -3.49 | -5.92 |
+| 2022-23 | DAL | 31.9 | $10932043 | 1.37 | 1.59 | 0.92 | 2.49 |
+| 2021-22 | DAL | 29.2 | $9938253 | 0.88 | -1.37 | 2.22 | -0.26 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.81, -0.08)
+- **Cluster:** 1
+- **PCA Position:** (-0.99, -0.20)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

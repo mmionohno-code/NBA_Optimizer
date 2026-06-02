@@ -4,12 +4,12 @@ player: "Jeremy Lamb"
 season: "2021-22"
 team: "SAC"
 archetype: "Defensive Wing"
-composite_score: 51.97
+composite_score: 45.24
 salary: 925258
-vorpd: 28.66
-off_rating_adj: 2.33
-def_rating_adj: 2.61
-on_off_diff: 6.23
+vorpd: 26.68
+off_rating_adj: 1.52
+def_rating_adj: 1.70
+on_off_diff: 4.07
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | SAC |
-| Composite Score | **52.0** / 100 |
+| Composite Score | **45.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 28.66 |
-| Off Rating Adj | 2.33 |
-| Def Rating Adj | 2.61 |
-| On/Off Diff | 6.23 |
-| TS% | 53.3% |
-| 3P% | 32.4% |
+| VORPD | 26.68 |
+| Off Rating Adj | 1.52 |
+| Def Rating Adj | 1.70 |
+| On/Off Diff | 4.07 |
+| TS% | 53.9% |
+| 3P% | 34.7% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

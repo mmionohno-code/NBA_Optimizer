@@ -4,12 +4,12 @@ player: "Bobby Portis"
 season: "2022-23"
 team: "MIL"
 archetype: "Bench / Role Player"
-composite_score: 28.59
+composite_score: 18.98
 salary: 10755333
-vorpd: 0.29
-off_rating_adj: -0.78
-def_rating_adj: -2.46
-on_off_diff: -5.98
+vorpd: 0.19
+off_rating_adj: -0.61
+def_rating_adj: -1.93
+on_off_diff: -4.67
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | MIL |
-| Composite Score | **28.6** / 100 |
+| Composite Score | **19.0** / 100 |
 | Salary | $10,755,333 |
-| VORPD | 0.29 |
-| Off Rating Adj | -0.78 |
-| Def Rating Adj | -2.46 |
-| On/Off Diff | -5.98 |
+| VORPD | 0.19 |
+| Off Rating Adj | -0.61 |
+| Def Rating Adj | -1.93 |
+| On/Off Diff | -4.67 |
 | TS% | 57.5% |
-| 3P% | 37.0% |
+| 3P% | 36.9% |
 | Influence Score | 0.12 |
 | Season Weight | 0.35 |
 

@@ -3,12 +3,12 @@ player: "Matt Ryan"
 team: "NOP"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 19.74
+composite_score: 12.60
 salary: 1119563
 vorpd: 0.00
-off_rating_adj: -6.82
-def_rating_adj: 3.66
-on_off_diff: -3.82
+off_rating_adj: -2.98
+def_rating_adj: 1.60
+on_off_diff: -1.67
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **19.7** / 100 |
+| Composite Score | **12.6** / 100 |
 | Salary | $1,119,563 |
 | VORPD | 0.00 |
-| Off Rating Adj | -6.82 |
-| Def Rating Adj | 3.66 |
-| On/Off Diff | -3.82 |
-| TS% | 60.2% |
-| 3P% | 45.1% |
+| Off Rating Adj | -2.98 |
+| Def Rating Adj | 1.60 |
+| On/Off Diff | -1.67 |
+| TS% | 59.3% |
+| 3P% | 39.4% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | NOP | 19.7 | $1119563 | 0.00 | -6.82 | 3.66 | -3.82 |
+| 2023-24 | NOP | 12.6 | $1119563 | 0.00 | -2.98 | 1.60 | -1.67 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.75, -1.72)
+- **Cluster:** 1
+- **PCA Position:** (-1.60, -1.62)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -3,12 +3,12 @@ player: "Avery Bradley"
 team: "LAL"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 32.41
+composite_score: 22.63
 salary: 925258
-vorpd: 7.52
-off_rating_adj: -3.45
-def_rating_adj: 0.81
-on_off_diff: -1.90
+vorpd: 2.25
+off_rating_adj: -2.55
+def_rating_adj: 0.60
+on_off_diff: -1.40
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **32.4** / 100 |
+| Composite Score | **22.6** / 100 |
 | Salary | $925,258 |
-| VORPD | 7.52 |
-| Off Rating Adj | -3.45 |
-| Def Rating Adj | 0.81 |
-| On/Off Diff | -1.90 |
-| TS% | 55.4% |
-| 3P% | 39.0% |
+| VORPD | 2.25 |
+| Off Rating Adj | -2.55 |
+| Def Rating Adj | 0.60 |
+| On/Off Diff | -1.40 |
+| TS% | 55.5% |
+| 3P% | 37.4% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | LAL | 32.4 | $925258 | 7.52 | -3.45 | 0.81 | -1.90 |
+| 2021-22 | LAL | 22.6 | $925258 | 2.25 | -2.55 | 0.60 | -1.40 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.27, -0.29)
+- **Cluster:** 5
+- **PCA Position:** (-1.57, -0.30)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

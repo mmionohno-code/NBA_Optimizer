@@ -3,12 +3,12 @@ player: "Rayan Rupert"
 team: "POR"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 33.50
+composite_score: 24.54
 salary: 2070972
-vorpd: 3.88
-off_rating_adj: -1.68
-def_rating_adj: 1.05
-on_off_diff: -0.31
+vorpd: 3.58
+off_rating_adj: -0.94
+def_rating_adj: 0.59
+on_off_diff: -0.18
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **33.5** / 100 |
+| Composite Score | **24.5** / 100 |
 | Salary | $2,070,972 |
-| VORPD | 3.88 |
-| Off Rating Adj | -1.68 |
-| Def Rating Adj | 1.05 |
-| On/Off Diff | -0.31 |
-| TS% | 51.1% |
-| 3P% | 35.9% |
+| VORPD | 3.58 |
+| Off Rating Adj | -0.94 |
+| Def Rating Adj | 0.59 |
+| On/Off Diff | -0.18 |
+| TS% | 53.0% |
+| 3P% | 37.1% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | POR | 33.5 | $2070972 | 3.88 | -1.68 | 1.05 | -0.31 |
+| 2023-24 | POR | 24.5 | $2070972 | 3.58 | -0.94 | 0.59 | -0.18 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.81, 0.32)
+- **Cluster:** 5
+- **PCA Position:** (-1.75, 0.14)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

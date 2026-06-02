@@ -4,12 +4,12 @@ player: "James Harden"
 season: "2021-22"
 team: "PHI"
 archetype: "Elite Playmaker"
-composite_score: 76.34
+composite_score: 75.50
 salary: 28493232
-vorpd: 1.79
-off_rating_adj: 4.61
-def_rating_adj: -2.27
-on_off_diff: 2.53
+vorpd: 1.93
+off_rating_adj: 3.82
+def_rating_adj: -1.88
+on_off_diff: 2.11
 season_weight: 0.20
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2021-22 |
 | Team | PHI |
-| Composite Score | **76.3** / 100 |
+| Composite Score | **75.5** / 100 |
 | Salary | $28,493,232 |
-| VORPD | 1.79 |
-| Off Rating Adj | 4.61 |
-| Def Rating Adj | -2.27 |
-| On/Off Diff | 2.53 |
-| TS% | 58.0% |
-| 3P% | 33.0% |
+| VORPD | 1.93 |
+| Off Rating Adj | 3.82 |
+| Def Rating Adj | -1.88 |
+| On/Off Diff | 2.11 |
+| TS% | 57.8% |
+| 3P% | 34.1% |
 | Influence Score | 0.15 |
 | Season Weight | 0.20 |
 

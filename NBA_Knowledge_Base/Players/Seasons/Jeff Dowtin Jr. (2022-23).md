@@ -4,12 +4,12 @@ player: "Jeff Dowtin Jr."
 season: "2022-23"
 team: "TOR"
 archetype: "Bench / Role Player"
-composite_score: 33.88
+composite_score: 24.84
 salary: 1017781
-vorpd: 8.28
-off_rating_adj: 0.29
-def_rating_adj: -1.19
-on_off_diff: -2.56
+vorpd: 7.82
+off_rating_adj: 0.10
+def_rating_adj: -0.40
+on_off_diff: -0.86
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | TOR |
-| Composite Score | **33.9** / 100 |
+| Composite Score | **24.8** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 8.28 |
-| Off Rating Adj | 0.29 |
-| Def Rating Adj | -1.19 |
-| On/Off Diff | -2.56 |
-| TS% | 55.5% |
-| 3P% | 31.3% |
+| VORPD | 7.82 |
+| Off Rating Adj | 0.10 |
+| Def Rating Adj | -0.40 |
+| On/Off Diff | -0.86 |
+| TS% | 56.3% |
+| 3P% | 36.5% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

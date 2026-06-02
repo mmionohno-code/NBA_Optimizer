@@ -3,12 +3,12 @@ player: "Harrison Barnes"
 team: "SAC"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 25.19
+composite_score: 12.54
 salary: 16718088
 vorpd: 0.00
-off_rating_adj: -0.60
-def_rating_adj: -2.60
-on_off_diff: -8.31
+off_rating_adj: -0.50
+def_rating_adj: -2.15
+on_off_diff: -6.85
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **25.2** / 100 |
+| Composite Score | **12.5** / 100 |
 | Salary | $16,718,088 |
 | VORPD | 0.00 |
-| Off Rating Adj | -0.60 |
-| Def Rating Adj | -2.60 |
-| On/Off Diff | -8.31 |
-| TS% | 60.5% |
-| 3P% | 38.7% |
+| Off Rating Adj | -0.50 |
+| Def Rating Adj | -2.15 |
+| On/Off Diff | -6.85 |
+| TS% | 60.1% |
+| 3P% | 38.2% |
 | Influence Score | 0.09 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-10.4 pts over 3 seasons)
+> **Trend:** Trending DOWN (-12.9 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | SAC | 25.2 | $16718088 | 0.00 | -0.60 | -2.60 | -8.31 |
-| 2022-23 | SAC | 40.8 | $15198206 | 1.01 | 2.53 | -1.22 | 4.30 |
-| 2021-22 | SAC | 35.6 | $13816595 | 0.73 | 2.03 | -4.39 | -3.83 |
+| 2023-24 | SAC | 12.5 | $16718088 | 0.00 | -0.50 | -2.15 | -6.85 |
+| 2022-23 | SAC | 32.1 | $15198206 | 1.00 | 2.13 | -1.03 | 3.63 |
+| 2021-22 | SAC | 25.5 | $13816595 | 0.36 | 1.70 | -3.68 | -3.21 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.95, -0.71)
+- **Cluster:** 1
+- **PCA Position:** (-1.26, -0.95)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

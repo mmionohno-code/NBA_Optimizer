@@ -4,12 +4,12 @@ player: "Jose Alvarado"
 season: "2022-23"
 team: "NOP"
 archetype: "Versatile Scorer"
-composite_score: 57.25
+composite_score: 50.78
 salary: 3599575
-vorpd: 8.83
-off_rating_adj: 0.34
-def_rating_adj: 2.03
-on_off_diff: 4.18
+vorpd: 9.42
+off_rating_adj: 0.25
+def_rating_adj: 1.47
+on_off_diff: 3.04
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | NOP |
-| Composite Score | **57.2** / 100 |
+| Composite Score | **50.8** / 100 |
 | Salary | $3,599,575 |
-| VORPD | 8.83 |
-| Off Rating Adj | 0.34 |
-| Def Rating Adj | 2.03 |
-| On/Off Diff | 4.18 |
-| TS% | 53.7% |
-| 3P% | 33.6% |
+| VORPD | 9.42 |
+| Off Rating Adj | 0.25 |
+| Def Rating Adj | 1.47 |
+| On/Off Diff | 3.04 |
+| TS% | 54.3% |
+| 3P% | 35.2% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Daniel Gafford"
 season: "2021-22"
 team: "WAS"
 archetype: "Two-Way Big"
-composite_score: 24.73
+composite_score: 16.17
 salary: 10461577
 vorpd: 0.00
-off_rating_adj: 0.31
-def_rating_adj: -3.23
-on_off_diff: -4.75
+off_rating_adj: 0.23
+def_rating_adj: -2.40
+on_off_diff: -3.52
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | WAS |
-| Composite Score | **24.7** / 100 |
+| Composite Score | **16.2** / 100 |
 | Salary | $10,461,577 |
 | VORPD | 0.00 |
-| Off Rating Adj | 0.31 |
-| Def Rating Adj | -3.23 |
-| On/Off Diff | -4.75 |
-| TS% | 66.9% |
-| 3P% | 34.1% |
-| Influence Score | 0.11 |
+| Off Rating Adj | 0.23 |
+| Def Rating Adj | -2.40 |
+| On/Off Diff | -3.52 |
+| TS% | 65.0% |
+| 3P% | 35.7% |
+| Influence Score | 0.10 |
 | Season Weight | 0.20 |
 
 _Navigate back to the full player profile: [[Players/Daniel Gafford]]_

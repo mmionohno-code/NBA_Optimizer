@@ -3,12 +3,12 @@ player: "Kyle Kuzma"
 team: "WAS"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 45.70
+composite_score: 40.23
 salary: 19719077
-vorpd: 1.03
-off_rating_adj: 1.18
-def_rating_adj: -4.19
-on_off_diff: -3.29
+vorpd: 1.17
+off_rating_adj: 0.97
+def_rating_adj: -3.44
+on_off_diff: -2.70
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **45.7** / 100 |
+| Composite Score | **40.2** / 100 |
 | Salary | $19,719,077 |
-| VORPD | 1.03 |
-| Off Rating Adj | 1.18 |
-| Def Rating Adj | -4.19 |
-| On/Off Diff | -3.29 |
-| TS% | 55.0% |
-| 3P% | 33.6% |
+| VORPD | 1.17 |
+| Off Rating Adj | 0.97 |
+| Def Rating Adj | -3.44 |
+| On/Off Diff | -2.70 |
+| TS% | 55.2% |
+| 3P% | 35.0% |
 | Influence Score | 0.16 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+6.3 pts over 3 seasons)
+> **Trend:** Trending UP (+7.4 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | WAS | 45.7 | $19719077 | 1.03 | 1.18 | -4.19 | -3.29 |
-| 2022-23 | WAS | 51.2 | $17926367 | 1.44 | 0.61 | 0.78 | 2.81 |
-| 2021-22 | WAS | 39.4 | $16296750 | 0.86 | -0.09 | -2.03 | -4.81 |
+| 2023-24 | WAS | 40.2 | $19719077 | 1.17 | 0.97 | -3.44 | -2.70 |
+| 2022-23 | WAS | 46.5 | $17926367 | 1.65 | 0.50 | 0.64 | 2.31 |
+| 2021-22 | WAS | 32.8 | $16296750 | 0.75 | -0.08 | -1.66 | -3.92 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (0.36, 1.16)
+- **Cluster:** 6
+- **PCA Position:** (0.23, 1.56)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

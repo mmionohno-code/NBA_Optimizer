@@ -3,12 +3,12 @@ player: "Carmelo Anthony"
 team: "LAL"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 38.85
+composite_score: 30.16
 salary: 925258
-vorpd: 14.48
-off_rating_adj: -0.15
-def_rating_adj: 0.31
-on_off_diff: -0.88
+vorpd: 10.39
+off_rating_adj: -0.12
+def_rating_adj: 0.24
+on_off_diff: -0.69
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **38.9** / 100 |
+| Composite Score | **30.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 14.48 |
-| Off Rating Adj | -0.15 |
-| Def Rating Adj | 0.31 |
-| On/Off Diff | -0.88 |
-| TS% | 57.6% |
-| 3P% | 37.5% |
+| VORPD | 10.39 |
+| Off Rating Adj | -0.12 |
+| Def Rating Adj | 0.24 |
+| On/Off Diff | -0.69 |
+| TS% | 57.4% |
+| 3P% | 37.0% |
 | Influence Score | 0.11 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | LAL | 38.9 | $925258 | 14.48 | -0.15 | 0.31 | -0.88 |
+| 2021-22 | LAL | 30.2 | $925258 | 10.39 | -0.12 | 0.24 | -0.69 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (0.11, -0.87)
+- **Cluster:** 1
+- **PCA Position:** (-0.10, -0.84)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

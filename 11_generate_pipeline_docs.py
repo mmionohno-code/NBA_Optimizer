@@ -5,6 +5,8 @@ with inputs, outputs, key decisions, and a master overview note.
 Run from the project root: python 11_generate_pipeline_docs.py
 """
 
+import sys
+sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 import os
 from pathlib import Path
 

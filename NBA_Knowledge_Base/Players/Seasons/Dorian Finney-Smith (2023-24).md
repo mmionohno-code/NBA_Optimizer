@@ -4,12 +4,12 @@ player: "Dorian Finney-Smith"
 season: "2023-24"
 team: "BKN"
 archetype: "Defensive Wing"
-composite_score: 39.16
+composite_score: 31.36
 salary: 11174722
-vorpd: 1.23
-off_rating_adj: 0.88
-def_rating_adj: 0.35
-on_off_diff: 1.14
+vorpd: 1.27
+off_rating_adj: 0.70
+def_rating_adj: 0.28
+on_off_diff: 0.91
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | BKN |
-| Composite Score | **39.2** / 100 |
+| Composite Score | **31.4** / 100 |
 | Salary | $11,174,722 |
-| VORPD | 1.23 |
-| Off Rating Adj | 0.88 |
-| Def Rating Adj | 0.35 |
-| On/Off Diff | 1.14 |
-| TS% | 55.3% |
-| 3P% | 34.8% |
+| VORPD | 1.27 |
+| Off Rating Adj | 0.70 |
+| Def Rating Adj | 0.28 |
+| On/Off Diff | 0.91 |
+| TS% | 55.6% |
+| 3P% | 36.0% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

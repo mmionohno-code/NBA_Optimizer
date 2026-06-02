@@ -4,12 +4,12 @@ player: "Garrison Mathews"
 season: "2022-23"
 team: "ATL"
 archetype: "Defensive Wing"
-composite_score: 30.21
+composite_score: 21.77
 salary: 1017781
-vorpd: 4.67
-off_rating_adj: -7.84
-def_rating_adj: 3.77
-on_off_diff: 2.88
+vorpd: 4.80
+off_rating_adj: -4.53
+def_rating_adj: 2.18
+on_off_diff: 1.67
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | ATL |
-| Composite Score | **30.2** / 100 |
+| Composite Score | **21.8** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 4.67 |
-| Off Rating Adj | -7.84 |
-| Def Rating Adj | 3.77 |
-| On/Off Diff | 2.88 |
-| TS% | 57.4% |
-| 3P% | 35.0% |
+| VORPD | 4.80 |
+| Off Rating Adj | -4.53 |
+| Def Rating Adj | 2.18 |
+| On/Off Diff | 1.67 |
+| TS% | 57.5% |
+| 3P% | 36.1% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

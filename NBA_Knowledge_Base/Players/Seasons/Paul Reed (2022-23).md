@@ -4,12 +4,12 @@ player: "Paul Reed"
 season: "2022-23"
 team: "PHI"
 archetype: "Bench / Role Player"
-composite_score: 28.75
+composite_score: 21.71
 salary: 4268211
-vorpd: 0.77
-off_rating_adj: -2.73
-def_rating_adj: 0.25
-on_off_diff: -5.52
+vorpd: 1.13
+off_rating_adj: -1.64
+def_rating_adj: 0.15
+on_off_diff: -3.30
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | PHI |
-| Composite Score | **28.8** / 100 |
+| Composite Score | **21.7** / 100 |
 | Salary | $4,268,211 |
-| VORPD | 0.77 |
-| Off Rating Adj | -2.73 |
-| Def Rating Adj | 0.25 |
-| On/Off Diff | -5.52 |
-| TS% | 60.2% |
-| 3P% | 35.0% |
+| VORPD | 1.13 |
+| Off Rating Adj | -1.64 |
+| Def Rating Adj | 0.15 |
+| On/Off Diff | -3.30 |
+| TS% | 59.5% |
+| 3P% | 36.4% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

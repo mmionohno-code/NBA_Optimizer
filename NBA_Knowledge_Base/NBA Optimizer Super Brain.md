@@ -6,7 +6,7 @@ tags: [index, dashboard, super-brain]
 # NBA Optimizer Super Brain
 
 > Complete knowledge base for the NBA Roster Optimization project.
-> Built from 551 players across 3 seasons, 10 roster scenarios, and full project history.
+> Built from 555 players across 3 seasons, 10 roster scenarios, and full project history.
 > **Dataview plugin** required for live query tables.
 
 ---
@@ -31,7 +31,7 @@ tags: [index, dashboard, super-brain]
 
 | | |
 |---|---|
-| Unique Players | 551 |
+| Unique Players | 555 |
 | Player-Season Records | 1,185 |
 | Synergy Pairs | 1,661 |
 | Archetypes | 6 |
@@ -101,11 +101,11 @@ LIMIT 10
 
 | Archetype | Count |
 |---|---|
-| Bench / Role Player | 237 |
-| Perimeter Scorer | 87 |
-| Defensive Wing | 86 |
-| Versatile Scorer | 68 |
-| Elite Playmaker | 45 |
+| Bench / Role Player | 248 |
+| Defensive Wing | 97 |
+| Perimeter Scorer | 81 |
+| Versatile Scorer | 55 |
+| Elite Playmaker | 46 |
 | Two-Way Big | 28 |
 
 ---

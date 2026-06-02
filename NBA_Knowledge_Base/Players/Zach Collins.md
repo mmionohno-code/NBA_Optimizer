@@ -3,12 +3,12 @@ player: "Zach Collins"
 team: "SAS"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 34.03
+composite_score: 26.14
 salary: 15909017
-vorpd: 0.54
-off_rating_adj: -2.81
-def_rating_adj: -2.16
-on_off_diff: -7.09
+vorpd: 0.57
+off_rating_adj: -2.12
+def_rating_adj: -1.63
+on_off_diff: -5.34
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **34.0** / 100 |
+| Composite Score | **26.1** / 100 |
 | Salary | $15,909,017 |
-| VORPD | 0.54 |
-| Off Rating Adj | -2.81 |
-| Def Rating Adj | -2.16 |
-| On/Off Diff | -7.09 |
-| TS% | 56.7% |
-| 3P% | 32.0% |
+| VORPD | 0.57 |
+| Off Rating Adj | -2.12 |
+| Def Rating Adj | -1.63 |
+| On/Off Diff | -5.34 |
+| TS% | 56.8% |
+| 3P% | 35.2% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-12.7 pts over 3 seasons)
+> **Trend:** Trending DOWN (-11.2 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | SAS | 34.0 | $15909017 | 0.54 | -2.81 | -2.16 | -7.09 |
-| 2022-23 | SAS | 48.0 | $14462689 | 1.56 | 1.19 | 0.15 | 2.89 |
-| 2021-22 | SAS | 46.8 | $13147942 | 1.62 | 0.74 | 1.75 | 2.70 |
+| 2023-24 | SAS | 26.1 | $15909017 | 0.57 | -2.12 | -1.63 | -5.34 |
+| 2022-23 | SAS | 40.1 | $14462689 | 1.60 | 0.88 | 0.11 | 2.14 |
+| 2021-22 | SAS | 37.4 | $13147942 | 1.28 | 0.37 | 0.87 | 1.36 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.87, 0.37)
+- **Cluster:** 5
+- **PCA Position:** (-1.05, 0.53)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

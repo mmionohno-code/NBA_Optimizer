@@ -4,12 +4,12 @@ player: "David Nwaba"
 season: "2021-22"
 team: "HOU"
 archetype: "Bench / Role Player"
-composite_score: 35.76
+composite_score: 29.11
 salary: 925258
-vorpd: 11.14
-off_rating_adj: -1.45
-def_rating_adj: -1.29
-on_off_diff: 1.55
+vorpd: 9.25
+off_rating_adj: -0.79
+def_rating_adj: -0.71
+on_off_diff: 0.84
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | HOU |
-| Composite Score | **35.8** / 100 |
+| Composite Score | **29.1** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.14 |
-| Off Rating Adj | -1.45 |
-| Def Rating Adj | -1.29 |
-| On/Off Diff | 1.55 |
-| TS% | 56.5% |
-| 3P% | 30.6% |
+| VORPD | 9.25 |
+| Off Rating Adj | -0.79 |
+| Def Rating Adj | -0.71 |
+| On/Off Diff | 0.84 |
+| TS% | 56.4% |
+| 3P% | 35.2% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

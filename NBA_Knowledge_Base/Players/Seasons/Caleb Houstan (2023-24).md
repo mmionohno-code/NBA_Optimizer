@@ -4,12 +4,12 @@ player: "Caleb Houstan"
 season: "2023-24"
 team: "ORL"
 archetype: "Bench / Role Player"
-composite_score: 20.32
+composite_score: 12.12
 salary: 2019706
 vorpd: 0.00
-off_rating_adj: -2.59
-def_rating_adj: -1.67
-on_off_diff: -4.09
+off_rating_adj: -1.61
+def_rating_adj: -1.04
+on_off_diff: -2.52
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | ORL |
-| Composite Score | **20.3** / 100 |
+| Composite Score | **12.1** / 100 |
 | Salary | $2,019,706 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.59 |
-| Def Rating Adj | -1.67 |
-| On/Off Diff | -4.09 |
-| TS% | 57.9% |
-| 3P% | 37.3% |
+| Off Rating Adj | -1.61 |
+| Def Rating Adj | -1.04 |
+| On/Off Diff | -2.52 |
+| TS% | 57.8% |
+| 3P% | 37.4% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

@@ -3,12 +3,12 @@ player: "Garrett Temple"
 team: "TOR"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 28.53
+composite_score: 22.58
 salary: 2020490
-vorpd: 1.52
-off_rating_adj: -9.14
-def_rating_adj: 3.43
-on_off_diff: -3.77
+vorpd: 2.70
+off_rating_adj: -3.35
+def_rating_adj: 1.26
+on_off_diff: -1.38
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **28.5** / 100 |
+| Composite Score | **22.6** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 1.52 |
-| Off Rating Adj | -9.14 |
-| Def Rating Adj | 3.43 |
-| On/Off Diff | -3.77 |
-| TS% | 55.0% |
-| 3P% | 30.0% |
+| VORPD | 2.70 |
+| Off Rating Adj | -3.35 |
+| Def Rating Adj | 1.26 |
+| On/Off Diff | -1.38 |
+| TS% | 55.9% |
+| 3P% | 36.4% |
 | Influence Score | 0.08 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+14.0 pts over 2 seasons)
+> **Trend:** Trending UP (+14.2 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | TOR | 28.5 | $2020490 | 1.52 | -9.14 | 3.43 | -3.77 |
-| 2021-22 | NOP | 14.6 | $1669826 | 0.00 | -7.33 | -4.33 | -17.26 |
+| 2023-24 | TOR | 22.6 | $2020490 | 2.70 | -3.35 | 1.26 | -1.38 |
+| 2021-22 | NOP | 8.4 | $1669826 | 0.00 | -5.03 | -2.97 | -11.85 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.72, 0.41)
+- **Cluster:** 5
+- **PCA Position:** (-1.87, 0.02)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

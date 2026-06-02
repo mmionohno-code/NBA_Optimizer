@@ -4,12 +4,12 @@ player: "Naji Marshall"
 season: "2023-24"
 team: "NOP"
 archetype: "Defensive Wing"
-composite_score: 47.91
+composite_score: 38.35
 salary: 7919094
-vorpd: 2.84
-off_rating_adj: 0.68
-def_rating_adj: 3.36
-on_off_diff: 5.62
+vorpd: 2.68
+off_rating_adj: 0.49
+def_rating_adj: 2.40
+on_off_diff: 4.03
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | NOP |
-| Composite Score | **47.9** / 100 |
+| Composite Score | **38.4** / 100 |
 | Salary | $7,919,094 |
-| VORPD | 2.84 |
-| Off Rating Adj | 0.68 |
-| Def Rating Adj | 3.36 |
-| On/Off Diff | 5.62 |
+| VORPD | 2.68 |
+| Off Rating Adj | 0.49 |
+| Def Rating Adj | 2.40 |
+| On/Off Diff | 4.03 |
 | TS% | 57.6% |
-| 3P% | 38.7% |
+| 3P% | 37.9% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

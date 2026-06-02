@@ -3,32 +3,32 @@ player_season: "Royce O'Neale (2021-22)"
 player: "Royce O'Neale"
 season: "2021-22"
 team: "UTA"
-archetype: "Perimeter Scorer"
-composite_score: 37.65
+archetype: "Bench / Role Player"
+composite_score: 28.05
 salary: 7362791
-vorpd: 1.66
-off_rating_adj: 2.10
-def_rating_adj: -2.16
-on_off_diff: -3.32
+vorpd: 1.02
+off_rating_adj: 1.74
+def_rating_adj: -1.79
+on_off_diff: -2.73
 season_weight: 0.20
-tags: [season-note, perimeter-scorer]
+tags: [season-note, bench-/-role-player]
 ---
 # Royce O'Neale — 2021-22
 
-> Part of [[Players/Royce O'Neale]] | Archetype: [[Archetypes/Perimeter Scorer]]
+> Part of [[Players/Royce O'Neale]] | Archetype: [[Archetypes/Bench / Role Player]]
 
 | Metric | Value |
 |---|---|
 | Season | 2021-22 |
 | Team | UTA |
-| Composite Score | **37.6** / 100 |
+| Composite Score | **28.1** / 100 |
 | Salary | $7,362,791 |
-| VORPD | 1.66 |
-| Off Rating Adj | 2.10 |
-| Def Rating Adj | -2.16 |
-| On/Off Diff | -3.32 |
-| TS% | 59.6% |
-| 3P% | 38.9% |
+| VORPD | 1.02 |
+| Off Rating Adj | 1.74 |
+| Def Rating Adj | -1.79 |
+| On/Off Diff | -2.73 |
+| TS% | 59.1% |
+| 3P% | 37.6% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

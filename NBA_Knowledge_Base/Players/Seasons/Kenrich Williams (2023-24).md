@@ -4,12 +4,12 @@ player: "Kenrich Williams"
 season: "2023-24"
 team: "OKC"
 archetype: "Defensive Wing"
-composite_score: 40.45
+composite_score: 30.07
 salary: 6302719
-vorpd: 2.38
-off_rating_adj: 0.12
-def_rating_adj: 3.91
-on_off_diff: 0.91
+vorpd: 2.05
+off_rating_adj: 0.08
+def_rating_adj: 2.63
+on_off_diff: 0.63
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | OKC |
-| Composite Score | **40.5** / 100 |
+| Composite Score | **30.1** / 100 |
 | Salary | $6,302,719 |
-| VORPD | 2.38 |
-| Off Rating Adj | 0.12 |
-| Def Rating Adj | 3.91 |
-| On/Off Diff | 0.91 |
-| TS% | 57.0% |
-| 3P% | 39.7% |
+| VORPD | 2.05 |
+| Off Rating Adj | 0.08 |
+| Def Rating Adj | 2.63 |
+| On/Off Diff | 0.63 |
+| TS% | 57.2% |
+| 3P% | 38.2% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

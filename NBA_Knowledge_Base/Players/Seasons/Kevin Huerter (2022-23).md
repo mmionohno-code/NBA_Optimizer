@@ -4,12 +4,12 @@ player: "Kevin Huerter"
 season: "2022-23"
 team: "SAC"
 archetype: "Perimeter Scorer"
-composite_score: 51.08
+composite_score: 41.95
 salary: 14391158
-vorpd: 1.78
-off_rating_adj: 3.53
-def_rating_adj: -2.62
-on_off_diff: 2.98
+vorpd: 1.74
+off_rating_adj: 2.88
+def_rating_adj: -2.13
+on_off_diff: 2.44
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | SAC |
-| Composite Score | **51.1** / 100 |
+| Composite Score | **42.0** / 100 |
 | Salary | $14,391,158 |
-| VORPD | 1.78 |
-| Off Rating Adj | 3.53 |
-| Def Rating Adj | -2.62 |
-| On/Off Diff | 2.98 |
-| TS% | 61.1% |
-| 3P% | 40.2% |
+| VORPD | 1.74 |
+| Off Rating Adj | 2.88 |
+| Def Rating Adj | -2.13 |
+| On/Off Diff | 2.44 |
+| TS% | 60.7% |
+| 3P% | 39.0% |
 | Influence Score | 0.12 |
 | Season Weight | 0.35 |
 

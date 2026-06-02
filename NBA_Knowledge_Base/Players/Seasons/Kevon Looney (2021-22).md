@@ -4,12 +4,12 @@ player: "Kevon Looney"
 season: "2021-22"
 team: "GSW"
 archetype: "Bench / Role Player"
-composite_score: 36.79
+composite_score: 29.75
 salary: 5817514
-vorpd: 1.95
-off_rating_adj: 3.77
-def_rating_adj: -2.07
-on_off_diff: -0.64
+vorpd: 1.58
+off_rating_adj: 2.92
+def_rating_adj: -1.60
+on_off_diff: -0.48
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | GSW |
-| Composite Score | **36.8** / 100 |
+| Composite Score | **29.8** / 100 |
 | Salary | $5,817,514 |
-| VORPD | 1.95 |
-| Off Rating Adj | 3.77 |
-| Def Rating Adj | -2.07 |
-| On/Off Diff | -0.64 |
-| TS% | 57.9% |
-| 3P% | 34.1% |
+| VORPD | 1.58 |
+| Off Rating Adj | 2.92 |
+| Def Rating Adj | -1.60 |
+| On/Off Diff | -0.48 |
+| TS% | 57.6% |
+| 3P% | 35.7% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

@@ -4,12 +4,12 @@ player: "Miles McBride"
 season: "2023-24"
 team: "NYK"
 archetype: "Bench / Role Player"
-composite_score: 33.08
+composite_score: 21.22
 salary: 3812897
-vorpd: 2.00
-off_rating_adj: -3.62
-def_rating_adj: 2.22
-on_off_diff: -7.20
+vorpd: 1.07
+off_rating_adj: -2.63
+def_rating_adj: 1.61
+on_off_diff: -5.21
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | NYK |
-| Composite Score | **33.1** / 100 |
+| Composite Score | **21.2** / 100 |
 | Salary | $3,812,897 |
-| VORPD | 2.00 |
-| Off Rating Adj | -3.62 |
-| Def Rating Adj | 2.22 |
-| On/Off Diff | -7.20 |
-| TS% | 58.6% |
-| 3P% | 41.0% |
+| VORPD | 1.07 |
+| Off Rating Adj | -2.63 |
+| Def Rating Adj | 1.61 |
+| On/Off Diff | -5.21 |
+| TS% | 58.4% |
+| 3P% | 39.2% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

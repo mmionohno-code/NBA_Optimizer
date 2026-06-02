@@ -3,12 +3,12 @@ player: "Aaron Wiggins"
 team: "OKC"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 34.67
+composite_score: 22.50
 salary: 8889450
-vorpd: 1.04
-off_rating_adj: 0.52
-def_rating_adj: 0.61
-on_off_diff: -2.73
+vorpd: 0.60
+off_rating_adj: 0.37
+def_rating_adj: 0.44
+on_off_diff: -1.92
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **34.7** / 100 |
+| Composite Score | **22.5** / 100 |
 | Salary | $8,889,450 |
-| VORPD | 1.04 |
-| Off Rating Adj | 0.52 |
-| Def Rating Adj | 0.61 |
-| On/Off Diff | -2.73 |
-| TS% | 63.9% |
-| 3P% | 49.2% |
+| VORPD | 0.60 |
+| Off Rating Adj | 0.37 |
+| Def Rating Adj | 0.44 |
+| On/Off Diff | -1.92 |
+| TS% | 62.6% |
+| 3P% | 41.2% |
 | Influence Score | 0.10 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-4.2 pts over 3 seasons)
+> **Trend:** Trending DOWN (-10.5 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | OKC | 34.7 | $8889450 | 1.04 | 0.52 | 0.61 | -2.73 |
-| 2022-23 | OKC | 37.1 | $8081288 | 1.44 | 0.13 | 1.00 | 0.45 |
-| 2021-22 | OKC | 38.8 | $7346649 | 1.82 | 1.85 | -2.85 | 2.02 |
+| 2023-24 | OKC | 22.5 | $8889450 | 0.60 | 0.37 | 0.44 | -1.92 |
+| 2022-23 | OKC | 27.6 | $8081288 | 1.33 | 0.09 | 0.72 | 0.33 |
+| 2021-22 | OKC | 33.0 | $7346649 | 1.70 | 1.31 | -2.02 | 1.43 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.77, -1.68)
+- **Cluster:** 3
+- **PCA Position:** (0.45, -2.08)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

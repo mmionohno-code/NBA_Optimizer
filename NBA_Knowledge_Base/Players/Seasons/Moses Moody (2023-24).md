@@ -4,12 +4,12 @@ player: "Moses Moody"
 season: "2023-24"
 team: "GSW"
 archetype: "Defensive Wing"
-composite_score: 37.78
+composite_score: 28.83
 salary: 10184021
-vorpd: 1.21
-off_rating_adj: -1.34
-def_rating_adj: 2.67
-on_off_diff: 1.65
+vorpd: 1.15
+off_rating_adj: -0.93
+def_rating_adj: 1.86
+on_off_diff: 1.16
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | GSW |
-| Composite Score | **37.8** / 100 |
+| Composite Score | **28.8** / 100 |
 | Salary | $10,184,021 |
-| VORPD | 1.21 |
-| Off Rating Adj | -1.34 |
-| Def Rating Adj | 2.67 |
-| On/Off Diff | 1.65 |
+| VORPD | 1.15 |
+| Off Rating Adj | -0.93 |
+| Def Rating Adj | 1.86 |
+| On/Off Diff | 1.16 |
 | TS% | 57.7% |
-| 3P% | 36.0% |
+| 3P% | 36.8% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

@@ -3,12 +3,12 @@ player: "Maurice Harkless"
 team: "SAC"
 season: "2021-22"
 archetype: "Defensive Wing"
-composite_score: 36.02
+composite_score: 28.90
 salary: 925258
-vorpd: 11.42
-off_rating_adj: -1.27
-def_rating_adj: 1.51
-on_off_diff: 4.17
+vorpd: 9.02
+off_rating_adj: -0.81
+def_rating_adj: 0.96
+on_off_diff: 2.64
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **36.0** / 100 |
+| Composite Score | **28.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.42 |
-| Off Rating Adj | -1.27 |
-| Def Rating Adj | 1.51 |
-| On/Off Diff | 4.17 |
+| VORPD | 9.02 |
+| Off Rating Adj | -0.81 |
+| Def Rating Adj | 0.96 |
+| On/Off Diff | 2.64 |
 | TS% | 56.2% |
-| 3P% | 30.7% |
+| 3P% | 34.6% |
 | Influence Score | 0.06 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | SAC | 36.0 | $925258 | 11.42 | -1.27 | 1.51 | 4.17 |
+| 2021-22 | SAC | 28.9 | $925258 | 9.02 | -0.81 | 0.96 | 2.64 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-1.02, -0.95)
+- **Cluster:** 2
+- **PCA Position:** (-1.12, -0.62)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

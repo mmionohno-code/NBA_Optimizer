@@ -4,12 +4,12 @@ player: "Lance Stephenson"
 season: "2021-22"
 team: "IND"
 archetype: "Versatile Scorer"
-composite_score: 45.37
+composite_score: 38.90
 salary: 925258
-vorpd: 21.52
-off_rating_adj: -0.02
-def_rating_adj: -4.23
-on_off_diff: -2.91
+vorpd: 19.83
+off_rating_adj: -0.01
+def_rating_adj: -2.62
+on_off_diff: -1.81
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | IND |
-| Composite Score | **45.4** / 100 |
+| Composite Score | **38.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 21.52 |
-| Off Rating Adj | -0.02 |
-| Def Rating Adj | -4.23 |
-| On/Off Diff | -2.91 |
-| TS% | 54.4% |
-| 3P% | 30.0% |
+| VORPD | 19.83 |
+| Off Rating Adj | -0.01 |
+| Def Rating Adj | -2.62 |
+| On/Off Diff | -1.81 |
+| TS% | 54.8% |
+| 3P% | 34.5% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

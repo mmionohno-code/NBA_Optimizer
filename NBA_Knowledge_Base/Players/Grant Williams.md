@@ -3,12 +3,12 @@ player: "Grant Williams"
 team: "CHA"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 37.25
+composite_score: 28.48
 salary: 12006667
-vorpd: 0.98
-off_rating_adj: 4.49
-def_rating_adj: -1.32
-on_off_diff: -4.08
+vorpd: 0.95
+off_rating_adj: 3.64
+def_rating_adj: -1.07
+on_off_diff: -3.29
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **37.2** / 100 |
+| Composite Score | **28.5** / 100 |
 | Salary | $12,006,667 |
-| VORPD | 0.98 |
-| Off Rating Adj | 4.49 |
-| Def Rating Adj | -1.32 |
-| On/Off Diff | -4.08 |
-| TS% | 58.5% |
+| VORPD | 0.95 |
+| Off Rating Adj | 3.64 |
+| Def Rating Adj | -1.07 |
+| On/Off Diff | -3.29 |
+| TS% | 58.4% |
 | 3P% | 37.5% |
 | Influence Score | 0.09 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+13.9 pts over 3 seasons)
+> **Trend:** Trending UP (+16.4 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHA | 37.2 | $12006667 | 0.98 | 4.49 | -1.32 | -4.08 |
-| 2022-23 | BOS | 27.3 | $10915111 | 0.17 | -0.91 | -0.29 | -4.14 |
-| 2021-22 | BOS | 23.3 | $9922861 | 0.00 | 1.49 | -2.53 | -7.38 |
+| 2023-24 | CHA | 28.5 | $12006667 | 0.95 | 3.64 | -1.07 | -3.29 |
+| 2022-23 | BOS | 15.8 | $10915111 | 0.00 | -0.73 | -0.23 | -3.31 |
+| 2021-22 | BOS | 12.0 | $9922861 | 0.00 | 1.18 | -2.00 | -5.81 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (0.14, -0.73)
+- **Cluster:** 1
+- **PCA Position:** (0.11, -0.83)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

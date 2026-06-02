@@ -4,12 +4,12 @@ player: "Jontay Porter"
 season: "2023-24"
 team: "DET"
 archetype: "Versatile Scorer"
-composite_score: 49.02
+composite_score: 37.99
 salary: 2019706
-vorpd: 11.67
-off_rating_adj: -0.71
-def_rating_adj: 0.15
-on_off_diff: 2.11
+vorpd: 10.33
+off_rating_adj: -0.30
+def_rating_adj: 0.06
+on_off_diff: 0.88
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | DET |
-| Composite Score | **49.0** / 100 |
+| Composite Score | **38.0** / 100 |
 | Salary | $2,019,706 |
-| VORPD | 11.67 |
-| Off Rating Adj | -0.71 |
-| Def Rating Adj | 0.15 |
-| On/Off Diff | 2.11 |
-| TS% | 55.0% |
-| 3P% | 33.3% |
+| VORPD | 10.33 |
+| Off Rating Adj | -0.30 |
+| Def Rating Adj | 0.06 |
+| On/Off Diff | 0.88 |
+| TS% | 55.8% |
+| 3P% | 36.7% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

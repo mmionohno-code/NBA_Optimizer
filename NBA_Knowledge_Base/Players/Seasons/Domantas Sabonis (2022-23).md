@@ -4,12 +4,12 @@ player: "Domantas Sabonis"
 season: "2022-23"
 team: "SAC"
 archetype: "Elite Playmaker"
-composite_score: 55.49
+composite_score: 49.17
 salary: 33864802
-vorpd: 0.89
-off_rating_adj: 3.23
-def_rating_adj: -2.82
-on_off_diff: 0.56
+vorpd: 0.95
+off_rating_adj: 2.73
+def_rating_adj: -2.38
+on_off_diff: 0.49
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | SAC |
-| Composite Score | **55.5** / 100 |
+| Composite Score | **49.2** / 100 |
 | Salary | $33,864,802 |
-| VORPD | 0.89 |
-| Off Rating Adj | 3.23 |
-| Def Rating Adj | -2.82 |
-| On/Off Diff | 0.56 |
-| TS% | 65.5% |
-| 3P% | 37.3% |
+| VORPD | 0.95 |
+| Off Rating Adj | 2.73 |
+| Def Rating Adj | -2.38 |
+| On/Off Diff | 0.49 |
+| TS% | 64.7% |
+| 3P% | 36.9% |
 | Influence Score | 0.14 |
 | Season Weight | 0.35 |
 

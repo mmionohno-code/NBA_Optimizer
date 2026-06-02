@@ -4,12 +4,12 @@ player: "Bones Hyland"
 season: "2023-24"
 team: "LAC"
 archetype: "Bench / Role Player"
-composite_score: 40.19
+composite_score: 33.47
 salary: 2020490
-vorpd: 7.29
-off_rating_adj: -9.67
-def_rating_adj: 2.65
-on_off_diff: -9.73
+vorpd: 8.09
+off_rating_adj: -5.02
+def_rating_adj: 1.38
+on_off_diff: -5.04
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | LAC |
-| Composite Score | **40.2** / 100 |
+| Composite Score | **33.5** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 7.29 |
-| Off Rating Adj | -9.67 |
-| Def Rating Adj | 2.65 |
-| On/Off Diff | -9.73 |
-| TS% | 52.2% |
-| 3P% | 32.6% |
+| VORPD | 8.09 |
+| Off Rating Adj | -5.02 |
+| Def Rating Adj | 1.38 |
+| On/Off Diff | -5.04 |
+| TS% | 53.4% |
+| 3P% | 35.8% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

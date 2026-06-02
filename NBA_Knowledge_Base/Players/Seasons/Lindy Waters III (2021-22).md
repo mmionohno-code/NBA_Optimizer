@@ -4,12 +4,12 @@ player: "Lindy Waters III"
 season: "2021-22"
 team: "OKC"
 archetype: "Perimeter Scorer"
-composite_score: 47.98
+composite_score: 39.70
 salary: 1669826
-vorpd: 13.49
-off_rating_adj: 5.85
-def_rating_adj: -3.45
-on_off_diff: 6.24
+vorpd: 11.47
+off_rating_adj: 2.82
+def_rating_adj: -1.66
+on_off_diff: 3.01
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | OKC |
-| Composite Score | **48.0** / 100 |
+| Composite Score | **39.7** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 13.49 |
-| Off Rating Adj | 5.85 |
-| Def Rating Adj | -3.45 |
-| On/Off Diff | 6.24 |
+| VORPD | 11.47 |
+| Off Rating Adj | 2.82 |
+| Def Rating Adj | -1.66 |
+| On/Off Diff | 3.01 |
 | TS% | 56.2% |
-| 3P% | 36.3% |
+| 3P% | 36.2% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

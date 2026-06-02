@@ -3,12 +3,12 @@ player: "Kevon Harris"
 team: "ORL"
 season: "2022-23"
 archetype: "Defensive Wing"
-composite_score: 35.71
+composite_score: 26.99
 salary: 1017781
-vorpd: 10.07
-off_rating_adj: 0.34
-def_rating_adj: 2.48
-on_off_diff: 2.77
+vorpd: 9.93
+off_rating_adj: 0.16
+def_rating_adj: 1.18
+on_off_diff: 1.32
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **35.7** / 100 |
+| Composite Score | **27.0** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 10.07 |
-| Off Rating Adj | 0.34 |
-| Def Rating Adj | 2.48 |
-| On/Off Diff | 2.77 |
-| TS% | 57.1% |
-| 3P% | 37.2% |
+| VORPD | 9.93 |
+| Off Rating Adj | 0.16 |
+| Def Rating Adj | 1.18 |
+| On/Off Diff | 1.32 |
+| TS% | 57.3% |
+| 3P% | 36.8% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | ORL | 35.7 | $1017781 | 10.07 | 0.34 | 2.48 | 2.77 |
+| 2022-23 | ORL | 27.0 | $1017781 | 9.93 | 0.16 | 1.18 | 1.32 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.71, -1.09)
+- **Cluster:** 2
+- **PCA Position:** (-0.85, -0.82)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

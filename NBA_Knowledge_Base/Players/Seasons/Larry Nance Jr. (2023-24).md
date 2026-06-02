@@ -4,12 +4,12 @@ player: "Larry Nance Jr."
 season: "2023-24"
 team: "NOP"
 archetype: "Bench / Role Player"
-composite_score: 36.44
+composite_score: 25.84
 salary: 2020490
-vorpd: 5.44
-off_rating_adj: -3.02
-def_rating_adj: 1.76
-on_off_diff: -1.89
+vorpd: 4.31
+off_rating_adj: -2.14
+def_rating_adj: 1.25
+on_off_diff: -1.32
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | NOP |
-| Composite Score | **36.4** / 100 |
+| Composite Score | **25.8** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 5.44 |
-| Off Rating Adj | -3.02 |
-| Def Rating Adj | 1.76 |
-| On/Off Diff | -1.89 |
-| TS% | 62.3% |
-| 3P% | 41.5% |
+| VORPD | 4.31 |
+| Off Rating Adj | -2.14 |
+| Def Rating Adj | 1.25 |
+| On/Off Diff | -1.32 |
+| TS% | 61.2% |
+| 3P% | 38.3% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

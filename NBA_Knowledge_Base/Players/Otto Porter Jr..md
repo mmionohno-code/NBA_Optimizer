@@ -2,32 +2,32 @@
 player: "Otto Porter Jr."
 team: "GSW"
 season: "2021-22"
-archetype: "Perimeter Scorer"
-composite_score: 44.89
+archetype: "Defensive Wing"
+composite_score: 36.86
 salary: 925258
-vorpd: 21.00
-off_rating_adj: 0.77
-def_rating_adj: 1.83
-on_off_diff: 1.31
+vorpd: 17.63
+off_rating_adj: 0.56
+def_rating_adj: 1.35
+on_off_diff: 0.98
 is_shooter: 1
-tags: [player, perimeter-scorer]
+tags: [player, defensive-wing]
 ---
 # Otto Porter Jr.
 
-> **Archetype:** [[Archetypes/Perimeter Scorer]] | **Team:** GSW | **Latest Season:** 2021-22
+> **Archetype:** [[Archetypes/Defensive Wing]] | **Team:** GSW | **Latest Season:** 2021-22
 
 ## Most Recent Season Stats (2021-22)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **44.9** / 100 |
+| Composite Score | **36.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 21.00 |
-| Off Rating Adj | 0.77 |
-| Def Rating Adj | 1.83 |
-| On/Off Diff | 1.31 |
-| TS% | 57.6% |
-| 3P% | 37.0% |
+| VORPD | 17.63 |
+| Off Rating Adj | 0.56 |
+| Def Rating Adj | 1.35 |
+| On/Off Diff | 0.98 |
+| TS% | 57.4% |
+| 3P% | 36.5% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, perimeter-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | GSW | 44.9 | $925258 | 21.00 | 0.77 | 1.83 | 1.31 |
+| 2021-22 | GSW | 36.9 | $925258 | 17.63 | 0.56 | 1.35 | 0.98 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.32, -0.66)
+- **Cluster:** 2
+- **PCA Position:** (0.13, -0.60)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Ibou Badji"
 season: "2023-24"
 team: "POR"
 archetype: "Bench / Role Player"
-composite_score: 12.59
+composite_score: 10.99
 salary: 1119563
 vorpd: 0.00
-off_rating_adj: -10.48
-def_rating_adj: 2.75
-on_off_diff: -6.16
+off_rating_adj: -3.27
+def_rating_adj: 0.86
+on_off_diff: -1.92
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | POR |
-| Composite Score | **12.6** / 100 |
+| Composite Score | **11.0** / 100 |
 | Salary | $1,119,563 |
 | VORPD | 0.00 |
-| Off Rating Adj | -10.48 |
-| Def Rating Adj | 2.75 |
-| On/Off Diff | -6.16 |
-| TS% | 58.1% |
-| 3P% | 35.6% |
+| Off Rating Adj | -3.27 |
+| Def Rating Adj | 0.86 |
+| On/Off Diff | -1.92 |
+| TS% | 57.9% |
+| 3P% | 37.0% |
 | Influence Score | 0.05 |
 | Season Weight | 0.45 |
 

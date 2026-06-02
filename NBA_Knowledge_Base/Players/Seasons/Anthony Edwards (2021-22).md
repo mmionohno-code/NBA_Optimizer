@@ -4,12 +4,12 @@ player: "Anthony Edwards"
 season: "2021-22"
 team: "MIN"
 archetype: "Elite Playmaker"
-composite_score: 64.31
+composite_score: 59.59
 salary: 33123841
-vorpd: 1.17
-off_rating_adj: 2.58
-def_rating_adj: -1.20
-on_off_diff: 3.55
+vorpd: 1.18
+off_rating_adj: 2.15
+def_rating_adj: -1.00
+on_off_diff: 2.96
 season_weight: 0.20
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2021-22 |
 | Team | MIN |
-| Composite Score | **64.3** / 100 |
+| Composite Score | **59.6** / 100 |
 | Salary | $33,123,841 |
-| VORPD | 1.17 |
-| Off Rating Adj | 2.58 |
-| Def Rating Adj | -1.20 |
-| On/Off Diff | 3.55 |
+| VORPD | 1.18 |
+| Off Rating Adj | 2.15 |
+| Def Rating Adj | -1.00 |
+| On/Off Diff | 2.96 |
 | TS% | 56.0% |
-| 3P% | 35.7% |
+| 3P% | 35.8% |
 | Influence Score | 0.15 |
 | Season Weight | 0.20 |
 

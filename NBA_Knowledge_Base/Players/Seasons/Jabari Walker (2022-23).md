@@ -4,12 +4,12 @@ player: "Jabari Walker"
 season: "2022-23"
 team: "POR"
 archetype: "Bench / Role Player"
-composite_score: 24.13
+composite_score: 17.67
 salary: 1017781
-vorpd: 0.00
-off_rating_adj: -6.56
-def_rating_adj: 2.51
-on_off_diff: -5.12
+vorpd: 0.77
+off_rating_adj: -3.64
+def_rating_adj: 1.39
+on_off_diff: -2.83
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | POR |
-| Composite Score | **24.1** / 100 |
+| Composite Score | **17.7** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 0.00 |
-| Off Rating Adj | -6.56 |
-| Def Rating Adj | 2.51 |
-| On/Off Diff | -5.12 |
-| TS% | 53.1% |
-| 3P% | 28.6% |
+| VORPD | 0.77 |
+| Off Rating Adj | -3.64 |
+| Def Rating Adj | 1.39 |
+| On/Off Diff | -2.83 |
+| TS% | 54.3% |
+| 3P% | 35.3% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

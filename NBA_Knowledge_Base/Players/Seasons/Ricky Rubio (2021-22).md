@@ -4,12 +4,12 @@ player: "Ricky Rubio"
 season: "2021-22"
 team: "IND"
 archetype: "Defensive Wing"
-composite_score: 83.35
+composite_score: 74.23
 salary: 925258
-vorpd: 62.57
-off_rating_adj: -1.82
-def_rating_adj: 13.67
-on_off_diff: 8.22
+vorpd: 58.02
+off_rating_adj: -1.20
+def_rating_adj: 9.02
+on_off_diff: 5.43
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | IND |
-| Composite Score | **83.3** / 100 |
+| Composite Score | **74.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 62.57 |
-| Off Rating Adj | -1.82 |
-| Def Rating Adj | 13.67 |
-| On/Off Diff | 8.22 |
-| TS% | 50.8% |
-| 3P% | 33.9% |
+| VORPD | 58.02 |
+| Off Rating Adj | -1.20 |
+| Def Rating Adj | 9.02 |
+| On/Off Diff | 5.43 |
+| TS% | 51.8% |
+| 3P% | 35.2% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

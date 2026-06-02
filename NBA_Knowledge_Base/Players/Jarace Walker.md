@@ -3,12 +3,12 @@ player: "Jarace Walker"
 team: "IND"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 37.62
+composite_score: 28.38
 salary: 5864987
-vorpd: 2.07
-off_rating_adj: -0.52
-def_rating_adj: 1.22
-on_off_diff: 0.63
+vorpd: 1.92
+off_rating_adj: -0.21
+def_rating_adj: 0.49
+on_off_diff: 0.26
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **37.6** / 100 |
+| Composite Score | **28.4** / 100 |
 | Salary | $5,864,987 |
-| VORPD | 2.07 |
-| Off Rating Adj | -0.52 |
-| Def Rating Adj | 1.22 |
-| On/Off Diff | 0.63 |
-| TS% | 55.5% |
-| 3P% | 40.0% |
+| VORPD | 1.92 |
+| Off Rating Adj | -0.21 |
+| Def Rating Adj | 0.49 |
+| On/Off Diff | 0.26 |
+| TS% | 56.2% |
+| 3P% | 37.9% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | IND | 37.6 | $5864987 | 2.07 | -0.52 | 1.22 | 0.63 |
+| 2023-24 | IND | 28.4 | $5864987 | 1.92 | -0.21 | 0.49 | 0.26 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.52, -0.45)
+- **Cluster:** 1
+- **PCA Position:** (-0.63, -0.49)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

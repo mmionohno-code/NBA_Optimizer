@@ -4,12 +4,12 @@ player: "Keita Bates-Diop"
 season: "2022-23"
 team: "SAS"
 archetype: "Perimeter Scorer"
-composite_score: 40.18
+composite_score: 30.98
 salary: 1017781
-vorpd: 14.47
-off_rating_adj: 0.59
-def_rating_adj: -0.15
-on_off_diff: 2.79
+vorpd: 13.85
+off_rating_adj: 0.44
+def_rating_adj: -0.11
+on_off_diff: 2.08
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | SAS |
-| Composite Score | **40.2** / 100 |
+| Composite Score | **31.0** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 14.47 |
-| Off Rating Adj | 0.59 |
-| Def Rating Adj | -0.15 |
-| On/Off Diff | 2.79 |
-| TS% | 60.1% |
-| 3P% | 39.4% |
+| VORPD | 13.85 |
+| Off Rating Adj | 0.44 |
+| Def Rating Adj | -0.11 |
+| On/Off Diff | 2.08 |
+| TS% | 59.7% |
+| 3P% | 37.7% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

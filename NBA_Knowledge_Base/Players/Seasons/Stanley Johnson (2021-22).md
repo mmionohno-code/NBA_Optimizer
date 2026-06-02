@@ -3,32 +3,32 @@ player_season: "Stanley Johnson (2021-22)"
 player: "Stanley Johnson"
 season: "2021-22"
 team: "LAL"
-archetype: "Perimeter Scorer"
-composite_score: 45.96
+archetype: "Versatile Scorer"
+composite_score: 39.93
 salary: 925258
-vorpd: 22.16
-off_rating_adj: 5.15
-def_rating_adj: -3.19
-on_off_diff: 3.37
+vorpd: 20.95
+off_rating_adj: 3.53
+def_rating_adj: -2.19
+on_off_diff: 2.31
 season_weight: 0.20
-tags: [season-note, perimeter-scorer]
+tags: [season-note, versatile-scorer]
 ---
 # Stanley Johnson — 2021-22
 
-> Part of [[Players/Stanley Johnson]] | Archetype: [[Archetypes/Perimeter Scorer]]
+> Part of [[Players/Stanley Johnson]] | Archetype: [[Archetypes/Versatile Scorer]]
 
 | Metric | Value |
 |---|---|
 | Season | 2021-22 |
 | Team | LAL |
-| Composite Score | **46.0** / 100 |
+| Composite Score | **39.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 22.16 |
-| Off Rating Adj | 5.15 |
-| Def Rating Adj | -3.19 |
-| On/Off Diff | 3.37 |
+| VORPD | 20.95 |
+| Off Rating Adj | 3.53 |
+| Def Rating Adj | -2.19 |
+| On/Off Diff | 2.31 |
 | TS% | 56.3% |
-| 3P% | 31.4% |
+| 3P% | 34.8% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

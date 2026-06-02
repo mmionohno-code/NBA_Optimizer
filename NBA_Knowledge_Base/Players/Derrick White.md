@@ -3,12 +3,12 @@ player: "Derrick White"
 team: "BOS"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 52.18
+composite_score: 43.46
 salary: 24725172
-vorpd: 1.08
-off_rating_adj: 2.45
-def_rating_adj: -0.73
-on_off_diff: -0.44
+vorpd: 1.06
+off_rating_adj: 2.02
+def_rating_adj: -0.60
+on_off_diff: -0.34
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **52.2** / 100 |
+| Composite Score | **43.5** / 100 |
 | Salary | $24,725,172 |
-| VORPD | 1.08 |
-| Off Rating Adj | 2.45 |
-| Def Rating Adj | -0.73 |
-| On/Off Diff | -0.44 |
-| TS% | 60.6% |
-| 3P% | 39.6% |
+| VORPD | 1.06 |
+| Off Rating Adj | 2.02 |
+| Def Rating Adj | -0.60 |
+| On/Off Diff | -0.34 |
+| TS% | 60.2% |
+| 3P% | 38.9% |
 | Influence Score | 0.11 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Stable (-2.8 pts over 3 seasons)
+> **Trend:** Trending DOWN (-8.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | BOS | 52.2 | $24725172 | 1.08 | 2.45 | -0.73 | -0.44 |
-| 2022-23 | BOS | 55.1 | $22477346 | 1.32 | 2.39 | 1.51 | 9.42 |
-| 2021-22 | BOS | 55.0 | $20434017 | 1.44 | 0.29 | -0.93 | 3.54 |
+| 2023-24 | BOS | 43.5 | $24725172 | 1.06 | 2.02 | -0.60 | -0.34 |
+| 2022-23 | BOS | 48.5 | $22477346 | 1.41 | 1.96 | 1.25 | 7.77 |
+| 2021-22 | BOS | 51.7 | $20434017 | 1.53 | 0.24 | -0.76 | 2.89 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (1.81, -0.46)
+- **Cluster:** 3
+- **PCA Position:** (1.91, -0.80)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

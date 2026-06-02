@@ -3,32 +3,32 @@ player_season: "Armoni Brooks (2021-22)"
 player: "Armoni Brooks"
 season: "2021-22"
 team: "TOR"
-archetype: "Versatile Scorer"
-composite_score: 37.33
+archetype: "Bench / Role Player"
+composite_score: 33.15
 salary: 925258
-vorpd: 12.83
-off_rating_adj: -1.05
-def_rating_adj: -3.49
-on_off_diff: 3.67
+vorpd: 13.62
+off_rating_adj: -0.66
+def_rating_adj: -2.19
+on_off_diff: 2.31
 season_weight: 0.20
-tags: [season-note, versatile-scorer]
+tags: [season-note, bench-/-role-player]
 ---
 # Armoni Brooks — 2021-22
 
-> Part of [[Players/Armoni Brooks]] | Archetype: [[Archetypes/Versatile Scorer]]
+> Part of [[Players/Armoni Brooks]] | Archetype: [[Archetypes/Bench / Role Player]]
 
 | Metric | Value |
 |---|---|
 | Season | 2021-22 |
 | Team | TOR |
-| Composite Score | **37.3** / 100 |
+| Composite Score | **33.1** / 100 |
 | Salary | $925,258 |
-| VORPD | 12.83 |
-| Off Rating Adj | -1.05 |
-| Def Rating Adj | -3.49 |
-| On/Off Diff | 3.67 |
-| TS% | 51.0% |
-| 3P% | 29.7% |
+| VORPD | 13.62 |
+| Off Rating Adj | -0.66 |
+| Def Rating Adj | -2.19 |
+| On/Off Diff | 2.31 |
+| TS% | 52.1% |
+| 3P% | 33.0% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

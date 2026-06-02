@@ -4,12 +4,12 @@ player: "Kevin Huerter"
 season: "2021-22"
 team: "ATL"
 archetype: "Perimeter Scorer"
-composite_score: 46.41
+composite_score: 38.58
 salary: 13082913
-vorpd: 1.60
-off_rating_adj: 2.11
-def_rating_adj: -0.45
-on_off_diff: 5.42
+vorpd: 1.38
+off_rating_adj: 1.72
+def_rating_adj: -0.36
+on_off_diff: 4.43
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | ATL |
-| Composite Score | **46.4** / 100 |
+| Composite Score | **38.6** / 100 |
 | Salary | $13,082,913 |
-| VORPD | 1.60 |
-| Off Rating Adj | 2.11 |
-| Def Rating Adj | -0.45 |
-| On/Off Diff | 5.42 |
-| TS% | 56.9% |
-| 3P% | 38.9% |
+| VORPD | 1.38 |
+| Off Rating Adj | 1.72 |
+| Def Rating Adj | -0.36 |
+| On/Off Diff | 4.43 |
+| TS% | 56.8% |
+| 3P% | 37.8% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

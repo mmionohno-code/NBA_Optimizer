@@ -3,12 +3,12 @@ player: "JT Thor"
 team: "CHA"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 40.42
+composite_score: 30.17
 salary: 2019706
-vorpd: 7.41
-off_rating_adj: 1.19
-def_rating_adj: 4.58
-on_off_diff: 11.44
+vorpd: 6.46
+off_rating_adj: 0.73
+def_rating_adj: 2.79
+on_off_diff: 6.97
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,29 +20,29 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **40.4** / 100 |
+| Composite Score | **30.2** / 100 |
 | Salary | $2,019,706 |
-| VORPD | 7.41 |
-| Off Rating Adj | 1.19 |
-| Def Rating Adj | 4.58 |
-| On/Off Diff | 11.44 |
-| TS% | 54.4% |
-| 3P% | 34.6% |
+| VORPD | 6.46 |
+| Off Rating Adj | 0.73 |
+| Def Rating Adj | 2.79 |
+| On/Off Diff | 6.97 |
+| TS% | 55.3% |
+| 3P% | 36.8% |
 | Influence Score | 0.06 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+13.7 pts over 2 seasons)
+> **Trend:** Trending UP (+11.0 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHA | 40.4 | $2019706 | 7.41 | 1.19 | 4.58 | 11.44 |
-| 2022-23 | CHA | 26.8 | $1017781 | 1.27 | -3.85 | 1.89 | -1.39 |
+| 2023-24 | CHA | 30.2 | $2019706 | 6.46 | 0.73 | 2.79 | 6.97 |
+| 2022-23 | CHA | 19.1 | $1017781 | 2.22 | -2.54 | 1.25 | -0.92 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.60, -1.66)
+- **Cluster:** 2
+- **PCA Position:** (-0.67, -1.55)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

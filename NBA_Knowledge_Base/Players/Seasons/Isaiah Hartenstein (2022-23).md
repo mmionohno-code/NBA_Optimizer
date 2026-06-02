@@ -4,12 +4,12 @@ player: "Isaiah Hartenstein"
 season: "2022-23"
 team: "NYK"
 archetype: "Defensive Wing"
-composite_score: 40.22
+composite_score: 31.46
 salary: 22797308
-vorpd: 0.65
-off_rating_adj: 1.63
-def_rating_adj: 1.97
-on_off_diff: 1.20
+vorpd: 0.64
+off_rating_adj: 1.25
+def_rating_adj: 1.51
+on_off_diff: 0.94
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | NYK |
-| Composite Score | **40.2** / 100 |
+| Composite Score | **31.5** / 100 |
 | Salary | $22,797,308 |
-| VORPD | 0.65 |
-| Off Rating Adj | 1.63 |
-| Def Rating Adj | 1.97 |
-| On/Off Diff | 1.20 |
-| TS% | 57.0% |
-| 3P% | 21.6% |
+| VORPD | 0.64 |
+| Off Rating Adj | 1.25 |
+| Def Rating Adj | 1.51 |
+| On/Off Diff | 0.94 |
+| TS% | 57.1% |
+| 3P% | 34.7% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

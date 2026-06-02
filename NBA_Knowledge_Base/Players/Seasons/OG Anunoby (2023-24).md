@@ -4,12 +4,12 @@ player: "OG Anunoby"
 season: "2023-24"
 team: "NYK"
 archetype: "Perimeter Scorer"
-composite_score: 68.94
+composite_score: 61.76
 salary: 34816707
-vorpd: 1.25
-off_rating_adj: 3.98
-def_rating_adj: 5.62
-on_off_diff: 15.04
+vorpd: 1.28
+off_rating_adj: 3.07
+def_rating_adj: 4.35
+on_off_diff: 11.64
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | NYK |
-| Composite Score | **68.9** / 100 |
+| Composite Score | **61.8** / 100 |
 | Salary | $34,816,707 |
-| VORPD | 1.25 |
-| Off Rating Adj | 3.98 |
-| Def Rating Adj | 5.62 |
-| On/Off Diff | 15.04 |
-| TS% | 59.1% |
-| 3P% | 38.2% |
+| VORPD | 1.28 |
+| Off Rating Adj | 3.07 |
+| Def Rating Adj | 4.35 |
+| On/Off Diff | 11.64 |
+| TS% | 58.9% |
+| 3P% | 37.8% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

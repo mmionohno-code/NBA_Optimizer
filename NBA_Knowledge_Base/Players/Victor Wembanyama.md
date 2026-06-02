@@ -3,12 +3,12 @@ player: "Victor Wembanyama"
 team: "SAS"
 season: "2023-24"
 archetype: "Two-Way Big"
-composite_score: 68.86
+composite_score: 65.78
 salary: 11770308
-vorpd: 3.69
-off_rating_adj: 0.09
-def_rating_adj: 2.94
-on_off_diff: 6.18
+vorpd: 4.13
+off_rating_adj: 0.07
+def_rating_adj: 2.37
+on_off_diff: 4.99
 is_shooter: 1
 tags: [player, two-way-big]
 ---
@@ -20,14 +20,14 @@ tags: [player, two-way-big]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **68.9** / 100 |
+| Composite Score | **65.8** / 100 |
 | Salary | $11,770,308 |
-| VORPD | 3.69 |
-| Off Rating Adj | 0.09 |
-| Def Rating Adj | 2.94 |
-| On/Off Diff | 6.18 |
-| TS% | 56.6% |
-| 3P% | 32.5% |
+| VORPD | 4.13 |
+| Off Rating Adj | 0.07 |
+| Def Rating Adj | 2.37 |
+| On/Off Diff | 4.99 |
+| TS% | 56.7% |
+| 3P% | 34.5% |
 | Influence Score | 0.18 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, two-way-big]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | SAS | 68.9 | $11770308 | 3.69 | 0.09 | 2.94 | 6.18 |
+| 2023-24 | SAS | 65.8 | $11770308 | 4.13 | 0.07 | 2.37 | 4.99 |
 
 ## Profile
 
 - **Cluster:** 4
-- **PCA Position:** (3.55, -1.49)
+- **PCA Position:** (3.52, -1.10)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

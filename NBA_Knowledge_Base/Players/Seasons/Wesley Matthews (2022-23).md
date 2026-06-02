@@ -4,12 +4,12 @@ player: "Wesley Matthews"
 season: "2022-23"
 team: "MIL"
 archetype: "Bench / Role Player"
-composite_score: 26.42
+composite_score: 19.30
 salary: 1017781
-vorpd: 0.95
-off_rating_adj: -1.48
-def_rating_adj: 1.24
-on_off_diff: -2.02
+vorpd: 2.37
+off_rating_adj: -0.92
+def_rating_adj: 0.77
+on_off_diff: -1.24
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | MIL |
-| Composite Score | **26.4** / 100 |
+| Composite Score | **19.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 0.95 |
-| Off Rating Adj | -1.48 |
-| Def Rating Adj | 1.24 |
-| On/Off Diff | -2.02 |
-| TS% | 54.7% |
-| 3P% | 31.5% |
+| VORPD | 2.37 |
+| Off Rating Adj | -0.92 |
+| Def Rating Adj | 0.77 |
+| On/Off Diff | -1.24 |
+| TS% | 55.5% |
+| 3P% | 35.1% |
 | Influence Score | 0.05 |
 | Season Weight | 0.35 |
 

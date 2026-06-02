@@ -3,12 +3,12 @@ player: "Hamidou Diallo"
 team: "DET"
 season: "2022-23"
 archetype: "Defensive Wing"
-composite_score: 60.26
+composite_score: 50.98
 salary: 1017781
-vorpd: 34.20
-off_rating_adj: 0.49
-def_rating_adj: 7.14
-on_off_diff: 11.76
+vorpd: 33.50
+off_rating_adj: 0.32
+def_rating_adj: 4.75
+on_off_diff: 7.83
 is_shooter: 0
 tags: [player, defensive-wing]
 ---
@@ -20,29 +20,29 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **60.3** / 100 |
+| Composite Score | **51.0** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 34.20 |
-| Off Rating Adj | 0.49 |
-| Def Rating Adj | 7.14 |
-| On/Off Diff | 11.76 |
-| TS% | 58.8% |
-| 3P% | 35.0% |
+| VORPD | 33.50 |
+| Off Rating Adj | 0.32 |
+| Def Rating Adj | 4.75 |
+| On/Off Diff | 7.83 |
+| TS% | 58.6% |
+| 3P% | 36.4% |
 | Influence Score | 0.12 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+9.4 pts over 2 seasons)
+> **Trend:** Trending UP (+5.9 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | DET | 60.3 | $1017781 | 34.20 | 0.49 | 7.14 | 11.76 |
-| 2021-22 | DET | 50.9 | $925258 | 27.46 | -0.97 | 1.23 | 1.07 |
+| 2022-23 | DET | 51.0 | $1017781 | 33.50 | 0.32 | 4.75 | 7.83 |
+| 2021-22 | DET | 45.1 | $925258 | 26.51 | -0.69 | 0.88 | 0.76 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (1.36, -0.79)
+- **Cluster:** 2
+- **PCA Position:** (1.26, -0.81)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

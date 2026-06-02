@@ -4,12 +4,12 @@ player: "Thaddeus Young"
 season: "2022-23"
 team: "TOR"
 archetype: "Bench / Role Player"
-composite_score: 35.63
+composite_score: 27.31
 salary: 1017781
-vorpd: 10.00
-off_rating_adj: -3.01
-def_rating_adj: -2.89
-on_off_diff: -7.89
+vorpd: 10.24
+off_rating_adj: -1.84
+def_rating_adj: -1.77
+on_off_diff: -4.84
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | TOR |
-| Composite Score | **35.6** / 100 |
+| Composite Score | **27.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 10.00 |
-| Off Rating Adj | -3.01 |
-| Def Rating Adj | -2.89 |
-| On/Off Diff | -7.89 |
-| TS% | 57.4% |
-| 3P% | 17.6% |
+| VORPD | 10.24 |
+| Off Rating Adj | -1.84 |
+| Def Rating Adj | -1.77 |
+| On/Off Diff | -4.84 |
+| TS% | 57.5% |
+| 3P% | 34.7% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

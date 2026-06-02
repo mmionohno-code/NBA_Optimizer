@@ -3,12 +3,12 @@ player: "DeAndre Jordan"
 team: "DEN"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 2.35
+composite_score: 4.03
 salary: 1997266
 vorpd: 0.00
-off_rating_adj: -9.35
-def_rating_adj: -4.34
-on_off_diff: -18.86
+off_rating_adj: -4.13
+def_rating_adj: -1.92
+on_off_diff: -8.32
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **2.4** / 100 |
+| Composite Score | **4.0** / 100 |
 | Salary | $1,997,266 |
 | VORPD | 0.00 |
-| Off Rating Adj | -9.35 |
-| Def Rating Adj | -4.34 |
-| On/Off Diff | -18.86 |
-| TS% | 58.9% |
-| 3P% | 35.6% |
+| Off Rating Adj | -4.13 |
+| Def Rating Adj | -1.92 |
+| On/Off Diff | -8.32 |
+| TS% | 58.4% |
+| 3P% | 37.0% |
 | Influence Score | 0.09 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-7.7 pts over 3 seasons)
+> **Trend:** Stable (-2.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DEN | 2.4 | $1997266 | 0.00 | -9.35 | -4.34 | -18.86 |
-| 2022-23 | DEN | 11.1 | $1815690 | 0.00 | -6.55 | -2.98 | -13.08 |
-| 2021-22 | PHI | 10.0 | $1650632 | 0.00 | -9.59 | -2.37 | -9.03 |
+| 2023-24 | DEN | 4.0 | $1997266 | 0.00 | -4.13 | -1.92 | -8.32 |
+| 2022-23 | DEN | 6.9 | $1815690 | 0.00 | -3.53 | -1.61 | -7.04 |
+| 2021-22 | PHI | 6.3 | $1650632 | 0.00 | -5.32 | -1.31 | -5.01 |
 
 ## Profile
 
 - **Cluster:** 1
-- **PCA Position:** (-3.58, -0.34)
+- **PCA Position:** (-2.71, -0.55)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "James Bouknight"
 season: "2022-23"
 team: "CHA"
 archetype: "Bench / Role Player"
-composite_score: 35.10
+composite_score: 29.24
 salary: 1017781
-vorpd: 9.48
-off_rating_adj: -3.95
-def_rating_adj: 1.19
-on_off_diff: -1.37
+vorpd: 12.14
+off_rating_adj: -2.01
+def_rating_adj: 0.61
+on_off_diff: -0.70
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | CHA |
-| Composite Score | **35.1** / 100 |
+| Composite Score | **29.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 9.48 |
-| Off Rating Adj | -3.95 |
-| Def Rating Adj | 1.19 |
-| On/Off Diff | -1.37 |
-| TS% | 51.2% |
-| 3P% | 30.3% |
+| VORPD | 12.14 |
+| Off Rating Adj | -2.01 |
+| Def Rating Adj | 0.61 |
+| On/Off Diff | -0.70 |
+| TS% | 52.9% |
+| 3P% | 34.9% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

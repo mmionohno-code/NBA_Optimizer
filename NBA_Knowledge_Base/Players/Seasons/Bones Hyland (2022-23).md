@@ -4,12 +4,12 @@ player: "Bones Hyland"
 season: "2022-23"
 team: "LAC"
 archetype: "Versatile Scorer"
-composite_score: 41.52
+composite_score: 34.47
 salary: 1836802
-vorpd: 8.75
-off_rating_adj: 1.19
-def_rating_adj: -3.96
-on_off_diff: -11.08
+vorpd: 9.57
+off_rating_adj: 0.81
+def_rating_adj: -2.71
+on_off_diff: -7.58
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | LAC |
-| Composite Score | **41.5** / 100 |
+| Composite Score | **34.5** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 8.75 |
-| Off Rating Adj | 1.19 |
-| Def Rating Adj | -3.96 |
-| On/Off Diff | -11.08 |
-| TS% | 54.4% |
-| 3P% | 37.1% |
+| VORPD | 9.57 |
+| Off Rating Adj | 0.81 |
+| Def Rating Adj | -2.71 |
+| On/Off Diff | -7.58 |
+| TS% | 54.8% |
+| 3P% | 37.0% |
 | Influence Score | 0.15 |
 | Season Weight | 0.35 |
 

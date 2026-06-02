@@ -4,12 +4,12 @@ player: "Justin Robinson"
 season: "2021-22"
 team: "DET"
 archetype: "Bench / Role Player"
-composite_score: 17.49
+composite_score: 19.06
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -10.27
-def_rating_adj: 0.63
-on_off_diff: -15.99
+off_rating_adj: -3.87
+def_rating_adj: 0.24
+on_off_diff: -6.02
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | DET |
-| Composite Score | **17.5** / 100 |
+| Composite Score | **19.1** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -10.27 |
-| Def Rating Adj | 0.63 |
-| On/Off Diff | -15.99 |
-| TS% | 50.2% |
-| 3P% | 29.5% |
+| Off Rating Adj | -3.87 |
+| Def Rating Adj | 0.24 |
+| On/Off Diff | -6.02 |
+| TS% | 52.2% |
+| 3P% | 34.9% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

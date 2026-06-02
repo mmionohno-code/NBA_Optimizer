@@ -4,12 +4,12 @@ player: "P.J. Tucker"
 season: "2022-23"
 team: "PHI"
 archetype: "Bench / Role Player"
-composite_score: 26.76
+composite_score: 17.14
 salary: 1017781
-vorpd: 1.28
-off_rating_adj: 3.57
-def_rating_adj: -1.55
-on_off_diff: -2.03
+vorpd: 0.25
+off_rating_adj: 2.83
+def_rating_adj: -1.23
+on_off_diff: -1.59
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | PHI |
-| Composite Score | **26.8** / 100 |
+| Composite Score | **17.1** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 1.28 |
-| Off Rating Adj | 3.57 |
-| Def Rating Adj | -1.55 |
-| On/Off Diff | -2.03 |
-| TS% | 57.0% |
-| 3P% | 39.3% |
+| VORPD | 0.25 |
+| Off Rating Adj | 2.83 |
+| Def Rating Adj | -1.23 |
+| On/Off Diff | -1.59 |
+| TS% | 57.2% |
+| 3P% | 37.7% |
 | Influence Score | 0.04 |
 | Season Weight | 0.35 |
 

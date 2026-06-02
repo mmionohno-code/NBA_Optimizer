@@ -4,12 +4,12 @@ player: "Tony Bradley"
 season: "2021-22"
 team: "CHI"
 archetype: "Defensive Wing"
-composite_score: 40.04
+composite_score: 29.95
 salary: 2330508
-vorpd: 6.26
-off_rating_adj: -0.67
-def_rating_adj: 5.38
-on_off_diff: 7.81
+vorpd: 4.03
+off_rating_adj: -0.35
+def_rating_adj: 2.82
+on_off_diff: 4.10
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | CHI |
-| Composite Score | **40.0** / 100 |
+| Composite Score | **29.9** / 100 |
 | Salary | $2,330,508 |
-| VORPD | 6.26 |
-| Off Rating Adj | -0.67 |
-| Def Rating Adj | 5.38 |
-| On/Off Diff | 7.81 |
-| TS% | 57.9% |
-| 3P% | 34.1% |
+| VORPD | 4.03 |
+| Off Rating Adj | -0.35 |
+| Def Rating Adj | 2.82 |
+| On/Off Diff | 4.10 |
+| TS% | 57.4% |
+| 3P% | 35.7% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

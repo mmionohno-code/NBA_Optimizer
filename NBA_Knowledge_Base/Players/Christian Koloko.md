@@ -3,12 +3,12 @@ player: "Christian Koloko"
 team: "TOR"
 season: "2022-23"
 archetype: "Defensive Wing"
-composite_score: 46.11
+composite_score: 35.68
 salary: 1017781
-vorpd: 20.29
-off_rating_adj: 0.29
-def_rating_adj: 8.41
-on_off_diff: 10.98
+vorpd: 18.47
+off_rating_adj: 0.18
+def_rating_adj: 5.18
+on_off_diff: 6.77
 is_shooter: 0
 tags: [player, defensive-wing]
 ---
@@ -20,15 +20,15 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **46.1** / 100 |
+| Composite Score | **35.7** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 20.29 |
-| Off Rating Adj | 0.29 |
-| Def Rating Adj | 8.41 |
-| On/Off Diff | 10.98 |
-| TS% | 54.7% |
-| 3P% | 35.0% |
-| Influence Score | 0.05 |
+| VORPD | 18.47 |
+| Off Rating Adj | 0.18 |
+| Def Rating Adj | 5.18 |
+| On/Off Diff | 6.77 |
+| TS% | 55.5% |
+| 3P% | 36.4% |
+| Influence Score | 0.06 |
 
 ## Season History (1 season)
 
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | TOR | 46.1 | $1017781 | 20.29 | 0.29 | 8.41 | 10.98 |
+| 2022-23 | TOR | 35.7 | $1017781 | 18.47 | 0.18 | 5.18 | 6.77 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.11, -2.11)
+- **Cluster:** 2
+- **PCA Position:** (-0.24, -1.95)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Jalen McDaniels"
 season: "2021-22"
 team: "CHA"
 archetype: "Defensive Wing"
-composite_score: 37.34
+composite_score: 29.02
 salary: 925258
-vorpd: 12.84
-off_rating_adj: -0.26
-def_rating_adj: 1.68
-on_off_diff: 3.21
+vorpd: 9.15
+off_rating_adj: -0.17
+def_rating_adj: 1.08
+on_off_diff: 2.08
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | CHA |
-| Composite Score | **37.3** / 100 |
+| Composite Score | **29.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 12.84 |
-| Off Rating Adj | -0.26 |
-| Def Rating Adj | 1.68 |
-| On/Off Diff | 3.21 |
-| TS% | 58.3% |
-| 3P% | 38.0% |
+| VORPD | 9.15 |
+| Off Rating Adj | -0.17 |
+| Def Rating Adj | 1.08 |
+| On/Off Diff | 2.08 |
+| TS% | 57.8% |
+| 3P% | 36.7% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

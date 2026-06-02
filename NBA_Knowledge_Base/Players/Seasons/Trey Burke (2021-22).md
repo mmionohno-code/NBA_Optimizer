@@ -4,12 +4,12 @@ player: "Trey Burke"
 season: "2021-22"
 team: "DAL"
 archetype: "Bench / Role Player"
-composite_score: 39.78
+composite_score: 33.35
 salary: 925258
-vorpd: 15.48
-off_rating_adj: -5.93
-def_rating_adj: 2.89
-on_off_diff: -4.21
+vorpd: 13.83
+off_rating_adj: -2.78
+def_rating_adj: 1.35
+on_off_diff: -1.97
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | DAL |
-| Composite Score | **39.8** / 100 |
+| Composite Score | **33.4** / 100 |
 | Salary | $925,258 |
-| VORPD | 15.48 |
-| Off Rating Adj | -5.93 |
-| Def Rating Adj | 2.89 |
-| On/Off Diff | -4.21 |
-| TS% | 51.1% |
-| 3P% | 31.7% |
+| VORPD | 13.83 |
+| Off Rating Adj | -2.78 |
+| Def Rating Adj | 1.35 |
+| On/Off Diff | -1.97 |
+| TS% | 52.4% |
+| 3P% | 35.0% |
 | Influence Score | 0.13 |
 | Season Weight | 0.20 |
 

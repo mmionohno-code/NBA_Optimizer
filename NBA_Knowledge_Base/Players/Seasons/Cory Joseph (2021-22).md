@@ -4,12 +4,12 @@ player: "Cory Joseph"
 season: "2021-22"
 team: "DET"
 archetype: "Perimeter Scorer"
-composite_score: 44.47
+composite_score: 35.88
 salary: 925258
-vorpd: 20.55
-off_rating_adj: 1.23
-def_rating_adj: 0.23
-on_off_diff: 2.25
+vorpd: 16.57
+off_rating_adj: 0.94
+def_rating_adj: 0.17
+on_off_diff: 1.71
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | DET |
-| Composite Score | **44.5** / 100 |
+| Composite Score | **35.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 20.55 |
-| Off Rating Adj | 1.23 |
-| Def Rating Adj | 0.23 |
-| On/Off Diff | 2.25 |
-| TS% | 57.4% |
-| 3P% | 41.4% |
+| VORPD | 16.57 |
+| Off Rating Adj | 0.94 |
+| Def Rating Adj | 0.17 |
+| On/Off Diff | 1.71 |
+| TS% | 57.2% |
+| 3P% | 38.1% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

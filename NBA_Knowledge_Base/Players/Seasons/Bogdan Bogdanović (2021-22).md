@@ -4,12 +4,12 @@ player: "Bogdan Bogdanović"
 season: "2021-22"
 team: "ATL"
 archetype: "Perimeter Scorer"
-composite_score: 57.79
+composite_score: 51.59
 salary: 11649571
-vorpd: 2.78
-off_rating_adj: 2.31
-def_rating_adj: -0.05
-on_off_diff: 6.42
+vorpd: 2.66
+off_rating_adj: 1.82
+def_rating_adj: -0.04
+on_off_diff: 5.06
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | ATL |
-| Composite Score | **57.8** / 100 |
+| Composite Score | **51.6** / 100 |
 | Salary | $11,649,571 |
-| VORPD | 2.78 |
-| Off Rating Adj | 2.31 |
-| Def Rating Adj | -0.05 |
-| On/Off Diff | 6.42 |
+| VORPD | 2.66 |
+| Off Rating Adj | 1.82 |
+| Def Rating Adj | -0.04 |
+| On/Off Diff | 5.06 |
 | TS% | 56.2% |
-| 3P% | 36.8% |
+| 3P% | 36.6% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

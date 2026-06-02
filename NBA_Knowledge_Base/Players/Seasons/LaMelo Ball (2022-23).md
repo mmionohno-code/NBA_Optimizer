@@ -4,12 +4,12 @@ player: "LaMelo Ball"
 season: "2022-23"
 team: "CHA"
 archetype: "Elite Playmaker"
-composite_score: 72.99
+composite_score: 67.05
 salary: 30363423
-vorpd: 1.57
-off_rating_adj: 5.95
-def_rating_adj: -5.21
-on_off_diff: 2.65
+vorpd: 1.65
+off_rating_adj: 4.27
+def_rating_adj: -3.73
+on_off_diff: 1.90
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | CHA |
-| Composite Score | **73.0** / 100 |
+| Composite Score | **67.0** / 100 |
 | Salary | $30,363,423 |
-| VORPD | 1.57 |
-| Off Rating Adj | 5.95 |
-| Def Rating Adj | -5.21 |
-| On/Off Diff | 2.65 |
-| TS% | 54.7% |
-| 3P% | 37.6% |
+| VORPD | 1.65 |
+| Off Rating Adj | 4.27 |
+| Def Rating Adj | -3.73 |
+| On/Off Diff | 1.90 |
+| TS% | 55.1% |
+| 3P% | 37.3% |
 | Influence Score | 0.16 |
 | Season Weight | 0.35 |
 

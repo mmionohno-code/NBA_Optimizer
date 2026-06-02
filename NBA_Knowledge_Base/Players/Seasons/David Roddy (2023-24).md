@@ -4,12 +4,12 @@ player: "David Roddy"
 season: "2023-24"
 team: "PHX"
 archetype: "Bench / Role Player"
-composite_score: 25.39
+composite_score: 17.96
 salary: 2019706
-vorpd: 0.00
-off_rating_adj: -9.32
-def_rating_adj: -0.84
-on_off_diff: -2.63
+vorpd: 0.41
+off_rating_adj: -6.54
+def_rating_adj: -0.59
+on_off_diff: -1.84
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | PHX |
-| Composite Score | **25.4** / 100 |
+| Composite Score | **18.0** / 100 |
 | Salary | $2,019,706 |
-| VORPD | 0.00 |
-| Off Rating Adj | -9.32 |
-| Def Rating Adj | -0.84 |
-| On/Off Diff | -2.63 |
-| TS% | 50.8% |
-| 3P% | 29.3% |
+| VORPD | 0.41 |
+| Off Rating Adj | -6.54 |
+| Def Rating Adj | -0.59 |
+| On/Off Diff | -1.84 |
+| TS% | 52.1% |
+| 3P% | 34.3% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

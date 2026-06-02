@@ -4,12 +4,12 @@ player: "Yuta Watanabe"
 season: "2021-22"
 team: "TOR"
 archetype: "Bench / Role Player"
-composite_score: 23.00
+composite_score: 19.74
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -3.65
-def_rating_adj: -0.99
-on_off_diff: -6.51
+off_rating_adj: -1.72
+def_rating_adj: -0.47
+on_off_diff: -3.06
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | TOR |
-| Composite Score | **23.0** / 100 |
+| Composite Score | **19.7** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -3.65 |
-| Def Rating Adj | -0.99 |
-| On/Off Diff | -6.51 |
-| TS% | 54.4% |
-| 3P% | 34.2% |
+| Off Rating Adj | -1.72 |
+| Def Rating Adj | -0.47 |
+| On/Off Diff | -3.06 |
+| TS% | 55.0% |
+| 3P% | 35.7% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

@@ -3,12 +3,12 @@ player: "Richaun Holmes"
 team: "WAS"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 27.83
+composite_score: 20.23
 salary: 12000000
-vorpd: 0.20
-off_rating_adj: -0.42
-def_rating_adj: 0.81
-on_off_diff: -2.64
+vorpd: 0.26
+off_rating_adj: -0.22
+def_rating_adj: 0.43
+on_off_diff: -1.39
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **27.8** / 100 |
+| Composite Score | **20.2** / 100 |
 | Salary | $12,000,000 |
-| VORPD | 0.20 |
-| Off Rating Adj | -0.42 |
-| Def Rating Adj | 0.81 |
-| On/Off Diff | -2.64 |
-| TS% | 58.4% |
-| 3P% | 35.6% |
+| VORPD | 0.26 |
+| Off Rating Adj | -0.22 |
+| Def Rating Adj | 0.43 |
+| On/Off Diff | -1.39 |
+| TS% | 58.1% |
+| 3P% | 37.0% |
 | Influence Score | 0.08 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-3.3 pts over 2 seasons)
+> **Trend:** Stable (-2.8 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | WAS | 27.8 | $12000000 | 0.20 | -0.42 | 0.81 | -2.64 |
-| 2021-22 | SAC | 31.1 | $925258 | 6.12 | -0.77 | -0.69 | -0.64 |
+| 2023-24 | WAS | 20.2 | $12000000 | 0.26 | -0.22 | 0.43 | -1.39 |
+| 2021-22 | SAC | 23.1 | $925258 | 2.72 | -0.53 | -0.47 | -0.44 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.09, -1.36)
+- **Cluster:** 1
+- **PCA Position:** (-1.06, -1.25)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

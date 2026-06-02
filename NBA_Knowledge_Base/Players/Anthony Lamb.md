@@ -3,12 +3,12 @@ player: "Anthony Lamb"
 team: "GSW"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 33.30
+composite_score: 23.95
 salary: 1017781
-vorpd: 7.71
-off_rating_adj: -1.68
-def_rating_adj: 1.94
-on_off_diff: -0.60
+vorpd: 6.94
+off_rating_adj: -1.19
+def_rating_adj: 1.37
+on_off_diff: -0.41
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,13 +20,13 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **33.3** / 100 |
+| Composite Score | **23.9** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 7.71 |
-| Off Rating Adj | -1.68 |
-| Def Rating Adj | 1.94 |
-| On/Off Diff | -0.60 |
-| TS% | 59.9% |
+| VORPD | 6.94 |
+| Off Rating Adj | -1.19 |
+| Def Rating Adj | 1.37 |
+| On/Off Diff | -0.41 |
+| TS% | 59.4% |
 | 3P% | 36.7% |
 | Influence Score | 0.08 |
 
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | GSW | 33.3 | $1017781 | 7.71 | -1.68 | 1.94 | -0.60 |
+| 2022-23 | GSW | 23.9 | $1017781 | 6.94 | -1.19 | 1.37 | -0.41 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.70, -1.10)
+- **Cluster:** 1
+- **PCA Position:** (-0.88, -1.12)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

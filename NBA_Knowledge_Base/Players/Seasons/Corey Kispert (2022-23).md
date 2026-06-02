@@ -4,12 +4,12 @@ player: "Corey Kispert"
 season: "2022-23"
 team: "WAS"
 archetype: "Bench / Role Player"
-composite_score: 23.78
+composite_score: 10.22
 salary: 11178680
 vorpd: 0.00
-off_rating_adj: 0.11
-def_rating_adj: -2.22
-on_off_diff: -2.58
+off_rating_adj: 0.09
+def_rating_adj: -1.79
+on_off_diff: -2.08
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | WAS |
-| Composite Score | **23.8** / 100 |
+| Composite Score | **10.2** / 100 |
 | Salary | $11,178,680 |
 | VORPD | 0.00 |
-| Off Rating Adj | 0.11 |
-| Def Rating Adj | -2.22 |
-| On/Off Diff | -2.58 |
-| TS% | 64.0% |
-| 3P% | 42.4% |
+| Off Rating Adj | 0.09 |
+| Def Rating Adj | -1.79 |
+| On/Off Diff | -2.08 |
+| TS% | 63.1% |
+| 3P% | 40.1% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

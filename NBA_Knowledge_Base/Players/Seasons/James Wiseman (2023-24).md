@@ -4,12 +4,12 @@ player: "James Wiseman"
 season: "2023-24"
 team: "DET"
 archetype: "Bench / Role Player"
-composite_score: 21.98
+composite_score: 12.93
 salary: 12115920
 vorpd: 0.00
-off_rating_adj: -1.71
-def_rating_adj: -3.05
-on_off_diff: -4.53
+off_rating_adj: -1.17
+def_rating_adj: -2.09
+on_off_diff: -3.11
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | DET |
-| Composite Score | **22.0** / 100 |
+| Composite Score | **12.9** / 100 |
 | Salary | $12,115,920 |
 | VORPD | 0.00 |
-| Off Rating Adj | -1.71 |
-| Def Rating Adj | -3.05 |
-| On/Off Diff | -4.53 |
-| TS% | 61.7% |
-| 3P% | 35.6% |
+| Off Rating Adj | -1.17 |
+| Def Rating Adj | -2.09 |
+| On/Off Diff | -3.11 |
+| TS% | 60.8% |
+| 3P% | 37.0% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

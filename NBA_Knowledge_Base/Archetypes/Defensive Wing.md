@@ -1,11 +1,11 @@
 ---
 archetype: "Defensive Wing"
-player_count: 86
-avg_composite_score: 45.22
-avg_salary: 3778531
-avg_off_rating_adj: 0.09
-avg_def_rating_adj: 3.93
-avg_vorpd: 10.33
+player_count: 97
+avg_composite_score: 35.16
+avg_salary: 3753043
+avg_off_rating_adj: -0.01
+avg_def_rating_adj: 2.15
+avg_vorpd: 9.14
 tags: [archetype]
 ---
 # Defensive Wing
@@ -16,27 +16,27 @@ tags: [archetype]
 
 | Metric | Value |
 |---|---|
-| Total Players | 86 |
-| Avg Composite Score | 45.2 |
-| Avg Salary | $3,778,531 |
-| Avg Off Rating Adj | 0.09 |
-| Avg Def Rating Adj | 3.93 |
-| Avg VORPD | 10.33 |
+| Total Players | 97 |
+| Avg Composite Score | 35.2 |
+| Avg Salary | $3,753,043 |
+| Avg Off Rating Adj | -0.01 |
+| Avg Def Rating Adj | 2.15 |
+| Avg VORPD | 9.14 |
 
 ## Top 10 Players by Composite Score
 
 | Player | Score | Salary | Team |
 |---|---|---|---|
-| [[Players/Jusuf Nurkić|Jusuf Nurkić]] | 69.7 | $17,048,050 | PHX |
-| [[Players/Tre Jones|Tre Jones]] | 66.9 | $7,039,195 | SAS |
-| [[Players/Dennis Smith Jr.|Dennis Smith Jr.]] | 65.7 | $3,000,000 | BKN |
-| [[Players/Jared Butler|Jared Butler]] | 64.3 | $2,019,706 | WAS |
-| [[Players/Tari Eason|Tari Eason]] | 64.2 | $4,994,103 | HOU |
-| [[Players/Eric Bledsoe|Eric Bledsoe]] | 62.9 | $925,258 | POR |
-| [[Players/Jose Alvarado|Jose Alvarado]] | 60.6 | $3,959,547 | NOP |
-| [[Players/Hamidou Diallo|Hamidou Diallo]] | 60.3 | $1,017,781 | DET |
-| [[Players/Devonte' Graham|Devonte' Graham]] | 59.0 | $12,700,000 | SAS |
-| [[Players/Ausar Thompson|Ausar Thompson]] | 56.9 | $7,721,117 | DET |
+| [[Players/Tre Jones|Tre Jones]] | 62.5 | $7,039,195 | SAS |
+| [[Players/Dennis Smith Jr.|Dennis Smith Jr.]] | 57.6 | $3,000,000 | BKN |
+| [[Players/Eric Bledsoe|Eric Bledsoe]] | 56.8 | $925,258 | POR |
+| [[Players/Ausar Thompson|Ausar Thompson]] | 52.5 | $7,721,117 | DET |
+| [[Players/Tari Eason|Tari Eason]] | 52.2 | $4,994,103 | HOU |
+| [[Players/Jose Alvarado|Jose Alvarado]] | 51.2 | $3,959,547 | NOP |
+| [[Players/Hamidou Diallo|Hamidou Diallo]] | 51.0 | $1,017,781 | DET |
+| [[Players/Jared Butler|Jared Butler]] | 50.4 | $2,019,706 | WAS |
+| [[Players/Josh Hart|Josh Hart]] | 50.2 | $17,133,611 | NYK |
+| [[Players/Max Strus|Max Strus]] | 47.8 | $14,022,474 | CLE |
 
 ## All Players (Dataview)
 

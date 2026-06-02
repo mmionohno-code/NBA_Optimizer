@@ -3,12 +3,12 @@ player: "Taylor Hendricks"
 team: "UTA"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 28.90
+composite_score: 20.43
 salary: 5391214
-vorpd: 0.64
-off_rating_adj: -2.56
-def_rating_adj: 0.52
-on_off_diff: -2.63
+vorpd: 0.61
+off_rating_adj: -1.62
+def_rating_adj: 0.33
+on_off_diff: -1.66
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **28.9** / 100 |
+| Composite Score | **20.4** / 100 |
 | Salary | $5,391,214 |
-| VORPD | 0.64 |
-| Off Rating Adj | -2.56 |
-| Def Rating Adj | 0.52 |
-| On/Off Diff | -2.63 |
+| VORPD | 0.61 |
+| Off Rating Adj | -1.62 |
+| Def Rating Adj | 0.33 |
+| On/Off Diff | -1.66 |
 | TS% | 57.7% |
-| 3P% | 37.9% |
+| 3P% | 37.6% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | UTA | 28.9 | $5391214 | 0.64 | -2.56 | 0.52 | -2.63 |
+| 2023-24 | UTA | 20.4 | $5391214 | 0.61 | -1.62 | 0.33 | -1.66 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.87, -1.43)
+- **Cluster:** 1
+- **PCA Position:** (-0.95, -1.40)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

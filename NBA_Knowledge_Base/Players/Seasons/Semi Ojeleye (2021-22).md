@@ -4,12 +4,12 @@ player: "Semi Ojeleye"
 season: "2021-22"
 team: "LAC"
 archetype: "Bench / Role Player"
-composite_score: 0.00
+composite_score: 4.02
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -10.16
-def_rating_adj: -4.75
-on_off_diff: -18.75
+off_rating_adj: -4.55
+def_rating_adj: -2.13
+on_off_diff: -8.38
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | LAC |
-| Composite Score | **0.0** / 100 |
+| Composite Score | **4.0** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -10.16 |
-| Def Rating Adj | -4.75 |
-| On/Off Diff | -18.75 |
-| TS% | 51.3% |
-| 3P% | 30.0% |
-| Influence Score | 0.06 |
+| Off Rating Adj | -4.55 |
+| Def Rating Adj | -2.13 |
+| On/Off Diff | -8.38 |
+| TS% | 52.9% |
+| 3P% | 35.1% |
+| Influence Score | 0.07 |
 | Season Weight | 0.20 |
 
 _Navigate back to the full player profile: [[Players/Semi Ojeleye]]_

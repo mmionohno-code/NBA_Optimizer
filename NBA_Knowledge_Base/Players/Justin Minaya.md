@@ -3,12 +3,12 @@ player: "Justin Minaya"
 team: "POR"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 32.40
+composite_score: 22.93
 salary: 1119563
-vorpd: 6.20
-off_rating_adj: -6.08
-def_rating_adj: 6.65
-on_off_diff: 1.62
+vorpd: 5.18
+off_rating_adj: -2.63
+def_rating_adj: 2.88
+on_off_diff: 0.69
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **32.4** / 100 |
+| Composite Score | **22.9** / 100 |
 | Salary | $1,119,563 |
-| VORPD | 6.20 |
-| Off Rating Adj | -6.08 |
-| Def Rating Adj | 6.65 |
-| On/Off Diff | 1.62 |
-| TS% | 51.4% |
-| 3P% | 24.5% |
+| VORPD | 5.18 |
+| Off Rating Adj | -2.63 |
+| Def Rating Adj | 2.88 |
+| On/Off Diff | 0.69 |
+| TS% | 53.6% |
+| 3P% | 35.4% |
 | Influence Score | 0.05 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | POR | 32.4 | $1119563 | 6.20 | -6.08 | 6.65 | 1.62 |
+| 2023-24 | POR | 22.9 | $1119563 | 5.18 | -2.63 | 2.88 | 0.69 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-2.98, -0.14)
+- **Cluster:** 2
+- **PCA Position:** (-2.30, -0.34)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

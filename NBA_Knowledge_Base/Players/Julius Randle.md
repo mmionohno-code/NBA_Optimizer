@@ -3,12 +3,12 @@ player: "Julius Randle"
 team: "NYK"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 58.15
+composite_score: 54.05
 salary: 27157388
-vorpd: 1.20
-off_rating_adj: 5.48
-def_rating_adj: -0.98
-on_off_diff: 1.66
+vorpd: 1.36
+off_rating_adj: 4.19
+def_rating_adj: -0.75
+on_off_diff: 1.28
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **58.1** / 100 |
+| Composite Score | **54.0** / 100 |
 | Salary | $27,157,388 |
-| VORPD | 1.20 |
-| Off Rating Adj | 5.48 |
-| Def Rating Adj | -0.98 |
-| On/Off Diff | 1.66 |
-| TS% | 57.0% |
-| 3P% | 31.1% |
+| VORPD | 1.36 |
+| Off Rating Adj | 4.19 |
+| Def Rating Adj | -0.75 |
+| On/Off Diff | 1.28 |
+| TS% | 57.1% |
+| 3P% | 34.4% |
 | Influence Score | 0.16 |
 
 ## Season History (3 seasons)
@@ -36,14 +36,14 @@ tags: [player, versatile-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | NYK | 58.1 | $27157388 | 1.20 | 5.48 | -0.98 | 1.66 |
-| 2022-23 | NYK | 52.0 | $24688443 | 1.07 | 5.13 | -3.23 | -1.41 |
-| 2021-22 | NYK | 45.7 | $22444112 | 0.90 | 0.27 | -3.28 | -10.61 |
+| 2023-24 | NYK | 54.0 | $27157388 | 1.36 | 4.19 | -0.75 | 1.28 |
+| 2022-23 | NYK | 47.7 | $24688443 | 1.25 | 4.34 | -2.73 | -1.18 |
+| 2021-22 | NYK | 41.6 | $22444112 | 0.94 | 0.23 | -2.74 | -8.86 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (1.30, 1.18)
+- **Cluster:** 6
+- **PCA Position:** (1.43, 1.40)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

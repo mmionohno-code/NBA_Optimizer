@@ -3,12 +3,12 @@ player: "Vlatko Čančar"
 team: "DEN"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 20.85
+composite_score: 12.42
 salary: 1017781
 vorpd: 0.00
-off_rating_adj: -4.45
-def_rating_adj: -0.68
-on_off_diff: -10.80
+off_rating_adj: -2.85
+def_rating_adj: -0.44
+on_off_diff: -6.90
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **20.9** / 100 |
+| Composite Score | **12.4** / 100 |
 | Salary | $1,017,781 |
 | VORPD | 0.00 |
-| Off Rating Adj | -4.45 |
-| Def Rating Adj | -0.68 |
-| On/Off Diff | -10.80 |
-| TS% | 59.4% |
-| 3P% | 37.4% |
+| Off Rating Adj | -2.85 |
+| Def Rating Adj | -0.44 |
+| On/Off Diff | -6.90 |
+| TS% | 59.0% |
+| 3P% | 37.0% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | DEN | 20.9 | $1017781 | 0.00 | -4.45 | -0.68 | -10.80 |
+| 2022-23 | DEN | 12.4 | $1017781 | 0.00 | -2.85 | -0.44 | -6.90 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.95, -0.39)
+- **Cluster:** 1
+- **PCA Position:** (-2.07, -0.45)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

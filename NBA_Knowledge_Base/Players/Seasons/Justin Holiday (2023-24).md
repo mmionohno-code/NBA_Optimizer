@@ -4,12 +4,12 @@ player: "Justin Holiday"
 season: "2023-24"
 team: "DEN"
 archetype: "Bench / Role Player"
-composite_score: 29.45
+composite_score: 19.29
 salary: 3000000
-vorpd: 1.33
-off_rating_adj: -1.75
-def_rating_adj: 2.46
-on_off_diff: -3.47
+vorpd: 0.72
+off_rating_adj: -1.11
+def_rating_adj: 1.56
+on_off_diff: -2.18
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | DEN |
-| Composite Score | **29.4** / 100 |
+| Composite Score | **19.3** / 100 |
 | Salary | $3,000,000 |
-| VORPD | 1.33 |
-| Off Rating Adj | -1.75 |
-| Def Rating Adj | 2.46 |
-| On/Off Diff | -3.47 |
-| TS% | 58.8% |
-| 3P% | 40.4% |
+| VORPD | 0.72 |
+| Off Rating Adj | -1.11 |
+| Def Rating Adj | 1.56 |
+| On/Off Diff | -2.18 |
+| TS% | 58.5% |
+| 3P% | 38.4% |
 | Influence Score | 0.06 |
 | Season Weight | 0.45 |
 

@@ -3,12 +3,12 @@ player: "Austin Rivers"
 team: "MIN"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 19.83
+composite_score: 11.86
 salary: 1017781
 vorpd: 0.00
-off_rating_adj: -2.29
-def_rating_adj: -2.56
-on_off_diff: -8.51
+off_rating_adj: -1.54
+def_rating_adj: -1.71
+on_off_diff: -5.70
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **19.8** / 100 |
+| Composite Score | **11.9** / 100 |
 | Salary | $1,017,781 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.29 |
-| Def Rating Adj | -2.56 |
-| On/Off Diff | -8.51 |
-| TS% | 56.9% |
-| 3P% | 35.0% |
+| Off Rating Adj | -1.54 |
+| Def Rating Adj | -1.71 |
+| On/Off Diff | -5.70 |
+| TS% | 57.1% |
+| 3P% | 36.2% |
 | Influence Score | 0.06 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-16.0 pts over 2 seasons)
+> **Trend:** Trending DOWN (-16.9 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | MIN | 19.8 | $1017781 | 0.00 | -2.29 | -2.56 | -8.51 |
-| 2021-22 | DEN | 35.9 | $925258 | 11.24 | 1.30 | -0.52 | -2.08 |
+| 2022-23 | MIN | 11.9 | $1017781 | 0.00 | -1.54 | -1.71 | -5.70 |
+| 2021-22 | DEN | 28.7 | $925258 | 8.82 | 0.97 | -0.39 | -1.54 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-2.21, -0.35)
+- **Cluster:** 1
+- **PCA Position:** (-2.33, -0.28)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Andre Iguodala"
 season: "2021-22"
 team: "GSW"
 archetype: "Defensive Wing"
-composite_score: 56.75
+composite_score: 46.44
 salary: 925258
-vorpd: 33.82
-off_rating_adj: -3.73
-def_rating_adj: 8.13
-on_off_diff: 4.38
+vorpd: 27.98
+off_rating_adj: -2.04
+def_rating_adj: 4.44
+on_off_diff: 2.41
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | GSW |
-| Composite Score | **56.8** / 100 |
+| Composite Score | **46.4** / 100 |
 | Salary | $925,258 |
-| VORPD | 33.82 |
-| Off Rating Adj | -3.73 |
-| Def Rating Adj | 8.13 |
-| On/Off Diff | 4.38 |
-| TS% | 52.5% |
-| 3P% | 23.0% |
+| VORPD | 27.98 |
+| Off Rating Adj | -2.04 |
+| Def Rating Adj | 4.44 |
+| On/Off Diff | 2.41 |
+| TS% | 53.6% |
+| 3P% | 33.2% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

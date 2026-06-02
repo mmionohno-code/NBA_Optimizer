@@ -3,12 +3,12 @@ player: "Doug McDermott"
 team: "IND"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 15.14
+composite_score: 5.47
 salary: 2020490
 vorpd: 0.00
-off_rating_adj: -6.22
-def_rating_adj: -5.08
-on_off_diff: -5.61
+off_rating_adj: -4.00
+def_rating_adj: -3.27
+on_off_diff: -3.61
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,15 +20,15 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **15.1** / 100 |
+| Composite Score | **5.5** / 100 |
 | Salary | $2,020,490 |
 | VORPD | 0.00 |
-| Off Rating Adj | -6.22 |
-| Def Rating Adj | -5.08 |
-| On/Off Diff | -5.61 |
-| TS% | 59.1% |
-| 3P% | 41.0% |
-| Influence Score | 0.09 |
+| Off Rating Adj | -4.00 |
+| Def Rating Adj | -3.27 |
+| On/Off Diff | -3.61 |
+| TS% | 58.8% |
+| 3P% | 39.1% |
+| Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
@@ -36,14 +36,14 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | IND | 15.1 | $2020490 | 0.00 | -6.22 | -5.08 | -5.61 |
-| 2022-23 | SAS | 33.2 | $1836802 | 4.24 | 1.19 | -1.95 | 2.62 |
-| 2021-22 | SAS | 27.9 | $1669826 | 1.45 | 2.14 | -4.55 | -2.28 |
+| 2023-24 | IND | 5.5 | $2020490 | 0.00 | -4.00 | -3.27 | -3.61 |
+| 2022-23 | SAS | 22.9 | $1836802 | 3.29 | 0.86 | -1.41 | 1.89 |
+| 2021-22 | SAS | 18.2 | $1669826 | 0.00 | 1.52 | -3.23 | -1.62 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-2.03, -0.57)
+- **Cluster:** 1
+- **PCA Position:** (-2.13, -0.83)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

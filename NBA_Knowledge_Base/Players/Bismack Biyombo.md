@@ -3,12 +3,12 @@ player: "Bismack Biyombo"
 team: "OKC"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 23.77
+composite_score: 15.60
 salary: 2020490
 vorpd: 0.00
-off_rating_adj: -4.88
-def_rating_adj: -3.49
-on_off_diff: 2.35
+off_rating_adj: -2.99
+def_rating_adj: -2.14
+on_off_diff: 1.45
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **23.8** / 100 |
+| Composite Score | **15.6** / 100 |
 | Salary | $2,020,490 |
 | VORPD | 0.00 |
-| Off Rating Adj | -4.88 |
-| Def Rating Adj | -3.49 |
-| On/Off Diff | 2.35 |
-| TS% | 56.9% |
-| 3P% | 35.6% |
+| Off Rating Adj | -2.99 |
+| Def Rating Adj | -2.14 |
+| On/Off Diff | 1.45 |
+| TS% | 57.1% |
+| 3P% | 37.0% |
 | Influence Score | 0.06 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-3.1 pts over 3 seasons)
+> **Trend:** Trending DOWN (-6.5 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | OKC | 23.8 | $2020490 | 0.00 | -4.88 | -3.49 | 2.35 |
-| 2022-23 | PHX | 32.2 | $1836802 | 3.65 | 0.48 | 0.38 | 0.15 |
-| 2021-22 | PHX | 26.9 | $1669826 | 0.83 | -0.12 | 0.07 | -5.81 |
+| 2023-24 | OKC | 15.6 | $2020490 | 0.00 | -2.99 | -2.14 | 1.45 |
+| 2022-23 | PHX | 24.4 | $1836802 | 4.09 | 0.31 | 0.24 | 0.11 |
+| 2021-22 | PHX | 22.1 | $1669826 | 0.90 | -0.06 | 0.04 | -2.91 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.45, -1.24)
+- **Cluster:** 1
+- **PCA Position:** (-1.48, -1.25)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

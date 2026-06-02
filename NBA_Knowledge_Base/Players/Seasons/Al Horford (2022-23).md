@@ -4,12 +4,12 @@ player: "Al Horford"
 season: "2022-23"
 team: "BOS"
 archetype: "Perimeter Scorer"
-composite_score: 34.85
+composite_score: 23.12
 salary: 4547463
-vorpd: 2.07
-off_rating_adj: 3.09
-def_rating_adj: -2.39
-on_off_diff: 1.59
+vorpd: 1.37
+off_rating_adj: 2.45
+def_rating_adj: -1.89
+on_off_diff: 1.28
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | BOS |
-| Composite Score | **34.9** / 100 |
+| Composite Score | **23.1** / 100 |
 | Salary | $4,547,463 |
-| VORPD | 2.07 |
-| Off Rating Adj | 3.09 |
-| Def Rating Adj | -2.39 |
-| On/Off Diff | 1.59 |
-| TS% | 61.8% |
-| 3P% | 44.6% |
+| VORPD | 1.37 |
+| Off Rating Adj | 2.45 |
+| Def Rating Adj | -1.89 |
+| On/Off Diff | 1.28 |
+| TS% | 61.1% |
+| 3P% | 41.1% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

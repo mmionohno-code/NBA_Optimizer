@@ -3,12 +3,12 @@ player: "Jeremy Lamb"
 team: "SAC"
 season: "2021-22"
 archetype: "Defensive Wing"
-composite_score: 51.97
+composite_score: 45.24
 salary: 925258
-vorpd: 28.66
-off_rating_adj: 2.33
-def_rating_adj: 2.61
-on_off_diff: 6.23
+vorpd: 26.68
+off_rating_adj: 1.52
+def_rating_adj: 1.70
+on_off_diff: 4.07
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **52.0** / 100 |
+| Composite Score | **45.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 28.66 |
-| Off Rating Adj | 2.33 |
-| Def Rating Adj | 2.61 |
-| On/Off Diff | 6.23 |
-| TS% | 53.3% |
-| 3P% | 32.4% |
+| VORPD | 26.68 |
+| Off Rating Adj | 1.52 |
+| Def Rating Adj | 1.70 |
+| On/Off Diff | 4.07 |
+| TS% | 53.9% |
+| 3P% | 34.7% |
 | Influence Score | 0.10 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | SAC | 52.0 | $925258 | 28.66 | 2.33 | 2.61 | 6.23 |
+| 2021-22 | SAC | 45.2 | $925258 | 26.68 | 1.52 | 1.70 | 4.07 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (0.17, 0.20)
+- **Cluster:** 2
+- **PCA Position:** (0.02, 0.49)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

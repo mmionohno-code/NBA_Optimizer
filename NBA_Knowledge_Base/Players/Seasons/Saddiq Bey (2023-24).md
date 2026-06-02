@@ -3,32 +3,32 @@ player_season: "Saddiq Bey (2023-24)"
 player: "Saddiq Bey"
 season: "2023-24"
 team: "ATL"
-archetype: "Perimeter Scorer"
-composite_score: 44.21
+archetype: "Versatile Scorer"
+composite_score: 39.51
 salary: 5383791
-vorpd: 3.48
-off_rating_adj: 4.95
-def_rating_adj: -2.57
-on_off_diff: 3.05
+vorpd: 4.16
+off_rating_adj: 3.98
+def_rating_adj: -2.07
+on_off_diff: 2.46
 season_weight: 0.45
-tags: [season-note, perimeter-scorer]
+tags: [season-note, versatile-scorer]
 ---
 # Saddiq Bey — 2023-24
 
-> Part of [[Players/Saddiq Bey]] | Archetype: [[Archetypes/Perimeter Scorer]]
+> Part of [[Players/Saddiq Bey]] | Archetype: [[Archetypes/Versatile Scorer]]
 
 | Metric | Value |
 |---|---|
 | Season | 2023-24 |
 | Team | ATL |
-| Composite Score | **44.2** / 100 |
+| Composite Score | **39.5** / 100 |
 | Salary | $5,383,791 |
-| VORPD | 3.48 |
-| Off Rating Adj | 4.95 |
-| Def Rating Adj | -2.57 |
-| On/Off Diff | 3.05 |
-| TS% | 55.4% |
-| 3P% | 31.6% |
+| VORPD | 4.16 |
+| Off Rating Adj | 3.98 |
+| Def Rating Adj | -2.07 |
+| On/Off Diff | 2.46 |
+| TS% | 55.6% |
+| 3P% | 34.0% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

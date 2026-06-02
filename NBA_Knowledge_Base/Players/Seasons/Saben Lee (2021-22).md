@@ -4,12 +4,12 @@ player: "Saben Lee"
 season: "2021-22"
 team: "DET"
 archetype: "Versatile Scorer"
-composite_score: 60.75
+composite_score: 51.33
 salary: 925258
-vorpd: 38.15
-off_rating_adj: 1.03
-def_rating_adj: 1.13
-on_off_diff: 4.33
+vorpd: 33.27
+off_rating_adj: 0.56
+def_rating_adj: 0.62
+on_off_diff: 2.36
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | DET |
-| Composite Score | **60.8** / 100 |
+| Composite Score | **51.3** / 100 |
 | Salary | $925,258 |
-| VORPD | 38.15 |
-| Off Rating Adj | 1.03 |
-| Def Rating Adj | 1.13 |
-| On/Off Diff | 4.33 |
-| TS% | 52.8% |
-| 3P% | 23.3% |
+| VORPD | 33.27 |
+| Off Rating Adj | 0.56 |
+| Def Rating Adj | 0.62 |
+| On/Off Diff | 2.36 |
+| TS% | 53.7% |
+| 3P% | 33.7% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

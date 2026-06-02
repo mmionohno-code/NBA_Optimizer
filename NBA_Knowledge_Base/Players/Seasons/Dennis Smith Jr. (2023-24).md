@@ -4,12 +4,12 @@ player: "Dennis Smith Jr."
 season: "2023-24"
 team: "BKN"
 archetype: "Defensive Wing"
-composite_score: 65.74
+composite_score: 57.65
 salary: 3000000
-vorpd: 13.43
-off_rating_adj: -0.22
-def_rating_adj: 3.65
-on_off_diff: 6.30
+vorpd: 13.51
+off_rating_adj: -0.15
+def_rating_adj: 2.48
+on_off_diff: 4.28
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | BKN |
-| Composite Score | **65.7** / 100 |
+| Composite Score | **57.6** / 100 |
 | Salary | $3,000,000 |
-| VORPD | 13.43 |
-| Off Rating Adj | -0.22 |
-| Def Rating Adj | 3.65 |
-| On/Off Diff | 6.30 |
-| TS% | 52.9% |
-| 3P% | 29.4% |
+| VORPD | 13.51 |
+| Off Rating Adj | -0.15 |
+| Def Rating Adj | 2.48 |
+| On/Off Diff | 4.28 |
+| TS% | 53.8% |
+| 3P% | 35.1% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

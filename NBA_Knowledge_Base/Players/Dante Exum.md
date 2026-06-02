@@ -3,12 +3,12 @@ player: "Dante Exum"
 team: "DAL"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 52.40
+composite_score: 40.51
 salary: 7560000
-vorpd: 3.56
-off_rating_adj: 4.62
-def_rating_adj: 3.65
-on_off_diff: 11.67
+vorpd: 3.09
+off_rating_adj: 3.17
+def_rating_adj: 2.50
+on_off_diff: 8.01
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **52.4** / 100 |
+| Composite Score | **40.5** / 100 |
 | Salary | $7,560,000 |
-| VORPD | 3.56 |
-| Off Rating Adj | 4.62 |
-| Def Rating Adj | 3.65 |
-| On/Off Diff | 11.67 |
-| TS% | 62.2% |
-| 3P% | 49.1% |
+| VORPD | 3.09 |
+| Off Rating Adj | 3.17 |
+| Def Rating Adj | 2.50 |
+| On/Off Diff | 8.01 |
+| TS% | 61.2% |
+| 3P% | 40.9% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, perimeter-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DAL | 52.4 | $7560000 | 3.56 | 4.62 | 3.65 | 11.67 |
+| 2023-24 | DAL | 40.5 | $7560000 | 3.09 | 3.17 | 2.50 | 8.01 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (2.04, -1.79)
+- **Cluster:** 3
+- **PCA Position:** (1.76, -2.14)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

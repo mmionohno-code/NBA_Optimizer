@@ -4,12 +4,12 @@ player: "Elfrid Payton"
 season: "2021-22"
 team: "PHX"
 archetype: "Bench / Role Player"
-composite_score: 28.39
+composite_score: 23.52
 salary: 925258
-vorpd: 3.17
-off_rating_adj: -8.92
-def_rating_adj: 1.27
-on_off_diff: -13.53
+vorpd: 3.21
+off_rating_adj: -4.67
+def_rating_adj: 0.67
+on_off_diff: -7.07
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | PHX |
-| Composite Score | **28.4** / 100 |
+| Composite Score | **23.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 3.17 |
-| Off Rating Adj | -8.92 |
-| Def Rating Adj | 1.27 |
-| On/Off Diff | -13.53 |
-| TS% | 47.3% |
-| 3P% | 34.1% |
-| Influence Score | 0.08 |
+| VORPD | 3.21 |
+| Off Rating Adj | -4.67 |
+| Def Rating Adj | 0.67 |
+| On/Off Diff | -7.07 |
+| TS% | 49.8% |
+| 3P% | 35.7% |
+| Influence Score | 0.09 |
 | Season Weight | 0.20 |
 
 _Navigate back to the full player profile: [[Players/Elfrid Payton]]_

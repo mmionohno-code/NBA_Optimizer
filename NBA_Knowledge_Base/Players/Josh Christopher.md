@@ -3,12 +3,12 @@ player: "Josh Christopher"
 team: "HOU"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 35.77
+composite_score: 30.36
 salary: 1017781
-vorpd: 10.13
-off_rating_adj: -2.83
-def_rating_adj: -2.27
-on_off_diff: -5.01
+vorpd: 13.24
+off_rating_adj: -1.73
+def_rating_adj: -1.39
+on_off_diff: -3.07
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **35.8** / 100 |
+| Composite Score | **30.4** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 10.13 |
-| Off Rating Adj | -2.83 |
-| Def Rating Adj | -2.27 |
-| On/Off Diff | -5.01 |
-| TS% | 54.0% |
-| 3P% | 23.6% |
+| VORPD | 13.24 |
+| Off Rating Adj | -1.73 |
+| Def Rating Adj | -1.39 |
+| On/Off Diff | -3.07 |
+| TS% | 54.7% |
+| 3P% | 33.4% |
 | Influence Score | 0.12 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-10.8 pts over 2 seasons)
+> **Trend:** Trending DOWN (-11.0 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | HOU | 35.8 | $1017781 | 10.13 | -2.83 | -2.27 | -5.01 |
-| 2021-22 | HOU | 46.6 | $925258 | 22.82 | -1.45 | -1.49 | -0.75 |
+| 2022-23 | HOU | 30.4 | $1017781 | 13.24 | -1.73 | -1.39 | -3.07 |
+| 2021-22 | HOU | 41.4 | $925258 | 22.52 | -1.05 | -1.08 | -0.55 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.82, 1.45)
+- **Cluster:** 5
+- **PCA Position:** (-1.57, 1.47)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Trey Jemison III"
 season: "2023-24"
 team: "MEM"
 archetype: "Bench / Role Player"
-composite_score: 30.68
+composite_score: 23.58
 salary: 1119563
-vorpd: 4.67
-off_rating_adj: 0.36
-def_rating_adj: -2.10
-on_off_diff: 1.01
+vorpd: 5.76
+off_rating_adj: 0.19
+def_rating_adj: -1.12
+on_off_diff: 0.53
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | MEM |
-| Composite Score | **30.7** / 100 |
+| Composite Score | **23.6** / 100 |
 | Salary | $1,119,563 |
-| VORPD | 4.67 |
-| Off Rating Adj | 0.36 |
-| Def Rating Adj | -2.10 |
-| On/Off Diff | 1.01 |
-| TS% | 57.8% |
-| 3P% | 35.6% |
+| VORPD | 5.76 |
+| Off Rating Adj | 0.19 |
+| Def Rating Adj | -1.12 |
+| On/Off Diff | 0.53 |
+| TS% | 57.7% |
+| 3P% | 37.0% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

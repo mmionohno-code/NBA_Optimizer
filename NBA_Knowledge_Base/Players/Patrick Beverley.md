@@ -3,12 +3,12 @@ player: "Patrick Beverley"
 team: "MIL"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 35.22
+composite_score: 26.05
 salary: 4500000
-vorpd: 2.17
-off_rating_adj: -4.63
-def_rating_adj: 2.07
-on_off_diff: -6.00
+vorpd: 1.98
+off_rating_adj: -3.45
+def_rating_adj: 1.54
+on_off_diff: -4.46
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **35.2** / 100 |
+| Composite Score | **26.1** / 100 |
 | Salary | $4,500,000 |
-| VORPD | 2.17 |
-| Off Rating Adj | -4.63 |
-| Def Rating Adj | 2.07 |
-| On/Off Diff | -6.00 |
-| TS% | 54.9% |
-| 3P% | 33.7% |
+| VORPD | 1.98 |
+| Off Rating Adj | -3.45 |
+| Def Rating Adj | 1.54 |
+| On/Off Diff | -4.46 |
+| TS% | 55.4% |
+| 3P% | 35.9% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-22.1 pts over 3 seasons)
+> **Trend:** Trending DOWN (-25.6 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MIL | 35.2 | $4500000 | 2.17 | -4.63 | 2.07 | -6.00 |
-| 2022-23 | CHI | 37.0 | $1017781 | 11.31 | -0.05 | -3.40 | -3.22 |
-| 2021-22 | MIN | 57.3 | $925258 | 34.38 | 1.58 | -0.40 | 1.85 |
+| 2023-24 | MIL | 26.1 | $4500000 | 1.98 | -3.45 | 1.54 | -4.46 |
+| 2022-23 | CHI | 29.7 | $1017781 | 12.55 | -0.04 | -2.67 | -2.51 |
+| 2021-22 | MIN | 51.6 | $925258 | 33.60 | 1.18 | -0.30 | 1.39 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.60, 0.57)
+- **Cluster:** 5
+- **PCA Position:** (-1.80, 0.54)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

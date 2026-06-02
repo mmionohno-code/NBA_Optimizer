@@ -4,12 +4,12 @@ player: "Wendell Carter Jr."
 season: "2021-22"
 team: "ORL"
 archetype: "Defensive Wing"
-composite_score: 55.66
+composite_score: 50.84
 salary: 7890003
-vorpd: 3.83
-off_rating_adj: 2.39
-def_rating_adj: 2.61
-on_off_diff: 9.46
+vorpd: 3.84
+off_rating_adj: 1.88
+def_rating_adj: 2.05
+on_off_diff: 7.45
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | ORL |
-| Composite Score | **55.7** / 100 |
+| Composite Score | **50.8** / 100 |
 | Salary | $7,890,003 |
-| VORPD | 3.83 |
-| Off Rating Adj | 2.39 |
-| Def Rating Adj | 2.61 |
-| On/Off Diff | 9.46 |
-| TS% | 59.4% |
-| 3P% | 32.7% |
+| VORPD | 3.84 |
+| Off Rating Adj | 1.88 |
+| Def Rating Adj | 2.05 |
+| On/Off Diff | 7.45 |
+| TS% | 59.0% |
+| 3P% | 34.6% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

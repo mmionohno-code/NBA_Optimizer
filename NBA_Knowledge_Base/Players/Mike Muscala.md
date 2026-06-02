@@ -3,12 +3,12 @@ player: "Mike Muscala"
 team: "OKC"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 19.13
+composite_score: 13.95
 salary: 2800000
 vorpd: 0.00
-off_rating_adj: -8.68
-def_rating_adj: -3.39
-on_off_diff: -0.79
+off_rating_adj: -4.73
+def_rating_adj: -1.85
+on_off_diff: -0.43
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **19.1** / 100 |
+| Composite Score | **13.9** / 100 |
 | Salary | $2,800,000 |
 | VORPD | 0.00 |
-| Off Rating Adj | -8.68 |
-| Def Rating Adj | -3.39 |
-| On/Off Diff | -0.79 |
-| TS% | 52.2% |
-| 3P% | 29.2% |
+| Off Rating Adj | -4.73 |
+| Def Rating Adj | -1.85 |
+| On/Off Diff | -0.43 |
+| TS% | 53.7% |
+| 3P% | 35.2% |
 | Influence Score | 0.07 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-33.7 pts over 3 seasons)
+> **Trend:** Trending DOWN (-26.1 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | OKC | 19.1 | $2800000 | 0.00 | -8.68 | -3.39 | -0.79 |
-| 2022-23 | BOS | 33.6 | $1017781 | 8.03 | 0.59 | 1.11 | 5.47 |
-| 2021-22 | OKC | 52.8 | $925258 | 29.59 | 4.05 | 4.85 | 13.13 |
+| 2023-24 | OKC | 13.9 | $2800000 | 0.00 | -4.73 | -1.85 | -0.43 |
+| 2022-23 | BOS | 23.9 | $1017781 | 6.93 | 0.38 | 0.73 | 3.58 |
+| 2021-22 | OKC | 40.0 | $925258 | 21.04 | 2.20 | 2.63 | 7.13 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-3.28, 0.39)
+- **Cluster:** 5
+- **PCA Position:** (-2.91, 0.34)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

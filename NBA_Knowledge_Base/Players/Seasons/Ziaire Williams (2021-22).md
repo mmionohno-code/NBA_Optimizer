@@ -4,12 +4,12 @@ player: "Ziaire Williams"
 season: "2021-22"
 team: "MEM"
 archetype: "Bench / Role Player"
-composite_score: 32.88
+composite_score: 26.97
 salary: 4544933
-vorpd: 1.63
-off_rating_adj: 0.77
-def_rating_adj: -1.74
-on_off_diff: -1.97
+vorpd: 1.41
+off_rating_adj: 0.56
+def_rating_adj: -1.27
+on_off_diff: -1.42
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | MEM |
-| Composite Score | **32.9** / 100 |
+| Composite Score | **27.0** / 100 |
 | Salary | $4,544,933 |
-| VORPD | 1.63 |
-| Off Rating Adj | 0.77 |
-| Def Rating Adj | -1.74 |
-| On/Off Diff | -1.97 |
+| VORPD | 1.41 |
+| Off Rating Adj | 0.56 |
+| Def Rating Adj | -1.27 |
+| On/Off Diff | -1.42 |
 | TS% | 56.0% |
-| 3P% | 31.4% |
+| 3P% | 33.8% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

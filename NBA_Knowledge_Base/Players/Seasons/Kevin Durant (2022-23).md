@@ -4,12 +4,12 @@ player: "Kevin Durant"
 season: "2022-23"
 team: "PHX"
 archetype: "Elite Playmaker"
-composite_score: 64.62
+composite_score: 57.12
 salary: 43761720
-vorpd: 0.89
-off_rating_adj: 4.88
-def_rating_adj: -0.22
-on_off_diff: 6.63
+vorpd: 0.92
+off_rating_adj: 3.76
+def_rating_adj: -0.17
+on_off_diff: 5.13
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | PHX |
-| Composite Score | **64.6** / 100 |
+| Composite Score | **57.1** / 100 |
 | Salary | $43,761,720 |
-| VORPD | 0.89 |
-| Off Rating Adj | 4.88 |
-| Def Rating Adj | -0.22 |
-| On/Off Diff | 6.63 |
-| TS% | 66.2% |
-| 3P% | 40.4% |
+| VORPD | 0.92 |
+| Off Rating Adj | 3.76 |
+| Def Rating Adj | -0.17 |
+| On/Off Diff | 5.13 |
+| TS% | 65.3% |
+| 3P% | 38.5% |
 | Influence Score | 0.20 |
 | Season Weight | 0.35 |
 

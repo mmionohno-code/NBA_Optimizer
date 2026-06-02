@@ -4,12 +4,12 @@ player: "Kyrie Irving"
 season: "2022-23"
 team: "DAL"
 archetype: "Elite Playmaker"
-composite_score: 70.10
+composite_score: 64.78
 salary: 29249348
-vorpd: 1.53
-off_rating_adj: 4.71
-def_rating_adj: 0.82
-on_off_diff: 6.00
+vorpd: 1.64
+off_rating_adj: 3.85
+def_rating_adj: 0.67
+on_off_diff: 4.91
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | DAL |
-| Composite Score | **70.1** / 100 |
+| Composite Score | **64.8** / 100 |
 | Salary | $29,249,348 |
-| VORPD | 1.53 |
-| Off Rating Adj | 4.71 |
-| Def Rating Adj | 0.82 |
-| On/Off Diff | 6.00 |
-| TS% | 60.9% |
-| 3P% | 37.9% |
+| VORPD | 1.64 |
+| Off Rating Adj | 3.85 |
+| Def Rating Adj | 0.67 |
+| On/Off Diff | 4.91 |
+| TS% | 60.6% |
+| 3P% | 37.5% |
 | Influence Score | 0.17 |
 | Season Weight | 0.35 |
 

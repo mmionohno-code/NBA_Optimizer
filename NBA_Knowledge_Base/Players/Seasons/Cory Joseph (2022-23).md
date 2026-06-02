@@ -4,12 +4,12 @@ player: "Cory Joseph"
 season: "2022-23"
 team: "DET"
 archetype: "Defensive Wing"
-composite_score: 53.75
+composite_score: 44.55
 salary: 1017781
-vorpd: 27.80
-off_rating_adj: 1.29
-def_rating_adj: 2.84
-on_off_diff: 7.05
+vorpd: 27.18
+off_rating_adj: 0.91
+def_rating_adj: 2.02
+on_off_diff: 5.00
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | DET |
-| Composite Score | **53.8** / 100 |
+| Composite Score | **44.5** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 27.80 |
-| Off Rating Adj | 1.29 |
-| Def Rating Adj | 2.84 |
-| On/Off Diff | 7.05 |
-| TS% | 56.3% |
-| 3P% | 38.9% |
+| VORPD | 27.18 |
+| Off Rating Adj | 0.91 |
+| Def Rating Adj | 2.02 |
+| On/Off Diff | 5.00 |
+| TS% | 56.6% |
+| 3P% | 37.7% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

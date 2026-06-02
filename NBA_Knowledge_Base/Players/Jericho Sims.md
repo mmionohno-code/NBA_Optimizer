@@ -3,12 +3,12 @@ player: "Jericho Sims"
 team: "NYK"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 15.14
+composite_score: 7.41
 salary: 2165840
 vorpd: 0.00
-off_rating_adj: -5.22
-def_rating_adj: 3.12
-on_off_diff: -7.14
+off_rating_adj: -2.82
+def_rating_adj: 1.68
+on_off_diff: -3.84
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **15.1** / 100 |
+| Composite Score | **7.4** / 100 |
 | Salary | $2,165,840 |
 | VORPD | 0.00 |
-| Off Rating Adj | -5.22 |
-| Def Rating Adj | 3.12 |
-| On/Off Diff | -7.14 |
-| TS% | 60.9% |
-| 3P% | 35.6% |
+| Off Rating Adj | -2.82 |
+| Def Rating Adj | 1.68 |
+| On/Off Diff | -3.84 |
+| TS% | 59.6% |
+| 3P% | 37.0% |
 | Influence Score | 0.04 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-24.8 pts over 3 seasons)
+> **Trend:** Trending DOWN (-21.7 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | NYK | 15.1 | $2165840 | 0.00 | -5.22 | 3.12 | -7.14 |
-| 2022-23 | NYK | 7.1 | $1968938 | 0.00 | -4.87 | -2.73 | -11.42 |
-| 2021-22 | NYK | 39.9 | $1789949 | 8.09 | 1.57 | 5.42 | 10.75 |
+| 2023-24 | NYK | 7.4 | $2165840 | 0.00 | -2.82 | 1.68 | -3.84 |
+| 2022-23 | NYK | 0.0 | $1968938 | 0.00 | -3.01 | -1.69 | -7.06 |
+| 2021-22 | NYK | 29.1 | $1789949 | 4.80 | 0.83 | 2.85 | 5.65 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-2.51, -1.95)
+- **Cluster:** 1
+- **PCA Position:** (-2.41, -1.84)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

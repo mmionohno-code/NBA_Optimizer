@@ -4,12 +4,12 @@ player: "Damian Jones"
 season: "2021-22"
 team: "SAC"
 archetype: "Bench / Role Player"
-composite_score: 34.36
+composite_score: 26.05
 salary: 925258
-vorpd: 9.62
-off_rating_adj: -1.27
-def_rating_adj: -1.19
-on_off_diff: -0.64
+vorpd: 5.94
+off_rating_adj: -0.85
+def_rating_adj: -0.80
+on_off_diff: -0.43
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | SAC |
-| Composite Score | **34.4** / 100 |
+| Composite Score | **26.1** / 100 |
 | Salary | $925,258 |
-| VORPD | 9.62 |
-| Off Rating Adj | -1.27 |
-| Def Rating Adj | -1.19 |
-| On/Off Diff | -0.64 |
-| TS% | 65.1% |
-| 3P% | 34.5% |
-| Influence Score | 0.11 |
+| VORPD | 5.94 |
+| Off Rating Adj | -0.85 |
+| Def Rating Adj | -0.80 |
+| On/Off Diff | -0.43 |
+| TS% | 63.1% |
+| 3P% | 36.0% |
+| Influence Score | 0.10 |
 | Season Weight | 0.20 |
 
 _Navigate back to the full player profile: [[Players/Damian Jones]]_

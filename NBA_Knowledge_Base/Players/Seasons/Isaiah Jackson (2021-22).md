@@ -4,12 +4,12 @@ player: "Isaiah Jackson"
 season: "2021-22"
 team: "IND"
 archetype: "Two-Way Big"
-composite_score: 38.83
+composite_score: 34.17
 salary: 5526638
-vorpd: 2.42
-off_rating_adj: 2.88
-def_rating_adj: -2.93
-on_off_diff: 1.52
+vorpd: 2.46
+off_rating_adj: 1.50
+def_rating_adj: -1.52
+on_off_diff: 0.79
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | IND |
-| Composite Score | **38.8** / 100 |
+| Composite Score | **34.2** / 100 |
 | Salary | $5,526,638 |
-| VORPD | 2.42 |
-| Off Rating Adj | 2.88 |
-| Def Rating Adj | -2.93 |
-| On/Off Diff | 1.52 |
-| TS% | 58.8% |
-| 3P% | 34.1% |
-| Influence Score | 0.13 |
+| VORPD | 2.46 |
+| Off Rating Adj | 1.50 |
+| Def Rating Adj | -1.52 |
+| On/Off Diff | 0.79 |
+| TS% | 58.1% |
+| 3P% | 35.7% |
+| Influence Score | 0.12 |
 | Season Weight | 0.20 |
 
 _Navigate back to the full player profile: [[Players/Isaiah Jackson]]_

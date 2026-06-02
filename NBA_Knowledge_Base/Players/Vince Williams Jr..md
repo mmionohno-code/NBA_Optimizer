@@ -3,12 +3,12 @@ player: "Vince Williams Jr."
 team: "MEM"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 51.57
+composite_score: 43.18
 salary: 2025165
-vorpd: 12.89
-off_rating_adj: 2.26
-def_rating_adj: 0.30
-on_off_diff: 6.59
+vorpd: 12.86
+off_rating_adj: 1.68
+def_rating_adj: 0.22
+on_off_diff: 4.89
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **51.6** / 100 |
+| Composite Score | **43.2** / 100 |
 | Salary | $2,025,165 |
-| VORPD | 12.89 |
-| Off Rating Adj | 2.26 |
-| Def Rating Adj | 0.30 |
-| On/Off Diff | 6.59 |
-| TS% | 59.1% |
-| 3P% | 37.8% |
+| VORPD | 12.86 |
+| Off Rating Adj | 1.68 |
+| Def Rating Adj | 0.22 |
+| On/Off Diff | 4.89 |
+| TS% | 58.8% |
+| 3P% | 37.6% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, perimeter-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MEM | 51.6 | $2025165 | 12.89 | 2.26 | 0.30 | 6.59 |
+| 2023-24 | MEM | 43.2 | $2025165 | 12.86 | 1.68 | 0.22 | 4.89 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (1.29, -0.69)
+- **Cluster:** 3
+- **PCA Position:** (1.29, -0.87)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

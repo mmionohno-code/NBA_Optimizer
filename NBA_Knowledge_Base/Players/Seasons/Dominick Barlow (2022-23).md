@@ -4,12 +4,12 @@ player: "Dominick Barlow"
 season: "2022-23"
 team: "SAS"
 archetype: "Bench / Role Player"
-composite_score: 29.77
+composite_score: 22.56
 salary: 2731677
-vorpd: 1.58
-off_rating_adj: -2.31
-def_rating_adj: 0.55
-on_off_diff: 2.13
+vorpd: 2.08
+off_rating_adj: -1.04
+def_rating_adj: 0.25
+on_off_diff: 0.96
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | SAS |
-| Composite Score | **29.8** / 100 |
+| Composite Score | **22.6** / 100 |
 | Salary | $2,731,677 |
-| VORPD | 1.58 |
-| Off Rating Adj | -2.31 |
-| Def Rating Adj | 0.55 |
-| On/Off Diff | 2.13 |
-| TS% | 57.3% |
-| 3P% | 35.0% |
+| VORPD | 2.08 |
+| Off Rating Adj | -1.04 |
+| Def Rating Adj | 0.25 |
+| On/Off Diff | 0.96 |
+| TS% | 57.4% |
+| 3P% | 36.4% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

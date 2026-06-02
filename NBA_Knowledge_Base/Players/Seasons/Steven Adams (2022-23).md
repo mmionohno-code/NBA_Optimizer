@@ -4,12 +4,12 @@ player: "Steven Adams"
 season: "2022-23"
 team: "MEM"
 archetype: "Perimeter Scorer"
-composite_score: 52.34
+composite_score: 45.00
 salary: 11303013
-vorpd: 2.38
-off_rating_adj: 5.71
-def_rating_adj: 0.67
-on_off_diff: 5.60
+vorpd: 2.49
+off_rating_adj: 3.96
+def_rating_adj: 0.47
+on_off_diff: 3.90
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | MEM |
-| Composite Score | **52.3** / 100 |
+| Composite Score | **45.0** / 100 |
 | Salary | $11,303,013 |
-| VORPD | 2.38 |
-| Off Rating Adj | 5.71 |
-| Def Rating Adj | 0.67 |
-| On/Off Diff | 5.60 |
-| TS% | 56.8% |
-| 3P% | 35.0% |
+| VORPD | 2.49 |
+| Off Rating Adj | 3.96 |
+| Def Rating Adj | 0.47 |
+| On/Off Diff | 3.90 |
+| TS% | 57.0% |
+| 3P% | 36.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

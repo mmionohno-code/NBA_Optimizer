@@ -4,12 +4,12 @@ player: "Deandre Ayton"
 season: "2021-22"
 team: "PHX"
 archetype: "Perimeter Scorer"
-composite_score: 44.77
+composite_score: 37.89
 salary: 24473418
-vorpd: 0.79
-off_rating_adj: 5.28
-def_rating_adj: -1.43
-on_off_diff: 0.83
+vorpd: 0.71
+off_rating_adj: 4.08
+def_rating_adj: -1.11
+on_off_diff: 0.67
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | PHX |
-| Composite Score | **44.8** / 100 |
+| Composite Score | **37.9** / 100 |
 | Salary | $24,473,418 |
-| VORPD | 0.79 |
-| Off Rating Adj | 5.28 |
-| Def Rating Adj | -1.43 |
-| On/Off Diff | 0.83 |
-| TS% | 63.9% |
-| 3P% | 34.1% |
+| VORPD | 0.71 |
+| Off Rating Adj | 4.08 |
+| Def Rating Adj | -1.11 |
+| On/Off Diff | 0.67 |
+| TS% | 62.9% |
+| 3P% | 35.7% |
 | Influence Score | 0.14 |
 | Season Weight | 0.20 |
 

@@ -3,12 +3,12 @@ player: "Kyle Lowry"
 team: "PHI"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 41.72
+composite_score: 31.18
 salary: 2020490
-vorpd: 8.05
-off_rating_adj: -2.63
-def_rating_adj: -0.42
-on_off_diff: -3.11
+vorpd: 6.95
+off_rating_adj: -2.03
+def_rating_adj: -0.33
+on_off_diff: -2.39
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,28 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **41.7** / 100 |
+| Composite Score | **31.2** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 8.05 |
-| Off Rating Adj | -2.63 |
-| Def Rating Adj | -0.42 |
-| On/Off Diff | -3.11 |
-| TS% | 58.9% |
-| 3P% | 39.2% |
+| VORPD | 6.95 |
+| Off Rating Adj | -2.03 |
+| Def Rating Adj | -0.33 |
+| On/Off Diff | -2.39 |
+| TS% | 58.6% |
+| 3P% | 38.3% |
 | Influence Score | 0.08 |
 
-## Season History (1 season)
+## Season History (3 seasons)
 
-> **Trend:** Single season in dataset
+> **Trend:** Trending DOWN (-19.7 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | PHI | 41.7 | $2020490 | 8.05 | -2.63 | -0.42 | -3.11 |
+| 2023-24 | PHI | 31.2 | $2020490 | 6.95 | -2.03 | -0.33 | -2.39 |
+| 2022-23 | MIA | 46.2 | $1836802 | 15.99 | 1.40 | -0.13 | -0.33 |
+| 2021-22 | MIA | 50.9 | $1669826 | 18.16 | 0.59 | 0.16 | -0.61 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.09, 0.29)
+- **Cluster:** 1
+- **PCA Position:** (-0.26, -0.00)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

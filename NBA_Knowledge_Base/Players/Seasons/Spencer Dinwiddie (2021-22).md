@@ -4,12 +4,12 @@ player: "Spencer Dinwiddie"
 season: "2021-22"
 team: "DAL"
 archetype: "Versatile Scorer"
-composite_score: 48.45
+composite_score: 42.79
 salary: 925258
-vorpd: 24.85
-off_rating_adj: -1.13
-def_rating_adj: -2.31
-on_off_diff: -0.63
+vorpd: 24.04
+off_rating_adj: -0.90
+def_rating_adj: -1.85
+on_off_diff: -0.49
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | DAL |
-| Composite Score | **48.5** / 100 |
+| Composite Score | **42.8** / 100 |
 | Salary | $925,258 |
-| VORPD | 24.85 |
-| Off Rating Adj | -1.13 |
-| Def Rating Adj | -2.31 |
-| On/Off Diff | -0.63 |
-| TS% | 54.6% |
-| 3P% | 33.9% |
+| VORPD | 24.04 |
+| Off Rating Adj | -0.90 |
+| Def Rating Adj | -1.85 |
+| On/Off Diff | -0.49 |
+| TS% | 54.8% |
+| 3P% | 34.9% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

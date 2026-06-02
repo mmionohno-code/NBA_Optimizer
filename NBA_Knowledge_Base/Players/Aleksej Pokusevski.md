@@ -3,12 +3,12 @@ player: "Aleksej Pokusevski"
 team: "CHA"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 38.13
+composite_score: 29.72
 salary: 4000000
-vorpd: 3.17
-off_rating_adj: -2.81
-def_rating_adj: 2.08
-on_off_diff: 0.10
+vorpd: 3.15
+off_rating_adj: -1.26
+def_rating_adj: 0.93
+on_off_diff: 0.05
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **38.1** / 100 |
+| Composite Score | **29.7** / 100 |
 | Salary | $4,000,000 |
-| VORPD | 3.17 |
-| Off Rating Adj | -2.81 |
-| Def Rating Adj | 2.08 |
-| On/Off Diff | 0.10 |
-| TS% | 55.3% |
-| 3P% | 32.7% |
+| VORPD | 3.15 |
+| Off Rating Adj | -1.26 |
+| Def Rating Adj | 0.93 |
+| On/Off Diff | 0.05 |
+| TS% | 56.0% |
+| 3P% | 36.6% |
 | Influence Score | 0.10 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-18.7 pts over 3 seasons)
+> **Trend:** Trending DOWN (-22.7 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHA | 38.1 | $4000000 | 3.17 | -2.81 | 2.08 | 0.10 |
-| 2022-23 | OKC | 18.8 | $1017781 | 0.00 | -6.97 | -6.10 | -14.65 |
-| 2021-22 | OKC | 56.9 | $925258 | 33.93 | 0.95 | 3.65 | 8.47 |
+| 2023-24 | CHA | 29.7 | $4000000 | 3.15 | -1.26 | 0.93 | 0.05 |
+| 2022-23 | OKC | 14.6 | $1017781 | 0.00 | -4.07 | -3.56 | -8.54 |
+| 2021-22 | OKC | 52.4 | $925258 | 34.41 | 0.68 | 2.60 | 6.02 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-1.00, -0.14)
+- **Cluster:** 2
+- **PCA Position:** (-0.79, -0.27)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

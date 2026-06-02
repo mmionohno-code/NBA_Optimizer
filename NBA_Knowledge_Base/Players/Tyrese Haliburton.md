@@ -3,12 +3,12 @@ player: "Tyrese Haliburton"
 team: "IND"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 81.04
+composite_score: 78.18
 salary: 40079866
-vorpd: 1.39
-off_rating_adj: 4.58
-def_rating_adj: -0.38
-on_off_diff: 8.75
+vorpd: 1.52
+off_rating_adj: 3.74
+def_rating_adj: -0.31
+on_off_diff: 7.15
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,30 +20,30 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **81.0** / 100 |
+| Composite Score | **78.2** / 100 |
 | Salary | $40,079,866 |
-| VORPD | 1.39 |
-| Off Rating Adj | 4.58 |
-| Def Rating Adj | -0.38 |
-| On/Off Diff | 8.75 |
-| TS% | 60.1% |
-| 3P% | 36.4% |
+| VORPD | 1.52 |
+| Off Rating Adj | 3.74 |
+| Def Rating Adj | -0.31 |
+| On/Off Diff | 7.15 |
+| TS% | 59.9% |
+| 3P% | 36.7% |
 | Influence Score | 0.14 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+18.3 pts over 3 seasons)
+> **Trend:** Trending UP (+24.0 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | IND | 81.0 | $40079866 | 1.39 | 4.58 | -0.38 | 8.75 |
-| 2022-23 | IND | 81.9 | $36436108 | 1.55 | 5.13 | -2.68 | 4.68 |
-| 2021-22 | IND | 62.7 | $33123841 | 1.13 | -0.42 | -2.73 | -0.25 |
+| 2023-24 | IND | 78.2 | $40079866 | 1.52 | 3.74 | -0.31 | 7.15 |
+| 2022-23 | IND | 76.0 | $36436108 | 1.62 | 4.05 | -2.11 | 3.71 |
+| 2021-22 | IND | 54.2 | $33123841 | 1.02 | -0.35 | -2.30 | -0.21 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (3.62, 1.82)
+- **Cluster:** 0
+- **PCA Position:** (4.05, 1.69)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

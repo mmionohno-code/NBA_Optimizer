@@ -4,12 +4,12 @@ player: "Isaiah Hartenstein"
 season: "2021-22"
 team: "LAC"
 archetype: "Two-Way Big"
-composite_score: 62.43
+composite_score: 54.92
 salary: 20724893
-vorpd: 1.78
-off_rating_adj: 4.14
-def_rating_adj: 4.65
-on_off_diff: 10.28
+vorpd: 1.66
+off_rating_adj: 2.93
+def_rating_adj: 3.30
+on_off_diff: 7.29
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | LAC |
-| Composite Score | **62.4** / 100 |
+| Composite Score | **54.9** / 100 |
 | Salary | $20,724,893 |
-| VORPD | 1.78 |
-| Off Rating Adj | 4.14 |
-| Def Rating Adj | 4.65 |
-| On/Off Diff | 10.28 |
-| TS% | 63.4% |
-| 3P% | 34.1% |
+| VORPD | 1.66 |
+| Off Rating Adj | 2.93 |
+| Def Rating Adj | 3.30 |
+| On/Off Diff | 7.29 |
+| TS% | 62.0% |
+| 3P% | 35.7% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

@@ -4,12 +4,12 @@ player: "Blake Wesley"
 season: "2022-23"
 team: "SAS"
 archetype: "Bench / Role Player"
-composite_score: 38.76
+composite_score: 31.48
 salary: 4514453
-vorpd: 2.95
-off_rating_adj: -4.21
-def_rating_adj: -0.25
-on_off_diff: -3.56
+vorpd: 3.23
+off_rating_adj: -2.41
+def_rating_adj: -0.14
+on_off_diff: -2.04
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | SAS |
-| Composite Score | **38.8** / 100 |
+| Composite Score | **31.5** / 100 |
 | Salary | $4,514,453 |
-| VORPD | 2.95 |
-| Off Rating Adj | -4.21 |
-| Def Rating Adj | -0.25 |
-| On/Off Diff | -3.56 |
-| TS% | 46.8% |
-| 3P% | 38.5% |
-| Influence Score | 0.08 |
+| VORPD | 3.23 |
+| Off Rating Adj | -2.41 |
+| Def Rating Adj | -0.14 |
+| On/Off Diff | -2.04 |
+| TS% | 49.6% |
+| 3P% | 37.1% |
+| Influence Score | 0.09 |
 | Season Weight | 0.35 |
 
 _Navigate back to the full player profile: [[Players/Blake Wesley]]_

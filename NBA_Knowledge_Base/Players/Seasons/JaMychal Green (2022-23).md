@@ -4,12 +4,12 @@ player: "JaMychal Green"
 season: "2022-23"
 team: "GSW"
 archetype: "Bench / Role Player"
-composite_score: 14.17
+composite_score: 7.43
 salary: 1017781
 vorpd: 0.00
-off_rating_adj: -5.88
-def_rating_adj: -3.66
-on_off_diff: -12.88
+off_rating_adj: -3.62
+def_rating_adj: -2.25
+on_off_diff: -7.91
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | GSW |
-| Composite Score | **14.2** / 100 |
+| Composite Score | **7.4** / 100 |
 | Salary | $1,017,781 |
 | VORPD | 0.00 |
-| Off Rating Adj | -5.88 |
-| Def Rating Adj | -3.66 |
-| On/Off Diff | -12.88 |
-| TS% | 62.2% |
-| 3P% | 37.8% |
-| Influence Score | 0.11 |
+| Off Rating Adj | -3.62 |
+| Def Rating Adj | -2.25 |
+| On/Off Diff | -7.91 |
+| TS% | 61.1% |
+| 3P% | 37.1% |
+| Influence Score | 0.10 |
 | Season Weight | 0.35 |
 
 _Navigate back to the full player profile: [[Players/JaMychal Green]]_

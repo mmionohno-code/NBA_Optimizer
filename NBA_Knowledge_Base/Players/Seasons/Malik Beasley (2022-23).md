@@ -4,12 +4,12 @@ player: "Malik Beasley"
 season: "2022-23"
 team: "LAL"
 archetype: "Versatile Scorer"
-composite_score: 39.27
+composite_score: 31.53
 salary: 1017781
-vorpd: 13.57
-off_rating_adj: -0.04
-def_rating_adj: -2.37
-on_off_diff: -2.85
+vorpd: 14.39
+off_rating_adj: -0.03
+def_rating_adj: -1.91
+on_off_diff: -2.29
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | LAL |
-| Composite Score | **39.3** / 100 |
+| Composite Score | **31.5** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 13.57 |
-| Off Rating Adj | -0.04 |
-| Def Rating Adj | -2.37 |
-| On/Off Diff | -2.85 |
-| TS% | 53.7% |
-| 3P% | 35.7% |
+| VORPD | 14.39 |
+| Off Rating Adj | -0.03 |
+| Def Rating Adj | -1.91 |
+| On/Off Diff | -2.29 |
+| TS% | 54.1% |
+| 3P% | 36.0% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

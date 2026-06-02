@@ -4,12 +4,12 @@ player: "R.J. Hampton"
 season: "2021-22"
 team: "ORL"
 archetype: "Bench / Role Player"
-composite_score: 33.01
+composite_score: 25.50
 salary: 925258
-vorpd: 8.16
-off_rating_adj: -3.61
-def_rating_adj: -2.09
-on_off_diff: -8.92
+vorpd: 5.35
+off_rating_adj: -2.66
+def_rating_adj: -1.54
+on_off_diff: -6.58
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | ORL |
-| Composite Score | **33.0** / 100 |
+| Composite Score | **25.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 8.16 |
-| Off Rating Adj | -3.61 |
-| Def Rating Adj | -2.09 |
-| On/Off Diff | -8.92 |
-| TS% | 50.1% |
-| 3P% | 35.0% |
+| VORPD | 5.35 |
+| Off Rating Adj | -2.66 |
+| Def Rating Adj | -1.54 |
+| On/Off Diff | -6.58 |
+| TS% | 51.2% |
+| 3P% | 35.7% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

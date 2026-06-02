@@ -4,12 +4,12 @@ player: "Jevon Carter"
 season: "2023-24"
 team: "CHI"
 archetype: "Defensive Wing"
-composite_score: 46.24
+composite_score: 38.40
 salary: 6758088
-vorpd: 3.08
-off_rating_adj: -1.73
-def_rating_adj: 5.02
-on_off_diff: 4.78
+vorpd: 3.15
+off_rating_adj: -1.15
+def_rating_adj: 3.35
+on_off_diff: 3.19
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | CHI |
-| Composite Score | **46.2** / 100 |
+| Composite Score | **38.4** / 100 |
 | Salary | $6,758,088 |
-| VORPD | 3.08 |
-| Off Rating Adj | -1.73 |
-| Def Rating Adj | 5.02 |
-| On/Off Diff | 4.78 |
-| TS% | 51.1% |
-| 3P% | 32.9% |
+| VORPD | 3.15 |
+| Off Rating Adj | -1.15 |
+| Def Rating Adj | 3.35 |
+| On/Off Diff | 3.19 |
+| TS% | 52.4% |
+| 3P% | 35.3% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

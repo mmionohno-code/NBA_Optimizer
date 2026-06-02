@@ -4,12 +4,12 @@ player: "Harrison Barnes"
 season: "2021-22"
 team: "SAC"
 archetype: "Bench / Role Player"
-composite_score: 35.60
+composite_score: 25.47
 salary: 13816595
-vorpd: 0.73
-off_rating_adj: 2.03
-def_rating_adj: -4.39
-on_off_diff: -3.83
+vorpd: 0.36
+off_rating_adj: 1.70
+def_rating_adj: -3.68
+on_off_diff: -3.21
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | SAC |
-| Composite Score | **35.6** / 100 |
+| Composite Score | **25.5** / 100 |
 | Salary | $13,816,595 |
-| VORPD | 0.73 |
-| Off Rating Adj | 2.03 |
-| Def Rating Adj | -4.39 |
-| On/Off Diff | -3.83 |
-| TS% | 61.4% |
-| 3P% | 39.4% |
+| VORPD | 0.36 |
+| Off Rating Adj | 1.70 |
+| Def Rating Adj | -3.68 |
+| On/Off Diff | -3.21 |
+| TS% | 60.8% |
+| 3P% | 38.0% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

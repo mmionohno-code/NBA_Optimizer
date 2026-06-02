@@ -4,12 +4,12 @@ player: "Wenyen Gabriel"
 season: "2021-22"
 team: "LAL"
 archetype: "Defensive Wing"
-composite_score: 48.41
+composite_score: 36.08
 salary: 925258
-vorpd: 24.81
-off_rating_adj: 9.25
-def_rating_adj: 0.61
-on_off_diff: 8.66
+vorpd: 16.78
+off_rating_adj: 3.86
+def_rating_adj: 0.25
+on_off_diff: 3.62
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | LAL |
-| Composite Score | **48.4** / 100 |
+| Composite Score | **36.1** / 100 |
 | Salary | $925,258 |
-| VORPD | 24.81 |
-| Off Rating Adj | 9.25 |
-| Def Rating Adj | 0.61 |
-| On/Off Diff | 8.66 |
-| TS% | 55.7% |
-| 3P% | 28.6% |
+| VORPD | 16.78 |
+| Off Rating Adj | 3.86 |
+| Def Rating Adj | 0.25 |
+| On/Off Diff | 3.62 |
+| TS% | 55.8% |
+| 3P% | 35.4% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

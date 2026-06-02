@@ -3,12 +3,12 @@ player: "David Duke Jr."
 team: "BKN"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 36.57
+composite_score: 30.99
 salary: 925258
-vorpd: 12.01
-off_rating_adj: -0.90
-def_rating_adj: 0.72
-on_off_diff: -1.95
+vorpd: 11.28
+off_rating_adj: -0.36
+def_rating_adj: 0.29
+on_off_diff: -0.79
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **36.6** / 100 |
+| Composite Score | **31.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 12.01 |
-| Off Rating Adj | -0.90 |
-| Def Rating Adj | 0.72 |
-| On/Off Diff | -1.95 |
-| TS% | 51.3% |
-| 3P% | 24.3% |
+| VORPD | 11.28 |
+| Off Rating Adj | -0.36 |
+| Def Rating Adj | 0.29 |
+| On/Off Diff | -0.79 |
+| TS% | 52.9% |
+| 3P% | 34.6% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | BKN | 36.6 | $925258 | 12.01 | -0.90 | 0.72 | -1.95 |
+| 2021-22 | BKN | 31.0 | $925258 | 11.28 | -0.36 | 0.29 | -0.79 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.99, 0.70)
+- **Cluster:** 5
+- **PCA Position:** (-1.49, 0.69)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

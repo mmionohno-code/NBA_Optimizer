@@ -3,32 +3,32 @@ player_season: "De'Anthony Melton (2022-23)"
 player: "De'Anthony Melton"
 season: "2022-23"
 team: "PHI"
-archetype: "Versatile Scorer"
-composite_score: 49.79
+archetype: "Perimeter Scorer"
+composite_score: 40.43
 salary: 2464446
-vorpd: 9.87
-off_rating_adj: 1.77
-def_rating_adj: -1.05
-on_off_diff: -5.11
+vorpd: 9.55
+off_rating_adj: 1.44
+def_rating_adj: -0.85
+on_off_diff: -4.13
 season_weight: 0.35
-tags: [season-note, versatile-scorer]
+tags: [season-note, perimeter-scorer]
 ---
 # De'Anthony Melton — 2022-23
 
-> Part of [[Players/De'Anthony Melton]] | Archetype: [[Archetypes/Versatile Scorer]]
+> Part of [[Players/De'Anthony Melton]] | Archetype: [[Archetypes/Perimeter Scorer]]
 
 | Metric | Value |
 |---|---|
 | Season | 2022-23 |
 | Team | PHI |
-| Composite Score | **49.8** / 100 |
+| Composite Score | **40.4** / 100 |
 | Salary | $2,464,446 |
-| VORPD | 9.87 |
-| Off Rating Adj | 1.77 |
-| Def Rating Adj | -1.05 |
-| On/Off Diff | -5.11 |
-| TS% | 56.8% |
-| 3P% | 39.0% |
+| VORPD | 9.55 |
+| Off Rating Adj | 1.44 |
+| Def Rating Adj | -0.85 |
+| On/Off Diff | -4.13 |
+| TS% | 56.9% |
+| 3P% | 38.1% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

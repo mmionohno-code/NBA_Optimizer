@@ -4,12 +4,12 @@ player: "Duop Reath"
 season: "2023-24"
 team: "POR"
 archetype: "Perimeter Scorer"
-composite_score: 43.66
+composite_score: 36.24
 salary: 1954852
-vorpd: 9.31
-off_rating_adj: 3.62
-def_rating_adj: -1.75
-on_off_diff: 4.06
+vorpd: 9.78
+off_rating_adj: 2.56
+def_rating_adj: -1.24
+on_off_diff: 2.87
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | POR |
-| Composite Score | **43.7** / 100 |
+| Composite Score | **36.2** / 100 |
 | Salary | $1,954,852 |
-| VORPD | 9.31 |
-| Off Rating Adj | 3.62 |
-| Def Rating Adj | -1.75 |
-| On/Off Diff | 4.06 |
+| VORPD | 9.78 |
+| Off Rating Adj | 2.56 |
+| Def Rating Adj | -1.24 |
+| On/Off Diff | 2.87 |
 | TS% | 57.2% |
-| 3P% | 35.9% |
+| 3P% | 36.7% |
 | Influence Score | 0.12 |
 | Season Weight | 0.45 |
 

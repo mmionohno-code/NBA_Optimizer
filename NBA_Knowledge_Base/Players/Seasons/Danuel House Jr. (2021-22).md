@@ -4,12 +4,12 @@ player: "Danuel House Jr."
 season: "2021-22"
 team: "UTA"
 archetype: "Defensive Wing"
-composite_score: 35.67
+composite_score: 27.27
 salary: 925258
-vorpd: 11.04
-off_rating_adj: -4.30
-def_rating_adj: 2.84
-on_off_diff: 3.50
+vorpd: 7.26
+off_rating_adj: -2.55
+def_rating_adj: 1.68
+on_off_diff: 2.08
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | UTA |
-| Composite Score | **35.7** / 100 |
+| Composite Score | **27.3** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.04 |
-| Off Rating Adj | -4.30 |
-| Def Rating Adj | 2.84 |
-| On/Off Diff | 3.50 |
-| TS% | 55.8% |
-| 3P% | 37.6% |
+| VORPD | 7.26 |
+| Off Rating Adj | -2.55 |
+| Def Rating Adj | 1.68 |
+| On/Off Diff | 2.08 |
+| TS% | 55.9% |
+| 3P% | 36.6% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

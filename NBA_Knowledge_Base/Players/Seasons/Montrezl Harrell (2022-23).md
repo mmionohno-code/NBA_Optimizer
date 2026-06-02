@@ -4,12 +4,12 @@ player: "Montrezl Harrell"
 season: "2022-23"
 team: "PHI"
 archetype: "Bench / Role Player"
-composite_score: 30.16
+composite_score: 22.34
 salary: 1017781
-vorpd: 4.62
-off_rating_adj: -1.83
-def_rating_adj: 2.15
-on_off_diff: -3.50
+vorpd: 5.36
+off_rating_adj: -1.05
+def_rating_adj: 1.24
+on_off_diff: -2.01
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | PHI |
-| Composite Score | **30.2** / 100 |
+| Composite Score | **22.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 4.62 |
-| Off Rating Adj | -1.83 |
-| Def Rating Adj | 2.15 |
-| On/Off Diff | -3.50 |
-| TS% | 60.8% |
-| 3P% | 35.0% |
+| VORPD | 5.36 |
+| Off Rating Adj | -1.05 |
+| Def Rating Adj | 1.24 |
+| On/Off Diff | -2.01 |
+| TS% | 60.0% |
+| 3P% | 36.4% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

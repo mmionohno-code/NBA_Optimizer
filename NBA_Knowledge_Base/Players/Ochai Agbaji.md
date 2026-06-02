@@ -3,12 +3,12 @@ player: "Ochai Agbaji"
 team: "TOR"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 35.15
+composite_score: 28.98
 salary: 5616859
-vorpd: 1.73
-off_rating_adj: 0.66
-def_rating_adj: -0.37
-on_off_diff: -1.25
+vorpd: 2.11
+off_rating_adj: 0.51
+def_rating_adj: -0.28
+on_off_diff: -0.95
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **35.1** / 100 |
+| Composite Score | **29.0** / 100 |
 | Salary | $5,616,859 |
-| VORPD | 1.73 |
-| Off Rating Adj | 0.66 |
-| Def Rating Adj | -0.37 |
-| On/Off Diff | -1.25 |
-| TS% | 51.7% |
-| 3P% | 29.4% |
+| VORPD | 2.11 |
+| Off Rating Adj | 0.51 |
+| Def Rating Adj | -0.28 |
+| On/Off Diff | -0.95 |
+| TS% | 52.7% |
+| 3P% | 33.8% |
 | Influence Score | 0.07 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Stable (+1.3 pts over 2 seasons)
+> **Trend:** Stable (+2.8 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | TOR | 35.1 | $5616859 | 1.73 | 0.66 | -0.37 | -1.25 |
-| 2022-23 | UTA | 33.9 | $5106217 | 1.65 | 2.57 | 0.13 | -0.19 |
+| 2023-24 | TOR | 29.0 | $5616859 | 2.11 | 0.51 | -0.28 | -0.95 |
+| 2022-23 | UTA | 26.1 | $5106217 | 1.81 | 1.82 | 0.09 | -0.12 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.45, -0.00)
+- **Cluster:** 5
+- **PCA Position:** (-1.54, 0.34)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Keita Bates-Diop"
 season: "2023-24"
 team: "BKN"
 archetype: "Bench / Role Player"
-composite_score: 27.41
+composite_score: 20.46
 salary: 3000000
-vorpd: 0.65
-off_rating_adj: -0.82
-def_rating_adj: 0.45
-on_off_diff: -7.66
+vorpd: 1.11
+off_rating_adj: -0.47
+def_rating_adj: 0.26
+on_off_diff: -4.36
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | BKN |
-| Composite Score | **27.4** / 100 |
+| Composite Score | **20.5** / 100 |
 | Salary | $3,000,000 |
-| VORPD | 0.65 |
-| Off Rating Adj | -0.82 |
-| Def Rating Adj | 0.45 |
-| On/Off Diff | -7.66 |
-| TS% | 55.4% |
-| 3P% | 30.4% |
+| VORPD | 1.11 |
+| Off Rating Adj | -0.47 |
+| Def Rating Adj | 0.26 |
+| On/Off Diff | -4.36 |
+| TS% | 56.0% |
+| 3P% | 36.0% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

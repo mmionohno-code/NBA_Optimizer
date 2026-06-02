@@ -14,7 +14,7 @@ tags: [index, dashboard]
 
 | | |
 |---|---|
-| Total Players | 551 |
+| Total Players | 555 |
 | Seasons Covered | 2021-22, 2022-23, 2023-24 |
 | Optimization Scenarios | 10 (A–J) |
 | Player Archetypes | 6 |
@@ -48,11 +48,11 @@ LIMIT 15
 
 | Archetype | Count |
 |---|---|
-| Bench / Role Player | 237 |
-| Perimeter Scorer | 87 |
-| Defensive Wing | 86 |
-| Versatile Scorer | 68 |
-| Elite Playmaker | 45 |
+| Bench / Role Player | 248 |
+| Defensive Wing | 97 |
+| Perimeter Scorer | 81 |
+| Versatile Scorer | 55 |
+| Elite Playmaker | 46 |
 | Two-Way Big | 28 |
 
 ```dataview

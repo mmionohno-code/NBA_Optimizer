@@ -3,12 +3,12 @@ player: "Killian Tillie"
 team: "MEM"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 30.72
+composite_score: 26.20
 salary: 925258
-vorpd: 5.69
-off_rating_adj: -2.93
-def_rating_adj: 1.26
-on_off_diff: -3.13
+vorpd: 6.11
+off_rating_adj: -1.40
+def_rating_adj: 0.61
+on_off_diff: -1.49
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **30.7** / 100 |
+| Composite Score | **26.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 5.69 |
-| Off Rating Adj | -2.93 |
-| Def Rating Adj | 1.26 |
-| On/Off Diff | -3.13 |
-| TS% | 51.2% |
-| 3P% | 31.4% |
+| VORPD | 6.11 |
+| Off Rating Adj | -1.40 |
+| Def Rating Adj | 0.61 |
+| On/Off Diff | -1.49 |
+| TS% | 52.8% |
+| 3P% | 34.9% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | MEM | 30.7 | $925258 | 5.69 | -2.93 | 1.26 | -3.13 |
+| 2021-22 | MEM | 26.2 | $925258 | 6.11 | -1.40 | 0.61 | -1.49 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.15, 0.10)
+- **Cluster:** 5
+- **PCA Position:** (-1.92, 0.37)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

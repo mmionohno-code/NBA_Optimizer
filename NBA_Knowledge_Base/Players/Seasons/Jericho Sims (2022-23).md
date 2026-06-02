@@ -4,12 +4,12 @@ player: "Jericho Sims"
 season: "2022-23"
 team: "NYK"
 archetype: "Bench / Role Player"
-composite_score: 7.08
+composite_score: 0.00
 salary: 1968938
 vorpd: 0.00
-off_rating_adj: -4.87
-def_rating_adj: -2.73
-on_off_diff: -11.42
+off_rating_adj: -3.01
+def_rating_adj: -1.69
+on_off_diff: -7.06
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | NYK |
-| Composite Score | **7.1** / 100 |
+| Composite Score | **0.0** / 100 |
 | Salary | $1,968,938 |
 | VORPD | 0.00 |
-| Off Rating Adj | -4.87 |
-| Def Rating Adj | -2.73 |
-| On/Off Diff | -11.42 |
-| TS% | 66.2% |
-| 3P% | 35.0% |
+| Off Rating Adj | -3.01 |
+| Def Rating Adj | -1.69 |
+| On/Off Diff | -7.06 |
+| TS% | 63.4% |
+| 3P% | 36.4% |
 | Influence Score | 0.05 |
 | Season Weight | 0.35 |
 

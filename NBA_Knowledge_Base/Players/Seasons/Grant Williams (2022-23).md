@@ -4,12 +4,12 @@ player: "Grant Williams"
 season: "2022-23"
 team: "BOS"
 archetype: "Bench / Role Player"
-composite_score: 27.30
+composite_score: 15.85
 salary: 10915111
-vorpd: 0.17
-off_rating_adj: -0.91
-def_rating_adj: -0.29
-on_off_diff: -4.14
+vorpd: 0.00
+off_rating_adj: -0.73
+def_rating_adj: -0.23
+on_off_diff: -3.31
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | BOS |
-| Composite Score | **27.3** / 100 |
+| Composite Score | **15.8** / 100 |
 | Salary | $10,915,111 |
-| VORPD | 0.17 |
-| Off Rating Adj | -0.91 |
-| Def Rating Adj | -0.29 |
-| On/Off Diff | -4.14 |
-| TS% | 59.8% |
-| 3P% | 39.5% |
+| VORPD | 0.00 |
+| Off Rating Adj | -0.73 |
+| Def Rating Adj | -0.23 |
+| On/Off Diff | -3.31 |
+| TS% | 59.4% |
+| 3P% | 38.2% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Isaiah Joe"
 season: "2023-24"
 team: "OKC"
 archetype: "Perimeter Scorer"
-composite_score: 41.12
+composite_score: 29.57
 salary: 10877613
-vorpd: 1.44
-off_rating_adj: 1.52
-def_rating_adj: 3.11
-on_off_diff: 1.91
+vorpd: 1.14
+off_rating_adj: 1.13
+def_rating_adj: 2.31
+on_off_diff: 1.44
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | OKC |
-| Composite Score | **41.1** / 100 |
+| Composite Score | **29.6** / 100 |
 | Salary | $10,877,613 |
-| VORPD | 1.44 |
-| Off Rating Adj | 1.52 |
-| Def Rating Adj | 3.11 |
-| On/Off Diff | 1.91 |
-| TS% | 61.4% |
-| 3P% | 41.6% |
+| VORPD | 1.14 |
+| Off Rating Adj | 1.13 |
+| Def Rating Adj | 2.31 |
+| On/Off Diff | 1.44 |
+| TS% | 60.8% |
+| 3P% | 39.8% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

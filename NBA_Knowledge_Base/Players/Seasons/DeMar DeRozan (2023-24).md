@@ -4,12 +4,12 @@ player: "DeMar DeRozan"
 season: "2023-24"
 team: "CHI"
 archetype: "Elite Playmaker"
-composite_score: 59.81
+composite_score: 54.69
 salary: 21619127
-vorpd: 1.59
-off_rating_adj: 1.77
-def_rating_adj: -0.98
-on_off_diff: 0.96
+vorpd: 1.74
+off_rating_adj: 1.52
+def_rating_adj: -0.84
+on_off_diff: 0.83
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | CHI |
-| Composite Score | **59.8** / 100 |
+| Composite Score | **54.7** / 100 |
 | Salary | $21,619,127 |
-| VORPD | 1.59 |
-| Off Rating Adj | 1.77 |
-| Def Rating Adj | -0.98 |
-| On/Off Diff | 0.96 |
+| VORPD | 1.74 |
+| Off Rating Adj | 1.52 |
+| Def Rating Adj | -0.84 |
+| On/Off Diff | 0.83 |
 | TS% | 58.3% |
-| 3P% | 33.3% |
+| 3P% | 35.5% |
 | Influence Score | 0.15 |
 | Season Weight | 0.45 |
 

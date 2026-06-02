@@ -3,12 +3,12 @@ player: "Alex Len"
 team: "SAC"
 season: "2021-22"
 archetype: "Defensive Wing"
-composite_score: 35.67
+composite_score: 27.36
 salary: 925258
-vorpd: 11.04
-off_rating_adj: -1.97
-def_rating_adj: 0.91
-on_off_diff: 0.75
+vorpd: 7.36
+off_rating_adj: -1.09
+def_rating_adj: 0.51
+on_off_diff: 0.42
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **35.7** / 100 |
+| Composite Score | **27.4** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.04 |
-| Off Rating Adj | -1.97 |
-| Def Rating Adj | 0.91 |
-| On/Off Diff | 0.75 |
-| TS% | 57.0% |
-| 3P% | 28.6% |
+| VORPD | 7.36 |
+| Off Rating Adj | -1.09 |
+| Def Rating Adj | 0.51 |
+| On/Off Diff | 0.42 |
+| TS% | 56.8% |
+| 3P% | 35.6% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | SAC | 35.7 | $925258 | 11.04 | -1.97 | 0.91 | 0.75 |
+| 2021-22 | SAC | 27.4 | $925258 | 7.36 | -1.09 | 0.51 | 0.42 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-1.09, -0.43)
+- **Cluster:** 2
+- **PCA Position:** (-0.96, -0.47)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

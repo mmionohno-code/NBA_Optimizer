@@ -4,12 +4,12 @@ player: "T.J. McConnell"
 season: "2022-23"
 team: "IND"
 archetype: "Elite Playmaker"
-composite_score: 61.90
+composite_score: 53.63
 salary: 8159037
-vorpd: 4.47
-off_rating_adj: -1.27
-def_rating_adj: 2.32
-on_off_diff: 0.95
+vorpd: 4.50
+off_rating_adj: -0.96
+def_rating_adj: 1.75
+on_off_diff: 0.72
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | IND |
-| Composite Score | **61.9** / 100 |
+| Composite Score | **53.6** / 100 |
 | Salary | $8,159,037 |
-| VORPD | 4.47 |
-| Off Rating Adj | -1.27 |
-| Def Rating Adj | 2.32 |
-| On/Off Diff | 0.95 |
-| TS% | 58.7% |
-| 3P% | 44.1% |
+| VORPD | 4.50 |
+| Off Rating Adj | -0.96 |
+| Def Rating Adj | 1.75 |
+| On/Off Diff | 0.72 |
+| TS% | 58.5% |
+| 3P% | 38.2% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

@@ -3,12 +3,12 @@ player: "LeBron James"
 team: "LAL"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 79.19
+composite_score: 73.63
 salary: 46306597
-vorpd: 1.16
-off_rating_adj: 4.52
-def_rating_adj: -0.29
-on_off_diff: 8.10
+vorpd: 1.22
+off_rating_adj: 3.76
+def_rating_adj: -0.24
+on_off_diff: 6.77
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,30 +20,30 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **79.2** / 100 |
+| Composite Score | **73.6** / 100 |
 | Salary | $46,306,597 |
-| VORPD | 1.16 |
-| Off Rating Adj | 4.52 |
-| Def Rating Adj | -0.29 |
-| On/Off Diff | 8.10 |
-| TS% | 62.4% |
-| 3P% | 41.0% |
+| VORPD | 1.22 |
+| Off Rating Adj | 3.76 |
+| Def Rating Adj | -0.24 |
+| On/Off Diff | 6.77 |
+| TS% | 62.0% |
+| 3P% | 39.5% |
 | Influence Score | 0.18 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+6.5 pts over 3 seasons)
+> **Trend:** Trending UP (+5.4 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | LAL | 79.2 | $46306597 | 1.16 | 4.52 | -0.29 | 8.10 |
-| 2022-23 | LAL | 75.5 | $42096752 | 1.19 | 3.16 | 1.23 | 6.85 |
-| 2021-22 | LAL | 72.7 | $38269898 | 1.23 | 2.05 | -1.49 | 2.25 |
+| 2023-24 | LAL | 73.6 | $46306597 | 1.22 | 3.76 | -0.24 | 6.77 |
+| 2022-23 | LAL | 73.4 | $42096752 | 1.34 | 2.52 | 0.98 | 5.47 |
+| 2021-22 | LAL | 68.2 | $38269898 | 1.25 | 1.65 | -1.20 | 1.82 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (4.10, 1.28)
+- **Cluster:** 0
+- **PCA Position:** (4.60, 0.72)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

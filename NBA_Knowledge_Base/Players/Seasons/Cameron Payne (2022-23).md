@@ -4,12 +4,12 @@ player: "Cameron Payne"
 season: "2022-23"
 team: "PHX"
 archetype: "Versatile Scorer"
-composite_score: 58.85
+composite_score: 51.02
 salary: 1017781
-vorpd: 32.81
-off_rating_adj: 3.18
-def_rating_adj: -1.32
-on_off_diff: 2.05
+vorpd: 33.54
+off_rating_adj: 2.10
+def_rating_adj: -0.87
+on_off_diff: 1.36
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,13 +21,13 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | PHX |
-| Composite Score | **58.9** / 100 |
+| Composite Score | **51.0** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 32.81 |
-| Off Rating Adj | 3.18 |
-| Def Rating Adj | -1.32 |
-| On/Off Diff | 2.05 |
-| TS% | 52.8% |
+| VORPD | 33.54 |
+| Off Rating Adj | 2.10 |
+| Def Rating Adj | -0.87 |
+| On/Off Diff | 1.36 |
+| TS% | 53.6% |
 | 3P% | 36.8% |
 | Influence Score | 0.13 |
 | Season Weight | 0.35 |

@@ -4,12 +4,12 @@ player: "Jaden Hardy"
 season: "2023-24"
 team: "DAL"
 archetype: "Bench / Role Player"
-composite_score: 25.40
+composite_score: 17.14
 salary: 5279396
 vorpd: 0.00
-off_rating_adj: -7.98
-def_rating_adj: -0.35
-on_off_diff: -11.18
+off_rating_adj: -5.30
+def_rating_adj: -0.23
+on_off_diff: -7.42
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | DAL |
-| Composite Score | **25.4** / 100 |
+| Composite Score | **17.1** / 100 |
 | Salary | $5,279,396 |
 | VORPD | 0.00 |
-| Off Rating Adj | -7.98 |
-| Def Rating Adj | -0.35 |
-| On/Off Diff | -11.18 |
-| TS% | 53.1% |
-| 3P% | 36.2% |
+| Off Rating Adj | -5.30 |
+| Def Rating Adj | -0.23 |
+| On/Off Diff | -7.42 |
+| TS% | 53.8% |
+| 3P% | 36.9% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

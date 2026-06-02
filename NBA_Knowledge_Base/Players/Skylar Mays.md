@@ -3,12 +3,12 @@ player: "Skylar Mays"
 team: "LAL"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 40.52
+composite_score: 31.89
 salary: 1119563
-vorpd: 13.46
-off_rating_adj: -9.18
-def_rating_adj: -0.89
-on_off_diff: -0.74
+vorpd: 13.19
+off_rating_adj: -4.26
+def_rating_adj: -0.41
+on_off_diff: -0.34
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,15 +20,15 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **40.5** / 100 |
+| Composite Score | **31.9** / 100 |
 | Salary | $1,119,563 |
-| VORPD | 13.46 |
-| Off Rating Adj | -9.18 |
-| Def Rating Adj | -0.89 |
-| On/Off Diff | -0.74 |
-| TS% | 51.9% |
-| 3P% | 29.6% |
-| Influence Score | 0.09 |
+| VORPD | 13.19 |
+| Off Rating Adj | -4.26 |
+| Def Rating Adj | -0.41 |
+| On/Off Diff | -0.34 |
+| TS% | 53.5% |
+| 3P% | 36.1% |
+| Influence Score | 0.10 |
 
 ## Season History (1 season)
 
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | LAL | 40.5 | $1119563 | 13.46 | -9.18 | -0.89 | -0.74 |
+| 2023-24 | LAL | 31.9 | $1119563 | 13.19 | -4.26 | -0.41 | -0.34 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.02, 2.30)
+- **Cluster:** 5
+- **PCA Position:** (-1.55, 1.48)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

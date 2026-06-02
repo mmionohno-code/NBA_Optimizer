@@ -4,12 +4,12 @@ player: "Bradley Beal"
 season: "2021-22"
 team: "WAS"
 archetype: "Versatile Scorer"
-composite_score: 63.04
+composite_score: 58.70
 salary: 17988487
-vorpd: 2.09
-off_rating_adj: -1.19
-def_rating_adj: 1.77
-on_off_diff: 1.28
+vorpd: 2.12
+off_rating_adj: -0.89
+def_rating_adj: 1.31
+on_off_diff: 0.95
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | WAS |
-| Composite Score | **63.0** / 100 |
+| Composite Score | **58.7** / 100 |
 | Salary | $17,988,487 |
-| VORPD | 2.09 |
-| Off Rating Adj | -1.19 |
-| Def Rating Adj | 1.77 |
-| On/Off Diff | 1.28 |
-| TS% | 54.3% |
-| 3P% | 30.0% |
+| VORPD | 2.12 |
+| Off Rating Adj | -0.89 |
+| Def Rating Adj | 1.31 |
+| On/Off Diff | 0.95 |
+| TS% | 54.5% |
+| 3P% | 33.4% |
 | Influence Score | 0.16 |
 | Season Weight | 0.20 |
 

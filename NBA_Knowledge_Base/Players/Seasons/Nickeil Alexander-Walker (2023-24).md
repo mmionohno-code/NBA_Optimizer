@@ -4,12 +4,12 @@ player: "Nickeil Alexander-Walker"
 season: "2023-24"
 team: "MIN"
 archetype: "Perimeter Scorer"
-composite_score: 41.27
+composite_score: 31.29
 salary: 13340858
-vorpd: 1.19
-off_rating_adj: -0.28
-def_rating_adj: 0.95
-on_off_diff: 2.46
+vorpd: 1.06
+off_rating_adj: -0.22
+def_rating_adj: 0.75
+on_off_diff: 1.97
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | MIN |
-| Composite Score | **41.3** / 100 |
+| Composite Score | **31.3** / 100 |
 | Salary | $13,340,858 |
-| VORPD | 1.19 |
-| Off Rating Adj | -0.28 |
-| Def Rating Adj | 0.95 |
-| On/Off Diff | 2.46 |
+| VORPD | 1.06 |
+| Off Rating Adj | -0.22 |
+| Def Rating Adj | 0.75 |
+| On/Off Diff | 1.97 |
 | TS% | 57.7% |
-| 3P% | 39.1% |
+| 3P% | 38.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

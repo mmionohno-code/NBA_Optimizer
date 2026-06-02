@@ -4,12 +4,12 @@ player: "Onuralp Bitim"
 season: "2023-24"
 team: "CHI"
 archetype: "Bench / Role Player"
-composite_score: 19.60
+composite_score: 17.32
 salary: 1119563
-vorpd: 0.00
-off_rating_adj: -5.13
-def_rating_adj: -1.48
-on_off_diff: -5.80
+vorpd: 0.17
+off_rating_adj: -1.80
+def_rating_adj: -0.52
+on_off_diff: -2.02
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | CHI |
-| Composite Score | **19.6** / 100 |
+| Composite Score | **17.3** / 100 |
 | Salary | $1,119,563 |
-| VORPD | 0.00 |
-| Off Rating Adj | -5.13 |
-| Def Rating Adj | -1.48 |
-| On/Off Diff | -5.80 |
-| TS% | 53.5% |
-| 3P% | 27.3% |
+| VORPD | 0.17 |
+| Off Rating Adj | -1.80 |
+| Def Rating Adj | -0.52 |
+| On/Off Diff | -2.02 |
+| TS% | 54.9% |
+| 3P% | 36.0% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

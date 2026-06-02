@@ -4,12 +4,12 @@ player: "Damian Lillard"
 season: "2023-24"
 team: "MIL"
 archetype: "Elite Playmaker"
-composite_score: 74.63
+composite_score: 72.10
 salary: 32222445
-vorpd: 1.53
-off_rating_adj: 4.07
-def_rating_adj: 1.87
-on_off_diff: 10.98
+vorpd: 1.71
+off_rating_adj: 3.41
+def_rating_adj: 1.57
+on_off_diff: 9.22
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | MIL |
-| Composite Score | **74.6** / 100 |
+| Composite Score | **72.1** / 100 |
 | Salary | $32,222,445 |
-| VORPD | 1.53 |
-| Off Rating Adj | 4.07 |
-| Def Rating Adj | 1.87 |
-| On/Off Diff | 10.98 |
-| TS% | 58.8% |
-| 3P% | 35.4% |
+| VORPD | 1.71 |
+| Off Rating Adj | 3.41 |
+| Def Rating Adj | 1.57 |
+| On/Off Diff | 9.22 |
+| TS% | 58.7% |
+| 3P% | 36.0% |
 | Influence Score | 0.16 |
 | Season Weight | 0.45 |
 

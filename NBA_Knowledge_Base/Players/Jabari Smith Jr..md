@@ -3,12 +3,12 @@ player: "Jabari Smith Jr."
 team: "HOU"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 29.59
+composite_score: 19.44
 salary: 10867102
-vorpd: 0.38
-off_rating_adj: -0.40
-def_rating_adj: -3.75
-on_off_diff: -6.83
+vorpd: 0.21
+off_rating_adj: -0.33
+def_rating_adj: -3.11
+on_off_diff: -5.65
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **29.6** / 100 |
+| Composite Score | **19.4** / 100 |
 | Salary | $10,867,102 |
-| VORPD | 0.38 |
-| Off Rating Adj | -0.40 |
-| Def Rating Adj | -3.75 |
-| On/Off Diff | -6.83 |
+| VORPD | 0.21 |
+| Off Rating Adj | -0.33 |
+| Def Rating Adj | -3.11 |
+| On/Off Diff | -5.65 |
 | TS% | 57.2% |
-| 3P% | 36.3% |
+| 3P% | 36.8% |
 | Influence Score | 0.10 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Stable (-0.1 pts over 2 seasons)
+> **Trend:** Trending DOWN (-4.3 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | HOU | 29.6 | $10867102 | 0.38 | -0.40 | -3.75 | -6.83 |
-| 2022-23 | HOU | 29.7 | $9879147 | 0.43 | 0.87 | -3.37 | -5.93 |
+| 2023-24 | HOU | 19.4 | $10867102 | 0.21 | -0.33 | -3.11 | -5.65 |
+| 2022-23 | HOU | 23.7 | $9879147 | 0.69 | 0.72 | -2.80 | -4.93 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.66, -0.45)
+- **Cluster:** 1
+- **PCA Position:** (-0.96, -0.37)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

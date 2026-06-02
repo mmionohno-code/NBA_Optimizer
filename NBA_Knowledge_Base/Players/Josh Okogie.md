@@ -3,12 +3,12 @@ player: "Josh Okogie"
 team: "PHX"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 36.20
+composite_score: 28.03
 salary: 2020490
-vorpd: 5.32
-off_rating_adj: -0.82
-def_rating_adj: 1.26
-on_off_diff: -2.91
+vorpd: 5.40
+off_rating_adj: -0.54
+def_rating_adj: 0.83
+on_off_diff: -1.90
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **36.2** / 100 |
+| Composite Score | **28.0** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 5.32 |
-| Off Rating Adj | -0.82 |
-| Def Rating Adj | 1.26 |
-| On/Off Diff | -2.91 |
-| TS% | 56.2% |
-| 3P% | 30.9% |
+| VORPD | 5.40 |
+| Off Rating Adj | -0.54 |
+| Def Rating Adj | 0.83 |
+| On/Off Diff | -1.90 |
+| TS% | 56.5% |
+| 3P% | 35.7% |
 | Influence Score | 0.07 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+4.2 pts over 3 seasons)
+> **Trend:** Trending UP (+3.9 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | PHX | 36.2 | $2020490 | 5.32 | -0.82 | 1.26 | -2.91 |
-| 2022-23 | PHX | 45.5 | $1836802 | 10.89 | 0.68 | 2.08 | 2.06 |
-| 2021-22 | MIN | 32.0 | $1669826 | 3.91 | -7.92 | 7.80 | 1.22 |
+| 2023-24 | PHX | 28.0 | $2020490 | 5.40 | -0.54 | 0.83 | -1.90 |
+| 2022-23 | PHX | 38.5 | $1836802 | 11.77 | 0.50 | 1.52 | 1.52 |
+| 2021-22 | MIN | 24.2 | $1669826 | 2.17 | -4.01 | 3.96 | 0.62 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-1.12, -0.22)
+- **Cluster:** 2
+- **PCA Position:** (-1.07, -0.26)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

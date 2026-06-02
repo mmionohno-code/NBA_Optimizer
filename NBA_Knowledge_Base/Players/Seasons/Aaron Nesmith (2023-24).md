@@ -4,12 +4,12 @@ player: "Aaron Nesmith"
 season: "2023-24"
 team: "IND"
 archetype: "Perimeter Scorer"
-composite_score: 40.01
+composite_score: 28.35
 salary: 9678893
-vorpd: 1.50
-off_rating_adj: 1.48
-def_rating_adj: 0.82
-on_off_diff: 0.93
+vorpd: 1.16
+off_rating_adj: 1.18
+def_rating_adj: 0.66
+on_off_diff: 0.75
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | IND |
-| Composite Score | **40.0** / 100 |
+| Composite Score | **28.4** / 100 |
 | Salary | $9,678,893 |
-| VORPD | 1.50 |
-| Off Rating Adj | 1.48 |
-| Def Rating Adj | 0.82 |
-| On/Off Diff | 0.93 |
-| TS% | 62.0% |
-| 3P% | 41.9% |
+| VORPD | 1.16 |
+| Off Rating Adj | 1.18 |
+| Def Rating Adj | 0.66 |
+| On/Off Diff | 0.75 |
+| TS% | 61.4% |
+| 3P% | 39.9% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

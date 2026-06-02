@@ -3,12 +3,12 @@ player: "Toumani Camara"
 team: "POR"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 50.87
+composite_score: 43.74
 salary: 1954852
-vorpd: 13.00
-off_rating_adj: 0.92
-def_rating_adj: 3.55
-on_off_diff: 9.70
+vorpd: 13.61
+off_rating_adj: 0.71
+def_rating_adj: 2.76
+on_off_diff: 7.53
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **50.9** / 100 |
+| Composite Score | **43.7** / 100 |
 | Salary | $1,954,852 |
-| VORPD | 13.00 |
-| Off Rating Adj | 0.92 |
-| Def Rating Adj | 3.55 |
-| On/Off Diff | 9.70 |
-| TS% | 55.4% |
-| 3P% | 33.7% |
+| VORPD | 13.61 |
+| Off Rating Adj | 0.71 |
+| Def Rating Adj | 2.76 |
+| On/Off Diff | 7.53 |
+| TS% | 55.8% |
+| 3P% | 35.9% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | POR | 50.9 | $1954852 | 13.00 | 0.92 | 3.55 | 9.70 |
+| 2023-24 | POR | 43.7 | $1954852 | 13.61 | 0.71 | 2.76 | 7.53 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (0.34, -0.74)
+- **Cluster:** 2
+- **PCA Position:** (0.38, -0.79)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Johnny Davis"
 season: "2023-24"
 team: "WAS"
 archetype: "Bench / Role Player"
-composite_score: 28.00
+composite_score: 19.91
 salary: 5000000
-vorpd: 0.51
-off_rating_adj: -3.62
-def_rating_adj: 1.41
-on_off_diff: -0.67
+vorpd: 0.56
+off_rating_adj: -1.99
+def_rating_adj: 0.78
+on_off_diff: -0.38
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | WAS |
-| Composite Score | **28.0** / 100 |
+| Composite Score | **19.9** / 100 |
 | Salary | $5,000,000 |
-| VORPD | 0.51 |
-| Off Rating Adj | -3.62 |
-| Def Rating Adj | 1.41 |
-| On/Off Diff | -0.67 |
-| TS% | 51.8% |
-| 3P% | 35.0% |
+| VORPD | 0.56 |
+| Off Rating Adj | -1.99 |
+| Def Rating Adj | 0.78 |
+| On/Off Diff | -0.38 |
+| TS% | 53.4% |
+| 3P% | 37.1% |
 | Influence Score | 0.06 |
 | Season Weight | 0.45 |
 

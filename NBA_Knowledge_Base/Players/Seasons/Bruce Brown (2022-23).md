@@ -4,12 +4,12 @@ player: "Bruce Brown"
 season: "2022-23"
 team: "DEN"
 archetype: "Versatile Scorer"
-composite_score: 44.09
+composite_score: 35.72
 salary: 1836802
-vorpd: 10.14
-off_rating_adj: 0.25
-def_rating_adj: -0.58
-on_off_diff: -6.48
+vorpd: 10.25
+off_rating_adj: 0.20
+def_rating_adj: -0.48
+on_off_diff: -5.29
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | DEN |
-| Composite Score | **44.1** / 100 |
+| Composite Score | **35.7** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 10.14 |
-| Off Rating Adj | 0.25 |
-| Def Rating Adj | -0.58 |
-| On/Off Diff | -6.48 |
+| VORPD | 10.25 |
+| Off Rating Adj | 0.20 |
+| Def Rating Adj | -0.48 |
+| On/Off Diff | -5.29 |
 | TS% | 57.2% |
-| 3P% | 35.8% |
+| 3P% | 36.3% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

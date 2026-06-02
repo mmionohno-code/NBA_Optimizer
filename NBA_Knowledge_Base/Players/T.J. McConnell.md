@@ -3,12 +3,12 @@ player: "T.J. McConnell"
 team: "IND"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 65.20
+composite_score: 56.77
 salary: 8974973
-vorpd: 4.43
-off_rating_adj: 0.98
-def_rating_adj: 0.62
-on_off_diff: 0.39
+vorpd: 4.42
+off_rating_adj: 0.70
+def_rating_adj: 0.45
+on_off_diff: 0.29
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,30 +20,30 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **65.2** / 100 |
+| Composite Score | **56.8** / 100 |
 | Salary | $8,974,973 |
-| VORPD | 4.43 |
-| Off Rating Adj | 0.98 |
-| Def Rating Adj | 0.62 |
-| On/Off Diff | 0.39 |
-| TS% | 58.4% |
-| 3P% | 40.9% |
+| VORPD | 4.42 |
+| Off Rating Adj | 0.70 |
+| Def Rating Adj | 0.45 |
+| On/Off Diff | 0.29 |
+| TS% | 58.3% |
+| 3P% | 37.9% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+14.1 pts over 3 seasons)
+> **Trend:** Trending UP (+14.4 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | IND | 65.2 | $8974973 | 4.43 | 0.98 | 0.62 | 0.39 |
-| 2022-23 | IND | 61.9 | $8159037 | 4.47 | -1.27 | 2.32 | 0.95 |
-| 2021-22 | IND | 51.1 | $7417330 | 3.46 | -3.62 | 0.87 | -1.77 |
+| 2023-24 | IND | 56.8 | $8974973 | 4.42 | 0.70 | 0.45 | 0.29 |
+| 2022-23 | IND | 53.6 | $8159037 | 4.50 | -0.96 | 1.75 | 0.72 |
+| 2021-22 | IND | 42.4 | $7417330 | 2.94 | -2.05 | 0.49 | -1.00 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (1.80, 2.02)
+- **Cluster:** 0
+- **PCA Position:** (1.69, 1.69)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

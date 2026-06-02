@@ -4,11 +4,11 @@ player: "Evan Mobley"
 season: "2021-22"
 team: "CLE"
 archetype: "Two-Way Big"
-composite_score: 46.08
+composite_score: 40.13
 salary: 33737289
-vorpd: 0.61
-off_rating_adj: -0.41
-def_rating_adj: 1.83
+vorpd: 0.58
+off_rating_adj: -0.34
+def_rating_adj: 1.51
 on_off_diff: 0.06
 season_weight: 0.20
 tags: [season-note, two-way-big]
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | CLE |
-| Composite Score | **46.1** / 100 |
+| Composite Score | **40.1** / 100 |
 | Salary | $33,737,289 |
-| VORPD | 0.61 |
-| Off Rating Adj | -0.41 |
-| Def Rating Adj | 1.83 |
+| VORPD | 0.58 |
+| Off Rating Adj | -0.34 |
+| Def Rating Adj | 1.51 |
 | On/Off Diff | 0.06 |
-| TS% | 55.1% |
-| 3P% | 25.0% |
+| TS% | 55.2% |
+| 3P% | 33.3% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

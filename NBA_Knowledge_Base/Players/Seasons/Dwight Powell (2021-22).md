@@ -4,12 +4,12 @@ player: "Dwight Powell"
 season: "2021-22"
 team: "DAL"
 archetype: "Bench / Role Player"
-composite_score: 29.83
+composite_score: 21.14
 salary: 2908757
-vorpd: 1.50
-off_rating_adj: 3.67
-def_rating_adj: -3.51
-on_off_diff: -3.29
+vorpd: 0.20
+off_rating_adj: 2.87
+def_rating_adj: -2.75
+on_off_diff: -2.56
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | DAL |
-| Composite Score | **29.8** / 100 |
+| Composite Score | **21.1** / 100 |
 | Salary | $2,908,757 |
-| VORPD | 1.50 |
-| Off Rating Adj | 3.67 |
-| Def Rating Adj | -3.51 |
-| On/Off Diff | -3.29 |
-| TS% | 68.1% |
-| 3P% | 35.1% |
+| VORPD | 0.20 |
+| Off Rating Adj | 2.87 |
+| Def Rating Adj | -2.75 |
+| On/Off Diff | -2.56 |
+| TS% | 65.9% |
+| 3P% | 36.0% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

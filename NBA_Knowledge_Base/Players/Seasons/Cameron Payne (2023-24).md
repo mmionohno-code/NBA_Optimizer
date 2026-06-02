@@ -4,12 +4,12 @@ player: "Cameron Payne"
 season: "2023-24"
 team: "PHI"
 archetype: "Bench / Role Player"
-composite_score: 37.89
+composite_score: 28.03
 salary: 6000000
-vorpd: 2.07
-off_rating_adj: -1.63
-def_rating_adj: -2.03
-on_off_diff: -4.29
+vorpd: 1.82
+off_rating_adj: -1.18
+def_rating_adj: -1.46
+on_off_diff: -3.09
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | PHI |
-| Composite Score | **37.9** / 100 |
+| Composite Score | **28.0** / 100 |
 | Salary | $6,000,000 |
-| VORPD | 2.07 |
-| Off Rating Adj | -1.63 |
-| Def Rating Adj | -2.03 |
-| On/Off Diff | -4.29 |
-| TS% | 56.8% |
-| 3P% | 39.0% |
+| VORPD | 1.82 |
+| Off Rating Adj | -1.18 |
+| Def Rating Adj | -1.46 |
+| On/Off Diff | -3.09 |
+| TS% | 56.9% |
+| 3P% | 38.2% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |
 

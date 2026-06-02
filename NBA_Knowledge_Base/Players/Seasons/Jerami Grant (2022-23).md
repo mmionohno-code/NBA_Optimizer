@@ -4,12 +4,12 @@ player: "Jerami Grant"
 season: "2022-23"
 team: "POR"
 archetype: "Perimeter Scorer"
-composite_score: 52.47
+composite_score: 44.68
 salary: 25596979
-vorpd: 1.06
-off_rating_adj: 4.74
-def_rating_adj: -0.99
-on_off_diff: 6.52
+vorpd: 1.09
+off_rating_adj: 3.88
+def_rating_adj: -0.81
+on_off_diff: 5.34
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | POR |
-| Composite Score | **52.5** / 100 |
+| Composite Score | **44.7** / 100 |
 | Salary | $25,596,979 |
-| VORPD | 1.06 |
-| Off Rating Adj | 4.74 |
-| Def Rating Adj | -0.99 |
-| On/Off Diff | 6.52 |
-| TS% | 60.2% |
-| 3P% | 40.1% |
+| VORPD | 1.09 |
+| Off Rating Adj | 3.88 |
+| Def Rating Adj | -0.81 |
+| On/Off Diff | 5.34 |
+| TS% | 59.9% |
+| 3P% | 38.7% |
 | Influence Score | 0.14 |
 | Season Weight | 0.35 |
 

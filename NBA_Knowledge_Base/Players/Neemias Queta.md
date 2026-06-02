@@ -3,12 +3,12 @@ player: "Neemias Queta"
 team: "BOS"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 50.37
+composite_score: 36.85
 salary: 2067392
-vorpd: 12.05
-off_rating_adj: 8.75
-def_rating_adj: 0.87
-on_off_diff: 7.65
+vorpd: 9.54
+off_rating_adj: 3.50
+def_rating_adj: 0.35
+on_off_diff: 3.07
 is_shooter: 0
 tags: [player, perimeter-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **50.4** / 100 |
+| Composite Score | **36.9** / 100 |
 | Salary | $2,067,392 |
-| VORPD | 12.05 |
-| Off Rating Adj | 8.75 |
-| Def Rating Adj | 0.87 |
-| On/Off Diff | 7.65 |
-| TS% | 61.1% |
-| 3P% | 35.6% |
+| VORPD | 9.54 |
+| Off Rating Adj | 3.50 |
+| Def Rating Adj | 0.35 |
+| On/Off Diff | 3.07 |
+| TS% | 59.9% |
+| 3P% | 37.0% |
 | Influence Score | 0.10 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, perimeter-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | BOS | 50.4 | $2067392 | 12.05 | 8.75 | 0.87 | 7.65 |
+| 2023-24 | BOS | 36.9 | $2067392 | 9.54 | 3.50 | 0.35 | 3.07 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (1.80, -1.89)
+- **Cluster:** 3
+- **PCA Position:** (1.06, -1.54)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

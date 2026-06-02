@@ -4,12 +4,12 @@ player: "Immanuel Quickley"
 season: "2023-24"
 team: "TOR"
 archetype: "Perimeter Scorer"
-composite_score: 58.41
+composite_score: 50.49
 salary: 28596729
-vorpd: 1.15
-off_rating_adj: 3.76
-def_rating_adj: 2.63
-on_off_diff: 1.65
+vorpd: 1.17
+off_rating_adj: 3.01
+def_rating_adj: 2.10
+on_off_diff: 1.32
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | TOR |
-| Composite Score | **58.4** / 100 |
+| Composite Score | **50.5** / 100 |
 | Salary | $28,596,729 |
-| VORPD | 1.15 |
-| Off Rating Adj | 3.76 |
-| Def Rating Adj | 2.63 |
-| On/Off Diff | 1.65 |
+| VORPD | 1.17 |
+| Off Rating Adj | 3.01 |
+| Def Rating Adj | 2.10 |
+| On/Off Diff | 1.32 |
 | TS% | 57.7% |
-| 3P% | 39.5% |
+| 3P% | 38.7% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

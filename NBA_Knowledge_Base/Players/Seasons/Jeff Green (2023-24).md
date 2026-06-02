@@ -4,12 +4,12 @@ player: "Jeff Green"
 season: "2023-24"
 team: "HOU"
 archetype: "Bench / Role Player"
-composite_score: 21.67
+composite_score: 12.93
 salary: 2020490
 vorpd: 0.00
-off_rating_adj: -2.60
-def_rating_adj: -2.65
-on_off_diff: -5.77
+off_rating_adj: -1.88
+def_rating_adj: -1.92
+on_off_diff: -4.17
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | HOU |
-| Composite Score | **21.7** / 100 |
+| Composite Score | **12.9** / 100 |
 | Salary | $2,020,490 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.60 |
-| Def Rating Adj | -2.65 |
-| On/Off Diff | -5.77 |
-| TS% | 58.6% |
-| 3P% | 33.1% |
+| Off Rating Adj | -1.88 |
+| Def Rating Adj | -1.92 |
+| On/Off Diff | -4.17 |
+| TS% | 58.4% |
+| 3P% | 35.8% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

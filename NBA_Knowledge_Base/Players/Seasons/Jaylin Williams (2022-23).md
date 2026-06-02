@@ -4,12 +4,12 @@ player: "Jaylin Williams"
 season: "2022-23"
 team: "OKC"
 archetype: "Bench / Role Player"
-composite_score: 27.29
+composite_score: 18.85
 salary: 6759765
-vorpd: 0.27
-off_rating_adj: -1.47
-def_rating_adj: -3.50
-on_off_diff: -6.47
+vorpd: 0.29
+off_rating_adj: -0.95
+def_rating_adj: -2.26
+on_off_diff: -4.18
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | OKC |
-| Composite Score | **27.3** / 100 |
+| Composite Score | **18.9** / 100 |
 | Salary | $6,759,765 |
-| VORPD | 0.27 |
-| Off Rating Adj | -1.47 |
-| Def Rating Adj | -3.50 |
-| On/Off Diff | -6.47 |
-| TS% | 56.6% |
-| 3P% | 40.7% |
+| VORPD | 0.29 |
+| Off Rating Adj | -0.95 |
+| Def Rating Adj | -2.26 |
+| On/Off Diff | -4.18 |
+| TS% | 56.8% |
+| 3P% | 38.0% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

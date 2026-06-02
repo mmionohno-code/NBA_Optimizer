@@ -4,12 +4,12 @@ player: "Trey Murphy III"
 season: "2022-23"
 team: "NOP"
 archetype: "Perimeter Scorer"
-composite_score: 36.79
+composite_score: 24.58
 salary: 19997639
-vorpd: 0.57
-off_rating_adj: 1.54
-def_rating_adj: -2.37
-on_off_diff: -3.07
+vorpd: 0.38
+off_rating_adj: 1.28
+def_rating_adj: -1.97
+on_off_diff: -2.54
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | NOP |
-| Composite Score | **36.8** / 100 |
+| Composite Score | **24.6** / 100 |
 | Salary | $19,997,639 |
-| VORPD | 0.57 |
-| Off Rating Adj | 1.54 |
-| Def Rating Adj | -2.37 |
-| On/Off Diff | -3.07 |
-| TS% | 63.8% |
-| 3P% | 40.6% |
+| VORPD | 0.38 |
+| Off Rating Adj | 1.28 |
+| Def Rating Adj | -1.97 |
+| On/Off Diff | -2.54 |
+| TS% | 63.1% |
+| 3P% | 39.3% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

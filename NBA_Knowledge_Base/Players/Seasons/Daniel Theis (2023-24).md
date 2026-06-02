@@ -4,12 +4,12 @@ player: "Daniel Theis"
 season: "2023-24"
 team: "LAC"
 archetype: "Bench / Role Player"
-composite_score: 34.16
+composite_score: 25.10
 salary: 10000000
-vorpd: 0.87
-off_rating_adj: 0.43
-def_rating_adj: 0.95
-on_off_diff: -0.57
+vorpd: 0.80
+off_rating_adj: 0.29
+def_rating_adj: 0.64
+on_off_diff: -0.37
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | LAC |
-| Composite Score | **34.2** / 100 |
+| Composite Score | **25.1** / 100 |
 | Salary | $10,000,000 |
-| VORPD | 0.87 |
-| Off Rating Adj | 0.43 |
-| Def Rating Adj | 0.95 |
-| On/Off Diff | -0.57 |
-| TS% | 59.0% |
-| 3P% | 36.6% |
+| VORPD | 0.80 |
+| Off Rating Adj | 0.29 |
+| Def Rating Adj | 0.64 |
+| On/Off Diff | -0.37 |
+| TS% | 58.6% |
+| 3P% | 37.3% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

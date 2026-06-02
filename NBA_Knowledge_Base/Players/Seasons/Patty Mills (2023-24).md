@@ -4,12 +4,12 @@ player: "Patty Mills"
 season: "2023-24"
 team: "MIA"
 archetype: "Bench / Role Player"
-composite_score: 39.04
+composite_score: 31.79
 salary: 3000000
-vorpd: 4.53
-off_rating_adj: -1.71
-def_rating_adj: 0.94
-on_off_diff: 1.30
+vorpd: 4.89
+off_rating_adj: -0.77
+def_rating_adj: 0.43
+on_off_diff: 0.60
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | MIA |
-| Composite Score | **39.0** / 100 |
+| Composite Score | **31.8** / 100 |
 | Salary | $3,000,000 |
-| VORPD | 4.53 |
-| Off Rating Adj | -1.71 |
-| Def Rating Adj | 0.94 |
-| On/Off Diff | 1.30 |
-| TS% | 52.5% |
-| 3P% | 27.6% |
+| VORPD | 4.89 |
+| Off Rating Adj | -0.77 |
+| Def Rating Adj | 0.43 |
+| On/Off Diff | 0.60 |
+| TS% | 54.0% |
+| 3P% | 35.0% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

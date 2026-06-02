@@ -4,12 +4,12 @@ player: "Landry Shamet"
 season: "2022-23"
 team: "PHX"
 archetype: "Defensive Wing"
-composite_score: 43.93
+composite_score: 34.80
 salary: 1836802
-vorpd: 10.06
-off_rating_adj: -2.32
-def_rating_adj: 2.38
-on_off_diff: 0.84
+vorpd: 9.75
+off_rating_adj: -1.43
+def_rating_adj: 1.47
+on_off_diff: 0.52
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | PHX |
-| Composite Score | **43.9** / 100 |
+| Composite Score | **34.8** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 10.06 |
-| Off Rating Adj | -2.32 |
-| Def Rating Adj | 2.38 |
-| On/Off Diff | 0.84 |
-| TS% | 55.0% |
-| 3P% | 37.7% |
+| VORPD | 9.75 |
+| Off Rating Adj | -1.43 |
+| Def Rating Adj | 1.47 |
+| On/Off Diff | 0.52 |
+| TS% | 55.6% |
+| 3P% | 37.2% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

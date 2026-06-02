@@ -4,12 +4,12 @@ player: "Paolo Banchero"
 season: "2023-24"
 team: "ORL"
 archetype: "Versatile Scorer"
-composite_score: 51.06
+composite_score: 44.71
 salary: 13493053
-vorpd: 1.90
-off_rating_adj: -0.09
-def_rating_adj: -2.37
-on_off_diff: -7.68
+vorpd: 2.04
+off_rating_adj: -0.08
+def_rating_adj: -2.01
+on_off_diff: -6.50
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | ORL |
-| Composite Score | **51.1** / 100 |
+| Composite Score | **44.7** / 100 |
 | Salary | $13,493,053 |
-| VORPD | 1.90 |
-| Off Rating Adj | -0.09 |
-| Def Rating Adj | -2.37 |
-| On/Off Diff | -7.68 |
-| TS% | 54.9% |
-| 3P% | 33.9% |
+| VORPD | 2.04 |
+| Off Rating Adj | -0.08 |
+| Def Rating Adj | -2.01 |
+| On/Off Diff | -6.50 |
+| TS% | 55.1% |
+| 3P% | 35.4% |
 | Influence Score | 0.16 |
 | Season Weight | 0.45 |
 

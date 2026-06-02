@@ -48,8 +48,9 @@ df_master_2324 = (df_master[df_master['SEASON'] == '2023-24']
                   [['PLAYER_NAME', 'PLAYER_ID', 'BLK', 'STL']])
 
 # Merge PLAYER_ID and AGE from master (not in clustered)
-df_2324 = df_2324.merge(df_master_2324[['PLAYER_NAME', 'PLAYER_ID']],
-                        on='PLAYER_NAME', how='left')
+# PLAYER_ID already present in nba_clustered.csv from step 1 — re-merging
+# would create PLAYER_ID_x / PLAYER_ID_y suffixes, making row.get('PLAYER_ID')
+# return NaN and emptying id_to_idx, so skip this merge entirely.
 
 # Get AGE from master for 2023-24
 age_map = (df_master[df_master['SEASON'] == '2023-24']

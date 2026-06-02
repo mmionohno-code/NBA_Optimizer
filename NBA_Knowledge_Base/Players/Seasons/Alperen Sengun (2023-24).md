@@ -4,12 +4,12 @@ player: "Alperen Sengun"
 season: "2023-24"
 team: "HOU"
 archetype: "Elite Playmaker"
-composite_score: 61.18
+composite_score: 55.53
 salary: 3922440
-vorpd: 9.11
-off_rating_adj: 1.60
-def_rating_adj: -3.15
-on_off_diff: -0.84
+vorpd: 9.79
+off_rating_adj: 1.29
+def_rating_adj: -2.53
+on_off_diff: -0.67
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | HOU |
-| Composite Score | **61.2** / 100 |
+| Composite Score | **55.5** / 100 |
 | Salary | $3,922,440 |
-| VORPD | 9.11 |
-| Off Rating Adj | 1.60 |
-| Def Rating Adj | -3.15 |
-| On/Off Diff | -0.84 |
-| TS% | 58.4% |
-| 3P% | 29.7% |
+| VORPD | 9.79 |
+| Off Rating Adj | 1.29 |
+| Def Rating Adj | -2.53 |
+| On/Off Diff | -0.67 |
+| TS% | 58.3% |
+| 3P% | 35.1% |
 | Influence Score | 0.16 |
 | Season Weight | 0.45 |
 

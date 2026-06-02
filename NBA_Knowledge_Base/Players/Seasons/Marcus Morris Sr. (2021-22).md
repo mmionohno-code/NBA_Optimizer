@@ -4,12 +4,12 @@ player: "Marcus Morris Sr."
 season: "2021-22"
 team: "LAC"
 archetype: "Bench / Role Player"
-composite_score: 33.57
+composite_score: 26.01
 salary: 925258
-vorpd: 8.77
-off_rating_adj: 1.24
-def_rating_adj: -4.35
-on_off_diff: -7.55
+vorpd: 5.90
+off_rating_adj: 0.94
+def_rating_adj: -3.30
+on_off_diff: -5.72
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | LAC |
-| Composite Score | **33.6** / 100 |
+| Composite Score | **26.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 8.77 |
-| Off Rating Adj | 1.24 |
-| Def Rating Adj | -4.35 |
-| On/Off Diff | -7.55 |
-| TS% | 55.1% |
-| 3P% | 36.7% |
+| VORPD | 5.90 |
+| Off Rating Adj | 0.94 |
+| Def Rating Adj | -3.30 |
+| On/Off Diff | -5.72 |
+| TS% | 55.3% |
+| 3P% | 36.4% |
 | Influence Score | 0.13 |
 | Season Weight | 0.20 |
 

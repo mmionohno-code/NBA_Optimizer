@@ -3,12 +3,12 @@ player: "Trevor Ariza"
 team: "LAL"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 32.89
+composite_score: 27.26
 salary: 925258
-vorpd: 8.03
-off_rating_adj: -1.95
-def_rating_adj: -0.19
-on_off_diff: -0.43
+vorpd: 7.25
+off_rating_adj: -0.94
+def_rating_adj: -0.09
+on_off_diff: -0.21
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **32.9** / 100 |
+| Composite Score | **27.3** / 100 |
 | Salary | $925,258 |
-| VORPD | 8.03 |
-| Off Rating Adj | -1.95 |
-| Def Rating Adj | -0.19 |
-| On/Off Diff | -0.43 |
-| TS% | 51.7% |
-| 3P% | 27.0% |
+| VORPD | 7.25 |
+| Off Rating Adj | -0.94 |
+| Def Rating Adj | -0.09 |
+| On/Off Diff | -0.21 |
+| TS% | 53.2% |
+| 3P% | 34.1% |
 | Influence Score | 0.06 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | LAL | 32.9 | $925258 | 8.03 | -1.95 | -0.19 | -0.43 |
+| 2021-22 | LAL | 27.3 | $925258 | 7.25 | -0.94 | -0.09 | -0.21 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.15, 0.41)
+- **Cluster:** 5
+- **PCA Position:** (-1.92, 0.55)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

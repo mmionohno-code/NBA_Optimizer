@@ -4,12 +4,12 @@ player: "Jeremiah Robinson-Earl"
 season: "2022-23"
 team: "OKC"
 archetype: "Bench / Role Player"
-composite_score: 34.50
+composite_score: 27.40
 salary: 1017781
-vorpd: 8.89
-off_rating_adj: 0.33
-def_rating_adj: -1.60
-on_off_diff: -1.18
+vorpd: 10.33
+off_rating_adj: 0.20
+def_rating_adj: -0.99
+on_off_diff: -0.73
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | OKC |
-| Composite Score | **34.5** / 100 |
+| Composite Score | **27.4** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 8.89 |
-| Off Rating Adj | 0.33 |
-| Def Rating Adj | -1.60 |
-| On/Off Diff | -1.18 |
-| TS% | 55.9% |
-| 3P% | 33.3% |
+| VORPD | 10.33 |
+| Off Rating Adj | 0.20 |
+| Def Rating Adj | -0.99 |
+| On/Off Diff | -0.73 |
+| TS% | 56.3% |
+| 3P% | 35.7% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

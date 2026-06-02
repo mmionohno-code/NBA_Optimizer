@@ -4,12 +4,12 @@ player: "Maxi Kleber"
 season: "2023-24"
 team: "DAL"
 archetype: "Defensive Wing"
-composite_score: 39.00
+composite_score: 29.04
 salary: 9678893
-vorpd: 1.40
-off_rating_adj: 0.42
-def_rating_adj: 4.25
-on_off_diff: 5.17
+vorpd: 1.23
+off_rating_adj: 0.27
+def_rating_adj: 2.70
+on_off_diff: 3.30
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | DAL |
-| Composite Score | **39.0** / 100 |
+| Composite Score | **29.0** / 100 |
 | Salary | $9,678,893 |
-| VORPD | 1.40 |
-| Off Rating Adj | 0.42 |
-| Def Rating Adj | 4.25 |
-| On/Off Diff | 5.17 |
+| VORPD | 1.23 |
+| Off Rating Adj | 0.27 |
+| Def Rating Adj | 2.70 |
+| On/Off Diff | 3.30 |
 | TS% | 57.4% |
-| 3P% | 34.8% |
+| 3P% | 36.8% |
 | Influence Score | 0.06 |
 | Season Weight | 0.45 |
 

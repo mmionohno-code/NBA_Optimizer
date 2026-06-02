@@ -4,12 +4,12 @@ player: "OG Anunoby"
 season: "2022-23"
 team: "TOR"
 archetype: "Perimeter Scorer"
-composite_score: 61.23
+composite_score: 53.09
 salary: 31651436
-vorpd: 1.13
-off_rating_adj: 1.99
-def_rating_adj: 0.71
-on_off_diff: 2.45
+vorpd: 1.14
+off_rating_adj: 1.65
+def_rating_adj: 0.59
+on_off_diff: 2.03
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | TOR |
-| Composite Score | **61.2** / 100 |
+| Composite Score | **53.1** / 100 |
 | Salary | $31,651,436 |
-| VORPD | 1.13 |
-| Off Rating Adj | 1.99 |
-| Def Rating Adj | 0.71 |
-| On/Off Diff | 2.45 |
-| TS% | 58.5% |
-| 3P% | 38.7% |
+| VORPD | 1.14 |
+| Off Rating Adj | 1.65 |
+| Def Rating Adj | 0.59 |
+| On/Off Diff | 2.03 |
+| TS% | 58.4% |
+| 3P% | 37.9% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Nikola Jokić"
 season: "2023-24"
 team: "DEN"
 archetype: "Elite Playmaker"
-composite_score: 95.87
+composite_score: 96.34
 salary: 48592024
-vorpd: 1.45
-off_rating_adj: 7.85
-def_rating_adj: 0.96
-on_off_diff: 18.22
+vorpd: 1.63
+off_rating_adj: 6.63
+def_rating_adj: 0.81
+on_off_diff: 15.43
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | DEN |
-| Composite Score | **95.9** / 100 |
+| Composite Score | **96.3** / 100 |
 | Salary | $48,592,024 |
-| VORPD | 1.45 |
-| Off Rating Adj | 7.85 |
-| Def Rating Adj | 0.96 |
-| On/Off Diff | 18.22 |
-| TS% | 64.3% |
-| 3P% | 35.9% |
-| Influence Score | 0.19 |
+| VORPD | 1.63 |
+| Off Rating Adj | 6.63 |
+| Def Rating Adj | 0.81 |
+| On/Off Diff | 15.43 |
+| TS% | 63.8% |
+| 3P% | 36.7% |
+| Influence Score | 0.18 |
 | Season Weight | 0.45 |
 
 _Navigate back to the full player profile: [[Players/Nikola Jokić]]_

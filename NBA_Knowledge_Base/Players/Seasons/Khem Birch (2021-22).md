@@ -4,12 +4,12 @@ player: "Khem Birch"
 season: "2021-22"
 team: "TOR"
 archetype: "Bench / Role Player"
-composite_score: 29.61
+composite_score: 23.09
 salary: 925258
-vorpd: 4.49
-off_rating_adj: 2.95
-def_rating_adj: -3.79
-on_off_diff: -3.28
+vorpd: 2.75
+off_rating_adj: 1.96
+def_rating_adj: -2.52
+on_off_diff: -2.16
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | TOR |
-| Composite Score | **29.6** / 100 |
+| Composite Score | **23.1** / 100 |
 | Salary | $925,258 |
-| VORPD | 4.49 |
-| Off Rating Adj | 2.95 |
-| Def Rating Adj | -3.79 |
-| On/Off Diff | -3.28 |
-| TS% | 54.6% |
-| 3P% | 34.1% |
+| VORPD | 2.75 |
+| Off Rating Adj | 1.96 |
+| Def Rating Adj | -2.52 |
+| On/Off Diff | -2.16 |
+| TS% | 55.0% |
+| 3P% | 35.7% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

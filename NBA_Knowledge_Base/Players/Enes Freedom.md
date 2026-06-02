@@ -3,12 +3,12 @@ player: "Enes Freedom"
 team: "BOS"
 season: "2021-22"
 archetype: "Defensive Wing"
-composite_score: 28.16
+composite_score: 21.47
 salary: 925258
-vorpd: 2.92
-off_rating_adj: 0.59
-def_rating_adj: 1.67
-on_off_diff: 1.91
+vorpd: 0.99
+off_rating_adj: 0.27
+def_rating_adj: 0.76
+on_off_diff: 0.87
 is_shooter: 0
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **28.2** / 100 |
+| Composite Score | **21.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 2.92 |
-| Off Rating Adj | 0.59 |
-| Def Rating Adj | 1.67 |
-| On/Off Diff | 1.91 |
-| TS% | 57.1% |
-| 3P% | 34.1% |
+| VORPD | 0.99 |
+| Off Rating Adj | 0.27 |
+| Def Rating Adj | 0.76 |
+| On/Off Diff | 0.87 |
+| TS% | 56.8% |
+| 3P% | 35.7% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | BOS | 28.2 | $925258 | 2.92 | 0.59 | 1.67 | 1.91 |
+| 2021-22 | BOS | 21.5 | $925258 | 0.99 | 0.27 | 0.76 | 0.87 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-1.25, -1.68)
+- **Cluster:** 2
+- **PCA Position:** (-1.38, -1.08)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

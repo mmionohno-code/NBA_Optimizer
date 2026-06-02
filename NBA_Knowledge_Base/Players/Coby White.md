@@ -2,48 +2,48 @@
 player: "Coby White"
 team: "CHI"
 season: "2023-24"
-archetype: "Versatile Scorer"
-composite_score: 52.53
+archetype: "Perimeter Scorer"
+composite_score: 46.13
 salary: 11340925
-vorpd: 2.39
-off_rating_adj: 3.27
-def_rating_adj: -2.18
-on_off_diff: 2.70
+vorpd: 2.56
+off_rating_adj: 2.79
+def_rating_adj: -1.86
+on_off_diff: 2.31
 is_shooter: 1
-tags: [player, versatile-scorer]
+tags: [player, perimeter-scorer]
 ---
 # Coby White
 
-> **Archetype:** [[Archetypes/Versatile Scorer]] | **Team:** CHI | **Latest Season:** 2023-24
+> **Archetype:** [[Archetypes/Perimeter Scorer]] | **Team:** CHI | **Latest Season:** 2023-24
 
 ## Most Recent Season Stats (2023-24)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **52.5** / 100 |
+| Composite Score | **46.1** / 100 |
 | Salary | $11,340,925 |
-| VORPD | 2.39 |
-| Off Rating Adj | 3.27 |
-| Def Rating Adj | -2.18 |
-| On/Off Diff | 2.70 |
+| VORPD | 2.56 |
+| Off Rating Adj | 2.79 |
+| Def Rating Adj | -1.86 |
+| On/Off Diff | 2.31 |
 | TS% | 57.1% |
-| 3P% | 37.6% |
+| 3P% | 37.5% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+12.4 pts over 3 seasons)
+> **Trend:** Trending UP (+14.2 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHI | 52.5 | $11340925 | 2.39 | 3.27 | -2.18 | 2.70 |
-| 2022-23 | CHI | 49.1 | $10309894 | 2.29 | 2.35 | -0.40 | 4.45 |
-| 2021-22 | CHI | 40.1 | $9372661 | 1.56 | 1.43 | -3.22 | -1.12 |
+| 2023-24 | CHI | 46.1 | $11340925 | 2.56 | 2.79 | -1.86 | 2.31 |
+| 2022-23 | CHI | 41.6 | $10309894 | 2.40 | 1.83 | -0.31 | 3.46 |
+| 2021-22 | CHI | 31.9 | $9372661 | 1.21 | 1.10 | -2.48 | -0.85 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (1.06, 0.78)
+- **Cluster:** 3
+- **PCA Position:** (1.24, 0.69)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

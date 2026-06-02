@@ -4,12 +4,12 @@ player: "Trey Lyles"
 season: "2023-24"
 team: "SAC"
 archetype: "Defensive Wing"
-composite_score: 41.00
+composite_score: 31.35
 salary: 6000000
-vorpd: 2.59
-off_rating_adj: 3.20
-def_rating_adj: 2.90
-on_off_diff: 7.20
+vorpd: 2.37
+off_rating_adj: 2.24
+def_rating_adj: 2.03
+on_off_diff: 5.04
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | SAC |
-| Composite Score | **41.0** / 100 |
+| Composite Score | **31.4** / 100 |
 | Salary | $6,000,000 |
-| VORPD | 2.59 |
-| Off Rating Adj | 3.20 |
-| Def Rating Adj | 2.90 |
-| On/Off Diff | 7.20 |
-| TS% | 58.9% |
-| 3P% | 38.4% |
+| VORPD | 2.37 |
+| Off Rating Adj | 2.24 |
+| Def Rating Adj | 2.03 |
+| On/Off Diff | 5.04 |
+| TS% | 58.6% |
+| 3P% | 37.9% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

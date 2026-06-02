@@ -4,12 +4,12 @@ player: "Troy Brown Jr."
 season: "2022-23"
 team: "LAL"
 archetype: "Bench / Role Player"
-composite_score: 35.62
+composite_score: 25.94
 salary: 1017781
-vorpd: 9.99
-off_rating_adj: -0.44
-def_rating_adj: -0.27
-on_off_diff: -0.24
+vorpd: 8.90
+off_rating_adj: -0.35
+def_rating_adj: -0.21
+on_off_diff: -0.18
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | LAL |
-| Composite Score | **35.6** / 100 |
+| Composite Score | **25.9** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 9.99 |
-| Off Rating Adj | -0.44 |
-| Def Rating Adj | -0.27 |
-| On/Off Diff | -0.24 |
-| TS% | 56.5% |
-| 3P% | 38.1% |
+| VORPD | 8.90 |
+| Off Rating Adj | -0.35 |
+| Def Rating Adj | -0.21 |
+| On/Off Diff | -0.18 |
+| TS% | 56.7% |
+| 3P% | 37.5% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

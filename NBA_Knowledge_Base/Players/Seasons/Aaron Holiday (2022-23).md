@@ -4,12 +4,12 @@ player: "Aaron Holiday"
 season: "2022-23"
 team: "ATL"
 archetype: "Defensive Wing"
-composite_score: 40.26
+composite_score: 30.55
 salary: 1836802
-vorpd: 8.06
-off_rating_adj: -0.14
-def_rating_adj: 3.27
-on_off_diff: -1.17
+vorpd: 7.44
+off_rating_adj: -0.09
+def_rating_adj: 2.05
+on_off_diff: -0.73
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | ATL |
-| Composite Score | **40.3** / 100 |
+| Composite Score | **30.6** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 8.06 |
-| Off Rating Adj | -0.14 |
-| Def Rating Adj | 3.27 |
-| On/Off Diff | -1.17 |
-| TS% | 54.8% |
-| 3P% | 40.9% |
+| VORPD | 7.44 |
+| Off Rating Adj | -0.09 |
+| Def Rating Adj | 2.05 |
+| On/Off Diff | -0.73 |
+| TS% | 55.5% |
+| 3P% | 37.8% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

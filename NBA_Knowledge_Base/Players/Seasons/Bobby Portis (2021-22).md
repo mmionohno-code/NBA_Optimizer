@@ -4,12 +4,12 @@ player: "Bobby Portis"
 season: "2021-22"
 team: "MIL"
 archetype: "Perimeter Scorer"
-composite_score: 50.08
+composite_score: 42.72
 salary: 9777607
-vorpd: 2.52
-off_rating_adj: 2.85
-def_rating_adj: 0.67
-on_off_diff: 8.94
+vorpd: 2.27
+off_rating_adj: 2.29
+def_rating_adj: 0.54
+on_off_diff: 7.19
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | MIL |
-| Composite Score | **50.1** / 100 |
+| Composite Score | **42.7** / 100 |
 | Salary | $9,777,607 |
-| VORPD | 2.52 |
-| Off Rating Adj | 2.85 |
-| Def Rating Adj | 0.67 |
-| On/Off Diff | 8.94 |
-| TS% | 57.0% |
-| 3P% | 39.3% |
+| VORPD | 2.27 |
+| Off Rating Adj | 2.29 |
+| Def Rating Adj | 0.54 |
+| On/Off Diff | 7.19 |
+| TS% | 56.9% |
+| 3P% | 37.9% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

@@ -3,12 +3,12 @@ player: "LaMelo Ball"
 team: "CHA"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 84.04
+composite_score: 74.96
 salary: 33399888
-vorpd: 1.75
-off_rating_adj: 5.49
-def_rating_adj: -4.92
-on_off_diff: 3.12
+vorpd: 1.73
+off_rating_adj: 3.22
+def_rating_adj: -2.89
+on_off_diff: 1.83
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,30 +20,30 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **84.0** / 100 |
+| Composite Score | **75.0** / 100 |
 | Salary | $33,399,888 |
-| VORPD | 1.75 |
-| Off Rating Adj | 5.49 |
-| Def Rating Adj | -4.92 |
-| On/Off Diff | 3.12 |
-| TS% | 56.5% |
-| 3P% | 35.5% |
+| VORPD | 1.73 |
+| Off Rating Adj | 3.22 |
+| Def Rating Adj | -2.89 |
+| On/Off Diff | 1.83 |
+| TS% | 56.7% |
+| 3P% | 36.6% |
 | Influence Score | 0.18 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+10.6 pts over 3 seasons)
+> **Trend:** Trending UP (+6.9 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHA | 84.0 | $33399888 | 1.75 | 5.49 | -4.92 | 3.12 |
-| 2022-23 | CHA | 73.0 | $30363423 | 1.57 | 5.95 | -5.21 | 2.65 |
-| 2021-22 | CHA | 73.4 | $27603201 | 1.74 | 2.04 | -1.72 | 2.41 |
+| 2023-24 | CHA | 75.0 | $33399888 | 1.73 | 3.22 | -2.89 | 1.83 |
+| 2022-23 | CHA | 67.0 | $30363423 | 1.65 | 4.27 | -3.73 | 1.90 |
+| 2021-22 | CHA | 68.0 | $27603201 | 1.72 | 1.69 | -1.42 | 2.01 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (3.57, 3.71)
+- **Cluster:** 0
+- **PCA Position:** (3.36, 3.12)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

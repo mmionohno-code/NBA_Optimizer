@@ -3,12 +3,12 @@ player: "Malaki Branham"
 team: "SAS"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 28.61
+composite_score: 20.17
 salary: 4366090
-vorpd: 0.72
-off_rating_adj: -1.91
-def_rating_adj: -2.86
-on_off_diff: -5.33
+vorpd: 0.70
+off_rating_adj: -1.46
+def_rating_adj: -2.18
+on_off_diff: -4.06
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **28.6** / 100 |
+| Composite Score | **20.2** / 100 |
 | Salary | $4,366,090 |
-| VORPD | 0.72 |
-| Off Rating Adj | -1.91 |
-| Def Rating Adj | -2.86 |
-| On/Off Diff | -5.33 |
-| TS% | 53.5% |
-| 3P% | 34.7% |
+| VORPD | 0.70 |
+| Off Rating Adj | -1.46 |
+| Def Rating Adj | -2.18 |
+| On/Off Diff | -4.06 |
+| TS% | 54.1% |
+| 3P% | 36.0% |
 | Influence Score | 0.10 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-8.0 pts over 2 seasons)
+> **Trend:** Trending DOWN (-11.2 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | SAS | 28.6 | $4366090 | 0.72 | -1.91 | -2.86 | -5.33 |
-| 2022-23 | SAS | 36.6 | $3969158 | 2.81 | 0.79 | -2.95 | -1.02 |
+| 2023-24 | SAS | 20.2 | $4366090 | 0.70 | -1.46 | -2.18 | -4.06 |
+| 2022-23 | SAS | 31.3 | $3969158 | 3.64 | 0.60 | -2.23 | -0.78 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.71, 0.55)
+- **Cluster:** 5
+- **PCA Position:** (-1.94, 0.71)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

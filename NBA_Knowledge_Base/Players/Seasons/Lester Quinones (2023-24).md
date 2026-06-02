@@ -4,12 +4,12 @@ player: "Lester Quinones"
 season: "2023-24"
 team: "GSW"
 archetype: "Bench / Role Player"
-composite_score: 29.38
+composite_score: 21.75
 salary: 1836090
-vorpd: 2.14
-off_rating_adj: -5.04
-def_rating_adj: 3.87
-on_off_diff: -2.65
+vorpd: 2.52
+off_rating_adj: -2.23
+def_rating_adj: 1.71
+on_off_diff: -1.16
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | GSW |
-| Composite Score | **29.4** / 100 |
+| Composite Score | **21.8** / 100 |
 | Salary | $1,836,090 |
-| VORPD | 2.14 |
-| Off Rating Adj | -5.04 |
-| Def Rating Adj | 3.87 |
-| On/Off Diff | -2.65 |
-| TS% | 55.5% |
-| 3P% | 36.4% |
-| Influence Score | 0.09 |
+| VORPD | 2.52 |
+| Off Rating Adj | -2.23 |
+| Def Rating Adj | 1.71 |
+| On/Off Diff | -1.16 |
+| TS% | 56.1% |
+| 3P% | 37.2% |
+| Influence Score | 0.10 |
 | Season Weight | 0.45 |
 
 _Navigate back to the full player profile: [[Players/Lester Quinones]]_

@@ -4,12 +4,12 @@ player: "Payton Pritchard"
 season: "2022-23"
 team: "BOS"
 archetype: "Bench / Role Player"
-composite_score: 25.95
+composite_score: 18.93
 salary: 5785031
-vorpd: 0.09
-off_rating_adj: -7.91
-def_rating_adj: 2.21
-on_off_diff: -7.79
+vorpd: 0.35
+off_rating_adj: -4.45
+def_rating_adj: 1.25
+on_off_diff: -4.37
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | BOS |
-| Composite Score | **25.9** / 100 |
+| Composite Score | **18.9** / 100 |
 | Salary | $5,785,031 |
-| VORPD | 0.09 |
-| Off Rating Adj | -7.91 |
-| Def Rating Adj | 2.21 |
-| On/Off Diff | -7.79 |
-| TS% | 55.1% |
-| 3P% | 36.4% |
+| VORPD | 0.35 |
+| Off Rating Adj | -4.45 |
+| Def Rating Adj | 1.25 |
+| On/Off Diff | -4.37 |
+| TS% | 55.7% |
+| 3P% | 36.6% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Keifer Sykes"
 season: "2021-22"
 team: "IND"
 archetype: "Bench / Role Player"
-composite_score: 38.76
+composite_score: 32.24
 salary: 925258
-vorpd: 14.38
-off_rating_adj: -1.92
-def_rating_adj: 0.27
-on_off_diff: 1.00
+vorpd: 12.63
+off_rating_adj: -1.02
+def_rating_adj: 0.15
+on_off_diff: 0.53
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | IND |
-| Composite Score | **38.8** / 100 |
+| Composite Score | **32.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 14.38 |
-| Off Rating Adj | -1.92 |
-| Def Rating Adj | 0.27 |
-| On/Off Diff | 1.00 |
-| TS% | 50.3% |
-| 3P% | 30.0% |
+| VORPD | 12.63 |
+| Off Rating Adj | -1.02 |
+| Def Rating Adj | 0.15 |
+| On/Off Diff | 0.53 |
+| TS% | 51.9% |
+| 3P% | 34.6% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

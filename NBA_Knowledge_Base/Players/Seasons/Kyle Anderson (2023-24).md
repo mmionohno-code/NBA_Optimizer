@@ -4,12 +4,12 @@ player: "Kyle Anderson"
 season: "2023-24"
 team: "MIN"
 archetype: "Bench / Role Player"
-composite_score: 45.10
+composite_score: 35.70
 salary: 8112243
-vorpd: 2.42
-off_rating_adj: -3.28
-def_rating_adj: 1.35
-on_off_diff: -4.35
+vorpd: 2.29
+off_rating_adj: -2.56
+def_rating_adj: 1.05
+on_off_diff: -3.38
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | MIN |
-| Composite Score | **45.1** / 100 |
+| Composite Score | **35.7** / 100 |
 | Salary | $8,112,243 |
-| VORPD | 2.42 |
-| Off Rating Adj | -3.28 |
-| Def Rating Adj | 1.35 |
-| On/Off Diff | -4.35 |
-| TS% | 52.9% |
-| 3P% | 22.9% |
-| Influence Score | 0.07 |
+| VORPD | 2.29 |
+| Off Rating Adj | -2.56 |
+| Def Rating Adj | 1.05 |
+| On/Off Diff | -3.38 |
+| TS% | 53.7% |
+| 3P% | 35.2% |
+| Influence Score | 0.08 |
 | Season Weight | 0.45 |
 
 _Navigate back to the full player profile: [[Players/Kyle Anderson]]_

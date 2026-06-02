@@ -4,12 +4,12 @@ player: "Paul George"
 season: "2022-23"
 team: "LAC"
 archetype: "Elite Playmaker"
-composite_score: 75.54
+composite_score: 70.46
 salary: 41327992
-vorpd: 1.21
-off_rating_adj: 4.99
-def_rating_adj: 1.54
-on_off_diff: 6.23
+vorpd: 1.30
+off_rating_adj: 3.97
+def_rating_adj: 1.23
+on_off_diff: 4.96
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | LAC |
-| Composite Score | **75.5** / 100 |
+| Composite Score | **70.5** / 100 |
 | Salary | $41,327,992 |
-| VORPD | 1.21 |
-| Off Rating Adj | 4.99 |
-| Def Rating Adj | 1.54 |
-| On/Off Diff | 6.23 |
-| TS% | 58.6% |
-| 3P% | 37.1% |
+| VORPD | 1.30 |
+| Off Rating Adj | 3.97 |
+| Def Rating Adj | 1.23 |
+| On/Off Diff | 4.96 |
+| TS% | 58.5% |
+| 3P% | 37.0% |
 | Influence Score | 0.17 |
 | Season Weight | 0.35 |
 

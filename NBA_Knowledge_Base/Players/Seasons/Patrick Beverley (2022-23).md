@@ -4,12 +4,12 @@ player: "Patrick Beverley"
 season: "2022-23"
 team: "CHI"
 archetype: "Versatile Scorer"
-composite_score: 36.97
+composite_score: 29.66
 salary: 1017781
-vorpd: 11.31
-off_rating_adj: -0.05
-def_rating_adj: -3.40
-on_off_diff: -3.22
+vorpd: 12.55
+off_rating_adj: -0.04
+def_rating_adj: -2.67
+on_off_diff: -2.51
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | CHI |
-| Composite Score | **37.0** / 100 |
+| Composite Score | **29.7** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 11.31 |
-| Off Rating Adj | -0.05 |
-| Def Rating Adj | -3.40 |
-| On/Off Diff | -3.22 |
-| TS% | 54.6% |
-| 3P% | 33.5% |
+| VORPD | 12.55 |
+| Off Rating Adj | -0.04 |
+| Def Rating Adj | -2.67 |
+| On/Off Diff | -2.51 |
+| TS% | 55.2% |
+| 3P% | 35.2% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

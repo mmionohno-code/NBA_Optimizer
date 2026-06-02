@@ -4,12 +4,12 @@ player: "Grayson Allen"
 season: "2022-23"
 team: "MIL"
 archetype: "Perimeter Scorer"
-composite_score: 42.52
+composite_score: 32.42
 salary: 13498406
-vorpd: 1.26
-off_rating_adj: 1.32
-def_rating_adj: 0.44
-on_off_diff: 2.36
+vorpd: 1.15
+off_rating_adj: 1.05
+def_rating_adj: 0.35
+on_off_diff: 1.90
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | MIL |
-| Composite Score | **42.5** / 100 |
+| Composite Score | **32.4** / 100 |
 | Salary | $13,498,406 |
-| VORPD | 1.26 |
-| Off Rating Adj | 1.32 |
-| Def Rating Adj | 0.44 |
-| On/Off Diff | 2.36 |
-| TS% | 60.4% |
-| 3P% | 39.9% |
+| VORPD | 1.15 |
+| Off Rating Adj | 1.05 |
+| Def Rating Adj | 0.35 |
+| On/Off Diff | 1.90 |
+| TS% | 60.0% |
+| 3P% | 38.6% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

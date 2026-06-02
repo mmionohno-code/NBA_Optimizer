@@ -3,12 +3,12 @@ player: "Keifer Sykes"
 team: "IND"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 38.76
+composite_score: 32.24
 salary: 925258
-vorpd: 14.38
-off_rating_adj: -1.92
-def_rating_adj: 0.27
-on_off_diff: 1.00
+vorpd: 12.63
+off_rating_adj: -1.02
+def_rating_adj: 0.15
+on_off_diff: 0.53
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **38.8** / 100 |
+| Composite Score | **32.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 14.38 |
-| Off Rating Adj | -1.92 |
-| Def Rating Adj | 0.27 |
-| On/Off Diff | 1.00 |
-| TS% | 50.3% |
-| 3P% | 30.0% |
+| VORPD | 12.63 |
+| Off Rating Adj | -1.02 |
+| Def Rating Adj | 0.15 |
+| On/Off Diff | 0.53 |
+| TS% | 51.9% |
+| 3P% | 34.6% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | IND | 38.8 | $925258 | 14.38 | -1.92 | 0.27 | 1.00 |
+| 2021-22 | IND | 32.2 | $925258 | 12.63 | -1.02 | 0.15 | 0.53 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.73, 1.04)
+- **Cluster:** 5
+- **PCA Position:** (-1.67, 1.17)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

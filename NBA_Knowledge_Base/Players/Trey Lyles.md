@@ -3,12 +3,12 @@ player: "Trey Lyles"
 team: "SAC"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 41.00
+composite_score: 31.35
 salary: 6000000
-vorpd: 2.59
-off_rating_adj: 3.20
-def_rating_adj: 2.90
-on_off_diff: 7.20
+vorpd: 2.37
+off_rating_adj: 2.24
+def_rating_adj: 2.03
+on_off_diff: 5.04
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **41.0** / 100 |
+| Composite Score | **31.4** / 100 |
 | Salary | $6,000,000 |
-| VORPD | 2.59 |
-| Off Rating Adj | 3.20 |
-| Def Rating Adj | 2.90 |
-| On/Off Diff | 7.20 |
-| TS% | 58.9% |
-| 3P% | 38.4% |
+| VORPD | 2.37 |
+| Off Rating Adj | 2.24 |
+| Def Rating Adj | 2.03 |
+| On/Off Diff | 5.04 |
+| TS% | 58.6% |
+| 3P% | 37.9% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+4.7 pts over 3 seasons)
+> **Trend:** Stable (+1.8 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | SAC | 41.0 | $6000000 | 2.59 | 3.20 | 2.90 | 7.20 |
-| 2022-23 | SAC | 34.2 | $1017781 | 8.59 | -1.17 | 1.68 | 0.53 |
-| 2021-22 | SAC | 36.3 | $925258 | 11.70 | -1.57 | -1.29 | 0.55 |
+| 2023-24 | SAC | 31.4 | $6000000 | 2.37 | 2.24 | 2.03 | 5.04 |
+| 2022-23 | SAC | 25.3 | $1017781 | 8.27 | -0.84 | 1.20 | 0.39 |
+| 2021-22 | SAC | 29.6 | $925258 | 9.75 | -1.19 | -0.97 | 0.41 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (0.27, -1.73)
+- **Cluster:** 2
+- **PCA Position:** (0.21, -1.83)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

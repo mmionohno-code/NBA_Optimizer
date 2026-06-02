@@ -3,12 +3,12 @@ player: "Collin Sexton"
 team: "UTA"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 60.81
+composite_score: 53.64
 salary: 16696090
-vorpd: 2.12
-off_rating_adj: 4.24
-def_rating_adj: -1.68
-on_off_diff: 2.85
+vorpd: 2.19
+off_rating_adj: 3.42
+def_rating_adj: -1.35
+on_off_diff: 2.30
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,29 +20,29 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **60.8** / 100 |
+| Composite Score | **53.6** / 100 |
 | Salary | $16,696,090 |
-| VORPD | 2.12 |
-| Off Rating Adj | 4.24 |
-| Def Rating Adj | -1.68 |
-| On/Off Diff | 2.85 |
-| TS% | 60.3% |
-| 3P% | 39.4% |
+| VORPD | 2.19 |
+| Off Rating Adj | 3.42 |
+| Def Rating Adj | -1.35 |
+| On/Off Diff | 2.30 |
+| TS% | 60.0% |
+| 3P% | 38.5% |
 | Influence Score | 0.16 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+12.0 pts over 2 seasons)
+> **Trend:** Trending UP (+13.1 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | UTA | 60.8 | $16696090 | 2.12 | 4.24 | -1.68 | 2.85 |
-| 2022-23 | UTA | 48.8 | $15178208 | 1.54 | 4.57 | -1.57 | 0.19 |
+| 2023-24 | UTA | 53.6 | $16696090 | 2.19 | 3.42 | -1.35 | 2.30 |
+| 2022-23 | UTA | 40.5 | $15178208 | 1.56 | 3.18 | -1.10 | 0.14 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (2.23, 0.94)
+- **Cluster:** 0
+- **PCA Position:** (2.46, 0.60)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

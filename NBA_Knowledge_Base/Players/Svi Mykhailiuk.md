@@ -3,12 +3,12 @@ player: "Svi Mykhailiuk"
 team: "BOS"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 45.37
+composite_score: 31.82
 salary: 3233630
-vorpd: 6.16
-off_rating_adj: 1.95
-def_rating_adj: 5.77
-on_off_diff: 6.89
+vorpd: 4.54
+off_rating_adj: 0.88
+def_rating_adj: 2.61
+on_off_diff: 3.14
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **45.4** / 100 |
+| Composite Score | **31.8** / 100 |
 | Salary | $3,233,630 |
-| VORPD | 6.16 |
-| Off Rating Adj | 1.95 |
-| Def Rating Adj | 5.77 |
-| On/Off Diff | 6.89 |
+| VORPD | 4.54 |
+| Off Rating Adj | 0.88 |
+| Def Rating Adj | 2.61 |
+| On/Off Diff | 3.14 |
 | TS% | 57.5% |
-| 3P% | 38.9% |
+| 3P% | 37.9% |
 | Influence Score | 0.09 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+20.9 pts over 3 seasons)
+> **Trend:** Trending UP (+11.8 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | BOS | 45.4 | $3233630 | 6.16 | 1.95 | 5.77 | 6.89 |
-| 2022-23 | CHA | 50.5 | $2939653 | 8.52 | 3.05 | 3.59 | 4.90 |
-| 2021-22 | TOR | 24.4 | $2672420 | 0.00 | -5.75 | -0.89 | -8.56 |
+| 2023-24 | BOS | 31.8 | $3233630 | 4.54 | 0.88 | 2.61 | 3.14 |
+| 2022-23 | CHA | 37.7 | $2939653 | 7.08 | 1.47 | 1.74 | 2.37 |
+| 2021-22 | TOR | 20.0 | $2672420 | 0.00 | -3.39 | -0.53 | -5.03 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (0.08, -1.10)
+- **Cluster:** 2
+- **PCA Position:** (-0.28, -0.99)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

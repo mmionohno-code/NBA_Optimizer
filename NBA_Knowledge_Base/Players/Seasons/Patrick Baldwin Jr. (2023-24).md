@@ -4,12 +4,12 @@ player: "Patrick Baldwin Jr."
 season: "2023-24"
 team: "WAS"
 archetype: "Defensive Wing"
-composite_score: 46.23
+composite_score: 35.68
 salary: 2019706
-vorpd: 10.29
-off_rating_adj: -0.12
-def_rating_adj: 5.61
-on_off_diff: 8.08
+vorpd: 9.19
+off_rating_adj: -0.06
+def_rating_adj: 2.79
+on_off_diff: 4.01
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | WAS |
-| Composite Score | **46.2** / 100 |
+| Composite Score | **35.7** / 100 |
 | Salary | $2,019,706 |
-| VORPD | 10.29 |
-| Off Rating Adj | -0.12 |
-| Def Rating Adj | 5.61 |
-| On/Off Diff | 8.08 |
-| TS% | 53.8% |
-| 3P% | 32.0% |
+| VORPD | 9.19 |
+| Off Rating Adj | -0.06 |
+| Def Rating Adj | 2.79 |
+| On/Off Diff | 4.01 |
+| TS% | 54.9% |
+| 3P% | 35.9% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

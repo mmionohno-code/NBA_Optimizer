@@ -3,12 +3,12 @@ player: "Tony Bradley"
 team: "CHI"
 season: "2021-22"
 archetype: "Defensive Wing"
-composite_score: 40.04
+composite_score: 29.95
 salary: 2330508
-vorpd: 6.26
-off_rating_adj: -0.67
-def_rating_adj: 5.38
-on_off_diff: 7.81
+vorpd: 4.03
+off_rating_adj: -0.35
+def_rating_adj: 2.82
+on_off_diff: 4.10
 is_shooter: 0
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **40.0** / 100 |
+| Composite Score | **29.9** / 100 |
 | Salary | $2,330,508 |
-| VORPD | 6.26 |
-| Off Rating Adj | -0.67 |
-| Def Rating Adj | 5.38 |
-| On/Off Diff | 7.81 |
-| TS% | 57.9% |
-| 3P% | 34.1% |
+| VORPD | 4.03 |
+| Off Rating Adj | -0.35 |
+| Def Rating Adj | 2.82 |
+| On/Off Diff | 4.10 |
+| TS% | 57.4% |
+| 3P% | 35.7% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | CHI | 40.0 | $2330508 | 6.26 | -0.67 | 5.38 | 7.81 |
+| 2021-22 | CHI | 29.9 | $2330508 | 4.03 | -0.35 | 2.82 | 4.10 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.42, -1.72)
+- **Cluster:** 2
+- **PCA Position:** (-0.70, -1.31)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

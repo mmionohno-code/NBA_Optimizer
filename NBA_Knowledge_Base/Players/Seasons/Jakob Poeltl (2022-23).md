@@ -4,12 +4,12 @@ player: "Jakob Poeltl"
 season: "2022-23"
 team: "TOR"
 archetype: "Two-Way Big"
-composite_score: 47.03
+composite_score: 39.36
 salary: 15598158
-vorpd: 1.38
+vorpd: 1.44
 off_rating_adj: -0.01
-def_rating_adj: -3.39
-on_off_diff: 4.15
+def_rating_adj: -2.68
+on_off_diff: 3.29
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | TOR |
-| Composite Score | **47.0** / 100 |
+| Composite Score | **39.4** / 100 |
 | Salary | $15,598,158 |
-| VORPD | 1.38 |
+| VORPD | 1.44 |
 | Off Rating Adj | -0.01 |
-| Def Rating Adj | -3.39 |
-| On/Off Diff | 4.15 |
-| TS% | 62.4% |
-| 3P% | 35.0% |
+| Def Rating Adj | -2.68 |
+| On/Off Diff | 3.29 |
+| TS% | 61.7% |
+| 3P% | 36.4% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

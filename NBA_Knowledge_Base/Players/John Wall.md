@@ -3,12 +3,12 @@ player: "John Wall"
 team: "LAC"
 season: "2022-23"
 archetype: "Versatile Scorer"
-composite_score: 52.11
+composite_score: 44.41
 salary: 1017781
-vorpd: 26.19
-off_rating_adj: -6.51
-def_rating_adj: 2.44
-on_off_diff: -7.60
+vorpd: 27.05
+off_rating_adj: -3.92
+def_rating_adj: 1.47
+on_off_diff: -4.57
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,15 +20,15 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **52.1** / 100 |
+| Composite Score | **44.4** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 26.19 |
-| Off Rating Adj | -6.51 |
-| Def Rating Adj | 2.44 |
-| On/Off Diff | -7.60 |
-| TS% | 52.1% |
-| 3P% | 30.3% |
-| Influence Score | 0.13 |
+| VORPD | 27.05 |
+| Off Rating Adj | -3.92 |
+| Def Rating Adj | 1.47 |
+| On/Off Diff | -4.57 |
+| TS% | 53.2% |
+| 3P% | 34.9% |
+| Influence Score | 0.14 |
 
 ## Season History (1 season)
 
@@ -36,12 +36,12 @@ tags: [player, versatile-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | LAC | 52.1 | $1017781 | 26.19 | -6.51 | 2.44 | -7.60 |
+| 2022-23 | LAC | 44.4 | $1017781 | 27.05 | -3.92 | 1.47 | -4.57 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-0.95, 2.94)
+- **Cluster:** 6
+- **PCA Position:** (-0.86, 2.58)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

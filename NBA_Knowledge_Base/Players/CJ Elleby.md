@@ -3,12 +3,12 @@ player: "CJ Elleby"
 team: "POR"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 27.01
+composite_score: 20.95
 salary: 925258
-vorpd: 1.68
-off_rating_adj: -2.61
-def_rating_adj: -2.62
-on_off_diff: -6.88
+vorpd: 0.43
+off_rating_adj: -1.83
+def_rating_adj: -1.84
+on_off_diff: -4.82
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,15 +20,15 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **27.0** / 100 |
+| Composite Score | **20.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 1.68 |
-| Off Rating Adj | -2.61 |
-| Def Rating Adj | -2.62 |
-| On/Off Diff | -6.88 |
-| TS% | 51.4% |
-| 3P% | 29.4% |
-| Influence Score | 0.07 |
+| VORPD | 0.43 |
+| Off Rating Adj | -1.83 |
+| Def Rating Adj | -1.84 |
+| On/Off Diff | -4.82 |
+| TS% | 52.5% |
+| 3P% | 33.9% |
+| Influence Score | 0.08 |
 
 ## Season History (1 season)
 
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | POR | 27.0 | $925258 | 1.68 | -2.61 | -2.62 | -6.88 |
+| 2021-22 | POR | 20.9 | $925258 | 0.43 | -1.83 | -1.84 | -4.82 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.41, 0.76)
+- **Cluster:** 5
+- **PCA Position:** (-2.54, 1.11)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

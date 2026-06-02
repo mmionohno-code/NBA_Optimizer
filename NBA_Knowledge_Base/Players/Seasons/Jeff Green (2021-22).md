@@ -4,12 +4,12 @@ player: "Jeff Green"
 season: "2021-22"
 team: "DEN"
 archetype: "Bench / Role Player"
-composite_score: 32.04
+composite_score: 24.75
 salary: 1669826
-vorpd: 3.94
-off_rating_adj: 1.60
-def_rating_adj: -0.92
-on_off_diff: -1.76
+vorpd: 2.52
+off_rating_adj: 1.26
+def_rating_adj: -0.73
+on_off_diff: -1.37
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | DEN |
-| Composite Score | **32.0** / 100 |
+| Composite Score | **24.8** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 3.94 |
-| Off Rating Adj | 1.60 |
-| Def Rating Adj | -0.92 |
-| On/Off Diff | -1.76 |
-| TS% | 61.3% |
-| 3P% | 31.5% |
+| VORPD | 2.52 |
+| Off Rating Adj | 1.26 |
+| Def Rating Adj | -0.73 |
+| On/Off Diff | -1.37 |
+| TS% | 60.5% |
+| 3P% | 34.3% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

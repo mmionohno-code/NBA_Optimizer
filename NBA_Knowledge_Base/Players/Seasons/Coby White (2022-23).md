@@ -4,12 +4,12 @@ player: "Coby White"
 season: "2022-23"
 team: "CHI"
 archetype: "Perimeter Scorer"
-composite_score: 49.06
+composite_score: 41.60
 salary: 10309894
-vorpd: 2.29
-off_rating_adj: 2.35
-def_rating_adj: -0.40
-on_off_diff: 4.45
+vorpd: 2.40
+off_rating_adj: 1.83
+def_rating_adj: -0.31
+on_off_diff: 3.46
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | CHI |
-| Composite Score | **49.1** / 100 |
+| Composite Score | **41.6** / 100 |
 | Salary | $10,309,894 |
-| VORPD | 2.29 |
-| Off Rating Adj | 2.35 |
-| Def Rating Adj | -0.40 |
-| On/Off Diff | 4.45 |
+| VORPD | 2.40 |
+| Off Rating Adj | 1.83 |
+| Def Rating Adj | -0.31 |
+| On/Off Diff | 3.46 |
 | TS% | 57.3% |
-| 3P% | 37.2% |
+| 3P% | 37.0% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

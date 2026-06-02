@@ -3,12 +3,12 @@ player: "Will Barton"
 team: "TOR"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 27.25
+composite_score: 19.10
 salary: 1017781
-vorpd: 1.76
-off_rating_adj: -7.51
-def_rating_adj: -1.09
-on_off_diff: -8.95
+vorpd: 2.18
+off_rating_adj: -4.99
+def_rating_adj: -0.72
+on_off_diff: -5.94
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **27.2** / 100 |
+| Composite Score | **19.1** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 1.76 |
-| Off Rating Adj | -7.51 |
-| Def Rating Adj | -1.09 |
-| On/Off Diff | -8.95 |
-| TS% | 51.7% |
-| 3P% | 36.7% |
-| Influence Score | 0.09 |
+| VORPD | 2.18 |
+| Off Rating Adj | -4.99 |
+| Def Rating Adj | -0.72 |
+| On/Off Diff | -5.94 |
+| TS% | 52.9% |
+| 3P% | 36.8% |
+| Influence Score | 0.10 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-19.5 pts over 2 seasons)
+> **Trend:** Trending DOWN (-20.5 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | TOR | 27.2 | $1017781 | 1.76 | -7.51 | -1.09 | -8.95 |
-| 2021-22 | DEN | 46.7 | $925258 | 22.99 | 0.80 | 0.18 | -1.04 |
+| 2022-23 | TOR | 19.1 | $1017781 | 2.18 | -4.99 | -0.72 | -5.94 |
+| 2021-22 | DEN | 39.6 | $925258 | 20.62 | 0.66 | 0.15 | -0.84 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.45, 1.28)
+- **Cluster:** 5
+- **PCA Position:** (-2.57, 1.21)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -1,11 +1,11 @@
 ---
 scenario: "J"
 label: "Max Budget - Championship Roster"
-total_salary: 40179722
-avg_composite_score: 56.03
+total_salary: 42847298
+avg_composite_score: 48.10
 roster_size: 15
 tags: [scenario]
-players: ["De'Anthony Melton", "Victor Wembanyama", "Dennis Smith Jr.", "Scotty Pippen Jr.", "Jared Butler", "Russell Westbrook", "Chris Paul", "Vasilije Micic", "Jock Landale", "Chris Boucher", "Vince Williams Jr.", "Seth Curry", "Toumani Camara", "Skylar Mays", "Trayce Jackson-Davis"]
+players: ["Victor Wembanyama", "De'Anthony Melton", "Russell Westbrook", "Dennis Smith Jr.", "Scotty Pippen Jr.", "Chris Paul", "Jared Butler", "Vasilije Micic", "Vince Williams Jr.", "Toumani Camara", "Chris Boucher", "Jock Landale", "Seth Curry", "Dereck Lively II", "Skylar Mays"]
 ---
 # Scenario J: Max Budget - Championship Roster
 
@@ -13,15 +13,15 @@ players: ["De'Anthony Melton", "Victor Wembanyama", "Dennis Smith Jr.", "Scotty 
 
 | Metric | Value |
 |---|---|
-| Total Salary | $40,179,722 |
+| Total Salary | $42,847,298 |
 | Roster Size | 15 players |
-| Avg Composite Score | 56.0 |
+| Avg Composite Score | 48.1 |
 
 ## Archetype Breakdown
 
-  - Defensive Wing: 6
+  - Defensive Wing: 5
+  - Perimeter Scorer: 3
   - Versatile Scorer: 3
-  - Perimeter Scorer: 2
   - Two-Way Big: 2
   - Elite Playmaker: 1
   - Bench / Role Player: 1
@@ -30,21 +30,21 @@ players: ["De'Anthony Melton", "Victor Wembanyama", "Dennis Smith Jr.", "Scotty 
 
 | Player | Archetype | Score | Salary | Team |
 |---|---|---|---|---|
-| [[Players/De'Anthony Melton|De'Anthony Melton]] | Perimeter Scorer | 69.2 | $2,710,900 | PHI |
-| [[Players/Victor Wembanyama|Victor Wembanyama]] | Two-Way Big | 68.9 | $11,770,308 | SAS |
-| [[Players/Dennis Smith Jr.|Dennis Smith Jr.]] | Defensive Wing | 65.7 | $3,000,000 | BKN |
-| [[Players/Russell Westbrook|Russell Westbrook]] | Versatile Scorer | 65.4 | $2,020,490 | LAC |
-| [[Players/Scotty Pippen Jr.|Scotty Pippen Jr.]] | Elite Playmaker | 65.3 | $1,998,018 | MEM |
-| [[Players/Jared Butler|Jared Butler]] | Defensive Wing | 64.3 | $2,019,706 | WAS |
-| [[Players/Chris Paul|Chris Paul]] | Versatile Scorer | 60.0 | $2,020,490 | GSW |
-| [[Players/Vasilije Micic|Vasilije Micic]] | Versatile Scorer | 57.5 | $2,000,000 | CHA |
-| [[Players/Vince Williams Jr.|Vince Williams Jr.]] | Perimeter Scorer | 51.6 | $2,025,165 | MEM |
-| [[Players/Jock Landale|Jock Landale]] | Defensive Wing | 51.1 | $2,020,490 | HOU |
-| [[Players/Toumani Camara|Toumani Camara]] | Defensive Wing | 50.9 | $1,954,852 | POR |
-| [[Players/Chris Boucher|Chris Boucher]] | Defensive Wing | 50.0 | $2,020,490 | TOR |
-| [[Players/Seth Curry|Seth Curry]] | Defensive Wing | 49.6 | $1,544,398 | CHA |
-| [[Players/Skylar Mays|Skylar Mays]] | Bench / Role Player | 40.5 | $1,119,563 | LAL |
-| [[Players/Trayce Jackson-Davis|Trayce Jackson-Davis]] | Two-Way Big | 30.6 | $1,954,852 | GSW |
+| [[Players/Victor Wembanyama|Victor Wembanyama]] | Two-Way Big | 65.8 | $11,770,308 | SAS |
+| [[Players/De'Anthony Melton|De'Anthony Melton]] | Perimeter Scorer | 61.9 | $2,710,900 | PHI |
+| [[Players/Russell Westbrook|Russell Westbrook]] | Versatile Scorer | 60.9 | $2,020,490 | LAC |
+| [[Players/Dennis Smith Jr.|Dennis Smith Jr.]] | Defensive Wing | 57.6 | $3,000,000 | BKN |
+| [[Players/Scotty Pippen Jr.|Scotty Pippen Jr.]] | Elite Playmaker | 54.5 | $1,998,018 | MEM |
+| [[Players/Vasilije Micic|Vasilije Micic]] | Versatile Scorer | 51.8 | $2,000,000 | CHA |
+| [[Players/Chris Paul|Chris Paul]] | Versatile Scorer | 51.7 | $2,020,490 | GSW |
+| [[Players/Jared Butler|Jared Butler]] | Defensive Wing | 50.4 | $2,019,706 | WAS |
+| [[Players/Toumani Camara|Toumani Camara]] | Defensive Wing | 43.7 | $1,954,852 | POR |
+| [[Players/Vince Williams Jr.|Vince Williams Jr.]] | Perimeter Scorer | 43.2 | $2,025,165 | MEM |
+| [[Players/Jock Landale|Jock Landale]] | Defensive Wing | 39.6 | $2,020,490 | HOU |
+| [[Players/Chris Boucher|Chris Boucher]] | Perimeter Scorer | 39.6 | $2,020,490 | TOR |
+| [[Players/Seth Curry|Seth Curry]] | Defensive Wing | 38.5 | $1,544,398 | CHA |
+| [[Players/Skylar Mays|Skylar Mays]] | Bench / Role Player | 31.9 | $1,119,563 | LAL |
+| [[Players/Dereck Lively II|Dereck Lively II]] | Two-Way Big | 30.4 | $4,622,428 | DAL |
 
 ## Analysis
 

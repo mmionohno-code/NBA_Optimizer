@@ -4,12 +4,12 @@ player: "Keljin Blevins"
 season: "2021-22"
 team: "POR"
 archetype: "Bench / Role Player"
-composite_score: 2.30
+composite_score: 10.53
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -8.11
-def_rating_adj: -10.62
-on_off_diff: -18.77
+off_rating_adj: -3.34
+def_rating_adj: -4.38
+on_off_diff: -7.74
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | POR |
-| Composite Score | **2.3** / 100 |
+| Composite Score | **10.5** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -8.11 |
-| Def Rating Adj | -10.62 |
-| On/Off Diff | -18.77 |
-| TS% | 49.7% |
-| 3P% | 29.2% |
+| Off Rating Adj | -3.34 |
+| Def Rating Adj | -4.38 |
+| On/Off Diff | -7.74 |
+| TS% | 51.8% |
+| 3P% | 34.6% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

@@ -4,12 +4,12 @@ player: "Jakob Poeltl"
 season: "2021-22"
 team: "SAS"
 archetype: "Two-Way Big"
-composite_score: 49.44
+composite_score: 44.09
 salary: 14180190
-vorpd: 1.69
-off_rating_adj: 5.04
-def_rating_adj: -2.25
-on_off_diff: 4.51
+vorpd: 1.66
+off_rating_adj: 4.02
+def_rating_adj: -1.80
+on_off_diff: 3.60
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | SAS |
-| Composite Score | **49.4** / 100 |
+| Composite Score | **44.1** / 100 |
 | Salary | $14,180,190 |
-| VORPD | 1.69 |
-| Off Rating Adj | 5.04 |
-| Def Rating Adj | -2.25 |
-| On/Off Diff | 4.51 |
-| TS% | 60.4% |
-| 3P% | 34.1% |
+| VORPD | 1.66 |
+| Off Rating Adj | 4.02 |
+| Def Rating Adj | -1.80 |
+| On/Off Diff | 3.60 |
+| TS% | 59.8% |
+| 3P% | 35.7% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

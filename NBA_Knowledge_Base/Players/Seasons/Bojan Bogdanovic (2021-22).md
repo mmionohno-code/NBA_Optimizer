@@ -4,12 +4,12 @@ player: "Bojan Bogdanovic"
 season: "2021-22"
 team: "UTA"
 archetype: "Bench / Role Player"
-composite_score: 37.20
+composite_score: 27.94
 salary: 925258
-vorpd: 12.69
-off_rating_adj: 2.50
-def_rating_adj: -3.06
-on_off_diff: -2.52
+vorpd: 7.99
+off_rating_adj: 2.03
+def_rating_adj: -2.48
+on_off_diff: -2.03
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | UTA |
-| Composite Score | **37.2** / 100 |
+| Composite Score | **27.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 12.69 |
-| Off Rating Adj | 2.50 |
-| Def Rating Adj | -3.06 |
-| On/Off Diff | -2.52 |
-| TS% | 59.4% |
-| 3P% | 38.7% |
+| VORPD | 7.99 |
+| Off Rating Adj | 2.03 |
+| Def Rating Adj | -2.48 |
+| On/Off Diff | -2.03 |
+| TS% | 59.1% |
+| 3P% | 37.8% |
 | Influence Score | 0.14 |
 | Season Weight | 0.20 |
 

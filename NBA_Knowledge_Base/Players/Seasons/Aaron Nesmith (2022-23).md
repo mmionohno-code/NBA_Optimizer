@@ -4,12 +4,12 @@ player: "Aaron Nesmith"
 season: "2022-23"
 team: "IND"
 archetype: "Bench / Role Player"
-composite_score: 34.37
+composite_score: 25.90
 salary: 8798961
-vorpd: 1.01
-off_rating_adj: 2.03
-def_rating_adj: -3.28
-on_off_diff: -4.00
+vorpd: 1.02
+off_rating_adj: 1.59
+def_rating_adj: -2.57
+on_off_diff: -3.13
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | IND |
-| Composite Score | **34.4** / 100 |
+| Composite Score | **25.9** / 100 |
 | Salary | $8,798,961 |
-| VORPD | 1.01 |
-| Off Rating Adj | 2.03 |
-| Def Rating Adj | -3.28 |
-| On/Off Diff | -4.00 |
-| TS% | 56.8% |
-| 3P% | 36.6% |
+| VORPD | 1.02 |
+| Off Rating Adj | 1.59 |
+| Def Rating Adj | -2.57 |
+| On/Off Diff | -3.13 |
+| TS% | 56.9% |
+| 3P% | 36.7% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

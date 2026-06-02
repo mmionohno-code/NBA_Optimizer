@@ -3,32 +3,32 @@ player_season: "Tyler Herro (2023-24)"
 player: "Tyler Herro"
 season: "2023-24"
 team: "MIA"
-archetype: "Versatile Scorer"
-composite_score: 49.73
+archetype: "Bench / Role Player"
+composite_score: 40.54
 salary: 27276880
-vorpd: 0.89
-off_rating_adj: 0.59
-def_rating_adj: -0.66
-on_off_diff: -2.10
+vorpd: 0.86
+off_rating_adj: 0.44
+def_rating_adj: -0.48
+on_off_diff: -1.54
 season_weight: 0.45
-tags: [season-note, versatile-scorer]
+tags: [season-note, bench-/-role-player]
 ---
 # Tyler Herro — 2023-24
 
-> Part of [[Players/Tyler Herro]] | Archetype: [[Archetypes/Versatile Scorer]]
+> Part of [[Players/Tyler Herro]] | Archetype: [[Archetypes/Bench / Role Player]]
 
 | Metric | Value |
 |---|---|
 | Season | 2023-24 |
 | Team | MIA |
-| Composite Score | **49.7** / 100 |
+| Composite Score | **40.5** / 100 |
 | Salary | $27,276,880 |
-| VORPD | 0.89 |
-| Off Rating Adj | 0.59 |
-| Def Rating Adj | -0.66 |
-| On/Off Diff | -2.10 |
-| TS% | 56.1% |
-| 3P% | 39.6% |
+| VORPD | 0.86 |
+| Off Rating Adj | 0.44 |
+| Def Rating Adj | -0.48 |
+| On/Off Diff | -1.54 |
+| TS% | 56.3% |
+| 3P% | 38.6% |
 | Influence Score | 0.15 |
 | Season Weight | 0.45 |
 

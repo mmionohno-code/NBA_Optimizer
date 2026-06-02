@@ -4,12 +4,12 @@ player: "Jarred Vanderbilt"
 season: "2022-23"
 team: "LAL"
 archetype: "Versatile Scorer"
-composite_score: 43.54
+composite_score: 35.96
 salary: 9256050
-vorpd: 1.95
-off_rating_adj: 2.26
-def_rating_adj: -3.97
-on_off_diff: -1.88
+vorpd: 2.06
+off_rating_adj: 1.79
+def_rating_adj: -3.13
+on_off_diff: -1.48
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | LAL |
-| Composite Score | **43.5** / 100 |
+| Composite Score | **36.0** / 100 |
 | Salary | $9,256,050 |
-| VORPD | 1.95 |
-| Off Rating Adj | 2.26 |
-| Def Rating Adj | -3.97 |
-| On/Off Diff | -1.88 |
-| TS% | 59.7% |
-| 3P% | 32.2% |
+| VORPD | 2.06 |
+| Off Rating Adj | 1.79 |
+| Def Rating Adj | -3.13 |
+| On/Off Diff | -1.48 |
+| TS% | 59.3% |
+| 3P% | 35.6% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

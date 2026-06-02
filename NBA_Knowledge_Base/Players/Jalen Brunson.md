@@ -3,12 +3,12 @@ player: "Jalen Brunson"
 team: "NYK"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 79.93
+composite_score: 76.62
 salary: 30747204
-vorpd: 1.77
-off_rating_adj: 6.98
-def_rating_adj: 0.22
-on_off_diff: 11.90
+vorpd: 1.93
+off_rating_adj: 5.90
+def_rating_adj: 0.19
+on_off_diff: 10.08
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,30 +20,30 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **79.9** / 100 |
+| Composite Score | **76.6** / 100 |
 | Salary | $30,747,204 |
-| VORPD | 1.77 |
-| Off Rating Adj | 6.98 |
-| Def Rating Adj | 0.22 |
-| On/Off Diff | 11.90 |
-| TS% | 59.1% |
-| 3P% | 40.1% |
+| VORPD | 1.93 |
+| Off Rating Adj | 5.90 |
+| Def Rating Adj | 0.19 |
+| On/Off Diff | 10.08 |
+| TS% | 59.0% |
+| 3P% | 39.2% |
 | Influence Score | 0.18 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+26.0 pts over 3 seasons)
+> **Trend:** Trending UP (+28.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | NYK | 79.9 | $30747204 | 1.77 | 6.98 | 0.22 | 11.90 |
-| 2022-23 | NYK | 58.0 | $27951901 | 1.16 | 6.23 | -4.93 | -2.28 |
-| 2021-22 | DAL | 54.0 | $25410901 | 1.12 | 4.27 | -2.31 | 0.99 |
+| 2023-24 | NYK | 76.6 | $30747204 | 1.93 | 5.90 | 0.19 | 10.08 |
+| 2022-23 | NYK | 50.6 | $27951901 | 1.21 | 5.15 | -4.07 | -1.87 |
+| 2021-22 | DAL | 48.4 | $25410901 | 1.09 | 3.56 | -1.93 | 0.84 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (3.81, 1.41)
+- **Cluster:** 0
+- **PCA Position:** (4.50, 0.94)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

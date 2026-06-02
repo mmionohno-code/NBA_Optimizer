@@ -3,12 +3,12 @@ player: "Isaiah Roby"
 team: "NYK"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 27.33
+composite_score: 22.10
 salary: 1017781
-vorpd: 1.84
-off_rating_adj: -10.47
-def_rating_adj: -0.73
-on_off_diff: 0.47
+vorpd: 5.12
+off_rating_adj: -5.10
+def_rating_adj: -0.35
+on_off_diff: 0.22
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **27.3** / 100 |
+| Composite Score | **22.1** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 1.84 |
-| Off Rating Adj | -10.47 |
-| Def Rating Adj | -0.73 |
-| On/Off Diff | 0.47 |
-| TS% | 53.6% |
-| 3P% | 30.0% |
+| VORPD | 5.12 |
+| Off Rating Adj | -5.10 |
+| Def Rating Adj | -0.35 |
+| On/Off Diff | 0.22 |
+| TS% | 54.8% |
+| 3P% | 35.5% |
 | Influence Score | 0.09 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-13.2 pts over 2 seasons)
+> **Trend:** Trending DOWN (-10.4 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | NYK | 27.3 | $1017781 | 1.84 | -10.47 | -0.73 | 0.47 |
-| 2021-22 | OKC | 40.5 | $925258 | 16.29 | 1.95 | -3.65 | -0.77 |
+| 2022-23 | NYK | 22.1 | $1017781 | 5.12 | -5.10 | -0.35 | 0.22 |
+| 2021-22 | OKC | 32.5 | $925258 | 12.94 | 1.28 | -2.39 | -0.51 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.64, 0.63)
+- **Cluster:** 5
+- **PCA Position:** (-2.15, 0.48)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

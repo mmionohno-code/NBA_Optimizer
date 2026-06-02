@@ -3,12 +3,12 @@ player: "Davion Mitchell"
 team: "SAC"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 26.18
+composite_score: 16.42
 salary: 10206832
-vorpd: 0.07
-off_rating_adj: -5.20
-def_rating_adj: 1.00
-on_off_diff: -5.61
+vorpd: 0.00
+off_rating_adj: -3.58
+def_rating_adj: 0.69
+on_off_diff: -3.85
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **26.2** / 100 |
+| Composite Score | **16.4** / 100 |
 | Salary | $10,206,832 |
-| VORPD | 0.07 |
-| Off Rating Adj | -5.20 |
-| Def Rating Adj | 1.00 |
-| On/Off Diff | -5.61 |
-| TS% | 56.1% |
-| 3P% | 36.1% |
+| VORPD | 0.00 |
+| Off Rating Adj | -3.58 |
+| Def Rating Adj | 0.69 |
+| On/Off Diff | -3.85 |
+| TS% | 56.4% |
+| 3P% | 36.9% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-22.7 pts over 3 seasons)
+> **Trend:** Trending DOWN (-27.8 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | SAC | 26.2 | $10206832 | 0.07 | -5.20 | 1.00 | -5.61 |
-| 2022-23 | SAC | 40.1 | $9278904 | 1.57 | -3.07 | 2.18 | -0.01 |
-| 2021-22 | SAC | 48.9 | $8435395 | 2.77 | -2.67 | 1.01 | -1.28 |
+| 2023-24 | SAC | 16.4 | $10206832 | 0.00 | -3.58 | 0.69 | -3.85 |
+| 2022-23 | SAC | 32.5 | $9278904 | 1.68 | -2.28 | 1.62 | 0.01 |
+| 2021-22 | SAC | 44.2 | $8435395 | 2.80 | -2.15 | 0.82 | -1.03 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.16, 0.14)
+- **Cluster:** 5
+- **PCA Position:** (-2.30, 0.01)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

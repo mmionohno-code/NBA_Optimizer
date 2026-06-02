@@ -4,12 +4,12 @@ player: "Deni Avdija"
 season: "2021-22"
 team: "WAS"
 archetype: "Defensive Wing"
-composite_score: 44.86
+composite_score: 39.60
 salary: 10453345
-vorpd: 1.86
-off_rating_adj: 0.91
-def_rating_adj: 2.17
-on_off_diff: 3.83
+vorpd: 1.82
+off_rating_adj: 0.72
+def_rating_adj: 1.73
+on_off_diff: 3.06
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | WAS |
-| Composite Score | **44.9** / 100 |
+| Composite Score | **39.6** / 100 |
 | Salary | $10,453,345 |
-| VORPD | 1.86 |
-| Off Rating Adj | 0.91 |
-| Def Rating Adj | 2.17 |
-| On/Off Diff | 3.83 |
-| TS% | 54.1% |
-| 3P% | 31.7% |
+| VORPD | 1.82 |
+| Off Rating Adj | 0.72 |
+| Def Rating Adj | 1.73 |
+| On/Off Diff | 3.06 |
+| TS% | 54.4% |
+| 3P% | 33.9% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

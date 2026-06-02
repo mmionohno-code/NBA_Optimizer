@@ -4,12 +4,12 @@ player: "Evan Fournier"
 season: "2023-24"
 team: "DET"
 archetype: "Bench / Role Player"
-composite_score: 41.21
+composite_score: 35.66
 salary: 17000000
-vorpd: 0.93
-off_rating_adj: -8.71
-def_rating_adj: 5.25
-on_off_diff: -2.38
+vorpd: 1.09
+off_rating_adj: -4.67
+def_rating_adj: 2.82
+on_off_diff: -1.28
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | DET |
-| Composite Score | **41.2** / 100 |
+| Composite Score | **35.7** / 100 |
 | Salary | $17,000,000 |
-| VORPD | 0.93 |
-| Off Rating Adj | -8.71 |
-| Def Rating Adj | 5.25 |
-| On/Off Diff | -2.38 |
-| TS% | 50.9% |
-| 3P% | 25.4% |
+| VORPD | 1.09 |
+| Off Rating Adj | -4.67 |
+| Def Rating Adj | 2.82 |
+| On/Off Diff | -1.28 |
+| TS% | 52.6% |
+| 3P% | 33.4% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

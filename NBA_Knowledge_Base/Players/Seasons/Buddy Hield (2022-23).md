@@ -4,12 +4,12 @@ player: "Buddy Hield"
 season: "2022-23"
 team: "IND"
 archetype: "Perimeter Scorer"
-composite_score: 53.46
+composite_score: 42.62
 salary: 7374739
-vorpd: 3.80
-off_rating_adj: 2.63
-def_rating_adj: -1.08
-on_off_diff: 4.68
+vorpd: 3.49
+off_rating_adj: 2.19
+def_rating_adj: -0.90
+on_off_diff: 3.91
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | IND |
-| Composite Score | **53.5** / 100 |
+| Composite Score | **42.6** / 100 |
 | Salary | $7,374,739 |
-| VORPD | 3.80 |
-| Off Rating Adj | 2.63 |
-| Def Rating Adj | -1.08 |
-| On/Off Diff | 4.68 |
-| TS% | 60.9% |
-| 3P% | 42.5% |
+| VORPD | 3.49 |
+| Off Rating Adj | 2.19 |
+| Def Rating Adj | -0.90 |
+| On/Off Diff | 3.91 |
+| TS% | 60.6% |
+| 3P% | 40.9% |
 | Influence Score | 0.12 |
 | Season Weight | 0.35 |
 

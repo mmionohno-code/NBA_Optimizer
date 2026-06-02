@@ -1,6 +1,6 @@
 ---
 type: decision
-date: 2026-05-08
+date: 2026-06-01
 status: "accepted"
 area: "modeling"
 tags: [decision, modeling, synergy]
@@ -8,7 +8,7 @@ tags: [decision, modeling, synergy]
 
 # Decision: Synergy Weight (λ = 0.05)
 
-**Date:** 2026-05-08
+**Date:** 2026-06-01
 **Area:** Modeling
 **Status:** Accepted
 

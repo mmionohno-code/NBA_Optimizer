@@ -3,12 +3,12 @@ player: "Klay Thompson"
 team: "GSW"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 34.30
+composite_score: 23.70
 salary: 14664989
-vorpd: 0.60
-off_rating_adj: 1.16
-def_rating_adj: -3.23
-on_off_diff: -6.60
+vorpd: 0.45
+off_rating_adj: 0.96
+def_rating_adj: -2.65
+on_off_diff: -5.40
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **34.3** / 100 |
+| Composite Score | **23.7** / 100 |
 | Salary | $14,664,989 |
-| VORPD | 0.60 |
-| Off Rating Adj | 1.16 |
-| Def Rating Adj | -3.23 |
-| On/Off Diff | -6.60 |
+| VORPD | 0.45 |
+| Off Rating Adj | 0.96 |
+| Def Rating Adj | -2.65 |
+| On/Off Diff | -5.40 |
 | TS% | 57.6% |
-| 3P% | 38.7% |
+| 3P% | 38.4% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-7.9 pts over 3 seasons)
+> **Trend:** Trending DOWN (-11.5 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | GSW | 34.3 | $14664989 | 0.60 | 1.16 | -3.23 | -6.60 |
-| 2022-23 | GSW | 47.1 | $13331760 | 1.62 | 1.22 | 0.14 | 3.25 |
-| 2021-22 | GSW | 42.2 | $12119821 | 1.38 | 1.97 | -2.87 | -2.92 |
+| 2023-24 | GSW | 23.7 | $14664989 | 0.45 | 0.96 | -2.65 | -5.40 |
+| 2022-23 | GSW | 36.7 | $13331760 | 1.48 | 1.00 | 0.11 | 2.68 |
+| 2021-22 | GSW | 35.2 | $12119821 | 1.21 | 1.28 | -1.87 | -1.90 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.09, -0.14)
+- **Cluster:** 1
+- **PCA Position:** (-0.25, -0.30)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

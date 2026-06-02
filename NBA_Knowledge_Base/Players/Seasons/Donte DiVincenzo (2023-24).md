@@ -4,12 +4,12 @@ player: "Donte DiVincenzo"
 season: "2023-24"
 team: "NYK"
 archetype: "Perimeter Scorer"
-composite_score: 52.06
+composite_score: 42.25
 salary: 10549993
-vorpd: 2.52
-off_rating_adj: 3.68
-def_rating_adj: -1.38
-on_off_diff: -2.76
+vorpd: 2.38
+off_rating_adj: 3.03
+def_rating_adj: -1.14
+on_off_diff: -2.26
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | NYK |
-| Composite Score | **52.1** / 100 |
+| Composite Score | **42.2** / 100 |
 | Salary | $10,549,993 |
-| VORPD | 2.52 |
-| Off Rating Adj | 3.68 |
-| Def Rating Adj | -1.38 |
-| On/Off Diff | -2.76 |
-| TS% | 59.4% |
-| 3P% | 40.1% |
+| VORPD | 2.38 |
+| Off Rating Adj | 3.03 |
+| Def Rating Adj | -1.14 |
+| On/Off Diff | -2.26 |
+| TS% | 59.2% |
+| 3P% | 39.4% |
 | Influence Score | 0.12 |
 | Season Weight | 0.45 |
 

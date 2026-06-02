@@ -4,12 +4,12 @@ player: "Tyrese Haliburton"
 season: "2023-24"
 team: "IND"
 archetype: "Elite Playmaker"
-composite_score: 81.04
+composite_score: 78.18
 salary: 40079866
-vorpd: 1.39
-off_rating_adj: 4.58
-def_rating_adj: -0.38
-on_off_diff: 8.75
+vorpd: 1.52
+off_rating_adj: 3.74
+def_rating_adj: -0.31
+on_off_diff: 7.15
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | IND |
-| Composite Score | **81.0** / 100 |
+| Composite Score | **78.2** / 100 |
 | Salary | $40,079,866 |
-| VORPD | 1.39 |
-| Off Rating Adj | 4.58 |
-| Def Rating Adj | -0.38 |
-| On/Off Diff | 8.75 |
-| TS% | 60.1% |
-| 3P% | 36.4% |
+| VORPD | 1.52 |
+| Off Rating Adj | 3.74 |
+| Def Rating Adj | -0.31 |
+| On/Off Diff | 7.15 |
+| TS% | 59.9% |
+| 3P% | 36.7% |
 | Influence Score | 0.14 |
 | Season Weight | 0.45 |
 

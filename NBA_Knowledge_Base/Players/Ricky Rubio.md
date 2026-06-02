@@ -3,12 +3,12 @@ player: "Ricky Rubio"
 team: "CLE"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 50.03
+composite_score: 41.24
 salary: 1017781
-vorpd: 24.14
-off_rating_adj: -6.29
-def_rating_adj: 4.05
-on_off_diff: -1.85
+vorpd: 23.93
+off_rating_adj: -3.34
+def_rating_adj: 2.16
+on_off_diff: -0.97
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **50.0** / 100 |
+| Composite Score | **41.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 24.14 |
-| Off Rating Adj | -6.29 |
-| Def Rating Adj | 4.05 |
-| On/Off Diff | -1.85 |
-| TS% | 50.3% |
-| 3P% | 25.6% |
+| VORPD | 23.93 |
+| Off Rating Adj | -3.34 |
+| Def Rating Adj | 2.16 |
+| On/Off Diff | -0.97 |
+| TS% | 52.3% |
+| 3P% | 34.1% |
 | Influence Score | 0.09 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-33.3 pts over 2 seasons)
+> **Trend:** Trending DOWN (-33.0 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | CLE | 50.0 | $1017781 | 24.14 | -6.29 | 4.05 | -1.85 |
-| 2021-22 | IND | 83.3 | $925258 | 62.57 | -1.82 | 13.67 | 8.22 |
+| 2022-23 | CLE | 41.2 | $1017781 | 23.93 | -3.34 | 2.16 | -0.97 |
+| 2021-22 | IND | 74.2 | $925258 | 58.02 | -1.20 | 9.02 | 5.43 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.75, 2.43)
+- **Cluster:** 5
+- **PCA Position:** (-1.43, 1.99)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

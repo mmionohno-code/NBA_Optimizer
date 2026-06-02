@@ -4,12 +4,12 @@ player: "Devin Booker"
 season: "2022-23"
 team: "PHX"
 archetype: "Elite Playmaker"
-composite_score: 71.51
+composite_score: 68.04
 salary: 42508792
-vorpd: 1.08
-off_rating_adj: 7.38
-def_rating_adj: -3.32
-on_off_diff: 8.03
+vorpd: 1.20
+off_rating_adj: 5.80
+def_rating_adj: -2.61
+on_off_diff: 6.33
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | PHX |
-| Composite Score | **71.5** / 100 |
+| Composite Score | **68.0** / 100 |
 | Salary | $42,508,792 |
-| VORPD | 1.08 |
-| Off Rating Adj | 7.38 |
-| Def Rating Adj | -3.32 |
-| On/Off Diff | 8.03 |
-| TS% | 59.8% |
-| 3P% | 35.1% |
+| VORPD | 1.20 |
+| Off Rating Adj | 5.80 |
+| Def Rating Adj | -2.61 |
+| On/Off Diff | 6.33 |
+| TS% | 59.6% |
+| 3P% | 35.9% |
 | Influence Score | 0.19 |
 | Season Weight | 0.35 |
 

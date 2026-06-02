@@ -4,12 +4,12 @@ player: "Christian Wood"
 season: "2022-23"
 team: "DAL"
 archetype: "Two-Way Big"
-composite_score: 40.95
+composite_score: 32.77
 salary: 1017781
-vorpd: 15.22
-off_rating_adj: 2.21
-def_rating_adj: -2.68
-on_off_diff: -1.35
+vorpd: 15.61
+off_rating_adj: 1.71
+def_rating_adj: -2.08
+on_off_diff: -1.04
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | DAL |
-| Composite Score | **41.0** / 100 |
+| Composite Score | **32.8** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 15.22 |
-| Off Rating Adj | 2.21 |
-| Def Rating Adj | -2.68 |
-| On/Off Diff | -1.35 |
-| TS% | 61.6% |
-| 3P% | 37.6% |
+| VORPD | 15.61 |
+| Off Rating Adj | 1.71 |
+| Def Rating Adj | -2.08 |
+| On/Off Diff | -1.04 |
+| TS% | 61.1% |
+| 3P% | 37.2% |
 | Influence Score | 0.16 |
 | Season Weight | 0.35 |
 

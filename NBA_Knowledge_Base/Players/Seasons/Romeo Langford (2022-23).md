@@ -4,12 +4,12 @@ player: "Romeo Langford"
 season: "2022-23"
 team: "SAS"
 archetype: "Defensive Wing"
-composite_score: 38.92
+composite_score: 31.19
 salary: 1017781
-vorpd: 13.23
-off_rating_adj: -0.51
-def_rating_adj: 0.95
-on_off_diff: 2.08
+vorpd: 14.06
+off_rating_adj: -0.32
+def_rating_adj: 0.59
+on_off_diff: 1.30
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | SAS |
-| Composite Score | **38.9** / 100 |
+| Composite Score | **31.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 13.23 |
-| Off Rating Adj | -0.51 |
-| Def Rating Adj | 0.95 |
-| On/Off Diff | 2.08 |
-| TS% | 54.3% |
-| 3P% | 26.2% |
+| VORPD | 14.06 |
+| Off Rating Adj | -0.32 |
+| Def Rating Adj | 0.59 |
+| On/Off Diff | 1.30 |
+| TS% | 55.1% |
+| 3P% | 34.8% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

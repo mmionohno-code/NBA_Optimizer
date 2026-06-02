@@ -4,12 +4,12 @@ player: "KJ Martin"
 season: "2021-22"
 team: "HOU"
 archetype: "Bench / Role Player"
-composite_score: 35.60
+composite_score: 27.72
 salary: 925258
-vorpd: 10.96
-off_rating_adj: 0.15
-def_rating_adj: -0.79
-on_off_diff: 2.72
+vorpd: 7.75
+off_rating_adj: 0.12
+def_rating_adj: -0.60
+on_off_diff: 2.09
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | HOU |
-| Composite Score | **35.6** / 100 |
+| Composite Score | **27.7** / 100 |
 | Salary | $925,258 |
-| VORPD | 10.96 |
-| Off Rating Adj | 0.15 |
-| Def Rating Adj | -0.79 |
-| On/Off Diff | 2.72 |
-| TS% | 59.4% |
-| 3P% | 35.7% |
+| VORPD | 7.75 |
+| Off Rating Adj | 0.12 |
+| Def Rating Adj | -0.60 |
+| On/Off Diff | 2.09 |
+| TS% | 58.9% |
+| 3P% | 36.0% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

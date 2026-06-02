@@ -4,12 +4,12 @@ player: "Usman Garuba"
 season: "2022-23"
 team: "HOU"
 archetype: "Bench / Role Player"
-composite_score: 26.66
+composite_score: 17.38
 salary: 1017781
-vorpd: 1.18
-off_rating_adj: -4.93
-def_rating_adj: 1.53
-on_off_diff: -2.76
+vorpd: 0.49
+off_rating_adj: -3.25
+def_rating_adj: 1.01
+on_off_diff: -1.82
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | HOU |
-| Composite Score | **26.7** / 100 |
+| Composite Score | **17.4** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 1.18 |
-| Off Rating Adj | -4.93 |
-| Def Rating Adj | 1.53 |
-| On/Off Diff | -2.76 |
-| TS% | 57.2% |
-| 3P% | 40.7% |
+| VORPD | 0.49 |
+| Off Rating Adj | -3.25 |
+| Def Rating Adj | 1.01 |
+| On/Off Diff | -1.82 |
+| TS% | 57.3% |
+| 3P% | 37.5% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

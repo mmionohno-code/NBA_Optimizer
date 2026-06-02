@@ -4,12 +4,12 @@ player: "Lauri Markkanen"
 season: "2022-23"
 team: "UTA"
 archetype: "Perimeter Scorer"
-composite_score: 56.68
+composite_score: 49.53
 salary: 37110898
-vorpd: 0.84
-off_rating_adj: 5.57
-def_rating_adj: 1.13
-on_off_diff: 10.17
+vorpd: 0.88
+off_rating_adj: 4.56
+def_rating_adj: 0.92
+on_off_diff: 8.35
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | UTA |
-| Composite Score | **56.7** / 100 |
+| Composite Score | **49.5** / 100 |
 | Salary | $37,110,898 |
-| VORPD | 0.84 |
-| Off Rating Adj | 5.57 |
-| Def Rating Adj | 1.13 |
-| On/Off Diff | 10.17 |
-| TS% | 63.3% |
-| 3P% | 39.1% |
+| VORPD | 0.88 |
+| Off Rating Adj | 4.56 |
+| Def Rating Adj | 0.92 |
+| On/Off Diff | 8.35 |
+| TS% | 62.8% |
+| 3P% | 38.3% |
 | Influence Score | 0.16 |
 | Season Weight | 0.35 |
 

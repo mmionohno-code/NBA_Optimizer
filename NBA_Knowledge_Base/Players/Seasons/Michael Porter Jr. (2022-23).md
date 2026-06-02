@@ -4,12 +4,12 @@ player: "Michael Porter Jr."
 season: "2022-23"
 team: "DEN"
 archetype: "Perimeter Scorer"
-composite_score: 56.38
+composite_score: 48.43
 salary: 30662820
-vorpd: 1.01
-off_rating_adj: 9.05
-def_rating_adj: 0.22
-on_off_diff: 12.80
+vorpd: 1.03
+off_rating_adj: 7.08
+def_rating_adj: 0.17
+on_off_diff: 10.03
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | DEN |
-| Composite Score | **56.4** / 100 |
+| Composite Score | **48.4** / 100 |
 | Salary | $30,662,820 |
-| VORPD | 1.01 |
-| Off Rating Adj | 9.05 |
-| Def Rating Adj | 0.22 |
-| On/Off Diff | 12.80 |
-| TS% | 61.4% |
-| 3P% | 41.4% |
-| Influence Score | 0.14 |
+| VORPD | 1.03 |
+| Off Rating Adj | 7.08 |
+| Def Rating Adj | 0.17 |
+| On/Off Diff | 10.03 |
+| TS% | 61.0% |
+| 3P% | 39.7% |
+| Influence Score | 0.13 |
 | Season Weight | 0.35 |
 
 _Navigate back to the full player profile: [[Players/Michael Porter Jr.]]_

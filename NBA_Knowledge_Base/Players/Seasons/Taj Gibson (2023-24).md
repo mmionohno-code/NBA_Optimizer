@@ -3,32 +3,32 @@ player_season: "Taj Gibson (2023-24)"
 player: "Taj Gibson"
 season: "2023-24"
 team: "DET"
-archetype: "Bench / Role Player"
-composite_score: 26.40
+archetype: "Defensive Wing"
+composite_score: 17.94
 salary: 1119563
-vorpd: 0.84
-off_rating_adj: -4.61
-def_rating_adj: 8.05
-on_off_diff: -6.26
+vorpd: 0.73
+off_rating_adj: -1.34
+def_rating_adj: 2.33
+on_off_diff: -1.81
 season_weight: 0.45
-tags: [season-note, bench-/-role-player]
+tags: [season-note, defensive-wing]
 ---
 # Taj Gibson — 2023-24
 
-> Part of [[Players/Taj Gibson]] | Archetype: [[Archetypes/Bench / Role Player]]
+> Part of [[Players/Taj Gibson]] | Archetype: [[Archetypes/Defensive Wing]]
 
 | Metric | Value |
 |---|---|
 | Season | 2023-24 |
 | Team | DET |
-| Composite Score | **26.4** / 100 |
+| Composite Score | **17.9** / 100 |
 | Salary | $1,119,563 |
-| VORPD | 0.84 |
-| Off Rating Adj | -4.61 |
-| Def Rating Adj | 8.05 |
-| On/Off Diff | -6.26 |
-| TS% | 55.0% |
-| 3P% | 20.0% |
+| VORPD | 0.73 |
+| Off Rating Adj | -1.34 |
+| Def Rating Adj | 2.33 |
+| On/Off Diff | -1.81 |
+| TS% | 56.0% |
+| 3P% | 36.8% |
 | Influence Score | 0.05 |
 | Season Weight | 0.45 |
 

@@ -4,12 +4,12 @@ player: "Marcus Sasser"
 season: "2023-24"
 team: "DET"
 archetype: "Versatile Scorer"
-composite_score: 49.89
+composite_score: 41.51
 salary: 2540023
-vorpd: 9.62
-off_rating_adj: 0.49
-def_rating_adj: -0.55
-on_off_diff: 1.41
+vorpd: 9.60
+off_rating_adj: 0.36
+def_rating_adj: -0.40
+on_off_diff: 1.02
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,13 +21,13 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | DET |
-| Composite Score | **49.9** / 100 |
+| Composite Score | **41.5** / 100 |
 | Salary | $2,540,023 |
-| VORPD | 9.62 |
-| Off Rating Adj | 0.49 |
-| Def Rating Adj | -0.55 |
-| On/Off Diff | 1.41 |
-| TS% | 55.0% |
+| VORPD | 9.60 |
+| Off Rating Adj | 0.36 |
+| Def Rating Adj | -0.40 |
+| On/Off Diff | 1.02 |
+| TS% | 55.4% |
 | 3P% | 37.5% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |

@@ -3,12 +3,12 @@ player: "Jarrett Allen"
 team: "CLE"
 season: "2023-24"
 archetype: "Two-Way Big"
-composite_score: 47.20
+composite_score: 39.02
 salary: 17597987
 vorpd: 1.24
-off_rating_adj: 2.33
-def_rating_adj: 0.28
-on_off_diff: 4.71
+off_rating_adj: 1.93
+def_rating_adj: 0.23
+on_off_diff: 3.93
 is_shooter: 0
 tags: [player, two-way-big]
 ---
@@ -20,14 +20,14 @@ tags: [player, two-way-big]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **47.2** / 100 |
+| Composite Score | **39.0** / 100 |
 | Salary | $17,597,987 |
 | VORPD | 1.24 |
-| Off Rating Adj | 2.33 |
-| Def Rating Adj | 0.28 |
-| On/Off Diff | 4.71 |
-| TS% | 65.0% |
-| 3P% | 35.6% |
+| Off Rating Adj | 1.93 |
+| Def Rating Adj | 0.23 |
+| On/Off Diff | 3.93 |
+| TS% | 64.2% |
+| 3P% | 37.0% |
 | Influence Score | 0.12 |
 
 ## Season History (3 seasons)
@@ -36,14 +36,14 @@ tags: [player, two-way-big]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CLE | 47.2 | $17597987 | 1.24 | 2.33 | 0.28 | 4.71 |
-| 2022-23 | CLE | 43.2 | $15998111 | 1.11 | 3.01 | -0.55 | 4.02 |
-| 2021-22 | CLE | 43.2 | $14543784 | 1.22 | 1.09 | 1.93 | 2.85 |
+| 2023-24 | CLE | 39.0 | $17597987 | 1.24 | 1.93 | 0.23 | 3.93 |
+| 2022-23 | CLE | 35.2 | $15998111 | 1.15 | 2.46 | -0.45 | 3.30 |
+| 2021-22 | CLE | 35.0 | $14543784 | 1.00 | 0.86 | 1.51 | 2.25 |
 
 ## Profile
 
 - **Cluster:** 4
-- **PCA Position:** (1.79, -1.88)
+- **PCA Position:** (1.91, -2.14)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

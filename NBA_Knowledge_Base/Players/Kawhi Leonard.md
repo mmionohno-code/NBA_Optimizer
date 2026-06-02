@@ -3,12 +3,12 @@ player: "Kawhi Leonard"
 team: "LAC"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 75.92
+composite_score: 68.65
 salary: 43994967
-vorpd: 1.15
-off_rating_adj: 4.13
-def_rating_adj: 3.05
-on_off_diff: 10.52
+vorpd: 1.17
+off_rating_adj: 3.40
+def_rating_adj: 2.51
+on_off_diff: 8.68
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,29 +20,29 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **75.9** / 100 |
+| Composite Score | **68.7** / 100 |
 | Salary | $43,994,967 |
-| VORPD | 1.15 |
-| Off Rating Adj | 4.13 |
-| Def Rating Adj | 3.05 |
-| On/Off Diff | 10.52 |
-| TS% | 62.0% |
-| 3P% | 41.7% |
+| VORPD | 1.17 |
+| Off Rating Adj | 3.40 |
+| Def Rating Adj | 2.51 |
+| On/Off Diff | 8.68 |
+| TS% | 61.6% |
+| 3P% | 39.8% |
 | Influence Score | 0.16 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Stable (+1.5 pts over 2 seasons)
+> **Trend:** Stable (+1.4 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | LAC | 75.9 | $43994967 | 1.15 | 4.13 | 3.05 | 10.52 |
-| 2022-23 | LAC | 74.4 | $39995278 | 1.22 | 6.69 | 1.94 | 10.65 |
+| 2023-24 | LAC | 68.7 | $43994967 | 1.17 | 3.40 | 2.51 | 8.68 |
+| 2022-23 | LAC | 67.3 | $39995278 | 1.26 | 5.20 | 1.51 | 8.30 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (4.08, -0.35)
+- **Cluster:** 0
+- **PCA Position:** (4.44, -1.04)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

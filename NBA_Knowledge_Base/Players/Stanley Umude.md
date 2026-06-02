@@ -3,12 +3,12 @@ player: "Stanley Umude"
 team: "DET"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 27.77
+composite_score: 20.39
 salary: 1119563
-vorpd: 2.07
-off_rating_adj: -2.41
-def_rating_adj: 1.35
-on_off_diff: 1.75
+vorpd: 2.91
+off_rating_adj: -0.92
+def_rating_adj: 0.51
+on_off_diff: 0.66
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **27.8** / 100 |
+| Composite Score | **20.4** / 100 |
 | Salary | $1,119,563 |
-| VORPD | 2.07 |
-| Off Rating Adj | -2.41 |
-| Def Rating Adj | 1.35 |
-| On/Off Diff | 1.75 |
-| TS% | 60.1% |
-| 3P% | 45.3% |
+| VORPD | 2.91 |
+| Off Rating Adj | -0.92 |
+| Def Rating Adj | 0.51 |
+| On/Off Diff | 0.66 |
+| TS% | 59.2% |
+| 3P% | 38.8% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DET | 27.8 | $1119563 | 2.07 | -2.41 | 1.35 | 1.75 |
+| 2023-24 | DET | 20.4 | $1119563 | 2.91 | -0.92 | 0.51 | 0.66 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.48, -1.99)
+- **Cluster:** 1
+- **PCA Position:** (-0.69, -1.58)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -3,12 +3,12 @@ player: "Jordan Clarkson"
 team: "UTA"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 51.70
+composite_score: 47.88
 salary: 11392792
-vorpd: 2.30
-off_rating_adj: 1.14
-def_rating_adj: -0.98
-on_off_diff: -0.73
+vorpd: 2.70
+off_rating_adj: 0.88
+def_rating_adj: -0.75
+on_off_diff: -0.56
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **51.7** / 100 |
+| Composite Score | **47.9** / 100 |
 | Salary | $11,392,792 |
-| VORPD | 2.30 |
-| Off Rating Adj | 1.14 |
-| Def Rating Adj | -0.98 |
-| On/Off Diff | -0.73 |
-| TS% | 52.9% |
-| 3P% | 29.4% |
+| VORPD | 2.70 |
+| Off Rating Adj | 0.88 |
+| Def Rating Adj | -0.75 |
+| On/Off Diff | -0.56 |
+| TS% | 53.5% |
+| 3P% | 33.1% |
 | Influence Score | 0.14 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-4.2 pts over 3 seasons)
+> **Trend:** Trending DOWN (-5.2 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | UTA | 51.7 | $11392792 | 2.30 | 1.14 | -0.98 | -0.73 |
-| 2022-23 | UTA | 56.2 | $10357045 | 2.97 | 5.57 | -1.87 | 3.27 |
-| 2021-22 | UTA | 55.9 | $9415526 | 3.24 | 2.00 | 1.34 | 3.71 |
+| 2023-24 | UTA | 47.9 | $11392792 | 2.70 | 0.88 | -0.75 | -0.56 |
+| 2022-23 | UTA | 52.7 | $10357045 | 3.46 | 4.45 | -1.50 | 2.63 |
+| 2021-22 | UTA | 53.1 | $9415526 | 3.46 | 1.62 | 1.09 | 3.02 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-0.21, 1.96)
+- **Cluster:** 6
+- **PCA Position:** (-0.29, 2.43)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

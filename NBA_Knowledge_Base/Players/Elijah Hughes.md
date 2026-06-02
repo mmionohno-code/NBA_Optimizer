@@ -3,12 +3,12 @@ player: "Elijah Hughes"
 team: "POR"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 6.39
+composite_score: 11.33
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -7.01
-def_rating_adj: -7.52
-on_off_diff: -18.58
+off_rating_adj: -3.26
+def_rating_adj: -3.50
+on_off_diff: -8.65
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **6.4** / 100 |
+| Composite Score | **11.3** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -7.01 |
-| Def Rating Adj | -7.52 |
-| On/Off Diff | -18.58 |
-| TS% | 49.5% |
-| 3P% | 26.3% |
+| Off Rating Adj | -3.26 |
+| Def Rating Adj | -3.50 |
+| On/Off Diff | -8.65 |
+| TS% | 51.5% |
+| 3P% | 33.5% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | POR | 6.4 | $925258 | 0.00 | -7.01 | -7.52 | -18.58 |
+| 2021-22 | POR | 11.3 | $925258 | 0.00 | -3.26 | -3.50 | -8.65 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-4.56, 1.57)
+- **Cluster:** 5
+- **PCA Position:** (-3.62, 1.65)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

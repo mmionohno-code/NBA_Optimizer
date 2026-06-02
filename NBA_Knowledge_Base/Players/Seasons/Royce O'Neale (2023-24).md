@@ -4,12 +4,12 @@ player: "Royce O'Neale"
 season: "2023-24"
 team: "PHX"
 archetype: "Defensive Wing"
-composite_score: 44.97
+composite_score: 36.69
 salary: 8908981
-vorpd: 2.19
+vorpd: 2.20
 off_rating_adj: -0.02
-def_rating_adj: 2.36
-on_off_diff: 3.85
+def_rating_adj: 1.88
+on_off_diff: 3.07
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | PHX |
-| Composite Score | **45.0** / 100 |
+| Composite Score | **36.7** / 100 |
 | Salary | $8,908,981 |
-| VORPD | 2.19 |
+| VORPD | 2.20 |
 | Off Rating Adj | -0.02 |
-| Def Rating Adj | 2.36 |
-| On/Off Diff | 3.85 |
-| TS% | 55.4% |
-| 3P% | 37.0% |
+| Def Rating Adj | 1.88 |
+| On/Off Diff | 3.07 |
+| TS% | 55.7% |
+| 3P% | 37.2% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

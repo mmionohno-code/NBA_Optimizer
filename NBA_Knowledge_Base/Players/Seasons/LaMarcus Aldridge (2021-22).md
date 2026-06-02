@@ -4,12 +4,12 @@ player: "LaMarcus Aldridge"
 season: "2021-22"
 team: "BKN"
 archetype: "Two-Way Big"
-composite_score: 36.40
+composite_score: 28.99
 salary: 925258
-vorpd: 11.83
-off_rating_adj: -0.30
-def_rating_adj: 0.22
-on_off_diff: -0.27
+vorpd: 9.12
+off_rating_adj: -0.20
+def_rating_adj: 0.15
+on_off_diff: -0.18
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | BKN |
-| Composite Score | **36.4** / 100 |
+| Composite Score | **29.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.83 |
-| Off Rating Adj | -0.30 |
-| Def Rating Adj | 0.22 |
-| On/Off Diff | -0.27 |
-| TS% | 59.4% |
-| 3P% | 30.4% |
+| VORPD | 9.12 |
+| Off Rating Adj | -0.20 |
+| Def Rating Adj | 0.15 |
+| On/Off Diff | -0.18 |
+| TS% | 58.8% |
+| 3P% | 35.2% |
 | Influence Score | 0.13 |
 | Season Weight | 0.20 |
 

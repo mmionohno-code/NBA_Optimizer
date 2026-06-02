@@ -4,12 +4,12 @@ player: "Quentin Grimes"
 season: "2022-23"
 team: "NYK"
 archetype: "Perimeter Scorer"
-composite_score: 42.22
+composite_score: 33.96
 salary: 6992142
-vorpd: 2.40
-off_rating_adj: 5.63
-def_rating_adj: -2.03
-on_off_diff: 2.35
+vorpd: 2.44
+off_rating_adj: 4.56
+def_rating_adj: -1.64
+on_off_diff: 1.92
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | NYK |
-| Composite Score | **42.2** / 100 |
+| Composite Score | **34.0** / 100 |
 | Salary | $6,992,142 |
-| VORPD | 2.40 |
-| Off Rating Adj | 5.63 |
-| Def Rating Adj | -2.03 |
-| On/Off Diff | 2.35 |
-| TS% | 61.0% |
-| 3P% | 38.6% |
+| VORPD | 2.44 |
+| Off Rating Adj | 4.56 |
+| Def Rating Adj | -1.64 |
+| On/Off Diff | 1.92 |
+| TS% | 60.6% |
+| 3P% | 37.9% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

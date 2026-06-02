@@ -4,12 +4,12 @@ player: "Terance Mann"
 season: "2021-22"
 team: "LAC"
 archetype: "Defensive Wing"
-composite_score: 47.76
+composite_score: 40.86
 salary: 11271433
-vorpd: 1.98
-off_rating_adj: 0.64
-def_rating_adj: 2.55
-on_off_diff: 4.68
+vorpd: 1.80
+off_rating_adj: 0.52
+def_rating_adj: 2.10
+on_off_diff: 3.86
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | LAC |
-| Composite Score | **47.8** / 100 |
+| Composite Score | **40.9** / 100 |
 | Salary | $11,271,433 |
-| VORPD | 1.98 |
-| Off Rating Adj | 0.64 |
-| Def Rating Adj | 2.55 |
-| On/Off Diff | 4.68 |
-| TS% | 57.0% |
-| 3P% | 36.5% |
+| VORPD | 1.80 |
+| Off Rating Adj | 0.52 |
+| Def Rating Adj | 2.10 |
+| On/Off Diff | 3.86 |
+| TS% | 56.9% |
+| 3P% | 36.3% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

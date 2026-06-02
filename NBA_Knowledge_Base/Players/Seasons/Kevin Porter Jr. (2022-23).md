@@ -4,12 +4,12 @@ player: "Kevin Porter Jr."
 season: "2022-23"
 team: "HOU"
 archetype: "Elite Playmaker"
-composite_score: 63.64
+composite_score: 57.87
 salary: 4106715
-vorpd: 9.30
-off_rating_adj: 2.97
-def_rating_adj: -2.47
-on_off_diff: 0.56
+vorpd: 9.98
+off_rating_adj: 2.38
+def_rating_adj: -1.98
+on_off_diff: 0.45
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | HOU |
-| Composite Score | **63.6** / 100 |
+| Composite Score | **57.9** / 100 |
 | Salary | $4,106,715 |
-| VORPD | 9.30 |
-| Off Rating Adj | 2.97 |
-| Def Rating Adj | -2.47 |
-| On/Off Diff | 0.56 |
-| TS% | 56.7% |
-| 3P% | 36.6% |
+| VORPD | 9.98 |
+| Off Rating Adj | 2.38 |
+| Def Rating Adj | -1.98 |
+| On/Off Diff | 0.45 |
+| TS% | 56.8% |
+| 3P% | 36.7% |
 | Influence Score | 0.14 |
 | Season Weight | 0.35 |
 

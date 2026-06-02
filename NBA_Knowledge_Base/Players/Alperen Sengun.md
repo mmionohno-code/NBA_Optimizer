@@ -3,12 +3,12 @@ player: "Alperen Sengun"
 team: "HOU"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 61.18
+composite_score: 55.53
 salary: 3922440
-vorpd: 9.11
-off_rating_adj: 1.60
-def_rating_adj: -3.15
-on_off_diff: -0.84
+vorpd: 9.79
+off_rating_adj: 1.29
+def_rating_adj: -2.53
+on_off_diff: -0.67
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,30 +20,30 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **61.2** / 100 |
+| Composite Score | **55.5** / 100 |
 | Salary | $3,922,440 |
-| VORPD | 9.11 |
-| Off Rating Adj | 1.60 |
-| Def Rating Adj | -3.15 |
-| On/Off Diff | -0.84 |
-| TS% | 58.4% |
-| 3P% | 29.7% |
+| VORPD | 9.79 |
+| Off Rating Adj | 1.29 |
+| Def Rating Adj | -2.53 |
+| On/Off Diff | -0.67 |
+| TS% | 58.3% |
+| 3P% | 35.1% |
 | Influence Score | 0.16 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+14.3 pts over 3 seasons)
+> **Trend:** Trending UP (+13.8 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | HOU | 61.2 | $3922440 | 9.11 | 1.60 | -3.15 | -0.84 |
-| 2022-23 | HOU | 54.0 | $1017781 | 28.01 | 4.27 | -3.27 | 2.16 |
-| 2021-22 | HOU | 46.9 | $925258 | 23.20 | -1.95 | -1.99 | -1.17 |
+| 2023-24 | HOU | 55.5 | $3922440 | 9.79 | 1.29 | -2.53 | -0.67 |
+| 2022-23 | HOU | 48.0 | $1017781 | 30.55 | 3.47 | -2.66 | 1.75 |
+| 2021-22 | HOU | 41.8 | $925258 | 22.91 | -1.46 | -1.49 | -0.88 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (1.61, 1.76)
+- **Cluster:** 0
+- **PCA Position:** (1.79, 1.76)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

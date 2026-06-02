@@ -4,12 +4,12 @@ player: "Seth Curry"
 season: "2023-24"
 team: "CHA"
 archetype: "Defensive Wing"
-composite_score: 49.59
+composite_score: 38.48
 salary: 1544398
-vorpd: 15.63
-off_rating_adj: 4.29
-def_rating_adj: 7.78
-on_off_diff: 3.70
+vorpd: 13.83
+off_rating_adj: 2.37
+def_rating_adj: 4.30
+on_off_diff: 2.05
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | CHA |
-| Composite Score | **49.6** / 100 |
+| Composite Score | **38.5** / 100 |
 | Salary | $1,544,398 |
-| VORPD | 15.63 |
-| Off Rating Adj | 4.29 |
-| Def Rating Adj | 7.78 |
-| On/Off Diff | 3.70 |
-| TS% | 54.3% |
-| 3P% | 35.2% |
+| VORPD | 13.83 |
+| Off Rating Adj | 2.37 |
+| Def Rating Adj | 4.30 |
+| On/Off Diff | 2.05 |
+| TS% | 55.1% |
+| 3P% | 36.8% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

@@ -1,11 +1,11 @@
 ---
 scenario: "E"
 label: "Hard Cap - Playmaker Heavy"
-total_salary: 164103034
-avg_composite_score: 67.00
+total_salary: 163265579
+avg_composite_score: 59.99
 roster_size: 15
 tags: [scenario]
-players: ["Nikola Jokić", "Shai Gilgeous-Alexander", "Marcus Smart", "Jusuf Nurkić", "De'Anthony Melton", "Victor Wembanyama", "Dennis Smith Jr.", "T.J. McConnell", "Scotty Pippen Jr.", "Jared Butler", "Russell Westbrook", "Kris Dunn", "Chris Paul", "Clint Capela", "Kyle Lowry"]
+players: ["Nikola Jokić", "Shai Gilgeous-Alexander", "Marcus Smart", "Victor Wembanyama", "Tre Jones", "De'Anthony Melton", "Russell Westbrook", "Dennis Smith Jr.", "T.J. McConnell", "D'Angelo Russell", "Kris Dunn", "Chris Paul", "Vasilije Micic", "Chet Holmgren", "Kyle Lowry"]
 ---
 # Scenario E: Hard Cap - Playmaker Heavy
 
@@ -13,38 +13,38 @@ players: ["Nikola Jokić", "Shai Gilgeous-Alexander", "Marcus Smart", "Jusuf Nur
 
 | Metric | Value |
 |---|---|
-| Total Salary | $164,103,034 |
+| Total Salary | $163,265,579 |
 | Roster Size | 15 players |
-| Avg Composite Score | 67.0 |
+| Avg Composite Score | 60.0 |
 
 ## Archetype Breakdown
 
-  - Elite Playmaker: 5
-  - Defensive Wing: 3
-  - Perimeter Scorer: 2
+  - Elite Playmaker: 4
+  - Perimeter Scorer: 3
+  - Versatile Scorer: 3
   - Two-Way Big: 2
-  - Versatile Scorer: 2
+  - Defensive Wing: 2
   - Bench / Role Player: 1
 
 ## Full Roster
 
 | Player | Archetype | Score | Salary | Team |
 |---|---|---|---|---|
-| [[Players/Nikola Jokić|Nikola Jokić]] | Elite Playmaker | 95.9 | $48,592,024 | DEN |
-| [[Players/Shai Gilgeous-Alexander|Shai Gilgeous-Alexander]] | Elite Playmaker | 91.4 | $33,729,226 | OKC |
-| [[Players/Marcus Smart|Marcus Smart]] | Elite Playmaker | 78.1 | $17,528,347 | MEM |
-| [[Players/Jusuf Nurkić|Jusuf Nurkić]] | Defensive Wing | 69.7 | $17,048,050 | PHX |
-| [[Players/De'Anthony Melton|De'Anthony Melton]] | Perimeter Scorer | 69.2 | $2,710,900 | PHI |
-| [[Players/Victor Wembanyama|Victor Wembanyama]] | Two-Way Big | 68.9 | $11,770,308 | SAS |
-| [[Players/Dennis Smith Jr.|Dennis Smith Jr.]] | Defensive Wing | 65.7 | $3,000,000 | BKN |
-| [[Players/Russell Westbrook|Russell Westbrook]] | Versatile Scorer | 65.4 | $2,020,490 | LAC |
-| [[Players/Scotty Pippen Jr.|Scotty Pippen Jr.]] | Elite Playmaker | 65.3 | $1,998,018 | MEM |
-| [[Players/T.J. McConnell|T.J. McConnell]] | Elite Playmaker | 65.2 | $8,974,973 | IND |
-| [[Players/Jared Butler|Jared Butler]] | Defensive Wing | 64.3 | $2,019,706 | WAS |
-| [[Players/Kris Dunn|Kris Dunn]] | Perimeter Scorer | 62.5 | $4,774,686 | UTA |
-| [[Players/Chris Paul|Chris Paul]] | Versatile Scorer | 60.0 | $2,020,490 | GSW |
-| [[Players/Clint Capela|Clint Capela]] | Two-Way Big | 41.9 | $5,895,326 | ATL |
-| [[Players/Kyle Lowry|Kyle Lowry]] | Bench / Role Player | 41.7 | $2,020,490 | PHI |
+| [[Players/Nikola Jokić|Nikola Jokić]] | Elite Playmaker | 96.3 | $48,592,024 | DEN |
+| [[Players/Shai Gilgeous-Alexander|Shai Gilgeous-Alexander]] | Elite Playmaker | 89.0 | $33,729,226 | OKC |
+| [[Players/Marcus Smart|Marcus Smart]] | Elite Playmaker | 68.6 | $17,528,347 | MEM |
+| [[Players/Victor Wembanyama|Victor Wembanyama]] | Two-Way Big | 65.8 | $11,770,308 | SAS |
+| [[Players/Tre Jones|Tre Jones]] | Defensive Wing | 62.5 | $7,039,195 | SAS |
+| [[Players/De'Anthony Melton|De'Anthony Melton]] | Perimeter Scorer | 61.9 | $2,710,900 | PHI |
+| [[Players/Russell Westbrook|Russell Westbrook]] | Versatile Scorer | 60.9 | $2,020,490 | LAC |
+| [[Players/Dennis Smith Jr.|Dennis Smith Jr.]] | Defensive Wing | 57.6 | $3,000,000 | BKN |
+| [[Players/T.J. McConnell|T.J. McConnell]] | Elite Playmaker | 56.8 | $8,974,973 | IND |
+| [[Players/Kris Dunn|Kris Dunn]] | Perimeter Scorer | 54.5 | $4,774,686 | UTA |
+| [[Players/D'Angelo Russell|D'Angelo Russell]] | Perimeter Scorer | 51.8 | $5,002,228 | LAL |
+| [[Players/Vasilije Micic|Vasilije Micic]] | Versatile Scorer | 51.8 | $2,000,000 | CHA |
+| [[Players/Chris Paul|Chris Paul]] | Versatile Scorer | 51.7 | $2,020,490 | GSW |
+| [[Players/Chet Holmgren|Chet Holmgren]] | Two-Way Big | 39.4 | $12,082,222 | OKC |
+| [[Players/Kyle Lowry|Kyle Lowry]] | Bench / Role Player | 31.2 | $2,020,490 | PHI |
 
 ## Analysis
 

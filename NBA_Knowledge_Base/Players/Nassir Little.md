@@ -3,12 +3,12 @@ player: "Nassir Little"
 team: "PHX"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 7.55
+composite_score: 5.85
 salary: 2733973
 vorpd: 0.00
-off_rating_adj: -10.42
-def_rating_adj: 0.06
-on_off_diff: -14.39
+off_rating_adj: -4.99
+def_rating_adj: 0.03
+on_off_diff: -6.88
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **7.5** / 100 |
+| Composite Score | **5.8** / 100 |
 | Salary | $2,733,973 |
 | VORPD | 0.00 |
-| Off Rating Adj | -10.42 |
-| Def Rating Adj | 0.06 |
-| On/Off Diff | -14.39 |
+| Off Rating Adj | -4.99 |
+| Def Rating Adj | 0.03 |
+| On/Off Diff | -6.88 |
 | TS% | 57.4% |
-| 3P% | 30.0% |
+| 3P% | 35.8% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-43.3 pts over 3 seasons)
+> **Trend:** Trending DOWN (-38.4 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | PHX | 7.5 | $2733973 | 0.00 | -10.42 | 0.06 | -14.39 |
-| 2022-23 | POR | 25.9 | $2485421 | 0.19 | -0.26 | -3.59 | -4.52 |
-| 2021-22 | POR | 50.8 | $2259481 | 11.23 | 4.99 | 3.18 | 10.86 |
+| 2023-24 | PHX | 5.8 | $2733973 | 0.00 | -4.99 | 0.03 | -6.88 |
+| 2022-23 | POR | 18.5 | $2485421 | 0.63 | -0.17 | -2.37 | -2.99 |
+| 2021-22 | POR | 44.3 | $2259481 | 10.51 | 3.42 | 2.18 | 7.44 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-4.01, -0.28)
+- **Cluster:** 5
+- **PCA Position:** (-3.19, -0.38)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

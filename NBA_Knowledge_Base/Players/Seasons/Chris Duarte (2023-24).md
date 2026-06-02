@@ -4,12 +4,12 @@ player: "Chris Duarte"
 season: "2023-24"
 team: "SAC"
 archetype: "Bench / Role Player"
-composite_score: 23.62
+composite_score: 16.99
 salary: 4000000
 vorpd: 0.00
-off_rating_adj: -4.30
-def_rating_adj: -0.40
-on_off_diff: -7.93
+off_rating_adj: -2.54
+def_rating_adj: -0.24
+on_off_diff: -4.67
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | SAC |
-| Composite Score | **23.6** / 100 |
+| Composite Score | **17.0** / 100 |
 | Salary | $4,000,000 |
 | VORPD | 0.00 |
-| Off Rating Adj | -4.30 |
-| Def Rating Adj | -0.40 |
-| On/Off Diff | -7.93 |
-| TS% | 53.8% |
-| 3P% | 34.6% |
+| Off Rating Adj | -2.54 |
+| Def Rating Adj | -0.24 |
+| On/Off Diff | -4.67 |
+| TS% | 54.8% |
+| 3P% | 36.5% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

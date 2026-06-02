@@ -4,12 +4,12 @@ player: "Alec Burks"
 season: "2023-24"
 team: "NYK"
 archetype: "Bench / Role Player"
-composite_score: 26.12
+composite_score: 17.17
 salary: 10000000
-vorpd: 0.07
-off_rating_adj: -6.42
-def_rating_adj: -5.68
-on_off_diff: -4.22
+vorpd: 0.00
+off_rating_adj: -4.55
+def_rating_adj: -4.02
+on_off_diff: -2.99
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | NYK |
-| Composite Score | **26.1** / 100 |
+| Composite Score | **17.2** / 100 |
 | Salary | $10,000,000 |
-| VORPD | 0.07 |
-| Off Rating Adj | -6.42 |
-| Def Rating Adj | -5.68 |
-| On/Off Diff | -4.22 |
-| TS% | 54.4% |
-| 3P% | 37.6% |
+| VORPD | 0.00 |
+| Off Rating Adj | -4.55 |
+| Def Rating Adj | -4.02 |
+| On/Off Diff | -2.99 |
+| TS% | 54.9% |
+| 3P% | 37.5% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

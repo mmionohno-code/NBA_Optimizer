@@ -4,12 +4,12 @@ player: "AJ Griffin"
 season: "2022-23"
 team: "ATL"
 archetype: "Perimeter Scorer"
-composite_score: 43.66
+composite_score: 34.76
 salary: 1017781
-vorpd: 17.89
-off_rating_adj: 2.66
-def_rating_adj: 1.27
-on_off_diff: 3.30
+vorpd: 17.56
+off_rating_adj: 1.96
+def_rating_adj: 0.94
+on_off_diff: 2.44
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | ATL |
-| Composite Score | **43.7** / 100 |
+| Composite Score | **34.8** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 17.89 |
-| Off Rating Adj | 2.66 |
-| Def Rating Adj | 1.27 |
-| On/Off Diff | 3.30 |
+| VORPD | 17.56 |
+| Off Rating Adj | 1.96 |
+| Def Rating Adj | 0.94 |
+| On/Off Diff | 2.44 |
 | TS% | 57.7% |
-| 3P% | 39.0% |
+| 3P% | 37.9% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

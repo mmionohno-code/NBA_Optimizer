@@ -4,12 +4,12 @@ player: "Joe Ingles"
 season: "2021-22"
 team: "POR"
 archetype: "Defensive Wing"
-composite_score: 56.18
+composite_score: 48.19
 salary: 1669826
-vorpd: 18.40
-off_rating_adj: 6.69
-def_rating_adj: 10.58
-on_off_diff: 2.66
+vorpd: 16.55
+off_rating_adj: 4.63
+def_rating_adj: 7.31
+on_off_diff: 1.86
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | POR |
-| Composite Score | **56.2** / 100 |
+| Composite Score | **48.2** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 18.40 |
-| Off Rating Adj | 6.69 |
-| Def Rating Adj | 10.58 |
-| On/Off Diff | 2.66 |
-| TS% | 55.5% |
-| 3P% | 34.7% |
+| VORPD | 16.55 |
+| Off Rating Adj | 4.63 |
+| Def Rating Adj | 7.31 |
+| On/Off Diff | 1.86 |
+| TS% | 55.7% |
+| 3P% | 35.5% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

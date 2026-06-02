@@ -3,12 +3,12 @@ player: "Andre Iguodala"
 team: "GSW"
 season: "2021-22"
 archetype: "Defensive Wing"
-composite_score: 56.75
+composite_score: 46.44
 salary: 925258
-vorpd: 33.82
-off_rating_adj: -3.73
-def_rating_adj: 8.13
-on_off_diff: 4.38
+vorpd: 27.98
+off_rating_adj: -2.04
+def_rating_adj: 4.44
+on_off_diff: 2.41
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **56.8** / 100 |
+| Composite Score | **46.4** / 100 |
 | Salary | $925,258 |
-| VORPD | 33.82 |
-| Off Rating Adj | -3.73 |
-| Def Rating Adj | 8.13 |
-| On/Off Diff | 4.38 |
-| TS% | 52.5% |
-| 3P% | 23.0% |
+| VORPD | 27.98 |
+| Off Rating Adj | -2.04 |
+| Def Rating Adj | 4.44 |
+| On/Off Diff | 2.41 |
+| TS% | 53.6% |
+| 3P% | 33.2% |
 | Influence Score | 0.06 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | GSW | 56.8 | $925258 | 33.82 | -3.73 | 8.13 | 4.38 |
+| 2021-22 | GSW | 46.4 | $925258 | 27.98 | -2.04 | 4.44 | 2.41 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.91, 0.95)
+- **Cluster:** 2
+- **PCA Position:** (-0.78, 0.83)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

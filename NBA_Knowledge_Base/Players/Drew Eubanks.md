@@ -3,12 +3,12 @@ player: "Drew Eubanks"
 team: "PHX"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 18.86
+composite_score: 8.62
 salary: 2020490
 vorpd: 0.00
-off_rating_adj: -5.32
-def_rating_adj: 0.46
-on_off_diff: -9.07
+off_rating_adj: -3.73
+def_rating_adj: 0.32
+on_off_diff: -6.35
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **18.9** / 100 |
+| Composite Score | **8.6** / 100 |
 | Salary | $2,020,490 |
 | VORPD | 0.00 |
-| Off Rating Adj | -5.32 |
-| Def Rating Adj | 0.46 |
-| On/Off Diff | -9.07 |
-| TS% | 61.9% |
-| 3P% | 35.6% |
+| Off Rating Adj | -3.73 |
+| Def Rating Adj | 0.32 |
+| On/Off Diff | -6.35 |
+| TS% | 60.9% |
+| 3P% | 37.0% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-4.9 pts over 3 seasons)
+> **Trend:** Trending DOWN (-6.8 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | PHX | 18.9 | $2020490 | 0.00 | -5.32 | 0.46 | -9.07 |
-| 2022-23 | POR | 32.9 | $1836802 | 4.07 | 1.64 | -0.79 | -0.57 |
-| 2021-22 | POR | 23.8 | $1669826 | 0.00 | -2.11 | -1.62 | -8.82 |
+| 2023-24 | PHX | 8.6 | $2020490 | 0.00 | -3.73 | 0.32 | -6.35 |
+| 2022-23 | POR | 24.2 | $1836802 | 4.00 | 1.25 | -0.60 | -0.43 |
+| 2021-22 | POR | 15.4 | $1669826 | 0.00 | -1.50 | -1.16 | -6.29 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.66, -1.63)
+- **Cluster:** 1
+- **PCA Position:** (-1.87, -1.67)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Reggie Jackson"
 season: "2022-23"
 team: "DEN"
 archetype: "Bench / Role Player"
-composite_score: 41.08
+composite_score: 33.66
 salary: 1017781
-vorpd: 15.35
-off_rating_adj: -4.05
-def_rating_adj: 0.72
-on_off_diff: -6.06
+vorpd: 16.48
+off_rating_adj: -3.12
+def_rating_adj: 0.55
+on_off_diff: -4.65
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | DEN |
-| Composite Score | **41.1** / 100 |
+| Composite Score | **33.7** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 15.35 |
-| Off Rating Adj | -4.05 |
-| Def Rating Adj | 0.72 |
-| On/Off Diff | -6.06 |
-| TS% | 52.6% |
-| 3P% | 33.3% |
+| VORPD | 16.48 |
+| Off Rating Adj | -3.12 |
+| Def Rating Adj | 0.55 |
+| On/Off Diff | -4.65 |
+| TS% | 53.3% |
+| 3P% | 35.0% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

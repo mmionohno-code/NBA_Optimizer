@@ -3,12 +3,12 @@ player: "Kevin Porter Jr."
 team: "HOU"
 season: "2022-23"
 archetype: "Elite Playmaker"
-composite_score: 63.64
+composite_score: 57.87
 salary: 4106715
-vorpd: 9.30
-off_rating_adj: 2.97
-def_rating_adj: -2.47
-on_off_diff: 0.56
+vorpd: 9.98
+off_rating_adj: 2.38
+def_rating_adj: -1.98
+on_off_diff: 0.45
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,29 +20,29 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **63.6** / 100 |
+| Composite Score | **57.9** / 100 |
 | Salary | $4,106,715 |
-| VORPD | 9.30 |
-| Off Rating Adj | 2.97 |
-| Def Rating Adj | -2.47 |
-| On/Off Diff | 0.56 |
-| TS% | 56.7% |
-| 3P% | 36.6% |
+| VORPD | 9.98 |
+| Off Rating Adj | 2.38 |
+| Def Rating Adj | -1.98 |
+| On/Off Diff | 0.45 |
+| TS% | 56.8% |
+| 3P% | 36.7% |
 | Influence Score | 0.14 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Stable (-1.5 pts over 2 seasons)
+> **Trend:** Stable (-1.6 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | HOU | 63.6 | $4106715 | 9.30 | 2.97 | -2.47 | 0.56 |
-| 2021-22 | HOU | 65.2 | $3733389 | 10.64 | -0.05 | -0.29 | 5.56 |
+| 2022-23 | HOU | 57.9 | $4106715 | 9.98 | 2.38 | -1.98 | 0.45 |
+| 2021-22 | HOU | 59.5 | $3733389 | 10.43 | -0.04 | -0.23 | 4.40 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (1.83, 1.88)
+- **Cluster:** 0
+- **PCA Position:** (1.90, 1.84)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Derrick Rose"
 season: "2022-23"
 team: "NYK"
 archetype: "Bench / Role Player"
-composite_score: 35.53
+composite_score: 29.23
 salary: 1017781
-vorpd: 9.90
-off_rating_adj: -8.67
-def_rating_adj: 4.37
-on_off_diff: -5.82
+vorpd: 12.13
+off_rating_adj: -3.49
+def_rating_adj: 1.76
+on_off_diff: -2.34
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | NYK |
-| Composite Score | **35.5** / 100 |
+| Composite Score | **29.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 9.90 |
-| Off Rating Adj | -8.67 |
-| Def Rating Adj | 4.37 |
-| On/Off Diff | -5.82 |
-| TS% | 51.8% |
-| 3P% | 30.2% |
-| Influence Score | 0.11 |
+| VORPD | 12.13 |
+| Off Rating Adj | -3.49 |
+| Def Rating Adj | 1.76 |
+| On/Off Diff | -2.34 |
+| TS% | 53.5% |
+| 3P% | 35.5% |
+| Influence Score | 0.12 |
 | Season Weight | 0.35 |
 
 _Navigate back to the full player profile: [[Players/Derrick Rose]]_

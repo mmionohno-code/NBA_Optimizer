@@ -4,12 +4,12 @@ player: "Kelly Olynyk"
 season: "2022-23"
 team: "UTA"
 archetype: "Perimeter Scorer"
-composite_score: 50.33
+composite_score: 42.17
 salary: 10754828
-vorpd: 2.31
-off_rating_adj: 4.57
-def_rating_adj: -1.27
-on_off_diff: 1.53
+vorpd: 2.35
+off_rating_adj: 3.63
+def_rating_adj: -1.01
+on_off_diff: 1.22
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | UTA |
-| Composite Score | **50.3** / 100 |
+| Composite Score | **42.2** / 100 |
 | Salary | $10,754,828 |
-| VORPD | 2.31 |
-| Off Rating Adj | 4.57 |
-| Def Rating Adj | -1.27 |
-| On/Off Diff | 1.53 |
-| TS% | 62.9% |
-| 3P% | 39.4% |
+| VORPD | 2.35 |
+| Off Rating Adj | 3.63 |
+| Def Rating Adj | -1.01 |
+| On/Off Diff | 1.22 |
+| TS% | 62.1% |
+| 3P% | 38.0% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

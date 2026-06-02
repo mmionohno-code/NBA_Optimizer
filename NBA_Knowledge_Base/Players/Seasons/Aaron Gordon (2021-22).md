@@ -4,12 +4,12 @@ player: "Aaron Gordon"
 season: "2021-22"
 team: "DEN"
 archetype: "Perimeter Scorer"
-composite_score: 51.57
+composite_score: 47.60
 salary: 16610060
-vorpd: 1.57
-off_rating_adj: 5.60
-def_rating_adj: -0.52
-on_off_diff: 8.63
+vorpd: 1.63
+off_rating_adj: 4.63
+def_rating_adj: -0.43
+on_off_diff: 7.15
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | DEN |
-| Composite Score | **51.6** / 100 |
+| Composite Score | **47.6** / 100 |
 | Salary | $16,610,060 |
-| VORPD | 1.57 |
-| Off Rating Adj | 5.60 |
-| Def Rating Adj | -0.52 |
-| On/Off Diff | 8.63 |
-| TS% | 59.6% |
-| 3P% | 33.5% |
-| Influence Score | 0.12 |
+| VORPD | 1.63 |
+| Off Rating Adj | 4.63 |
+| Def Rating Adj | -0.43 |
+| On/Off Diff | 7.15 |
+| TS% | 59.2% |
+| 3P% | 34.8% |
+| Influence Score | 0.11 |
 | Season Weight | 0.20 |
 
 _Navigate back to the full player profile: [[Players/Aaron Gordon]]_

@@ -4,12 +4,12 @@ player: "P.J. Washington"
 season: "2023-24"
 team: "DAL"
 archetype: "Versatile Scorer"
-composite_score: 43.22
+composite_score: 36.83
 salary: 12452489
-vorpd: 1.43
-off_rating_adj: -3.28
-def_rating_adj: -1.45
-on_off_diff: 3.65
+vorpd: 1.58
+off_rating_adj: -2.67
+def_rating_adj: -1.18
+on_off_diff: 2.99
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | DAL |
-| Composite Score | **43.2** / 100 |
+| Composite Score | **36.8** / 100 |
 | Salary | $12,452,489 |
-| VORPD | 1.43 |
-| Off Rating Adj | -3.28 |
-| Def Rating Adj | -1.45 |
-| On/Off Diff | 3.65 |
-| TS% | 54.3% |
-| 3P% | 32.0% |
+| VORPD | 1.58 |
+| Off Rating Adj | -2.67 |
+| Def Rating Adj | -1.18 |
+| On/Off Diff | 2.99 |
+| TS% | 54.7% |
+| 3P% | 34.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

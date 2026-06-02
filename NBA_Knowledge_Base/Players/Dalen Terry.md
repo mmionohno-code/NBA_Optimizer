@@ -3,12 +3,12 @@ player: "Dalen Terry"
 team: "CHI"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 47.64
+composite_score: 38.10
 salary: 4750680
-vorpd: 4.67
-off_rating_adj: 1.17
-def_rating_adj: 2.92
-on_off_diff: 4.86
+vorpd: 4.41
+off_rating_adj: 0.67
+def_rating_adj: 1.68
+on_off_diff: 2.81
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **47.6** / 100 |
+| Composite Score | **38.1** / 100 |
 | Salary | $4,750,680 |
-| VORPD | 4.67 |
-| Off Rating Adj | 1.17 |
-| Def Rating Adj | 2.92 |
-| On/Off Diff | 4.86 |
-| TS% | 54.3% |
-| 3P% | 23.0% |
+| VORPD | 4.41 |
+| Off Rating Adj | 0.67 |
+| Def Rating Adj | 1.68 |
+| On/Off Diff | 2.81 |
+| TS% | 55.2% |
+| 3P% | 34.1% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHI | 47.6 | $4750680 | 4.67 | 1.17 | 2.92 | 4.86 |
+| 2023-24 | CHI | 38.1 | $4750680 | 4.41 | 0.67 | 1.68 | 2.81 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.93, 0.42)
+- **Cluster:** 2
+- **PCA Position:** (-0.72, 0.25)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

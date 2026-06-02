@@ -4,12 +4,12 @@ player: "Kendrick Nunn"
 season: "2022-23"
 team: "WAS"
 archetype: "Bench / Role Player"
-composite_score: 36.57
+composite_score: 29.10
 salary: 1017781
-vorpd: 10.92
-off_rating_adj: -1.99
-def_rating_adj: 0.78
-on_off_diff: -2.99
+vorpd: 12.00
+off_rating_adj: -1.31
+def_rating_adj: 0.52
+on_off_diff: -1.96
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | WAS |
-| Composite Score | **36.6** / 100 |
+| Composite Score | **29.1** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 10.92 |
-| Off Rating Adj | -1.99 |
-| Def Rating Adj | 0.78 |
-| On/Off Diff | -2.99 |
-| TS% | 54.2% |
-| 3P% | 35.4% |
+| VORPD | 12.00 |
+| Off Rating Adj | -1.31 |
+| Def Rating Adj | 0.52 |
+| On/Off Diff | -1.96 |
+| TS% | 54.8% |
+| 3P% | 36.1% |
 | Influence Score | 0.12 |
 | Season Weight | 0.35 |
 

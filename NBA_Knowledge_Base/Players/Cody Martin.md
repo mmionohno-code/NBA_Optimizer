@@ -3,12 +3,12 @@ player: "Cody Martin"
 team: "CHA"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 50.53
+composite_score: 42.74
 salary: 8600000
-vorpd: 2.92
-off_rating_adj: 0.19
-def_rating_adj: -1.72
-on_off_diff: 1.44
+vorpd: 2.98
+off_rating_adj: 0.12
+def_rating_adj: -1.03
+on_off_diff: 0.86
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,29 +20,29 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **50.5** / 100 |
+| Composite Score | **42.7** / 100 |
 | Salary | $8,600,000 |
-| VORPD | 2.92 |
-| Off Rating Adj | 0.19 |
-| Def Rating Adj | -1.72 |
-| On/Off Diff | 1.44 |
-| TS% | 50.7% |
-| 3P% | 31.4% |
+| VORPD | 2.98 |
+| Off Rating Adj | 0.12 |
+| Def Rating Adj | -1.03 |
+| On/Off Diff | 0.86 |
+| TS% | 52.5% |
+| 3P% | 35.9% |
 | Influence Score | 0.08 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+9.2 pts over 2 seasons)
+> **Trend:** Trending UP (+9.7 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHA | 50.5 | $8600000 | 2.92 | 0.19 | -1.72 | 1.44 |
-| 2021-22 | CHA | 41.4 | $925258 | 17.20 | 1.14 | -2.22 | -1.55 |
+| 2023-24 | CHA | 42.7 | $8600000 | 2.98 | 0.12 | -1.03 | 0.86 |
+| 2021-22 | CHA | 33.0 | $925258 | 13.47 | 0.90 | -1.75 | -1.21 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-0.25, 1.41)
+- **Cluster:** 6
+- **PCA Position:** (-0.16, 1.18)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

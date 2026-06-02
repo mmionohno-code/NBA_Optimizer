@@ -4,12 +4,12 @@ player: "Gary Clark"
 season: "2021-22"
 team: "NOP"
 archetype: "Defensive Wing"
-composite_score: 28.56
+composite_score: 21.23
 salary: 925258
-vorpd: 3.35
-off_rating_adj: -2.73
-def_rating_adj: 2.57
-on_off_diff: 1.62
+vorpd: 0.73
+off_rating_adj: -1.18
+def_rating_adj: 1.11
+on_off_diff: 0.70
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | NOP |
-| Composite Score | **28.6** / 100 |
+| Composite Score | **21.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 3.35 |
-| Off Rating Adj | -2.73 |
-| Def Rating Adj | 2.57 |
-| On/Off Diff | 1.62 |
-| TS% | 55.7% |
-| 3P% | 40.0% |
+| VORPD | 0.73 |
+| Off Rating Adj | -1.18 |
+| Def Rating Adj | 1.11 |
+| On/Off Diff | 0.70 |
+| TS% | 55.9% |
+| 3P% | 36.9% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

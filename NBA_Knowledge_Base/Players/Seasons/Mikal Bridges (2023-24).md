@@ -4,12 +4,12 @@ player: "Mikal Bridges"
 season: "2023-24"
 team: "BKN"
 archetype: "Versatile Scorer"
-composite_score: 50.52
+composite_score: 42.64
 salary: 21909494
-vorpd: 1.14
-off_rating_adj: 0.88
-def_rating_adj: -0.75
-on_off_diff: -0.63
+vorpd: 1.16
+off_rating_adj: 0.75
+def_rating_adj: -0.64
+on_off_diff: -0.53
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | BKN |
-| Composite Score | **50.5** / 100 |
+| Composite Score | **42.6** / 100 |
 | Salary | $21,909,494 |
-| VORPD | 1.14 |
-| Off Rating Adj | 0.88 |
-| Def Rating Adj | -0.75 |
-| On/Off Diff | -0.63 |
-| TS% | 56.2% |
-| 3P% | 37.2% |
+| VORPD | 1.16 |
+| Off Rating Adj | 0.75 |
+| Def Rating Adj | -0.64 |
+| On/Off Diff | -0.53 |
+| TS% | 56.3% |
+| 3P% | 37.3% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

@@ -4,12 +4,12 @@ player: "Brice Sensabaugh"
 season: "2023-24"
 team: "UTA"
 archetype: "Bench / Role Player"
-composite_score: 25.48
+composite_score: 21.79
 salary: 2370238
-vorpd: 0.01
-off_rating_adj: -3.46
-def_rating_adj: -4.78
-on_off_diff: -8.25
+vorpd: 1.97
+off_rating_adj: -1.87
+def_rating_adj: -2.58
+on_off_diff: -4.45
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | UTA |
-| Composite Score | **25.5** / 100 |
+| Composite Score | **21.8** / 100 |
 | Salary | $2,370,238 |
-| VORPD | 0.01 |
-| Off Rating Adj | -3.46 |
-| Def Rating Adj | -4.78 |
-| On/Off Diff | -8.25 |
-| TS% | 53.7% |
-| 3P% | 29.6% |
+| VORPD | 1.97 |
+| Off Rating Adj | -1.87 |
+| Def Rating Adj | -2.58 |
+| On/Off Diff | -4.45 |
+| TS% | 54.7% |
+| 3P% | 35.0% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |
 

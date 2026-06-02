@@ -4,12 +4,12 @@ player: "Marcus Smart"
 season: "2022-23"
 team: "BOS"
 archetype: "Versatile Scorer"
-composite_score: 58.85
+composite_score: 53.94
 salary: 15934803
-vorpd: 2.10
-off_rating_adj: 2.29
-def_rating_adj: -2.99
-on_off_diff: -1.19
+vorpd: 2.33
+off_rating_adj: 1.82
+def_rating_adj: -2.38
+on_off_diff: -0.93
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | BOS |
-| Composite Score | **58.9** / 100 |
+| Composite Score | **53.9** / 100 |
 | Salary | $15,934,803 |
-| VORPD | 2.10 |
-| Off Rating Adj | 2.29 |
-| Def Rating Adj | -2.99 |
-| On/Off Diff | -1.19 |
-| TS% | 54.6% |
-| 3P% | 33.6% |
+| VORPD | 2.33 |
+| Off Rating Adj | 1.82 |
+| Def Rating Adj | -2.38 |
+| On/Off Diff | -0.93 |
+| TS% | 55.0% |
+| 3P% | 35.0% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

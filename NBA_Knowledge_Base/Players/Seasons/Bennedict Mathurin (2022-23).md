@@ -4,12 +4,12 @@ player: "Bennedict Mathurin"
 season: "2022-23"
 team: "IND"
 archetype: "Bench / Role Player"
-composite_score: 38.11
+composite_score: 31.03
 salary: 7349191
-vorpd: 1.72
-off_rating_adj: -0.27
-def_rating_adj: -0.58
-on_off_diff: -2.29
+vorpd: 1.92
+off_rating_adj: -0.22
+def_rating_adj: -0.47
+on_off_diff: -1.87
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | IND |
-| Composite Score | **38.1** / 100 |
+| Composite Score | **31.0** / 100 |
 | Salary | $7,349,191 |
-| VORPD | 1.72 |
-| Off Rating Adj | -0.27 |
-| Def Rating Adj | -0.58 |
-| On/Off Diff | -2.29 |
-| TS% | 56.7% |
-| 3P% | 32.3% |
+| VORPD | 1.92 |
+| Off Rating Adj | -0.22 |
+| Def Rating Adj | -0.47 |
+| On/Off Diff | -1.87 |
+| TS% | 56.8% |
+| 3P% | 34.3% |
 | Influence Score | 0.13 |
 | Season Weight | 0.35 |
 

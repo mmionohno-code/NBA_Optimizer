@@ -3,12 +3,12 @@ player: "Darius Bazley"
 team: "PHX"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 25.60
+composite_score: 19.53
 salary: 1017781
-vorpd: 0.14
-off_rating_adj: -6.72
-def_rating_adj: 0.88
-on_off_diff: -4.81
+vorpd: 2.60
+off_rating_adj: -3.70
+def_rating_adj: 0.48
+on_off_diff: -2.65
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **25.6** / 100 |
+| Composite Score | **19.5** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 0.14 |
-| Off Rating Adj | -6.72 |
-| Def Rating Adj | 0.88 |
-| On/Off Diff | -4.81 |
-| TS% | 54.7% |
-| 3P% | 37.7% |
+| VORPD | 2.60 |
+| Off Rating Adj | -3.70 |
+| Def Rating Adj | 0.48 |
+| On/Off Diff | -2.65 |
+| TS% | 55.5% |
+| 3P% | 36.9% |
 | Influence Score | 0.09 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-10.0 pts over 2 seasons)
+> **Trend:** Trending DOWN (-10.8 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | PHX | 25.6 | $1017781 | 0.14 | -6.72 | 0.88 | -4.81 |
-| 2021-22 | OKC | 35.6 | $925258 | 10.96 | -0.85 | -3.35 | -4.76 |
+| 2022-23 | PHX | 19.5 | $1017781 | 2.60 | -3.70 | 0.48 | -2.65 |
+| 2021-22 | OKC | 30.4 | $925258 | 10.61 | -0.67 | -2.66 | -3.78 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.76, -0.66)
+- **Cluster:** 5
+- **PCA Position:** (-1.66, -0.58)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

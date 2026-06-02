@@ -4,12 +4,12 @@ player: "Mike Conley"
 season: "2023-24"
 team: "MIN"
 archetype: "Perimeter Scorer"
-composite_score: 49.16
+composite_score: 36.75
 salary: 10118730
-vorpd: 2.34
-off_rating_adj: 0.32
-def_rating_adj: -1.55
-on_off_diff: -2.64
+vorpd: 1.94
+off_rating_adj: 0.26
+def_rating_adj: -1.27
+on_off_diff: -2.13
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | MIN |
-| Composite Score | **49.2** / 100 |
+| Composite Score | **36.8** / 100 |
 | Salary | $10,118,730 |
-| VORPD | 2.34 |
-| Off Rating Adj | 0.32 |
-| Def Rating Adj | -1.55 |
-| On/Off Diff | -2.64 |
-| TS% | 61.7% |
-| 3P% | 44.2% |
+| VORPD | 1.94 |
+| Off Rating Adj | 0.26 |
+| Def Rating Adj | -1.27 |
+| On/Off Diff | -2.13 |
+| TS% | 61.2% |
+| 3P% | 41.5% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

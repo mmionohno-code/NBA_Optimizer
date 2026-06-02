@@ -3,12 +3,12 @@ player: "Dean Wade"
 team: "CLE"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 41.17
+composite_score: 30.23
 salary: 5827975
-vorpd: 2.70
-off_rating_adj: -1.27
-def_rating_adj: 7.48
-on_off_diff: 7.24
+vorpd: 2.25
+off_rating_adj: -0.87
+def_rating_adj: 5.15
+on_off_diff: 5.01
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **41.2** / 100 |
+| Composite Score | **30.2** / 100 |
 | Salary | $5,827,975 |
-| VORPD | 2.70 |
-| Off Rating Adj | -1.27 |
-| Def Rating Adj | 7.48 |
-| On/Off Diff | 7.24 |
-| TS% | 58.9% |
-| 3P% | 39.1% |
+| VORPD | 2.25 |
+| Off Rating Adj | -0.87 |
+| Def Rating Adj | 5.15 |
+| On/Off Diff | 5.01 |
+| TS% | 58.6% |
+| 3P% | 38.2% |
 | Influence Score | 0.06 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+9.3 pts over 3 seasons)
+> **Trend:** Trending UP (+7.1 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CLE | 41.2 | $5827975 | 2.70 | -1.27 | 7.48 | 7.24 |
-| 2022-23 | CLE | 31.5 | $5298139 | 1.14 | -3.79 | 5.05 | 0.23 |
-| 2021-22 | CLE | 31.9 | $4816506 | 1.33 | -3.11 | 4.83 | -0.38 |
+| 2023-24 | CLE | 30.2 | $5827975 | 2.25 | -0.87 | 5.15 | 5.01 |
+| 2022-23 | CLE | 22.6 | $5298139 | 1.07 | -2.43 | 3.24 | 0.16 |
+| 2021-22 | CLE | 23.2 | $4816506 | 0.54 | -2.06 | 3.20 | -0.24 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.09, -2.23)
+- **Cluster:** 2
+- **PCA Position:** (-0.23, -2.37)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

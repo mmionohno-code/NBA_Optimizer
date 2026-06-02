@@ -4,12 +4,12 @@ player: "Bam Adebayo"
 season: "2023-24"
 team: "MIA"
 archetype: "Versatile Scorer"
-composite_score: 51.78
+composite_score: 42.91
 salary: 32641292
-vorpd: 0.81
-off_rating_adj: -1.41
-def_rating_adj: 1.14
-on_off_diff: -3.72
+vorpd: 0.79
+off_rating_adj: -1.16
+def_rating_adj: 0.95
+on_off_diff: -3.07
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | MIA |
-| Composite Score | **51.8** / 100 |
+| Composite Score | **42.9** / 100 |
 | Salary | $32,641,292 |
-| VORPD | 0.81 |
-| Off Rating Adj | -1.41 |
-| Def Rating Adj | 1.14 |
-| On/Off Diff | -3.72 |
+| VORPD | 0.79 |
+| Off Rating Adj | -1.16 |
+| Def Rating Adj | 0.95 |
+| On/Off Diff | -3.07 |
 | TS% | 57.6% |
-| 3P% | 35.7% |
+| 3P% | 37.2% |
 | Influence Score | 0.14 |
 | Season Weight | 0.45 |
 

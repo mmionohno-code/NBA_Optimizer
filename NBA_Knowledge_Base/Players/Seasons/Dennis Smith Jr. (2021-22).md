@@ -4,12 +4,12 @@ player: "Dennis Smith Jr."
 season: "2021-22"
 team: "POR"
 archetype: "Versatile Scorer"
-composite_score: 58.41
+composite_score: 48.23
 salary: 925258
-vorpd: 35.62
-off_rating_adj: -4.51
-def_rating_adj: 3.68
-on_off_diff: -0.84
+vorpd: 29.92
+off_rating_adj: -2.53
+def_rating_adj: 2.06
+on_off_diff: -0.47
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | POR |
-| Composite Score | **58.4** / 100 |
+| Composite Score | **48.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 35.62 |
-| Off Rating Adj | -4.51 |
-| Def Rating Adj | 3.68 |
-| On/Off Diff | -0.84 |
-| TS% | 51.3% |
-| 3P% | 22.2% |
+| VORPD | 29.92 |
+| Off Rating Adj | -2.53 |
+| Def Rating Adj | 2.06 |
+| On/Off Diff | -0.47 |
+| TS% | 52.6% |
+| 3P% | 34.9% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

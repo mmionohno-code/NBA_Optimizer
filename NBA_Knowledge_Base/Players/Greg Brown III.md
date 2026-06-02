@@ -3,12 +3,12 @@ player: "Greg Brown III"
 team: "POR"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 21.51
+composite_score: 17.70
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -6.11
-def_rating_adj: -2.52
-on_off_diff: -7.47
+off_rating_adj: -3.43
+def_rating_adj: -1.42
+on_off_diff: -4.19
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **21.5** / 100 |
+| Composite Score | **17.7** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -6.11 |
-| Def Rating Adj | -2.52 |
-| On/Off Diff | -7.47 |
-| TS% | 53.6% |
-| 3P% | 31.1% |
+| Off Rating Adj | -3.43 |
+| Def Rating Adj | -1.42 |
+| On/Off Diff | -4.19 |
+| TS% | 54.3% |
+| 3P% | 35.2% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | POR | 21.5 | $925258 | 0.00 | -6.11 | -2.52 | -7.47 |
+| 2021-22 | POR | 17.7 | $925258 | 0.00 | -3.43 | -1.42 | -4.19 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.55, 0.21)
+- **Cluster:** 5
+- **PCA Position:** (-2.32, 0.39)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

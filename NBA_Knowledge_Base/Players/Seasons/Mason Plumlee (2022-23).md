@@ -4,12 +4,12 @@ player: "Mason Plumlee"
 season: "2022-23"
 team: "LAC"
 archetype: "Bench / Role Player"
-composite_score: 34.18
+composite_score: 24.72
 salary: 2417401
-vorpd: 3.61
+vorpd: 3.24
 off_rating_adj: -0.01
-def_rating_adj: -3.36
-on_off_diff: -1.37
+def_rating_adj: -2.70
+on_off_diff: -1.10
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | LAC |
-| Composite Score | **34.2** / 100 |
+| Composite Score | **24.7** / 100 |
 | Salary | $2,417,401 |
-| VORPD | 3.61 |
+| VORPD | 3.24 |
 | Off Rating Adj | -0.01 |
-| Def Rating Adj | -3.36 |
-| On/Off Diff | -1.37 |
-| TS% | 66.2% |
-| 3P% | 35.0% |
+| Def Rating Adj | -2.70 |
+| On/Off Diff | -1.10 |
+| TS% | 64.8% |
+| 3P% | 36.4% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

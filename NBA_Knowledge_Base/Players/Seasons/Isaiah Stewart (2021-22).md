@@ -4,12 +4,12 @@ player: "Isaiah Stewart"
 season: "2021-22"
 team: "DET"
 archetype: "Bench / Role Player"
-composite_score: 26.79
+composite_score: 17.99
 salary: 10907838
-vorpd: 0.12
-off_rating_adj: -1.47
-def_rating_adj: -0.17
-on_off_diff: -2.98
+vorpd: 0.00
+off_rating_adj: -1.15
+def_rating_adj: -0.14
+on_off_diff: -2.34
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | DET |
-| Composite Score | **26.8** / 100 |
+| Composite Score | **18.0** / 100 |
 | Salary | $10,907,838 |
-| VORPD | 0.12 |
-| Off Rating Adj | -1.47 |
-| Def Rating Adj | -0.17 |
-| On/Off Diff | -2.98 |
-| TS% | 55.3% |
-| 3P% | 32.6% |
+| VORPD | 0.00 |
+| Off Rating Adj | -1.15 |
+| Def Rating Adj | -0.14 |
+| On/Off Diff | -2.34 |
+| TS% | 55.4% |
+| 3P% | 35.6% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

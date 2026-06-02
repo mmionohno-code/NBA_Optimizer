@@ -3,12 +3,12 @@ player: "JaVale McGee"
 team: "PHX"
 season: "2021-22"
 archetype: "Two-Way Big"
-composite_score: 30.29
+composite_score: 22.18
 salary: 1606256
-vorpd: 3.01
-off_rating_adj: -1.52
-def_rating_adj: 1.67
-on_off_diff: -4.42
+vorpd: 1.01
+off_rating_adj: -1.07
+def_rating_adj: 1.17
+on_off_diff: -3.07
 is_shooter: 0
 tags: [player, two-way-big]
 ---
@@ -20,14 +20,14 @@ tags: [player, two-way-big]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **30.3** / 100 |
+| Composite Score | **22.2** / 100 |
 | Salary | $1,606,256 |
-| VORPD | 3.01 |
-| Off Rating Adj | -1.52 |
-| Def Rating Adj | 1.67 |
-| On/Off Diff | -4.42 |
-| TS% | 62.9% |
-| 3P% | 34.1% |
+| VORPD | 1.01 |
+| Off Rating Adj | -1.07 |
+| Def Rating Adj | 1.17 |
+| On/Off Diff | -3.07 |
+| TS% | 61.8% |
+| 3P% | 35.7% |
 | Influence Score | 0.13 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, two-way-big]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | PHX | 30.3 | $1606256 | 3.01 | -1.52 | 1.67 | -4.42 |
+| 2021-22 | PHX | 22.2 | $1606256 | 1.01 | -1.07 | 1.17 | -3.07 |
 
 ## Profile
 
 - **Cluster:** 4
-- **PCA Position:** (-0.15, -2.01)
+- **PCA Position:** (-0.36, -1.79)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Goran Dragic"
 season: "2021-22"
 team: "BKN"
 archetype: "Versatile Scorer"
-composite_score: 51.51
+composite_score: 43.44
 salary: 925258
-vorpd: 28.16
-off_rating_adj: 0.50
-def_rating_adj: -0.38
-on_off_diff: -1.59
+vorpd: 24.74
+off_rating_adj: 0.25
+def_rating_adj: -0.19
+on_off_diff: -0.79
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | BKN |
-| Composite Score | **51.5** / 100 |
+| Composite Score | **43.4** / 100 |
 | Salary | $925,258 |
-| VORPD | 28.16 |
-| Off Rating Adj | 0.50 |
-| Def Rating Adj | -0.38 |
-| On/Off Diff | -1.59 |
-| TS% | 51.8% |
-| 3P% | 25.4% |
+| VORPD | 24.74 |
+| Off Rating Adj | 0.25 |
+| Def Rating Adj | -0.19 |
+| On/Off Diff | -0.79 |
+| TS% | 53.1% |
+| 3P% | 34.0% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

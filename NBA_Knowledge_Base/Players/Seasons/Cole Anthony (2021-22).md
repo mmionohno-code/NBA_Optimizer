@@ -4,12 +4,12 @@ player: "Cole Anthony"
 season: "2021-22"
 team: "ORL"
 archetype: "Versatile Scorer"
-composite_score: 62.75
+composite_score: 59.93
 salary: 4360426
-vorpd: 8.55
-off_rating_adj: 2.99
-def_rating_adj: 0.31
-on_off_diff: 5.70
+vorpd: 9.03
+off_rating_adj: 2.40
+def_rating_adj: 0.25
+on_off_diff: 4.58
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | ORL |
-| Composite Score | **62.8** / 100 |
+| Composite Score | **59.9** / 100 |
 | Salary | $4,360,426 |
-| VORPD | 8.55 |
-| Off Rating Adj | 2.99 |
-| Def Rating Adj | 0.31 |
-| On/Off Diff | 5.70 |
-| TS% | 52.5% |
-| 3P% | 33.8% |
+| VORPD | 9.03 |
+| Off Rating Adj | 2.40 |
+| Def Rating Adj | 0.25 |
+| On/Off Diff | 4.58 |
+| TS% | 52.9% |
+| 3P% | 34.7% |
 | Influence Score | 0.13 |
 | Season Weight | 0.20 |
 

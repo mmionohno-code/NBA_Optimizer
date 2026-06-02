@@ -3,12 +3,12 @@ player: "Devin Booker"
 team: "PHX"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 70.66
+composite_score: 66.90
 salary: 46759843
-vorpd: 0.97
-off_rating_adj: 5.68
-def_rating_adj: -0.74
-on_off_diff: 5.96
+vorpd: 1.06
+off_rating_adj: 4.72
+def_rating_adj: -0.62
+on_off_diff: 4.96
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,30 +20,30 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **70.7** / 100 |
+| Composite Score | **66.9** / 100 |
 | Salary | $46,759,843 |
-| VORPD | 0.97 |
-| Off Rating Adj | 5.68 |
-| Def Rating Adj | -0.74 |
-| On/Off Diff | 5.96 |
-| TS% | 60.7% |
-| 3P% | 36.4% |
-| Influence Score | 0.18 |
+| VORPD | 1.06 |
+| Off Rating Adj | 4.72 |
+| Def Rating Adj | -0.62 |
+| On/Off Diff | 4.96 |
+| TS% | 60.5% |
+| 3P% | 36.8% |
+| Influence Score | 0.17 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+4.5 pts over 3 seasons)
+> **Trend:** Trending UP (+5.8 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | PHX | 70.7 | $46759843 | 0.97 | 5.68 | -0.74 | 5.96 |
-| 2022-23 | PHX | 71.5 | $42508792 | 1.08 | 7.38 | -3.32 | 8.03 |
-| 2021-22 | PHX | 66.2 | $38644482 | 1.05 | 5.68 | -1.83 | 3.40 |
+| 2023-24 | PHX | 66.9 | $46759843 | 1.06 | 4.72 | -0.62 | 4.96 |
+| 2022-23 | PHX | 68.0 | $42508792 | 1.20 | 5.80 | -2.61 | 6.33 |
+| 2021-22 | PHX | 61.1 | $38644482 | 1.05 | 4.68 | -1.51 | 2.83 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (3.05, 1.13)
+- **Cluster:** 0
+- **PCA Position:** (3.45, 1.00)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

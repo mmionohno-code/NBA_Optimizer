@@ -4,12 +4,12 @@ player: "Jaren Jackson Jr."
 season: "2022-23"
 team: "MEM"
 archetype: "Two-Way Big"
-composite_score: 60.19
+composite_score: 54.74
 salary: 27996694
-vorpd: 1.24
-off_rating_adj: 3.41
-def_rating_adj: 3.07
-on_off_diff: 9.45
+vorpd: 1.35
+off_rating_adj: 2.66
+def_rating_adj: 2.40
+on_off_diff: 7.40
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | MEM |
-| Composite Score | **60.2** / 100 |
+| Composite Score | **54.7** / 100 |
 | Salary | $27,996,694 |
-| VORPD | 1.24 |
-| Off Rating Adj | 3.41 |
-| Def Rating Adj | 3.07 |
-| On/Off Diff | 9.45 |
-| TS% | 60.7% |
-| 3P% | 35.5% |
+| VORPD | 1.35 |
+| Off Rating Adj | 2.66 |
+| Def Rating Adj | 2.40 |
+| On/Off Diff | 7.40 |
+| TS% | 60.4% |
+| 3P% | 36.1% |
 | Influence Score | 0.15 |
 | Season Weight | 0.35 |
 

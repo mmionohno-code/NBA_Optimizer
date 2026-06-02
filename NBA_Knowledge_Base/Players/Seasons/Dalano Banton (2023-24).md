@@ -4,12 +4,12 @@ player: "Dalano Banton"
 season: "2023-24"
 team: "POR"
 archetype: "Versatile Scorer"
-composite_score: 43.77
+composite_score: 38.10
 salary: 2019706
-vorpd: 9.07
-off_rating_adj: -1.48
-def_rating_adj: 0.35
-on_off_diff: -7.17
+vorpd: 10.38
+off_rating_adj: -1.00
+def_rating_adj: 0.24
+on_off_diff: -4.85
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | POR |
-| Composite Score | **43.8** / 100 |
+| Composite Score | **38.1** / 100 |
 | Salary | $2,019,706 |
-| VORPD | 9.07 |
-| Off Rating Adj | -1.48 |
-| Def Rating Adj | 0.35 |
-| On/Off Diff | -7.17 |
-| TS% | 52.0% |
-| 3P% | 29.6% |
+| VORPD | 10.38 |
+| Off Rating Adj | -1.00 |
+| Def Rating Adj | 0.24 |
+| On/Off Diff | -4.85 |
+| TS% | 52.9% |
+| 3P% | 34.0% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

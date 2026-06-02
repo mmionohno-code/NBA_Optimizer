@@ -4,12 +4,12 @@ player: "Day'Ron Sharpe"
 season: "2023-24"
 team: "BKN"
 archetype: "Defensive Wing"
-composite_score: 52.87
+composite_score: 42.78
 salary: 5499371
-vorpd: 4.98
-off_rating_adj: 2.68
-def_rating_adj: 5.55
-on_off_diff: 9.62
+vorpd: 4.66
+off_rating_adj: 1.74
+def_rating_adj: 3.60
+on_off_diff: 6.24
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | BKN |
-| Composite Score | **52.9** / 100 |
+| Composite Score | **42.8** / 100 |
 | Salary | $5,499,371 |
-| VORPD | 4.98 |
-| Off Rating Adj | 2.68 |
-| Def Rating Adj | 5.55 |
-| On/Off Diff | 9.62 |
-| TS% | 58.9% |
-| 3P% | 35.6% |
+| VORPD | 4.66 |
+| Off Rating Adj | 1.74 |
+| Def Rating Adj | 3.60 |
+| On/Off Diff | 6.24 |
+| TS% | 58.6% |
+| 3P% | 37.0% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |
 

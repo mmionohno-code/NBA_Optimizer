@@ -3,12 +3,12 @@ player: "Ja Morant"
 team: "MEM"
 season: "2022-23"
 archetype: "Elite Playmaker"
-composite_score: 83.14
+composite_score: 82.11
 salary: 31553147
-vorpd: 1.83
-off_rating_adj: 2.81
-def_rating_adj: 1.17
-on_off_diff: 5.28
+vorpd: 2.07
+off_rating_adj: 2.23
+def_rating_adj: 0.93
+on_off_diff: 4.22
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,29 +20,29 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **83.1** / 100 |
+| Composite Score | **82.1** / 100 |
 | Salary | $31,553,147 |
-| VORPD | 1.83 |
-| Off Rating Adj | 2.81 |
-| Def Rating Adj | 1.17 |
-| On/Off Diff | 5.28 |
-| TS% | 55.9% |
-| 3P% | 30.7% |
+| VORPD | 2.07 |
+| Off Rating Adj | 2.23 |
+| Def Rating Adj | 0.93 |
+| On/Off Diff | 4.22 |
+| TS% | 56.1% |
+| 3P% | 33.5% |
 | Influence Score | 0.19 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+15.8 pts over 2 seasons)
+> **Trend:** Trending UP (+18.8 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | MEM | 83.1 | $31553147 | 1.83 | 2.81 | 1.17 | 5.28 |
-| 2021-22 | MEM | 67.3 | $28684771 | 1.46 | 3.17 | -4.14 | -3.15 |
+| 2022-23 | MEM | 82.1 | $31553147 | 2.07 | 2.23 | 0.93 | 4.22 |
+| 2021-22 | MEM | 63.3 | $28684771 | 1.49 | 2.51 | -3.27 | -2.48 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (2.72, 3.30)
+- **Cluster:** 0
+- **PCA Position:** (2.93, 3.59)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

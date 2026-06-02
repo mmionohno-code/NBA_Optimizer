@@ -4,12 +4,12 @@ player: "Trent Forrest"
 season: "2022-23"
 team: "ATL"
 archetype: "Bench / Role Player"
-composite_score: 24.61
+composite_score: 20.00
 salary: 1017781
-vorpd: 0.00
-off_rating_adj: -6.64
-def_rating_adj: -1.13
-on_off_diff: -7.40
+vorpd: 3.06
+off_rating_adj: -2.36
+def_rating_adj: -0.40
+on_off_diff: -2.63
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | ATL |
-| Composite Score | **24.6** / 100 |
+| Composite Score | **20.0** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 0.00 |
-| Off Rating Adj | -6.64 |
-| Def Rating Adj | -1.13 |
-| On/Off Diff | -7.40 |
-| TS% | 53.3% |
-| 3P% | 35.0% |
+| VORPD | 3.06 |
+| Off Rating Adj | -2.36 |
+| Def Rating Adj | -0.40 |
+| On/Off Diff | -2.63 |
+| TS% | 54.9% |
+| 3P% | 36.4% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

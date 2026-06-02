@@ -4,12 +4,12 @@ player: "Bismack Biyombo"
 season: "2023-24"
 team: "OKC"
 archetype: "Bench / Role Player"
-composite_score: 23.77
+composite_score: 15.60
 salary: 2020490
 vorpd: 0.00
-off_rating_adj: -4.88
-def_rating_adj: -3.49
-on_off_diff: 2.35
+off_rating_adj: -2.99
+def_rating_adj: -2.14
+on_off_diff: 1.45
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | OKC |
-| Composite Score | **23.8** / 100 |
+| Composite Score | **15.6** / 100 |
 | Salary | $2,020,490 |
 | VORPD | 0.00 |
-| Off Rating Adj | -4.88 |
-| Def Rating Adj | -3.49 |
-| On/Off Diff | 2.35 |
-| TS% | 56.9% |
-| 3P% | 35.6% |
+| Off Rating Adj | -2.99 |
+| Def Rating Adj | -2.14 |
+| On/Off Diff | 1.45 |
+| TS% | 57.1% |
+| 3P% | 37.0% |
 | Influence Score | 0.06 |
 | Season Weight | 0.45 |
 

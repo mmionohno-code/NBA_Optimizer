@@ -4,12 +4,12 @@ player: "Terrence Ross"
 season: "2021-22"
 team: "ORL"
 archetype: "Bench / Role Player"
-composite_score: 33.49
+composite_score: 28.81
 salary: 925258
-vorpd: 8.68
-off_rating_adj: -0.81
-def_rating_adj: -2.39
-on_off_diff: -4.47
+vorpd: 8.93
+off_rating_adj: -0.60
+def_rating_adj: -1.78
+on_off_diff: -3.32
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | ORL |
-| Composite Score | **33.5** / 100 |
+| Composite Score | **28.8** / 100 |
 | Salary | $925,258 |
-| VORPD | 8.68 |
-| Off Rating Adj | -0.81 |
-| Def Rating Adj | -2.39 |
-| On/Off Diff | -4.47 |
-| TS% | 52.5% |
-| 3P% | 29.2% |
+| VORPD | 8.93 |
+| Off Rating Adj | -0.60 |
+| Def Rating Adj | -1.78 |
+| On/Off Diff | -3.32 |
+| TS% | 53.1% |
+| 3P% | 32.6% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

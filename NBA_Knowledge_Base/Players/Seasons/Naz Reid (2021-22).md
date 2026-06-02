@@ -4,12 +4,12 @@ player: "Naz Reid"
 season: "2021-22"
 team: "MIN"
 archetype: "Bench / Role Player"
-composite_score: 27.13
+composite_score: 18.93
 salary: 15672181
-vorpd: 0.11
-off_rating_adj: -6.52
-def_rating_adj: 1.50
-on_off_diff: -8.03
+vorpd: 0.00
+off_rating_adj: -4.62
+def_rating_adj: 1.06
+on_off_diff: -5.68
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | MIN |
-| Composite Score | **27.1** / 100 |
+| Composite Score | **18.9** / 100 |
 | Salary | $15,672,181 |
-| VORPD | 0.11 |
-| Off Rating Adj | -6.52 |
-| Def Rating Adj | 1.50 |
-| On/Off Diff | -8.03 |
-| TS% | 58.2% |
-| 3P% | 34.3% |
+| VORPD | 0.00 |
+| Off Rating Adj | -4.62 |
+| Def Rating Adj | 1.06 |
+| On/Off Diff | -5.68 |
+| TS% | 57.9% |
+| 3P% | 35.4% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

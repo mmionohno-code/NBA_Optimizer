@@ -4,12 +4,12 @@ player: "Jamal Cain"
 season: "2023-24"
 team: "MIA"
 archetype: "Bench / Role Player"
-composite_score: 24.83
+composite_score: 21.35
 salary: 1119563
-vorpd: 0.00
-off_rating_adj: -6.11
-def_rating_adj: 1.64
-on_off_diff: -2.90
+vorpd: 3.77
+off_rating_adj: -2.09
+def_rating_adj: 0.56
+on_off_diff: -0.99
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | MIA |
-| Composite Score | **24.8** / 100 |
+| Composite Score | **21.4** / 100 |
 | Salary | $1,119,563 |
-| VORPD | 0.00 |
-| Off Rating Adj | -6.11 |
-| Def Rating Adj | 1.64 |
-| On/Off Diff | -2.90 |
-| TS% | 56.5% |
-| 3P% | 35.5% |
+| VORPD | 3.77 |
+| Off Rating Adj | -2.09 |
+| Def Rating Adj | 0.56 |
+| On/Off Diff | -0.99 |
+| TS% | 56.8% |
+| 3P% | 37.2% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

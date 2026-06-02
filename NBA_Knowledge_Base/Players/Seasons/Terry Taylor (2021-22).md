@@ -4,12 +4,12 @@ player: "Terry Taylor"
 season: "2021-22"
 team: "IND"
 archetype: "Bench / Role Player"
-composite_score: 27.00
+composite_score: 20.94
 salary: 925258
-vorpd: 1.67
-off_rating_adj: 1.78
-def_rating_adj: -5.93
-on_off_diff: -1.97
+vorpd: 0.42
+off_rating_adj: 1.05
+def_rating_adj: -3.48
+on_off_diff: -1.16
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | IND |
-| Composite Score | **27.0** / 100 |
+| Composite Score | **20.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 1.67 |
-| Off Rating Adj | 1.78 |
-| Def Rating Adj | -5.93 |
-| On/Off Diff | -1.97 |
-| TS% | 61.8% |
-| 3P% | 31.6% |
+| VORPD | 0.42 |
+| Off Rating Adj | 1.05 |
+| Def Rating Adj | -3.48 |
+| On/Off Diff | -1.16 |
+| TS% | 60.4% |
+| 3P% | 35.5% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

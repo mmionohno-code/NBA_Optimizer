@@ -2,48 +2,48 @@
 player: "D'Angelo Russell"
 team: "LAL"
 season: "2023-24"
-archetype: "Elite Playmaker"
-composite_score: 59.94
+archetype: "Perimeter Scorer"
+composite_score: 51.77
 salary: 5002228
-vorpd: 6.89
-off_rating_adj: 3.62
-def_rating_adj: -0.59
-on_off_diff: 4.66
+vorpd: 6.93
+off_rating_adj: 3.01
+def_rating_adj: -0.49
+on_off_diff: 3.89
 is_shooter: 1
-tags: [player, elite-playmaker]
+tags: [player, perimeter-scorer]
 ---
 # D'Angelo Russell
 
-> **Archetype:** [[Archetypes/Elite Playmaker]] | **Team:** LAL | **Latest Season:** 2023-24
+> **Archetype:** [[Archetypes/Perimeter Scorer]] | **Team:** LAL | **Latest Season:** 2023-24
 
 ## Most Recent Season Stats (2023-24)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **59.9** / 100 |
+| Composite Score | **51.8** / 100 |
 | Salary | $5,002,228 |
-| VORPD | 6.89 |
-| Off Rating Adj | 3.62 |
-| Def Rating Adj | -0.59 |
-| On/Off Diff | 4.66 |
-| TS% | 58.6% |
-| 3P% | 41.5% |
+| VORPD | 6.93 |
+| Off Rating Adj | 3.01 |
+| Def Rating Adj | -0.49 |
+| On/Off Diff | 3.89 |
+| TS% | 58.5% |
+| 3P% | 40.2% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-5.2 pts over 3 seasons)
+> **Trend:** Trending DOWN (-10.2 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | LAL | 59.9 | $5002228 | 6.89 | 3.62 | -0.59 | 4.66 |
-| 2022-23 | LAL | 59.8 | $4547463 | 7.55 | 1.16 | 0.13 | 1.13 |
-| 2021-22 | MIN | 65.2 | $4134071 | 9.61 | 2.48 | -0.40 | 2.57 |
+| 2023-24 | LAL | 51.8 | $5002228 | 6.93 | 3.01 | -0.49 | 3.89 |
+| 2022-23 | LAL | 51.8 | $4547463 | 7.68 | 0.95 | 0.11 | 0.94 |
+| 2021-22 | MIN | 62.0 | $4134071 | 10.03 | 2.00 | -0.32 | 2.09 |
 
 ## Profile
 
 - **Cluster:** 3
-- **PCA Position:** (2.12, 0.43)
+- **PCA Position:** (2.44, -0.12)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

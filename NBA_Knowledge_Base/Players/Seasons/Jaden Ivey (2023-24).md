@@ -4,12 +4,12 @@ player: "Jaden Ivey"
 season: "2023-24"
 team: "DET"
 archetype: "Versatile Scorer"
-composite_score: 54.64
+composite_score: 50.55
 salary: 8893286
-vorpd: 3.28
-off_rating_adj: 3.39
-def_rating_adj: -2.55
-on_off_diff: 4.54
+vorpd: 3.76
+off_rating_adj: 2.77
+def_rating_adj: -2.08
+on_off_diff: 3.69
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | DET |
-| Composite Score | **54.6** / 100 |
+| Composite Score | **50.5** / 100 |
 | Salary | $8,893,286 |
-| VORPD | 3.28 |
-| Off Rating Adj | 3.39 |
-| Def Rating Adj | -2.55 |
-| On/Off Diff | 4.54 |
-| TS% | 54.1% |
-| 3P% | 33.6% |
+| VORPD | 3.76 |
+| Off Rating Adj | 2.77 |
+| Def Rating Adj | -2.08 |
+| On/Off Diff | 3.69 |
+| TS% | 54.5% |
+| 3P% | 35.2% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

@@ -4,12 +4,12 @@ player: "Jarrett Allen"
 season: "2021-22"
 team: "CLE"
 archetype: "Two-Way Big"
-composite_score: 43.22
+composite_score: 35.05
 salary: 14543784
-vorpd: 1.22
-off_rating_adj: 1.09
-def_rating_adj: 1.93
-on_off_diff: 2.85
+vorpd: 1.00
+off_rating_adj: 0.86
+def_rating_adj: 1.51
+on_off_diff: 2.25
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | CLE |
-| Composite Score | **43.2** / 100 |
+| Composite Score | **35.0** / 100 |
 | Salary | $14,543,784 |
-| VORPD | 1.22 |
-| Off Rating Adj | 1.09 |
-| Def Rating Adj | 1.93 |
-| On/Off Diff | 2.85 |
-| TS% | 66.9% |
-| 3P% | 34.1% |
+| VORPD | 1.00 |
+| Off Rating Adj | 0.86 |
+| Def Rating Adj | 1.51 |
+| On/Off Diff | 2.25 |
+| TS% | 65.2% |
+| 3P% | 35.7% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

@@ -3,12 +3,12 @@ player: "JaMychal Green"
 team: "GSW"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 14.17
+composite_score: 7.43
 salary: 1017781
 vorpd: 0.00
-off_rating_adj: -5.88
-def_rating_adj: -3.66
-on_off_diff: -12.88
+off_rating_adj: -3.62
+def_rating_adj: -2.25
+on_off_diff: -7.91
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **14.2** / 100 |
+| Composite Score | **7.4** / 100 |
 | Salary | $1,017,781 |
 | VORPD | 0.00 |
-| Off Rating Adj | -5.88 |
-| Def Rating Adj | -3.66 |
-| On/Off Diff | -12.88 |
-| TS% | 62.2% |
-| 3P% | 37.8% |
-| Influence Score | 0.11 |
+| Off Rating Adj | -3.62 |
+| Def Rating Adj | -2.25 |
+| On/Off Diff | -7.91 |
+| TS% | 61.1% |
+| 3P% | 37.1% |
+| Influence Score | 0.10 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-12.6 pts over 2 seasons)
+> **Trend:** Trending DOWN (-13.1 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | GSW | 14.2 | $1017781 | 0.00 | -5.88 | -3.66 | -12.88 |
-| 2021-22 | DEN | 26.8 | $925258 | 1.40 | -4.90 | 0.28 | -8.46 |
+| 2022-23 | GSW | 7.4 | $1017781 | 0.00 | -3.62 | -2.25 | -7.91 |
+| 2021-22 | DEN | 20.6 | $925258 | 0.00 | -3.35 | 0.19 | -5.78 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.85, -0.85)
+- **Cluster:** 1
+- **PCA Position:** (-1.91, -0.83)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

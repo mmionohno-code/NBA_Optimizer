@@ -4,12 +4,12 @@ player: "Rudy Gay"
 season: "2021-22"
 team: "UTA"
 archetype: "Defensive Wing"
-composite_score: 41.57
+composite_score: 34.35
 salary: 925258
-vorpd: 17.42
-off_rating_adj: -0.10
-def_rating_adj: 3.44
-on_off_diff: 2.02
+vorpd: 14.91
+off_rating_adj: -0.07
+def_rating_adj: 2.32
+on_off_diff: 1.38
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | UTA |
-| Composite Score | **41.6** / 100 |
+| Composite Score | **34.4** / 100 |
 | Salary | $925,258 |
-| VORPD | 17.42 |
-| Off Rating Adj | -0.10 |
-| Def Rating Adj | 3.44 |
-| On/Off Diff | 2.02 |
-| TS% | 54.6% |
-| 3P% | 34.5% |
+| VORPD | 14.91 |
+| Off Rating Adj | -0.07 |
+| Def Rating Adj | 2.32 |
+| On/Off Diff | 1.38 |
+| TS% | 54.9% |
+| 3P% | 35.4% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

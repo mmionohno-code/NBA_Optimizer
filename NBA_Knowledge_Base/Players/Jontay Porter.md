@@ -3,12 +3,12 @@ player: "Jontay Porter"
 team: "DET"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 49.02
+composite_score: 37.99
 salary: 2019706
-vorpd: 11.67
-off_rating_adj: -0.71
-def_rating_adj: 0.15
-on_off_diff: 2.11
+vorpd: 10.33
+off_rating_adj: -0.30
+def_rating_adj: 0.06
+on_off_diff: 0.88
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **49.0** / 100 |
+| Composite Score | **38.0** / 100 |
 | Salary | $2,019,706 |
-| VORPD | 11.67 |
-| Off Rating Adj | -0.71 |
-| Def Rating Adj | 0.15 |
-| On/Off Diff | 2.11 |
-| TS% | 55.0% |
-| 3P% | 33.3% |
+| VORPD | 10.33 |
+| Off Rating Adj | -0.30 |
+| Def Rating Adj | 0.06 |
+| On/Off Diff | 0.88 |
+| TS% | 55.8% |
+| 3P% | 36.7% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, versatile-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DET | 49.0 | $2019706 | 11.67 | -0.71 | 0.15 | 2.11 |
+| 2023-24 | DET | 38.0 | $2019706 | 10.33 | -0.30 | 0.06 | 0.88 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (0.11, 0.50)
+- **Cluster:** 6
+- **PCA Position:** (0.05, 0.05)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

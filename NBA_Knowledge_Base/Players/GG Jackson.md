@@ -3,12 +3,12 @@ player: "GG Jackson"
 team: "MEM"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 39.77
+composite_score: 31.83
 salary: 2019706
-vorpd: 7.09
-off_rating_adj: -1.84
-def_rating_adj: 0.30
-on_off_diff: 1.74
+vorpd: 7.28
+off_rating_adj: -1.31
+def_rating_adj: 0.21
+on_off_diff: 1.23
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **39.8** / 100 |
+| Composite Score | **31.8** / 100 |
 | Salary | $2,019,706 |
-| VORPD | 7.09 |
-| Off Rating Adj | -1.84 |
-| Def Rating Adj | 0.30 |
-| On/Off Diff | 1.74 |
-| TS% | 55.8% |
-| 3P% | 35.7% |
+| VORPD | 7.28 |
+| Off Rating Adj | -1.31 |
+| Def Rating Adj | 0.21 |
+| On/Off Diff | 1.23 |
+| TS% | 56.1% |
+| 3P% | 36.5% |
 | Influence Score | 0.13 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MEM | 39.8 | $2019706 | 7.09 | -1.84 | 0.30 | 1.74 |
+| 2023-24 | MEM | 31.8 | $2019706 | 7.28 | -1.31 | 0.21 | 1.23 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.24, -0.35)
+- **Cluster:** 1
+- **PCA Position:** (-0.37, -0.27)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

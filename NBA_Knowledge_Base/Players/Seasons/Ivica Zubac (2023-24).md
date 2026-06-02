@@ -4,12 +4,12 @@ player: "Ivica Zubac"
 season: "2023-24"
 team: "LAC"
 archetype: "Two-Way Big"
-composite_score: 36.56
+composite_score: 27.23
 salary: 16624801
-vorpd: 0.67
-off_rating_adj: 1.93
-def_rating_adj: 1.75
-on_off_diff: 1.16
+vorpd: 0.61
+off_rating_adj: 1.51
+def_rating_adj: 1.37
+on_off_diff: 0.93
 season_weight: 0.45
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2023-24 |
 | Team | LAC |
-| Composite Score | **36.6** / 100 |
+| Composite Score | **27.2** / 100 |
 | Salary | $16,624,801 |
-| VORPD | 0.67 |
-| Off Rating Adj | 1.93 |
-| Def Rating Adj | 1.75 |
-| On/Off Diff | 1.16 |
-| TS% | 64.9% |
-| 3P% | 35.6% |
+| VORPD | 0.61 |
+| Off Rating Adj | 1.51 |
+| Def Rating Adj | 1.37 |
+| On/Off Diff | 0.93 |
+| TS% | 63.8% |
+| 3P% | 37.0% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |
 

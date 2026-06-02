@@ -4,12 +4,12 @@ player: "Grant Williams"
 season: "2021-22"
 team: "BOS"
 archetype: "Bench / Role Player"
-composite_score: 23.32
+composite_score: 12.04
 salary: 9922861
 vorpd: 0.00
-off_rating_adj: 1.49
-def_rating_adj: -2.53
-on_off_diff: -7.38
+off_rating_adj: 1.18
+def_rating_adj: -2.00
+on_off_diff: -5.81
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | BOS |
-| Composite Score | **23.3** / 100 |
+| Composite Score | **12.0** / 100 |
 | Salary | $9,922,861 |
 | VORPD | 0.00 |
-| Off Rating Adj | 1.49 |
-| Def Rating Adj | -2.53 |
-| On/Off Diff | -7.38 |
-| TS% | 61.6% |
-| 3P% | 41.1% |
-| Influence Score | 0.08 |
+| Off Rating Adj | 1.18 |
+| Def Rating Adj | -2.00 |
+| On/Off Diff | -5.81 |
+| TS% | 60.7% |
+| 3P% | 38.6% |
+| Influence Score | 0.07 |
 | Season Weight | 0.20 |
 
 _Navigate back to the full player profile: [[Players/Grant Williams]]_

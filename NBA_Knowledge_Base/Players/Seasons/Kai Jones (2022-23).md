@@ -4,12 +4,12 @@ player: "Kai Jones"
 season: "2022-23"
 team: "CHA"
 archetype: "Defensive Wing"
-composite_score: 33.94
+composite_score: 25.25
 salary: 1017781
-vorpd: 8.34
-off_rating_adj: -1.25
-def_rating_adj: 3.69
-on_off_diff: 4.04
+vorpd: 8.22
+off_rating_adj: -0.65
+def_rating_adj: 1.93
+on_off_diff: 2.11
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | CHA |
-| Composite Score | **33.9** / 100 |
+| Composite Score | **25.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 8.34 |
-| Off Rating Adj | -1.25 |
-| Def Rating Adj | 3.69 |
-| On/Off Diff | 4.04 |
-| TS% | 58.5% |
-| 3P% | 35.0% |
+| VORPD | 8.22 |
+| Off Rating Adj | -0.65 |
+| Def Rating Adj | 1.93 |
+| On/Off Diff | 2.11 |
+| TS% | 58.2% |
+| 3P% | 36.4% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

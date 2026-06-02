@@ -4,12 +4,12 @@ player: "Bradley Beal"
 season: "2023-24"
 team: "PHX"
 archetype: "Perimeter Scorer"
-composite_score: 54.21
+composite_score: 44.32
 salary: 21766079
-vorpd: 1.32
-off_rating_adj: 2.58
-def_rating_adj: -0.44
-on_off_diff: -0.04
+vorpd: 1.25
+off_rating_adj: 2.01
+def_rating_adj: -0.35
+on_off_diff: -0.02
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | PHX |
-| Composite Score | **54.2** / 100 |
+| Composite Score | **44.3** / 100 |
 | Salary | $21,766,079 |
-| VORPD | 1.32 |
-| Off Rating Adj | 2.58 |
-| Def Rating Adj | -0.44 |
-| On/Off Diff | -0.04 |
-| TS% | 60.2% |
-| 3P% | 43.0% |
+| VORPD | 1.25 |
+| Off Rating Adj | 2.01 |
+| Def Rating Adj | -0.35 |
+| On/Off Diff | -0.02 |
+| TS% | 59.8% |
+| 3P% | 40.1% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

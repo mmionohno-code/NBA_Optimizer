@@ -4,12 +4,12 @@ player: "Nicolas Batum"
 season: "2022-23"
 team: "LAC"
 archetype: "Defensive Wing"
-composite_score: 45.62
+composite_score: 36.69
 salary: 4480751
-vorpd: 4.50
-off_rating_adj: 2.99
-def_rating_adj: 4.04
-on_off_diff: 7.85
+vorpd: 4.42
+off_rating_adj: 2.31
+def_rating_adj: 3.13
+on_off_diff: 6.09
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | LAC |
-| Composite Score | **45.6** / 100 |
+| Composite Score | **36.7** / 100 |
 | Salary | $4,480,751 |
-| VORPD | 4.50 |
-| Off Rating Adj | 2.99 |
-| Def Rating Adj | 4.04 |
-| On/Off Diff | 7.85 |
-| TS% | 58.9% |
-| 3P% | 39.1% |
+| VORPD | 4.42 |
+| Off Rating Adj | 2.31 |
+| Def Rating Adj | 3.13 |
+| On/Off Diff | 6.09 |
+| TS% | 58.7% |
+| 3P% | 38.1% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

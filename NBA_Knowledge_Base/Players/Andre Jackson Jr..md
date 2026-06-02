@@ -3,12 +3,12 @@ player: "Andre Jackson Jr."
 team: "MIL"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 13.73
+composite_score: 8.28
 salary: 1954852
 vorpd: 0.00
-off_rating_adj: -3.03
-def_rating_adj: -5.33
-on_off_diff: -10.06
+off_rating_adj: -1.62
+def_rating_adj: -2.84
+on_off_diff: -5.35
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **13.7** / 100 |
+| Composite Score | **8.3** / 100 |
 | Salary | $1,954,852 |
 | VORPD | 0.00 |
-| Off Rating Adj | -3.03 |
-| Def Rating Adj | -5.33 |
-| On/Off Diff | -10.06 |
-| TS% | 58.4% |
-| 3P% | 37.0% |
+| Off Rating Adj | -1.62 |
+| Def Rating Adj | -2.84 |
+| On/Off Diff | -5.35 |
+| TS% | 58.1% |
+| 3P% | 37.4% |
 | Influence Score | 0.06 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MIL | 13.7 | $1954852 | 0.00 | -3.03 | -5.33 | -10.06 |
+| 2023-24 | MIL | 8.3 | $1954852 | 0.00 | -1.62 | -2.84 | -5.35 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-2.40, -0.40)
+- **Cluster:** 1
+- **PCA Position:** (-2.24, -0.55)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

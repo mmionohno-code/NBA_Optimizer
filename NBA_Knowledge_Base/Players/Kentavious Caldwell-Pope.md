@@ -3,12 +3,12 @@ player: "Kentavious Caldwell-Pope"
 team: "DEN"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 61.81
+composite_score: 55.40
 salary: 19024744
-vorpd: 1.91
-off_rating_adj: 7.85
-def_rating_adj: 0.56
-on_off_diff: 14.50
+vorpd: 2.01
+off_rating_adj: 6.49
+def_rating_adj: 0.47
+on_off_diff: 12.02
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **61.8** / 100 |
+| Composite Score | **55.4** / 100 |
 | Salary | $19,024,744 |
-| VORPD | 1.91 |
-| Off Rating Adj | 7.85 |
-| Def Rating Adj | 0.56 |
-| On/Off Diff | 14.50 |
-| TS% | 59.7% |
-| 3P% | 40.6% |
-| Influence Score | 0.08 |
+| VORPD | 2.01 |
+| Off Rating Adj | 6.49 |
+| Def Rating Adj | 0.47 |
+| On/Off Diff | 12.02 |
+| TS% | 59.3% |
+| 3P% | 39.2% |
+| Influence Score | 0.07 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+21.5 pts over 3 seasons)
+> **Trend:** Trending UP (+25.0 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DEN | 61.8 | $19024744 | 1.91 | 7.85 | 0.56 | 14.50 |
-| 2022-23 | DEN | 67.1 | $17295158 | 2.41 | 7.85 | 0.92 | 15.22 |
-| 2021-22 | WAS | 40.3 | $15722922 | 0.94 | 0.81 | -1.53 | -2.78 |
+| 2023-24 | DEN | 55.4 | $19024744 | 2.01 | 6.49 | 0.47 | 12.02 |
+| 2022-23 | DEN | 60.7 | $17295158 | 2.53 | 6.48 | 0.76 | 12.60 |
+| 2021-22 | WAS | 30.4 | $15722922 | 0.63 | 0.66 | -1.26 | -2.28 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (2.76, -1.47)
+- **Cluster:** 3
+- **PCA Position:** (3.19, -1.97)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Jake LaRavia"
 season: "2022-23"
 team: "MEM"
 archetype: "Bench / Role Player"
-composite_score: 8.03
+composite_score: 8.07
 salary: 4799433
 vorpd: 0.00
-off_rating_adj: -6.59
-def_rating_adj: -4.23
-on_off_diff: -14.99
+off_rating_adj: -2.98
+def_rating_adj: -1.91
+on_off_diff: -6.77
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | MEM |
-| Composite Score | **8.0** / 100 |
+| Composite Score | **8.1** / 100 |
 | Salary | $4,799,433 |
 | VORPD | 0.00 |
-| Off Rating Adj | -6.59 |
-| Def Rating Adj | -4.23 |
-| On/Off Diff | -14.99 |
-| TS% | 55.9% |
-| 3P% | 33.8% |
+| Off Rating Adj | -2.98 |
+| Def Rating Adj | -1.91 |
+| On/Off Diff | -6.77 |
+| TS% | 56.5% |
+| 3P% | 36.2% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

@@ -3,12 +3,12 @@ player: "Chet Holmgren"
 team: "OKC"
 season: "2023-24"
 archetype: "Two-Way Big"
-composite_score: 46.97
+composite_score: 39.41
 salary: 12082222
-vorpd: 1.78
-off_rating_adj: 3.12
-def_rating_adj: 1.41
-on_off_diff: 1.18
+vorpd: 1.84
+off_rating_adj: 2.59
+def_rating_adj: 1.17
+on_off_diff: 1.00
 is_shooter: 1
 tags: [player, two-way-big]
 ---
@@ -20,14 +20,14 @@ tags: [player, two-way-big]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **47.0** / 100 |
+| Composite Score | **39.4** / 100 |
 | Salary | $12,082,222 |
-| VORPD | 1.78 |
-| Off Rating Adj | 3.12 |
-| Def Rating Adj | 1.41 |
-| On/Off Diff | 1.18 |
-| TS% | 62.4% |
-| 3P% | 37.0% |
+| VORPD | 1.84 |
+| Off Rating Adj | 2.59 |
+| Def Rating Adj | 1.17 |
+| On/Off Diff | 1.00 |
+| TS% | 61.9% |
+| 3P% | 37.2% |
 | Influence Score | 0.13 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, two-way-big]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | OKC | 47.0 | $12082222 | 1.78 | 3.12 | 1.41 | 1.18 |
+| 2023-24 | OKC | 39.4 | $12082222 | 1.84 | 2.59 | 1.17 | 1.00 |
 
 ## Profile
 
 - **Cluster:** 4
-- **PCA Position:** (2.15, -2.59)
+- **PCA Position:** (2.20, -2.69)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

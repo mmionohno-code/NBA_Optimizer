@@ -4,12 +4,12 @@ player: "Franz Wagner"
 season: "2023-24"
 team: "ORL"
 archetype: "Versatile Scorer"
-composite_score: 61.68
+composite_score: 58.99
 salary: 34018448
-vorpd: 1.06
-off_rating_adj: 0.51
-def_rating_adj: 1.33
-on_off_diff: 5.03
+vorpd: 1.23
+off_rating_adj: 0.42
+def_rating_adj: 1.09
+on_off_diff: 4.16
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | ORL |
-| Composite Score | **61.7** / 100 |
+| Composite Score | **59.0** / 100 |
 | Salary | $34,018,448 |
-| VORPD | 1.06 |
-| Off Rating Adj | 0.51 |
-| Def Rating Adj | 1.33 |
-| On/Off Diff | 5.03 |
+| VORPD | 1.23 |
+| Off Rating Adj | 0.42 |
+| Def Rating Adj | 1.09 |
+| On/Off Diff | 4.16 |
 | TS% | 57.5% |
-| 3P% | 28.1% |
+| 3P% | 32.2% |
 | Influence Score | 0.14 |
 | Season Weight | 0.45 |
 

@@ -4,12 +4,12 @@ player: "Jock Landale"
 season: "2022-23"
 team: "PHX"
 archetype: "Defensive Wing"
-composite_score: 45.27
+composite_score: 37.09
 salary: 1836802
-vorpd: 10.79
-off_rating_adj: 0.78
-def_rating_adj: 4.98
-on_off_diff: 7.34
+vorpd: 11.00
+off_rating_adj: 0.52
+def_rating_adj: 3.30
+on_off_diff: 4.87
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | PHX |
-| Composite Score | **45.3** / 100 |
+| Composite Score | **37.1** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 10.79 |
-| Off Rating Adj | 0.78 |
-| Def Rating Adj | 4.98 |
-| On/Off Diff | 7.34 |
-| TS% | 58.9% |
-| 3P% | 25.0% |
+| VORPD | 11.00 |
+| Off Rating Adj | 0.52 |
+| Def Rating Adj | 3.30 |
+| On/Off Diff | 4.87 |
+| TS% | 58.7% |
+| 3P% | 33.9% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

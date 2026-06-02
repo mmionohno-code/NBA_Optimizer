@@ -4,12 +4,12 @@ player: "Jabari Smith Jr."
 season: "2023-24"
 team: "HOU"
 archetype: "Bench / Role Player"
-composite_score: 29.59
+composite_score: 19.44
 salary: 10867102
-vorpd: 0.38
-off_rating_adj: -0.40
-def_rating_adj: -3.75
-on_off_diff: -6.83
+vorpd: 0.21
+off_rating_adj: -0.33
+def_rating_adj: -3.11
+on_off_diff: -5.65
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | HOU |
-| Composite Score | **29.6** / 100 |
+| Composite Score | **19.4** / 100 |
 | Salary | $10,867,102 |
-| VORPD | 0.38 |
-| Off Rating Adj | -0.40 |
-| Def Rating Adj | -3.75 |
-| On/Off Diff | -6.83 |
+| VORPD | 0.21 |
+| Off Rating Adj | -0.33 |
+| Def Rating Adj | -3.11 |
+| On/Off Diff | -5.65 |
 | TS% | 57.2% |
-| 3P% | 36.3% |
+| 3P% | 36.8% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

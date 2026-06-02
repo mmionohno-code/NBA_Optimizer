@@ -3,12 +3,12 @@ player: "Saben Lee"
 team: "PHX"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 36.21
+composite_score: 29.60
 salary: 1017781
-vorpd: 10.57
-off_rating_adj: -11.52
-def_rating_adj: 4.98
-on_off_diff: -10.55
+vorpd: 12.49
+off_rating_adj: -4.92
+def_rating_adj: 2.12
+on_off_diff: -4.49
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **36.2** / 100 |
+| Composite Score | **29.6** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 10.57 |
-| Off Rating Adj | -11.52 |
-| Def Rating Adj | 4.98 |
-| On/Off Diff | -10.55 |
-| TS% | 55.0% |
-| 3P% | 36.7% |
+| VORPD | 12.49 |
+| Off Rating Adj | -4.92 |
+| Def Rating Adj | 2.12 |
+| On/Off Diff | -4.49 |
+| TS% | 55.8% |
+| 3P% | 36.8% |
 | Influence Score | 0.10 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-24.5 pts over 2 seasons)
+> **Trend:** Trending DOWN (-21.7 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | PHX | 36.2 | $1017781 | 10.57 | -11.52 | 4.98 | -10.55 |
-| 2021-22 | DET | 60.8 | $925258 | 38.15 | 1.03 | 1.13 | 4.33 |
+| 2022-23 | PHX | 29.6 | $1017781 | 12.49 | -4.92 | 2.12 | -4.49 |
+| 2021-22 | DET | 51.3 | $925258 | 33.27 | 0.56 | 0.62 | 2.36 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.18, 1.70)
+- **Cluster:** 5
+- **PCA Position:** (-1.61, 1.06)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Jusuf Nurkić"
 season: "2021-22"
 team: "POR"
 archetype: "Defensive Wing"
-composite_score: 71.26
+composite_score: 66.22
 salary: 14089291
-vorpd: 3.25
-off_rating_adj: 4.69
-def_rating_adj: 4.18
-on_off_diff: 13.58
+vorpd: 3.24
+off_rating_adj: 3.56
+def_rating_adj: 3.17
+on_off_diff: 10.32
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | POR |
-| Composite Score | **71.3** / 100 |
+| Composite Score | **66.2** / 100 |
 | Salary | $14,089,291 |
-| VORPD | 3.25 |
-| Off Rating Adj | 4.69 |
-| Def Rating Adj | 4.18 |
-| On/Off Diff | 13.58 |
-| TS% | 58.1% |
-| 3P% | 26.8% |
-| Influence Score | 0.14 |
+| VORPD | 3.24 |
+| Off Rating Adj | 3.56 |
+| Def Rating Adj | 3.17 |
+| On/Off Diff | 10.32 |
+| TS% | 57.9% |
+| 3P% | 34.5% |
+| Influence Score | 0.13 |
 | Season Weight | 0.20 |
 
 _Navigate back to the full player profile: [[Players/Jusuf Nurkić]]_

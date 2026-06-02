@@ -4,12 +4,12 @@ player: "DeAndre Jordan"
 season: "2023-24"
 team: "DEN"
 archetype: "Bench / Role Player"
-composite_score: 2.35
+composite_score: 4.03
 salary: 1997266
 vorpd: 0.00
-off_rating_adj: -9.35
-def_rating_adj: -4.34
-on_off_diff: -18.86
+off_rating_adj: -4.13
+def_rating_adj: -1.92
+on_off_diff: -8.32
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | DEN |
-| Composite Score | **2.4** / 100 |
+| Composite Score | **4.0** / 100 |
 | Salary | $1,997,266 |
 | VORPD | 0.00 |
-| Off Rating Adj | -9.35 |
-| Def Rating Adj | -4.34 |
-| On/Off Diff | -18.86 |
-| TS% | 58.9% |
-| 3P% | 35.6% |
+| Off Rating Adj | -4.13 |
+| Def Rating Adj | -1.92 |
+| On/Off Diff | -8.32 |
+| TS% | 58.4% |
+| 3P% | 37.0% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

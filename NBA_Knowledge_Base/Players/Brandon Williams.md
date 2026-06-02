@@ -3,12 +3,12 @@ player: "Brandon Williams"
 team: "POR"
 season: "2021-22"
 archetype: "Versatile Scorer"
-composite_score: 35.07
+composite_score: 33.20
 salary: 1651254
-vorpd: 5.82
-off_rating_adj: -4.01
-def_rating_adj: -7.32
-on_off_diff: -13.72
+vorpd: 7.66
+off_rating_adj: -2.25
+def_rating_adj: -4.11
+on_off_diff: -7.72
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,15 +20,15 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **35.1** / 100 |
+| Composite Score | **33.2** / 100 |
 | Salary | $1,651,254 |
-| VORPD | 5.82 |
-| Off Rating Adj | -4.01 |
-| Def Rating Adj | -7.32 |
-| On/Off Diff | -13.72 |
-| TS% | 50.6% |
-| 3P% | 29.2% |
-| Influence Score | 0.12 |
+| VORPD | 7.66 |
+| Off Rating Adj | -2.25 |
+| Def Rating Adj | -4.11 |
+| On/Off Diff | -7.72 |
+| TS% | 51.8% |
+| 3P% | 34.1% |
+| Influence Score | 0.13 |
 
 ## Season History (1 season)
 
@@ -36,12 +36,12 @@ tags: [player, versatile-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | POR | 35.1 | $1651254 | 5.82 | -4.01 | -7.32 | -13.72 |
+| 2021-22 | POR | 33.2 | $1651254 | 7.66 | -2.25 | -4.11 | -7.72 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-1.76, 2.96)
+- **Cluster:** 6
+- **PCA Position:** (-1.51, 2.89)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

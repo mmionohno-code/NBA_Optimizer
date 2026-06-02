@@ -3,12 +3,12 @@ player: "Nic Claxton"
 team: "BKN"
 season: "2023-24"
 archetype: "Two-Way Big"
-composite_score: 31.12
+composite_score: 20.69
 salary: 22307448
-vorpd: 0.25
-off_rating_adj: -1.72
-def_rating_adj: -0.55
-on_off_diff: -5.20
+vorpd: 0.16
+off_rating_adj: -1.39
+def_rating_adj: -0.44
+on_off_diff: -4.21
 is_shooter: 0
 tags: [player, two-way-big]
 ---
@@ -20,30 +20,30 @@ tags: [player, two-way-big]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **31.1** / 100 |
+| Composite Score | **20.7** / 100 |
 | Salary | $22,307,448 |
-| VORPD | 0.25 |
-| Off Rating Adj | -1.72 |
-| Def Rating Adj | -0.55 |
-| On/Off Diff | -5.20 |
-| TS% | 61.8% |
-| 3P% | 35.6% |
+| VORPD | 0.16 |
+| Off Rating Adj | -1.39 |
+| Def Rating Adj | -0.44 |
+| On/Off Diff | -4.21 |
+| TS% | 61.2% |
+| 3P% | 37.0% |
 | Influence Score | 0.10 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Stable (-1.5 pts over 3 seasons)
+> **Trend:** Trending DOWN (-3.9 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | BKN | 31.1 | $22307448 | 0.25 | -1.72 | -0.55 | -5.20 |
-| 2022-23 | BKN | 49.0 | $20279423 | 1.16 | 2.21 | 2.00 | 5.25 |
-| 2021-22 | BKN | 32.6 | $18435899 | 0.39 | -2.20 | 1.52 | -0.88 |
+| 2023-24 | BKN | 20.7 | $22307448 | 0.16 | -1.39 | -0.44 | -4.21 |
+| 2022-23 | BKN | 41.5 | $20279423 | 1.22 | 1.81 | 1.64 | 4.32 |
+| 2021-22 | BKN | 24.6 | $18435899 | 0.22 | -1.45 | 1.00 | -0.57 |
 
 ## Profile
 
 - **Cluster:** 4
-- **PCA Position:** (0.30, -2.32)
+- **PCA Position:** (0.07, -2.36)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

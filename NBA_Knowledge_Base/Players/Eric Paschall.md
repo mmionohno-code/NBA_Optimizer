@@ -3,12 +3,12 @@ player: "Eric Paschall"
 team: "UTA"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 15.40
+composite_score: 9.74
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -4.80
-def_rating_adj: -2.96
-on_off_diff: -10.86
+off_rating_adj: -2.86
+def_rating_adj: -1.76
+on_off_diff: -6.46
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **15.4** / 100 |
+| Composite Score | **9.7** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -4.80 |
-| Def Rating Adj | -2.96 |
-| On/Off Diff | -10.86 |
-| TS% | 59.3% |
-| 3P% | 37.0% |
+| Off Rating Adj | -2.86 |
+| Def Rating Adj | -1.76 |
+| On/Off Diff | -6.46 |
+| TS% | 58.5% |
+| 3P% | 36.4% |
 | Influence Score | 0.10 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | UTA | 15.4 | $925258 | 0.00 | -4.80 | -2.96 | -10.86 |
+| 2021-22 | UTA | 9.7 | $925258 | 0.00 | -2.86 | -1.76 | -6.46 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-2.23, -0.45)
+- **Cluster:** 1
+- **PCA Position:** (-2.29, -0.27)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

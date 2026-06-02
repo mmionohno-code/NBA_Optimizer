@@ -3,12 +3,12 @@ player: "Montrezl Harrell"
 team: "PHI"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 30.16
+composite_score: 22.34
 salary: 1017781
-vorpd: 4.62
-off_rating_adj: -1.83
-def_rating_adj: 2.15
-on_off_diff: -3.50
+vorpd: 5.36
+off_rating_adj: -1.05
+def_rating_adj: 1.24
+on_off_diff: -2.01
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **30.2** / 100 |
+| Composite Score | **22.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 4.62 |
-| Off Rating Adj | -1.83 |
-| Def Rating Adj | 2.15 |
-| On/Off Diff | -3.50 |
-| TS% | 60.8% |
-| 3P% | 35.0% |
+| VORPD | 5.36 |
+| Off Rating Adj | -1.05 |
+| Def Rating Adj | 1.24 |
+| On/Off Diff | -2.01 |
+| TS% | 60.0% |
+| 3P% | 36.4% |
 | Influence Score | 0.11 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-15.1 pts over 2 seasons)
+> **Trend:** Trending DOWN (-14.9 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | PHI | 30.2 | $1017781 | 4.62 | -1.83 | 2.15 | -3.50 |
-| 2021-22 | CHA | 45.3 | $925258 | 21.43 | -0.36 | 2.28 | 6.75 |
+| 2022-23 | PHI | 22.3 | $1017781 | 5.36 | -1.05 | 1.24 | -2.01 |
+| 2021-22 | CHA | 37.3 | $925258 | 18.08 | -0.28 | 1.75 | 5.18 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.85, -1.25)
+- **Cluster:** 1
+- **PCA Position:** (-0.89, -1.12)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

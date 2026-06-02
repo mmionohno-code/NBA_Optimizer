@@ -2,48 +2,48 @@
 player: "Mitchell Robinson"
 team: "NYK"
 season: "2023-24"
-archetype: "Perimeter Scorer"
-composite_score: 35.24
+archetype: "Bench / Role Player"
+composite_score: 28.49
 salary: 11398697
-vorpd: 0.86
-off_rating_adj: 3.08
-def_rating_adj: -3.38
-on_off_diff: -4.81
+vorpd: 1.00
+off_rating_adj: 1.86
+def_rating_adj: -2.05
+on_off_diff: -2.90
 is_shooter: 0
-tags: [player, perimeter-scorer]
+tags: [player, bench-/-role-player]
 ---
 # Mitchell Robinson
 
-> **Archetype:** [[Archetypes/Perimeter Scorer]] | **Team:** NYK | **Latest Season:** 2023-24
+> **Archetype:** [[Archetypes/Bench / Role Player]] | **Team:** NYK | **Latest Season:** 2023-24
 
 ## Most Recent Season Stats (2023-24)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **35.2** / 100 |
+| Composite Score | **28.5** / 100 |
 | Salary | $11,398,697 |
-| VORPD | 0.86 |
-| Off Rating Adj | 3.08 |
-| Def Rating Adj | -3.38 |
-| On/Off Diff | -4.81 |
-| TS% | 56.5% |
-| 3P% | 35.6% |
+| VORPD | 1.00 |
+| Off Rating Adj | 1.86 |
+| Def Rating Adj | -2.05 |
+| On/Off Diff | -2.90 |
+| TS% | 56.8% |
+| 3P% | 37.0% |
 | Influence Score | 0.06 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+7.6 pts over 3 seasons)
+> **Trend:** Trending UP (+9.9 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | NYK | 35.2 | $11398697 | 0.86 | 3.08 | -3.38 | -4.81 |
-| 2022-23 | NYK | 45.7 | $10362413 | 1.96 | 6.93 | -0.43 | 6.10 |
-| 2021-22 | NYK | 27.6 | $9420406 | 0.23 | 1.37 | -2.88 | -5.17 |
+| 2023-24 | NYK | 28.5 | $11398697 | 1.00 | 1.86 | -2.05 | -2.90 |
+| 2022-23 | NYK | 39.0 | $10362413 | 2.13 | 5.27 | -0.32 | 4.66 |
+| 2021-22 | NYK | 18.6 | $9420406 | 0.00 | 1.08 | -2.27 | -4.06 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (-0.04, -0.92)
+- **Cluster:** 1
+- **PCA Position:** (-0.03, -0.89)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

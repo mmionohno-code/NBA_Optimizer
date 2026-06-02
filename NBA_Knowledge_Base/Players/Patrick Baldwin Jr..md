@@ -3,12 +3,12 @@ player: "Patrick Baldwin Jr."
 team: "WAS"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 46.23
+composite_score: 35.68
 salary: 2019706
-vorpd: 10.29
-off_rating_adj: -0.12
-def_rating_adj: 5.61
-on_off_diff: 8.08
+vorpd: 9.19
+off_rating_adj: -0.06
+def_rating_adj: 2.79
+on_off_diff: 4.01
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **46.2** / 100 |
+| Composite Score | **35.7** / 100 |
 | Salary | $2,019,706 |
-| VORPD | 10.29 |
-| Off Rating Adj | -0.12 |
-| Def Rating Adj | 5.61 |
-| On/Off Diff | 8.08 |
-| TS% | 53.8% |
-| 3P% | 32.0% |
+| VORPD | 9.19 |
+| Off Rating Adj | -0.06 |
+| Def Rating Adj | 2.79 |
+| On/Off Diff | 4.01 |
+| TS% | 54.9% |
+| 3P% | 35.9% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | WAS | 46.2 | $2019706 | 10.29 | -0.12 | 5.61 | 8.08 |
+| 2023-24 | WAS | 35.7 | $2019706 | 9.19 | -0.06 | 2.79 | 4.01 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.51, -0.73)
+- **Cluster:** 2
+- **PCA Position:** (-0.56, -0.53)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

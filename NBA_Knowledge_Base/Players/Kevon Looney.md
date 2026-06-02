@@ -3,12 +3,12 @@ player: "Kevon Looney"
 team: "GSW"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 31.18
+composite_score: 21.86
 salary: 7039195
-vorpd: 0.81
-off_rating_adj: 0.76
-def_rating_adj: -1.13
-on_off_diff: -1.86
+vorpd: 0.67
+off_rating_adj: 0.54
+def_rating_adj: -0.79
+on_off_diff: -1.30
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **31.2** / 100 |
+| Composite Score | **21.9** / 100 |
 | Salary | $7,039,195 |
-| VORPD | 0.81 |
-| Off Rating Adj | 0.76 |
-| Def Rating Adj | -1.13 |
-| On/Off Diff | -1.86 |
-| TS% | 60.2% |
-| 3P% | 35.6% |
+| VORPD | 0.67 |
+| Off Rating Adj | 0.54 |
+| Def Rating Adj | -0.79 |
+| On/Off Diff | -1.30 |
+| TS% | 59.6% |
+| 3P% | 37.0% |
 | Influence Score | 0.07 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-5.6 pts over 3 seasons)
+> **Trend:** Trending DOWN (-7.9 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | GSW | 31.2 | $7039195 | 0.81 | 0.76 | -1.13 | -1.86 |
-| 2022-23 | GSW | 42.5 | $6399244 | 2.66 | 2.22 | 0.74 | 6.56 |
-| 2021-22 | GSW | 36.8 | $5817514 | 1.95 | 3.77 | -2.07 | -0.64 |
+| 2023-24 | GSW | 21.9 | $7039195 | 0.67 | 0.54 | -0.79 | -1.30 |
+| 2022-23 | GSW | 34.7 | $6399244 | 2.79 | 1.77 | 0.59 | 5.24 |
+| 2021-22 | GSW | 29.8 | $5817514 | 1.58 | 2.92 | -1.60 | -0.48 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.66, -1.01)
+- **Cluster:** 1
+- **PCA Position:** (-0.75, -1.08)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

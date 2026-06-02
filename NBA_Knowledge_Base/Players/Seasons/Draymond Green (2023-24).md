@@ -4,12 +4,12 @@ player: "Draymond Green"
 season: "2023-24"
 team: "GSW"
 archetype: "Perimeter Scorer"
-composite_score: 57.57
+composite_score: 48.94
 salary: 22783108
-vorpd: 1.41
-off_rating_adj: 0.96
-def_rating_adj: 2.17
-on_off_diff: 4.88
+vorpd: 1.40
+off_rating_adj: 0.72
+def_rating_adj: 1.63
+on_off_diff: 3.67
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | GSW |
-| Composite Score | **57.6** / 100 |
+| Composite Score | **48.9** / 100 |
 | Salary | $22,783,108 |
-| VORPD | 1.41 |
-| Off Rating Adj | 0.96 |
-| Def Rating Adj | 2.17 |
-| On/Off Diff | 4.88 |
-| TS% | 58.4% |
-| 3P% | 39.5% |
+| VORPD | 1.40 |
+| Off Rating Adj | 0.72 |
+| Def Rating Adj | 1.63 |
+| On/Off Diff | 3.67 |
+| TS% | 58.2% |
+| 3P% | 38.1% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

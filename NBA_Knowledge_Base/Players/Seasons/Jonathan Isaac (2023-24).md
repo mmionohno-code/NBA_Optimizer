@@ -4,12 +4,12 @@ player: "Jonathan Isaac"
 season: "2023-24"
 team: "ORL"
 archetype: "Defensive Wing"
-composite_score: 51.00
+composite_score: 40.77
 salary: 13198490
-vorpd: 1.94
-off_rating_adj: 1.01
-def_rating_adj: 7.43
-on_off_diff: 10.56
+vorpd: 1.79
+off_rating_adj: 0.65
+def_rating_adj: 4.81
+on_off_diff: 6.84
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | ORL |
-| Composite Score | **51.0** / 100 |
+| Composite Score | **40.8** / 100 |
 | Salary | $13,198,490 |
-| VORPD | 1.94 |
-| Off Rating Adj | 1.01 |
-| Def Rating Adj | 7.43 |
-| On/Off Diff | 10.56 |
-| TS% | 59.8% |
+| VORPD | 1.79 |
+| Off Rating Adj | 0.65 |
+| Def Rating Adj | 4.81 |
+| On/Off Diff | 6.84 |
+| TS% | 59.3% |
 | 3P% | 37.5% |
-| Influence Score | 0.10 |
+| Influence Score | 0.09 |
 | Season Weight | 0.45 |
 
 _Navigate back to the full player profile: [[Players/Jonathan Isaac]]_

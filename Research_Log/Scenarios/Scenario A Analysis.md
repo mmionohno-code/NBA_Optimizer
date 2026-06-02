@@ -1,13 +1,13 @@
 ---
 type: scenario-analysis
-date: 2026-05-08
+date: 2026-06-01
 scenario: "A"
 tags: [scenario, analysis]
 ---
 
 # Scenario A Analysis — Max Budget Balanced
 
-**Date:** 2026-05-08
+**Date:** 2026-06-01
 **Scenario File:** `optimized_roster_syn_A.csv`
 
 > [[Scenarios/Scenario A]]

@@ -4,12 +4,12 @@ player: "Corey Kispert"
 season: "2021-22"
 team: "WAS"
 archetype: "Perimeter Scorer"
-composite_score: 41.04
+composite_score: 34.94
 salary: 10162469
-vorpd: 1.53
-off_rating_adj: 4.71
-def_rating_adj: -0.63
-on_off_diff: 7.52
+vorpd: 1.42
+off_rating_adj: 3.68
+def_rating_adj: -0.50
+on_off_diff: 5.89
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | WAS |
-| Composite Score | **41.0** / 100 |
+| Composite Score | **34.9** / 100 |
 | Salary | $10,162,469 |
-| VORPD | 1.53 |
-| Off Rating Adj | 4.71 |
-| Def Rating Adj | -0.63 |
-| On/Off Diff | 7.52 |
-| TS% | 58.1% |
-| 3P% | 35.0% |
+| VORPD | 1.42 |
+| Off Rating Adj | 3.68 |
+| Def Rating Adj | -0.50 |
+| On/Off Diff | 5.89 |
+| TS% | 57.8% |
+| 3P% | 35.5% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

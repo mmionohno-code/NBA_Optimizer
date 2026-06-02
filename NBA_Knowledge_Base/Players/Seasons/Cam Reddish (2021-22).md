@@ -4,12 +4,12 @@ player: "Cam Reddish"
 season: "2021-22"
 team: "NYK"
 archetype: "Bench / Role Player"
-composite_score: 27.15
+composite_score: 20.93
 salary: 925258
-vorpd: 1.83
-off_rating_adj: -4.53
-def_rating_adj: -4.68
-on_off_diff: -12.74
+vorpd: 0.41
+off_rating_adj: -3.03
+def_rating_adj: -3.13
+on_off_diff: -8.53
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | NYK |
-| Composite Score | **27.1** / 100 |
+| Composite Score | **20.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 1.83 |
-| Off Rating Adj | -4.53 |
-| Def Rating Adj | -4.68 |
-| On/Off Diff | -12.74 |
-| TS% | 54.8% |
-| 3P% | 35.9% |
+| VORPD | 0.41 |
+| Off Rating Adj | -3.03 |
+| Def Rating Adj | -3.13 |
+| On/Off Diff | -8.53 |
+| TS% | 55.1% |
+| 3P% | 36.0% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

@@ -4,12 +4,12 @@ player: "Kawhi Leonard"
 season: "2022-23"
 team: "LAC"
 archetype: "Elite Playmaker"
-composite_score: 74.39
+composite_score: 67.29
 salary: 39995278
-vorpd: 1.22
-off_rating_adj: 6.69
-def_rating_adj: 1.94
-on_off_diff: 10.65
+vorpd: 1.26
+off_rating_adj: 5.20
+def_rating_adj: 1.51
+on_off_diff: 8.30
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | LAC |
-| Composite Score | **74.4** / 100 |
+| Composite Score | **67.3** / 100 |
 | Salary | $39,995,278 |
-| VORPD | 1.22 |
-| Off Rating Adj | 6.69 |
-| Def Rating Adj | 1.94 |
-| On/Off Diff | 10.65 |
-| TS% | 61.6% |
-| 3P% | 41.6% |
+| VORPD | 1.26 |
+| Off Rating Adj | 5.20 |
+| Def Rating Adj | 1.51 |
+| On/Off Diff | 8.30 |
+| TS% | 61.2% |
+| 3P% | 39.1% |
 | Influence Score | 0.16 |
 | Season Weight | 0.35 |
 

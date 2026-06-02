@@ -4,12 +4,12 @@ player: "Chimezie Metu"
 season: "2022-23"
 team: "SAC"
 archetype: "Defensive Wing"
-composite_score: 39.04
+composite_score: 28.69
 salary: 1017781
-vorpd: 13.35
-off_rating_adj: -3.57
-def_rating_adj: 6.68
-on_off_diff: 3.40
+vorpd: 11.60
+off_rating_adj: -2.07
+def_rating_adj: 3.87
+on_off_diff: 1.98
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | SAC |
-| Composite Score | **39.0** / 100 |
+| Composite Score | **28.7** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 13.35 |
-| Off Rating Adj | -3.57 |
-| Def Rating Adj | 6.68 |
-| On/Off Diff | 3.40 |
-| TS% | 61.3% |
-| 3P% | 23.7% |
+| VORPD | 11.60 |
+| Off Rating Adj | -2.07 |
+| Def Rating Adj | 3.87 |
+| On/Off Diff | 1.98 |
+| TS% | 60.4% |
+| 3P% | 35.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

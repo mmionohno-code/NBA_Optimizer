@@ -4,12 +4,12 @@ player: "Mark Williams"
 season: "2022-23"
 team: "CHA"
 archetype: "Two-Way Big"
-composite_score: 36.29
+composite_score: 28.18
 salary: 5020632
-vorpd: 2.16
-off_rating_adj: -0.95
-def_rating_adj: 1.79
-on_off_diff: 0.66
+vorpd: 2.25
+off_rating_adj: -0.59
+def_rating_adj: 1.12
+on_off_diff: 0.42
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | CHA |
-| Composite Score | **36.3** / 100 |
+| Composite Score | **28.2** / 100 |
 | Salary | $5,020,632 |
-| VORPD | 2.16 |
-| Off Rating Adj | -0.95 |
-| Def Rating Adj | 1.79 |
-| On/Off Diff | 0.66 |
-| TS% | 62.8% |
-| 3P% | 35.0% |
-| Influence Score | 0.11 |
+| VORPD | 2.25 |
+| Off Rating Adj | -0.59 |
+| Def Rating Adj | 1.12 |
+| On/Off Diff | 0.42 |
+| TS% | 61.6% |
+| 3P% | 36.4% |
+| Influence Score | 0.10 |
 | Season Weight | 0.35 |
 
 _Navigate back to the full player profile: [[Players/Mark Williams]]_

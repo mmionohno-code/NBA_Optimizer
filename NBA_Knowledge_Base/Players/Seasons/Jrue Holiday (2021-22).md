@@ -4,12 +4,12 @@ player: "Jrue Holiday"
 season: "2021-22"
 team: "MIL"
 archetype: "Elite Playmaker"
-composite_score: 81.14
+composite_score: 76.59
 salary: 23560931
-vorpd: 2.36
-off_rating_adj: 6.35
-def_rating_adj: -0.53
-on_off_diff: 10.73
+vorpd: 2.38
+off_rating_adj: 5.18
+def_rating_adj: -0.43
+on_off_diff: 8.77
 season_weight: 0.20
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2021-22 |
 | Team | MIL |
-| Composite Score | **81.1** / 100 |
+| Composite Score | **76.6** / 100 |
 | Salary | $23,560,931 |
-| VORPD | 2.36 |
-| Off Rating Adj | 6.35 |
-| Def Rating Adj | -0.53 |
-| On/Off Diff | 10.73 |
-| TS% | 58.9% |
-| 3P% | 41.1% |
+| VORPD | 2.38 |
+| Off Rating Adj | 5.18 |
+| Def Rating Adj | -0.43 |
+| On/Off Diff | 8.77 |
+| TS% | 58.6% |
+| 3P% | 38.9% |
 | Influence Score | 0.14 |
 | Season Weight | 0.20 |
 

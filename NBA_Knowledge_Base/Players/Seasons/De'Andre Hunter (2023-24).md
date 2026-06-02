@@ -4,12 +4,12 @@ player: "De'Andre Hunter"
 season: "2023-24"
 team: "ATL"
 archetype: "Perimeter Scorer"
-composite_score: 42.46
+composite_score: 33.52
 salary: 20504797
-vorpd: 0.83
-off_rating_adj: 3.05
-def_rating_adj: -1.37
-on_off_diff: 1.12
+vorpd: 0.80
+off_rating_adj: 2.35
+def_rating_adj: -1.05
+on_off_diff: 0.87
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | ATL |
-| Composite Score | **42.5** / 100 |
+| Composite Score | **33.5** / 100 |
 | Salary | $20,504,797 |
-| VORPD | 0.83 |
-| Off Rating Adj | 3.05 |
-| Def Rating Adj | -1.37 |
-| On/Off Diff | 1.12 |
-| TS% | 59.1% |
-| 3P% | 38.5% |
+| VORPD | 0.80 |
+| Off Rating Adj | 2.35 |
+| Def Rating Adj | -1.05 |
+| On/Off Diff | 0.87 |
+| TS% | 58.9% |
+| 3P% | 38.0% |
 | Influence Score | 0.12 |
 | Season Weight | 0.45 |
 

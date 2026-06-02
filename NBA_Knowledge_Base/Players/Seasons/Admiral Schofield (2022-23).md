@@ -4,12 +4,12 @@ player: "Admiral Schofield"
 season: "2022-23"
 team: "ORL"
 archetype: "Bench / Role Player"
-composite_score: 21.27
+composite_score: 16.23
 salary: 1017781
 vorpd: 0.00
-off_rating_adj: -4.96
-def_rating_adj: -0.82
-on_off_diff: -5.97
+off_rating_adj: -2.35
+def_rating_adj: -0.39
+on_off_diff: -2.83
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | ORL |
-| Composite Score | **21.3** / 100 |
+| Composite Score | **16.2** / 100 |
 | Salary | $1,017,781 |
 | VORPD | 0.00 |
-| Off Rating Adj | -4.96 |
-| Def Rating Adj | -0.82 |
-| On/Off Diff | -5.97 |
-| TS% | 58.1% |
-| 3P% | 32.4% |
+| Off Rating Adj | -2.35 |
+| Def Rating Adj | -0.39 |
+| On/Off Diff | -2.83 |
+| TS% | 57.9% |
+| 3P% | 35.8% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

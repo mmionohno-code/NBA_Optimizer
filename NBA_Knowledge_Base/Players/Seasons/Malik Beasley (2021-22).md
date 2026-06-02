@@ -4,12 +4,12 @@ player: "Malik Beasley"
 season: "2021-22"
 team: "MIN"
 archetype: "Bench / Role Player"
-composite_score: 33.78
+composite_score: 24.62
 salary: 925258
-vorpd: 9.00
-off_rating_adj: 0.08
-def_rating_adj: -0.70
-on_off_diff: -2.49
+vorpd: 4.40
+off_rating_adj: 0.07
+def_rating_adj: -0.56
+on_off_diff: -1.97
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | MIN |
-| Composite Score | **33.8** / 100 |
+| Composite Score | **24.6** / 100 |
 | Salary | $925,258 |
-| VORPD | 9.00 |
-| Off Rating Adj | 0.08 |
-| Def Rating Adj | -0.70 |
-| On/Off Diff | -2.49 |
-| TS% | 54.7% |
-| 3P% | 37.7% |
+| VORPD | 4.40 |
+| Off Rating Adj | 0.07 |
+| Def Rating Adj | -0.56 |
+| On/Off Diff | -1.97 |
+| TS% | 54.8% |
+| 3P% | 37.2% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

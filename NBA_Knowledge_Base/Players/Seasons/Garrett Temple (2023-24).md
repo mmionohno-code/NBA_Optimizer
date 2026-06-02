@@ -4,12 +4,12 @@ player: "Garrett Temple"
 season: "2023-24"
 team: "TOR"
 archetype: "Bench / Role Player"
-composite_score: 28.53
+composite_score: 22.58
 salary: 2020490
-vorpd: 1.52
-off_rating_adj: -9.14
-def_rating_adj: 3.43
-on_off_diff: -3.77
+vorpd: 2.70
+off_rating_adj: -3.35
+def_rating_adj: 1.26
+on_off_diff: -1.38
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | TOR |
-| Composite Score | **28.5** / 100 |
+| Composite Score | **22.6** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 1.52 |
-| Off Rating Adj | -9.14 |
-| Def Rating Adj | 3.43 |
-| On/Off Diff | -3.77 |
-| TS% | 55.0% |
-| 3P% | 30.0% |
+| VORPD | 2.70 |
+| Off Rating Adj | -3.35 |
+| Def Rating Adj | 1.26 |
+| On/Off Diff | -1.38 |
+| TS% | 55.9% |
+| 3P% | 36.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

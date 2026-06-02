@@ -4,12 +4,12 @@ player: "Terance Mann"
 season: "2022-23"
 team: "LAC"
 archetype: "Perimeter Scorer"
-composite_score: 38.30
+composite_score: 29.08
 salary: 12398536
-vorpd: 1.04
-off_rating_adj: 2.19
-def_rating_adj: 0.54
-on_off_diff: 0.85
+vorpd: 0.98
+off_rating_adj: 1.73
+def_rating_adj: 0.43
+on_off_diff: 0.68
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | LAC |
-| Composite Score | **38.3** / 100 |
+| Composite Score | **29.1** / 100 |
 | Salary | $12,398,536 |
-| VORPD | 1.04 |
-| Off Rating Adj | 2.19 |
-| Def Rating Adj | 0.54 |
-| On/Off Diff | 0.85 |
-| TS% | 61.0% |
-| 3P% | 38.9% |
+| VORPD | 0.98 |
+| Off Rating Adj | 1.73 |
+| Def Rating Adj | 0.43 |
+| On/Off Diff | 0.68 |
+| TS% | 60.4% |
+| 3P% | 37.7% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

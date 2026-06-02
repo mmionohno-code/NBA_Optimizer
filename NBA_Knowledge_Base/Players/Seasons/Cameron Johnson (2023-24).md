@@ -4,12 +4,12 @@ player: "Cameron Johnson"
 season: "2023-24"
 team: "BKN"
 archetype: "Perimeter Scorer"
-composite_score: 43.35
+composite_score: 33.90
 salary: 18528098
-vorpd: 0.97
-off_rating_adj: 1.38
-def_rating_adj: -1.35
-on_off_diff: 0.76
+vorpd: 0.91
+off_rating_adj: 1.05
+def_rating_adj: -1.03
+on_off_diff: 0.58
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | BKN |
-| Composite Score | **43.4** / 100 |
+| Composite Score | **33.9** / 100 |
 | Salary | $18,528,098 |
-| VORPD | 0.97 |
-| Off Rating Adj | 1.38 |
-| Def Rating Adj | -1.35 |
-| On/Off Diff | 0.76 |
-| TS% | 58.1% |
-| 3P% | 39.1% |
+| VORPD | 0.91 |
+| Off Rating Adj | 1.05 |
+| Def Rating Adj | -1.03 |
+| On/Off Diff | 0.58 |
+| TS% | 58.0% |
+| 3P% | 38.4% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |
 

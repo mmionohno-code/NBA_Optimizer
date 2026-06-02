@@ -4,12 +4,12 @@ player: "Aaron Wiggins"
 season: "2023-24"
 team: "OKC"
 archetype: "Perimeter Scorer"
-composite_score: 34.67
+composite_score: 22.50
 salary: 8889450
-vorpd: 1.04
-off_rating_adj: 0.52
-def_rating_adj: 0.61
-on_off_diff: -2.73
+vorpd: 0.60
+off_rating_adj: 0.37
+def_rating_adj: 0.44
+on_off_diff: -1.92
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | OKC |
-| Composite Score | **34.7** / 100 |
+| Composite Score | **22.5** / 100 |
 | Salary | $8,889,450 |
-| VORPD | 1.04 |
-| Off Rating Adj | 0.52 |
-| Def Rating Adj | 0.61 |
-| On/Off Diff | -2.73 |
-| TS% | 63.9% |
-| 3P% | 49.2% |
+| VORPD | 0.60 |
+| Off Rating Adj | 0.37 |
+| Def Rating Adj | 0.44 |
+| On/Off Diff | -1.92 |
+| TS% | 62.6% |
+| 3P% | 41.2% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

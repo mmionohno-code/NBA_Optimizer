@@ -3,12 +3,12 @@ player: "Immanuel Quickley"
 team: "TOR"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 58.41
+composite_score: 50.49
 salary: 28596729
-vorpd: 1.15
-off_rating_adj: 3.76
-def_rating_adj: 2.63
-on_off_diff: 1.65
+vorpd: 1.17
+off_rating_adj: 3.01
+def_rating_adj: 2.10
+on_off_diff: 1.32
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **58.4** / 100 |
+| Composite Score | **50.5** / 100 |
 | Salary | $28,596,729 |
-| VORPD | 1.15 |
-| Off Rating Adj | 3.76 |
-| Def Rating Adj | 2.63 |
-| On/Off Diff | 1.65 |
+| VORPD | 1.17 |
+| Off Rating Adj | 3.01 |
+| Def Rating Adj | 2.10 |
+| On/Off Diff | 1.32 |
 | TS% | 57.7% |
-| 3P% | 39.5% |
+| 3P% | 38.7% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-11.2 pts over 3 seasons)
+> **Trend:** Trending DOWN (-15.8 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | TOR | 58.4 | $28596729 | 1.15 | 3.76 | 2.63 | 1.65 |
-| 2022-23 | NYK | 61.1 | $25996931 | 1.37 | 1.33 | 4.07 | 8.04 |
-| 2021-22 | NYK | 69.7 | $23633650 | 1.87 | 3.67 | 3.52 | 14.62 |
+| 2023-24 | TOR | 50.5 | $28596729 | 1.17 | 3.01 | 2.10 | 1.32 |
+| 2022-23 | NYK | 54.9 | $25996931 | 1.46 | 1.10 | 3.36 | 6.64 |
+| 2021-22 | NYK | 66.3 | $23633650 | 1.93 | 2.87 | 2.76 | 11.45 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (1.38, 0.71)
+- **Cluster:** 3
+- **PCA Position:** (1.56, 0.32)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

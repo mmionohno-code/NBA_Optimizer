@@ -4,12 +4,12 @@ player: "Josh Hart"
 season: "2023-24"
 team: "NYK"
 archetype: "Defensive Wing"
-composite_score: 54.03
+composite_score: 50.19
 salary: 17133611
-vorpd: 1.67
-off_rating_adj: 2.98
-def_rating_adj: 2.22
-on_off_diff: 4.52
+vorpd: 1.93
+off_rating_adj: 2.51
+def_rating_adj: 1.88
+on_off_diff: 3.83
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | NYK |
-| Composite Score | **54.0** / 100 |
+| Composite Score | **50.2** / 100 |
 | Salary | $17,133,611 |
-| VORPD | 1.67 |
-| Off Rating Adj | 2.98 |
-| Def Rating Adj | 2.22 |
-| On/Off Diff | 4.52 |
-| TS% | 53.2% |
-| 3P% | 31.0% |
+| VORPD | 1.93 |
+| Off Rating Adj | 2.51 |
+| Def Rating Adj | 1.88 |
+| On/Off Diff | 3.83 |
+| TS% | 53.7% |
+| 3P% | 34.2% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

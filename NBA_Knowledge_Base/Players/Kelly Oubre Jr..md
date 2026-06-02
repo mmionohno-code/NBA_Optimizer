@@ -3,12 +3,12 @@ player: "Kelly Oubre Jr."
 team: "PHI"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 39.43
+composite_score: 32.87
 salary: 7375448
-vorpd: 1.89
-off_rating_adj: 0.07
-def_rating_adj: -2.83
-on_off_diff: -7.79
+vorpd: 2.13
+off_rating_adj: 0.06
+def_rating_adj: -2.27
+on_off_diff: -6.25
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **39.4** / 100 |
+| Composite Score | **32.9** / 100 |
 | Salary | $7,375,448 |
-| VORPD | 1.89 |
-| Off Rating Adj | 0.07 |
-| Def Rating Adj | -2.83 |
-| On/Off Diff | -7.79 |
-| TS% | 54.1% |
-| 3P% | 31.1% |
+| VORPD | 2.13 |
+| Off Rating Adj | 0.06 |
+| Def Rating Adj | -2.27 |
+| On/Off Diff | -6.25 |
+| TS% | 54.5% |
+| 3P% | 33.9% |
 | Influence Score | 0.12 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Stable (-2.3 pts over 3 seasons)
+> **Trend:** Stable (-1.9 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | PHI | 39.4 | $7375448 | 1.89 | 0.07 | -2.83 | -7.79 |
-| 2022-23 | CHA | 49.9 | $6704928 | 3.64 | 1.05 | -3.21 | -1.35 |
-| 2021-22 | CHA | 41.7 | $6095409 | 2.67 | 0.34 | -1.62 | -1.80 |
+| 2023-24 | PHI | 32.9 | $7375448 | 2.13 | 0.06 | -2.27 | -6.25 |
+| 2022-23 | CHA | 45.0 | $6704928 | 4.19 | 0.79 | -2.42 | -1.02 |
+| 2021-22 | CHA | 34.8 | $6095409 | 2.34 | 0.27 | -1.29 | -1.43 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-0.53, 0.79)
+- **Cluster:** 6
+- **PCA Position:** (-0.84, 1.23)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

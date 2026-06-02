@@ -4,12 +4,12 @@ player: "Shai Gilgeous-Alexander"
 season: "2023-24"
 team: "OKC"
 archetype: "Elite Playmaker"
-composite_score: 91.39
+composite_score: 89.05
 salary: 33729226
-vorpd: 1.95
-off_rating_adj: 5.92
-def_rating_adj: 0.91
-on_off_diff: 8.32
+vorpd: 2.13
+off_rating_adj: 4.95
+def_rating_adj: 0.76
+on_off_diff: 6.98
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | OKC |
-| Composite Score | **91.4** / 100 |
+| Composite Score | **89.0** / 100 |
 | Salary | $33,729,226 |
-| VORPD | 1.95 |
-| Off Rating Adj | 5.92 |
-| Def Rating Adj | 0.91 |
-| On/Off Diff | 8.32 |
-| TS% | 63.0% |
-| 3P% | 35.3% |
+| VORPD | 2.13 |
+| Off Rating Adj | 4.95 |
+| Def Rating Adj | 0.76 |
+| On/Off Diff | 6.98 |
+| TS% | 62.6% |
+| 3P% | 36.3% |
 | Influence Score | 0.20 |
 | Season Weight | 0.45 |
 

@@ -4,12 +4,12 @@ player: "Kyle Lowry"
 season: "2023-24"
 team: "PHI"
 archetype: "Bench / Role Player"
-composite_score: 41.72
+composite_score: 31.18
 salary: 2020490
-vorpd: 8.05
-off_rating_adj: -2.63
-def_rating_adj: -0.42
-on_off_diff: -3.11
+vorpd: 6.95
+off_rating_adj: -2.03
+def_rating_adj: -0.33
+on_off_diff: -2.39
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | PHI |
-| Composite Score | **41.7** / 100 |
+| Composite Score | **31.2** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 8.05 |
-| Off Rating Adj | -2.63 |
-| Def Rating Adj | -0.42 |
-| On/Off Diff | -3.11 |
-| TS% | 58.9% |
-| 3P% | 39.2% |
+| VORPD | 6.95 |
+| Off Rating Adj | -2.03 |
+| Def Rating Adj | -0.33 |
+| On/Off Diff | -2.39 |
+| TS% | 58.6% |
+| 3P% | 38.3% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

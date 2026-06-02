@@ -4,12 +4,12 @@ player: "Blake Griffin"
 season: "2022-23"
 team: "BOS"
 archetype: "Defensive Wing"
-composite_score: 35.92
+composite_score: 26.42
 salary: 1017781
-vorpd: 10.28
-off_rating_adj: 0.69
-def_rating_adj: 2.11
-on_off_diff: 0.54
+vorpd: 9.37
+off_rating_adj: 0.37
+def_rating_adj: 1.13
+on_off_diff: 0.30
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | BOS |
-| Composite Score | **35.9** / 100 |
+| Composite Score | **26.4** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 10.28 |
-| Off Rating Adj | 0.69 |
-| Def Rating Adj | 2.11 |
-| On/Off Diff | 0.54 |
-| TS% | 58.3% |
-| 3P% | 34.8% |
+| VORPD | 9.37 |
+| Off Rating Adj | 0.37 |
+| Def Rating Adj | 1.13 |
+| On/Off Diff | 0.30 |
+| TS% | 58.1% |
+| 3P% | 36.4% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

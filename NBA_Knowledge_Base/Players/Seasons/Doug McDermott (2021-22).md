@@ -4,12 +4,12 @@ player: "Doug McDermott"
 season: "2021-22"
 team: "SAS"
 archetype: "Bench / Role Player"
-composite_score: 27.88
+composite_score: 18.21
 salary: 1669826
-vorpd: 1.45
-off_rating_adj: 2.14
-def_rating_adj: -4.55
-on_off_diff: -2.28
+vorpd: 0.00
+off_rating_adj: 1.52
+def_rating_adj: -3.23
+on_off_diff: -1.62
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | SAS |
-| Composite Score | **27.9** / 100 |
+| Composite Score | **18.2** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 1.45 |
-| Off Rating Adj | 2.14 |
-| Def Rating Adj | -4.55 |
-| On/Off Diff | -2.28 |
-| TS% | 58.5% |
-| 3P% | 42.2% |
+| VORPD | 0.00 |
+| Off Rating Adj | 1.52 |
+| Def Rating Adj | -3.23 |
+| On/Off Diff | -1.62 |
+| TS% | 58.2% |
+| 3P% | 39.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

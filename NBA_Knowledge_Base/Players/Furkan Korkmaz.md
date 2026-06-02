@@ -3,12 +3,12 @@ player: "Furkan Korkmaz"
 team: "PHI"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 35.66
+composite_score: 30.71
 salary: 925258
-vorpd: 11.03
-off_rating_adj: -1.49
-def_rating_adj: 1.13
-on_off_diff: -4.69
+vorpd: 10.98
+off_rating_adj: -1.10
+def_rating_adj: 0.84
+on_off_diff: -3.45
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **35.7** / 100 |
+| Composite Score | **30.7** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.03 |
-| Off Rating Adj | -1.49 |
-| Def Rating Adj | 1.13 |
-| On/Off Diff | -4.69 |
-| TS% | 51.7% |
-| 3P% | 28.9% |
+| VORPD | 10.98 |
+| Off Rating Adj | -1.10 |
+| Def Rating Adj | 0.84 |
+| On/Off Diff | -3.45 |
+| TS% | 52.4% |
+| 3P% | 32.5% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | PHI | 35.7 | $925258 | 11.03 | -1.49 | 1.13 | -4.69 |
+| 2021-22 | PHI | 30.7 | $925258 | 10.98 | -1.10 | 0.84 | -3.45 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.97, 0.96)
+- **Cluster:** 5
+- **PCA Position:** (-2.23, 1.56)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Chris Paul"
 season: "2021-22"
 team: "PHX"
 archetype: "Elite Playmaker"
-composite_score: 83.71
+composite_score: 81.78
 salary: 1669826
-vorpd: 34.89
-off_rating_adj: 3.68
-def_rating_adj: 0.77
-on_off_diff: 2.61
+vorpd: 36.67
+off_rating_adj: 2.98
+def_rating_adj: 0.63
+on_off_diff: 2.14
 season_weight: 0.20
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2021-22 |
 | Team | PHX |
-| Composite Score | **83.7** / 100 |
+| Composite Score | **81.8** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 34.89 |
-| Off Rating Adj | 3.68 |
-| Def Rating Adj | 0.77 |
-| On/Off Diff | 2.61 |
-| TS% | 57.8% |
-| 3P% | 31.7% |
+| VORPD | 36.67 |
+| Off Rating Adj | 2.98 |
+| Def Rating Adj | 0.63 |
+| On/Off Diff | 2.14 |
+| TS% | 57.6% |
+| 3P% | 34.2% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

@@ -4,12 +4,12 @@ player: "Hamidou Diallo"
 season: "2021-22"
 team: "DET"
 archetype: "Versatile Scorer"
-composite_score: 50.86
+composite_score: 45.08
 salary: 925258
-vorpd: 27.46
-off_rating_adj: -0.97
-def_rating_adj: 1.23
-on_off_diff: 1.07
+vorpd: 26.51
+off_rating_adj: -0.69
+def_rating_adj: 0.88
+on_off_diff: 0.76
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | DET |
-| Composite Score | **50.9** / 100 |
+| Composite Score | **45.1** / 100 |
 | Salary | $925,258 |
-| VORPD | 27.46 |
-| Off Rating Adj | -0.97 |
-| Def Rating Adj | 1.23 |
-| On/Off Diff | 1.07 |
-| TS% | 54.6% |
-| 3P% | 24.7% |
+| VORPD | 26.51 |
+| Off Rating Adj | -0.69 |
+| Def Rating Adj | 0.88 |
+| On/Off Diff | 0.76 |
+| TS% | 54.8% |
+| 3P% | 33.1% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

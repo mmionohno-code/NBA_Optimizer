@@ -4,12 +4,12 @@ player: "Luguentz Dort"
 season: "2021-22"
 team: "OKC"
 archetype: "Versatile Scorer"
-composite_score: 46.55
+composite_score: 40.89
 salary: 13251003
-vorpd: 1.59
-off_rating_adj: -0.75
-def_rating_adj: -0.35
-on_off_diff: 1.12
+vorpd: 1.53
+off_rating_adj: -0.57
+def_rating_adj: -0.27
+on_off_diff: 0.86
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | OKC |
-| Composite Score | **46.5** / 100 |
+| Composite Score | **40.9** / 100 |
 | Salary | $13,251,003 |
-| VORPD | 1.59 |
-| Off Rating Adj | -0.75 |
-| Def Rating Adj | -0.35 |
-| On/Off Diff | 1.12 |
-| TS% | 54.5% |
-| 3P% | 33.2% |
+| VORPD | 1.53 |
+| Off Rating Adj | -0.57 |
+| Def Rating Adj | -0.27 |
+| On/Off Diff | 0.86 |
+| TS% | 54.7% |
+| 3P% | 34.4% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

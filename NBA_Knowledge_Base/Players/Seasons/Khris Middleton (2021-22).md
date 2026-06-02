@@ -4,12 +4,12 @@ player: "Khris Middleton"
 season: "2021-22"
 team: "MIL"
 archetype: "Elite Playmaker"
-composite_score: 66.99
+composite_score: 61.83
 salary: 24212708
-vorpd: 1.72
-off_rating_adj: 3.15
-def_rating_adj: -0.43
-on_off_diff: 4.62
+vorpd: 1.70
+off_rating_adj: 2.55
+def_rating_adj: -0.35
+on_off_diff: 3.77
 season_weight: 0.20
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2021-22 |
 | Team | MIL |
-| Composite Score | **67.0** / 100 |
+| Composite Score | **61.8** / 100 |
 | Salary | $24,212,708 |
-| VORPD | 1.72 |
-| Off Rating Adj | 3.15 |
-| Def Rating Adj | -0.43 |
-| On/Off Diff | 4.62 |
-| TS% | 57.5% |
-| 3P% | 37.3% |
+| VORPD | 1.70 |
+| Off Rating Adj | 2.55 |
+| Def Rating Adj | -0.35 |
+| On/Off Diff | 3.77 |
+| TS% | 57.4% |
+| 3P% | 36.9% |
 | Influence Score | 0.15 |
 | Season Weight | 0.20 |
 

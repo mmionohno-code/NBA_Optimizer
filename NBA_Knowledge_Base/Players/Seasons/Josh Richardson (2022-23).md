@@ -4,12 +4,12 @@ player: "Josh Richardson"
 season: "2022-23"
 team: "NOP"
 archetype: "Versatile Scorer"
-composite_score: 44.00
+composite_score: 35.71
 salary: 1017781
-vorpd: 18.22
-off_rating_adj: -3.36
-def_rating_adj: -3.17
-on_off_diff: 2.19
+vorpd: 18.50
+off_rating_adj: -2.53
+def_rating_adj: -2.39
+on_off_diff: 1.65
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | NOP |
-| Composite Score | **44.0** / 100 |
+| Composite Score | **35.7** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 18.22 |
-| Off Rating Adj | -3.36 |
-| Def Rating Adj | -3.17 |
-| On/Off Diff | 2.19 |
-| TS% | 56.0% |
-| 3P% | 36.5% |
+| VORPD | 18.50 |
+| Off Rating Adj | -2.53 |
+| Def Rating Adj | -2.39 |
+| On/Off Diff | 1.65 |
+| TS% | 56.2% |
+| 3P% | 36.6% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

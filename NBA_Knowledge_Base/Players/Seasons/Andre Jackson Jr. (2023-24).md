@@ -4,12 +4,12 @@ player: "Andre Jackson Jr."
 season: "2023-24"
 team: "MIL"
 archetype: "Bench / Role Player"
-composite_score: 13.73
+composite_score: 8.28
 salary: 1954852
 vorpd: 0.00
-off_rating_adj: -3.03
-def_rating_adj: -5.33
-on_off_diff: -10.06
+off_rating_adj: -1.62
+def_rating_adj: -2.84
+on_off_diff: -5.35
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | MIL |
-| Composite Score | **13.7** / 100 |
+| Composite Score | **8.3** / 100 |
 | Salary | $1,954,852 |
 | VORPD | 0.00 |
-| Off Rating Adj | -3.03 |
-| Def Rating Adj | -5.33 |
-| On/Off Diff | -10.06 |
-| TS% | 58.4% |
-| 3P% | 37.0% |
+| Off Rating Adj | -1.62 |
+| Def Rating Adj | -2.84 |
+| On/Off Diff | -5.35 |
+| TS% | 58.1% |
+| 3P% | 37.4% |
 | Influence Score | 0.06 |
 | Season Weight | 0.45 |
 

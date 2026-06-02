@@ -4,12 +4,12 @@ player: "Kristaps Porziņģis"
 season: "2021-22"
 team: "WAS"
 archetype: "Two-Way Big"
-composite_score: 52.06
+composite_score: 47.48
 salary: 22347766
-vorpd: 1.19
-off_rating_adj: 1.61
-def_rating_adj: 2.77
-on_off_diff: -0.27
+vorpd: 1.21
+off_rating_adj: 1.20
+def_rating_adj: 2.07
+on_off_diff: -0.19
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | WAS |
-| Composite Score | **52.1** / 100 |
+| Composite Score | **47.5** / 100 |
 | Salary | $22,347,766 |
-| VORPD | 1.19 |
-| Off Rating Adj | 1.61 |
-| Def Rating Adj | 2.77 |
-| On/Off Diff | -0.27 |
-| TS% | 57.5% |
-| 3P% | 31.0% |
+| VORPD | 1.21 |
+| Off Rating Adj | 1.20 |
+| Def Rating Adj | 2.07 |
+| On/Off Diff | -0.19 |
+| TS% | 57.3% |
+| 3P% | 33.6% |
 | Influence Score | 0.16 |
 | Season Weight | 0.20 |
 

@@ -3,12 +3,12 @@ player: "Marcus Morris Sr."
 team: "CLE"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 19.18
+composite_score: 11.42
 salary: 14000000
 vorpd: 0.00
-off_rating_adj: -2.47
-def_rating_adj: -3.62
-on_off_diff: -6.23
+off_rating_adj: -1.53
+def_rating_adj: -2.25
+on_off_diff: -3.86
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **19.2** / 100 |
+| Composite Score | **11.4** / 100 |
 | Salary | $14,000,000 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.47 |
-| Def Rating Adj | -3.62 |
-| On/Off Diff | -6.23 |
-| TS% | 56.4% |
-| 3P% | 40.3% |
+| Off Rating Adj | -1.53 |
+| Def Rating Adj | -2.25 |
+| On/Off Diff | -3.86 |
+| TS% | 56.7% |
+| 3P% | 38.3% |
 | Influence Score | 0.09 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-14.4 pts over 3 seasons)
+> **Trend:** Trending DOWN (-14.6 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CLE | 19.2 | $14000000 | 0.00 | -2.47 | -3.62 | -6.23 |
-| 2022-23 | LAC | 37.1 | $1017781 | 11.44 | 2.19 | 0.14 | -1.96 |
-| 2021-22 | LAC | 33.6 | $925258 | 8.77 | 1.24 | -4.35 | -7.55 |
+| 2023-24 | CLE | 11.4 | $14000000 | 0.00 | -1.53 | -2.25 | -3.86 |
+| 2022-23 | LAC | 29.1 | $1017781 | 11.96 | 1.72 | 0.11 | -1.53 |
+| 2021-22 | LAC | 26.0 | $925258 | 5.90 | 0.94 | -3.30 | -5.72 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.68, -0.77)
+- **Cluster:** 1
+- **PCA Position:** (-1.74, -0.80)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

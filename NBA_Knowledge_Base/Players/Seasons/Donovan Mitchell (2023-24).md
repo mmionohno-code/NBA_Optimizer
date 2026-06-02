@@ -4,12 +4,12 @@ player: "Donovan Mitchell"
 season: "2023-24"
 team: "CLE"
 archetype: "Elite Playmaker"
-composite_score: 82.02
+composite_score: 76.74
 salary: 40822138
-vorpd: 1.39
-off_rating_adj: 2.73
-def_rating_adj: 2.38
-on_off_diff: 7.48
+vorpd: 1.46
+off_rating_adj: 2.17
+def_rating_adj: 1.89
+on_off_diff: 5.97
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | CLE |
-| Composite Score | **82.0** / 100 |
+| Composite Score | **76.7** / 100 |
 | Salary | $40,822,138 |
-| VORPD | 1.39 |
-| Off Rating Adj | 2.73 |
-| Def Rating Adj | 2.38 |
-| On/Off Diff | 7.48 |
-| TS% | 59.3% |
-| 3P% | 36.8% |
+| VORPD | 1.46 |
+| Off Rating Adj | 2.17 |
+| Def Rating Adj | 1.89 |
+| On/Off Diff | 5.97 |
+| TS% | 59.1% |
+| 3P% | 37.0% |
 | Influence Score | 0.18 |
 | Season Weight | 0.45 |
 

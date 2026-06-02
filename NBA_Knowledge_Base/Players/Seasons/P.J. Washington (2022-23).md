@@ -4,12 +4,12 @@ player: "P.J. Washington"
 season: "2022-23"
 team: "CHA"
 archetype: "Versatile Scorer"
-composite_score: 42.41
+composite_score: 35.61
 salary: 11320403
-vorpd: 1.50
-off_rating_adj: 0.95
-def_rating_adj: -2.71
-on_off_diff: -1.71
+vorpd: 1.65
+off_rating_adj: 0.79
+def_rating_adj: -2.24
+on_off_diff: -1.41
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | CHA |
-| Composite Score | **42.4** / 100 |
+| Composite Score | **35.6** / 100 |
 | Salary | $11,320,403 |
-| VORPD | 1.50 |
-| Off Rating Adj | 0.95 |
-| Def Rating Adj | -2.71 |
-| On/Off Diff | -1.71 |
-| TS% | 54.7% |
-| 3P% | 34.8% |
+| VORPD | 1.65 |
+| Off Rating Adj | 0.79 |
+| Def Rating Adj | -2.24 |
+| On/Off Diff | -1.41 |
+| TS% | 54.9% |
+| 3P% | 35.5% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

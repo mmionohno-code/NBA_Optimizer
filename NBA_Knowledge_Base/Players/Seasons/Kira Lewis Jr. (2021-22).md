@@ -4,12 +4,12 @@ player: "Kira Lewis Jr."
 season: "2021-22"
 team: "NOP"
 archetype: "Bench / Role Player"
-composite_score: 28.51
+composite_score: 27.17
 salary: 925258
-vorpd: 3.30
-off_rating_adj: -13.43
-def_rating_adj: 1.37
-on_off_diff: -12.10
+vorpd: 7.15
+off_rating_adj: -5.44
+def_rating_adj: 0.56
+on_off_diff: -4.91
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | NOP |
-| Composite Score | **28.5** / 100 |
+| Composite Score | **27.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 3.30 |
-| Off Rating Adj | -13.43 |
-| Def Rating Adj | 1.37 |
-| On/Off Diff | -12.10 |
-| TS% | 51.5% |
-| 3P% | 22.4% |
+| VORPD | 7.15 |
+| Off Rating Adj | -5.44 |
+| Def Rating Adj | 0.56 |
+| On/Off Diff | -4.91 |
+| TS% | 52.9% |
+| 3P% | 33.6% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

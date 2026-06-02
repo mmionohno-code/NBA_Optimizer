@@ -4,12 +4,12 @@ player: "P.J. Washington"
 season: "2021-22"
 team: "CHA"
 archetype: "Perimeter Scorer"
-composite_score: 47.04
+composite_score: 40.28
 salary: 10291308
-vorpd: 2.10
-off_rating_adj: 3.04
-def_rating_adj: -0.72
-on_off_diff: 4.59
+vorpd: 1.92
+off_rating_adj: 2.37
+def_rating_adj: -0.56
+on_off_diff: 3.58
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | CHA |
-| Composite Score | **47.0** / 100 |
+| Composite Score | **40.3** / 100 |
 | Salary | $10,291,308 |
-| VORPD | 2.10 |
-| Off Rating Adj | 3.04 |
-| Def Rating Adj | -0.72 |
-| On/Off Diff | 4.59 |
-| TS% | 58.2% |
-| 3P% | 36.5% |
+| VORPD | 1.92 |
+| Off Rating Adj | 2.37 |
+| Def Rating Adj | -0.56 |
+| On/Off Diff | 3.58 |
+| TS% | 57.9% |
+| 3P% | 36.3% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

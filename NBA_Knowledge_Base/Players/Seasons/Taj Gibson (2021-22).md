@@ -4,12 +4,12 @@ player: "Taj Gibson"
 season: "2021-22"
 team: "NYK"
 archetype: "Defensive Wing"
-composite_score: 35.79
+composite_score: 27.27
 salary: 925258
-vorpd: 11.17
-off_rating_adj: -0.33
-def_rating_adj: 4.12
-on_off_diff: 6.13
+vorpd: 7.26
+off_rating_adj: -0.21
+def_rating_adj: 2.70
+on_off_diff: 4.02
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | NYK |
-| Composite Score | **35.8** / 100 |
+| Composite Score | **27.3** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.17 |
-| Off Rating Adj | -0.33 |
-| Def Rating Adj | 4.12 |
-| On/Off Diff | 6.13 |
-| TS% | 58.5% |
-| 3P% | 39.5% |
+| VORPD | 7.26 |
+| Off Rating Adj | -0.21 |
+| Def Rating Adj | 2.70 |
+| On/Off Diff | 4.02 |
+| TS% | 57.9% |
+| 3P% | 36.5% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

@@ -4,12 +4,12 @@ player: "Reggie Jackson"
 season: "2021-22"
 team: "LAC"
 archetype: "Versatile Scorer"
-composite_score: 53.08
+composite_score: 49.55
 salary: 925258
-vorpd: 29.86
-off_rating_adj: 0.24
-def_rating_adj: 0.25
-on_off_diff: -4.08
+vorpd: 31.34
+off_rating_adj: 0.19
+def_rating_adj: 0.21
+on_off_diff: -3.35
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | LAC |
-| Composite Score | **53.1** / 100 |
+| Composite Score | **49.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 29.86 |
-| Off Rating Adj | 0.24 |
-| Def Rating Adj | 0.25 |
-| On/Off Diff | -4.08 |
-| TS% | 49.6% |
-| 3P% | 32.6% |
+| VORPD | 31.34 |
+| Off Rating Adj | 0.19 |
+| Def Rating Adj | 0.21 |
+| On/Off Diff | -3.35 |
+| TS% | 50.2% |
+| 3P% | 33.8% |
 | Influence Score | 0.14 |
 | Season Weight | 0.20 |
 

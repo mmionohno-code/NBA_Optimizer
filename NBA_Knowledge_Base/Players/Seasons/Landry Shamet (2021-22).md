@@ -4,12 +4,12 @@ player: "Landry Shamet"
 season: "2021-22"
 team: "PHX"
 archetype: "Bench / Role Player"
-composite_score: 28.49
+composite_score: 18.92
 salary: 1669826
-vorpd: 1.82
-off_rating_adj: -4.12
-def_rating_adj: 3.37
-on_off_diff: -5.99
+vorpd: 0.00
+off_rating_adj: -3.06
+def_rating_adj: 2.50
+on_off_diff: -4.42
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | PHX |
-| Composite Score | **28.5** / 100 |
+| Composite Score | **18.9** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 1.82 |
-| Off Rating Adj | -4.12 |
-| Def Rating Adj | 3.37 |
-| On/Off Diff | -5.99 |
-| TS% | 55.3% |
-| 3P% | 36.8% |
+| VORPD | 0.00 |
+| Off Rating Adj | -3.06 |
+| Def Rating Adj | 2.50 |
+| On/Off Diff | -4.42 |
+| TS% | 55.4% |
+| 3P% | 36.5% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

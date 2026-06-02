@@ -4,12 +4,12 @@ player: "Precious Achiuwa"
 season: "2023-24"
 team: "NYK"
 archetype: "Bench / Role Player"
-composite_score: 33.73
+composite_score: 25.22
 salary: 1857922
-vorpd: 4.45
-off_rating_adj: -3.02
-def_rating_adj: 0.52
-on_off_diff: -3.91
+vorpd: 4.36
+off_rating_adj: -2.31
+def_rating_adj: 0.40
+on_off_diff: -2.97
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | NYK |
-| Composite Score | **33.7** / 100 |
+| Composite Score | **25.2** / 100 |
 | Salary | $1,857,922 |
-| VORPD | 4.45 |
-| Off Rating Adj | -3.02 |
-| Def Rating Adj | 0.52 |
-| On/Off Diff | -3.91 |
-| TS% | 55.2% |
-| 3P% | 26.8% |
+| VORPD | 4.36 |
+| Off Rating Adj | -2.31 |
+| Def Rating Adj | 0.40 |
+| On/Off Diff | -2.97 |
+| TS% | 55.6% |
+| 3P% | 34.6% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

@@ -4,12 +4,12 @@ player: "Scottie Barnes"
 season: "2021-22"
 team: "TOR"
 archetype: "Versatile Scorer"
-composite_score: 49.24
+composite_score: 43.98
 salary: 28114408
-vorpd: 0.85
-off_rating_adj: 0.85
-def_rating_adj: 0.21
-on_off_diff: -3.15
+vorpd: 0.83
+off_rating_adj: 0.71
+def_rating_adj: 0.17
+on_off_diff: -2.63
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | TOR |
-| Composite Score | **49.2** / 100 |
+| Composite Score | **44.0** / 100 |
 | Salary | $28,114,408 |
-| VORPD | 0.85 |
-| Off Rating Adj | 0.85 |
-| Def Rating Adj | 0.21 |
-| On/Off Diff | -3.15 |
-| TS% | 55.3% |
-| 3P% | 30.1% |
+| VORPD | 0.83 |
+| Off Rating Adj | 0.71 |
+| Def Rating Adj | 0.17 |
+| On/Off Diff | -2.63 |
+| TS% | 55.4% |
+| 3P% | 33.6% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

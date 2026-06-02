@@ -3,12 +3,12 @@ player: "Nikola Vučević"
 team: "CHI"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 44.36
+composite_score: 39.64
 salary: 18901541
-vorpd: 1.00
-off_rating_adj: 0.77
-def_rating_adj: -2.08
-on_off_diff: -3.89
+vorpd: 1.19
+off_rating_adj: 0.65
+def_rating_adj: -1.74
+on_off_diff: -3.25
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **44.4** / 100 |
+| Composite Score | **39.6** / 100 |
 | Salary | $18,901,541 |
-| VORPD | 1.00 |
-| Off Rating Adj | 0.77 |
-| Def Rating Adj | -2.08 |
-| On/Off Diff | -3.89 |
-| TS% | 54.4% |
-| 3P% | 29.4% |
+| VORPD | 1.19 |
+| Off Rating Adj | 0.65 |
+| Def Rating Adj | -1.74 |
+| On/Off Diff | -3.25 |
+| TS% | 54.7% |
+| 3P% | 33.1% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-4.8 pts over 3 seasons)
+> **Trend:** Trending DOWN (-5.1 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHI | 44.4 | $18901541 | 1.00 | 0.77 | -2.08 | -3.89 |
-| 2022-23 | CHI | 39.5 | $17183156 | 0.82 | 0.65 | -3.10 | -6.27 |
-| 2021-22 | CHI | 49.2 | $15621101 | 1.52 | 0.43 | -2.42 | -4.35 |
+| 2023-24 | CHI | 39.6 | $18901541 | 1.19 | 0.65 | -1.74 | -3.25 |
+| 2022-23 | CHI | 31.4 | $17183156 | 0.85 | 0.55 | -2.62 | -5.30 |
+| 2021-22 | CHI | 44.7 | $15621101 | 1.55 | 0.36 | -2.01 | -3.59 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-0.21, 0.88)
+- **Cluster:** 6
+- **PCA Position:** (-0.40, 1.46)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

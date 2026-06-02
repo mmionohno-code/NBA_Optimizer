@@ -4,12 +4,12 @@ player: "Jarrett Allen"
 season: "2023-24"
 team: "CLE"
 archetype: "Two-Way Big"
-composite_score: 47.20
+composite_score: 39.02
 salary: 17597987
 vorpd: 1.24
-off_rating_adj: 2.33
-def_rating_adj: 0.28
-on_off_diff: 4.71
+off_rating_adj: 1.93
+def_rating_adj: 0.23
+on_off_diff: 3.93
 season_weight: 0.45
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2023-24 |
 | Team | CLE |
-| Composite Score | **47.2** / 100 |
+| Composite Score | **39.0** / 100 |
 | Salary | $17,597,987 |
 | VORPD | 1.24 |
-| Off Rating Adj | 2.33 |
-| Def Rating Adj | 0.28 |
-| On/Off Diff | 4.71 |
-| TS% | 65.0% |
-| 3P% | 35.6% |
+| Off Rating Adj | 1.93 |
+| Def Rating Adj | 0.23 |
+| On/Off Diff | 3.93 |
+| TS% | 64.2% |
+| 3P% | 37.0% |
 | Influence Score | 0.12 |
 | Season Weight | 0.45 |
 

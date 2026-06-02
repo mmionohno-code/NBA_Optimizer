@@ -4,12 +4,12 @@ player: "Marvin Bagley III"
 season: "2023-24"
 team: "WAS"
 archetype: "Perimeter Scorer"
-composite_score: 40.22
+composite_score: 31.15
 salary: 2020490
-vorpd: 7.31
-off_rating_adj: 0.98
-def_rating_adj: 1.11
-on_off_diff: 3.88
+vorpd: 6.94
+off_rating_adj: 0.67
+def_rating_adj: 0.75
+on_off_diff: 2.62
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | WAS |
-| Composite Score | **40.2** / 100 |
+| Composite Score | **31.1** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 7.31 |
-| Off Rating Adj | 0.98 |
-| Def Rating Adj | 1.11 |
-| On/Off Diff | 3.88 |
-| TS% | 61.5% |
-| 3P% | 39.1% |
-| Influence Score | 0.13 |
+| VORPD | 6.94 |
+| Off Rating Adj | 0.67 |
+| Def Rating Adj | 0.75 |
+| On/Off Diff | 2.62 |
+| TS% | 60.7% |
+| 3P% | 37.6% |
+| Influence Score | 0.12 |
 | Season Weight | 0.45 |
 
 _Navigate back to the full player profile: [[Players/Marvin Bagley III]]_

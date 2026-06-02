@@ -4,12 +4,12 @@ player: "Jaime Jaquez Jr."
 season: "2023-24"
 team: "MIA"
 archetype: "Versatile Scorer"
-composite_score: 49.74
+composite_score: 43.24
 salary: 3397819
-vorpd: 7.15
-off_rating_adj: 1.59
+vorpd: 7.68
+off_rating_adj: 1.29
 def_rating_adj: 0.04
-on_off_diff: 1.97
+on_off_diff: 1.61
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | MIA |
-| Composite Score | **49.7** / 100 |
+| Composite Score | **43.2** / 100 |
 | Salary | $3,397,819 |
-| VORPD | 7.15 |
-| Off Rating Adj | 1.59 |
+| VORPD | 7.68 |
+| Off Rating Adj | 1.29 |
 | Def Rating Adj | 0.04 |
-| On/Off Diff | 1.97 |
+| On/Off Diff | 1.61 |
 | TS% | 57.4% |
-| 3P% | 32.2% |
+| 3P% | 35.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

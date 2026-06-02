@@ -3,12 +3,12 @@ player: "Ben Simmons"
 team: "BKN"
 season: "2022-23"
 archetype: "Versatile Scorer"
-composite_score: 61.56
+composite_score: 53.34
 salary: 1017781
-vorpd: 35.47
-off_rating_adj: 1.81
-def_rating_adj: 0.80
-on_off_diff: 1.32
+vorpd: 35.82
+off_rating_adj: 1.25
+def_rating_adj: 0.55
+on_off_diff: 0.92
 is_shooter: 0
 tags: [player, versatile-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **61.6** / 100 |
+| Composite Score | **53.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 35.47 |
-| Off Rating Adj | 1.81 |
-| Def Rating Adj | 0.80 |
-| On/Off Diff | 1.32 |
-| TS% | 56.6% |
-| 3P% | 35.0% |
+| VORPD | 35.82 |
+| Off Rating Adj | 1.25 |
+| Def Rating Adj | 0.55 |
+| On/Off Diff | 0.92 |
+| TS% | 56.8% |
+| 3P% | 36.4% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, versatile-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | BKN | 61.6 | $1017781 | 35.47 | 1.81 | 0.80 | 1.32 |
+| 2022-23 | BKN | 53.3 | $1017781 | 35.82 | 1.25 | 0.55 | 0.92 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (1.24, 1.26)
+- **Cluster:** 6
+- **PCA Position:** (1.20, 1.01)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Keita Bates-Diop"
 season: "2021-22"
 team: "SAS"
 archetype: "Defensive Wing"
-composite_score: 35.27
+composite_score: 26.96
 salary: 925258
-vorpd: 10.61
-off_rating_adj: -3.16
-def_rating_adj: 3.35
-on_off_diff: 2.26
+vorpd: 6.93
+off_rating_adj: -2.08
+def_rating_adj: 2.20
+on_off_diff: 1.49
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | SAS |
-| Composite Score | **35.3** / 100 |
+| Composite Score | **27.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 10.61 |
-| Off Rating Adj | -3.16 |
-| Def Rating Adj | 3.35 |
-| On/Off Diff | 2.26 |
-| TS% | 57.2% |
-| 3P% | 30.9% |
+| VORPD | 6.93 |
+| Off Rating Adj | -2.08 |
+| Def Rating Adj | 2.20 |
+| On/Off Diff | 1.49 |
+| TS% | 57.0% |
+| 3P% | 35.2% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

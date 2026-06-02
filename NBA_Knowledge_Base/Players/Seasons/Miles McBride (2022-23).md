@@ -4,12 +4,12 @@ player: "Miles McBride"
 season: "2022-23"
 team: "NYK"
 archetype: "Defensive Wing"
-composite_score: 43.07
+composite_score: 35.26
 salary: 3466257
-vorpd: 5.08
-off_rating_adj: -2.07
-def_rating_adj: 4.87
-on_off_diff: 1.35
+vorpd: 5.30
+off_rating_adj: -1.25
+def_rating_adj: 2.94
+on_off_diff: 0.82
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | NYK |
-| Composite Score | **43.1** / 100 |
+| Composite Score | **35.3** / 100 |
 | Salary | $3,466,257 |
-| VORPD | 5.08 |
-| Off Rating Adj | -2.07 |
-| Def Rating Adj | 4.87 |
-| On/Off Diff | 1.35 |
-| TS% | 51.6% |
-| 3P% | 29.9% |
+| VORPD | 5.30 |
+| Off Rating Adj | -1.25 |
+| Def Rating Adj | 2.94 |
+| On/Off Diff | 0.82 |
+| TS% | 53.1% |
+| 3P% | 34.4% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

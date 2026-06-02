@@ -4,12 +4,12 @@ player: "Malachi Flynn"
 season: "2023-24"
 team: "DET"
 archetype: "Versatile Scorer"
-composite_score: 44.48
+composite_score: 36.44
 salary: 2000000
-vorpd: 9.51
-off_rating_adj: -1.71
-def_rating_adj: 0.55
-on_off_diff: -2.81
+vorpd: 9.66
+off_rating_adj: -1.09
+def_rating_adj: 0.35
+on_off_diff: -1.78
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | DET |
-| Composite Score | **44.5** / 100 |
+| Composite Score | **36.4** / 100 |
 | Salary | $2,000,000 |
-| VORPD | 9.51 |
-| Off Rating Adj | -1.71 |
-| Def Rating Adj | 0.55 |
-| On/Off Diff | -2.81 |
-| TS% | 54.6% |
-| 3P% | 33.1% |
+| VORPD | 9.66 |
+| Off Rating Adj | -1.09 |
+| Def Rating Adj | 0.35 |
+| On/Off Diff | -1.78 |
+| TS% | 55.2% |
+| 3P% | 35.7% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |
 

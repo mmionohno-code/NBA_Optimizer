@@ -4,12 +4,12 @@ player: "Norman Powell"
 season: "2022-23"
 team: "LAC"
 archetype: "Bench / Role Player"
-composite_score: 37.21
+composite_score: 26.31
 salary: 16384272
-vorpd: 0.72
-off_rating_adj: -2.31
-def_rating_adj: 1.04
-on_off_diff: -7.41
+vorpd: 0.58
+off_rating_adj: -1.75
+def_rating_adj: 0.79
+on_off_diff: -5.61
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | LAC |
-| Composite Score | **37.2** / 100 |
+| Composite Score | **26.3** / 100 |
 | Salary | $16,384,272 |
-| VORPD | 0.72 |
-| Off Rating Adj | -2.31 |
-| Def Rating Adj | 1.04 |
-| On/Off Diff | -7.41 |
-| TS% | 60.6% |
-| 3P% | 39.7% |
+| VORPD | 0.58 |
+| Off Rating Adj | -1.75 |
+| Def Rating Adj | 0.79 |
+| On/Off Diff | -5.61 |
+| TS% | 60.2% |
+| 3P% | 38.3% |
 | Influence Score | 0.15 |
 | Season Weight | 0.35 |
 

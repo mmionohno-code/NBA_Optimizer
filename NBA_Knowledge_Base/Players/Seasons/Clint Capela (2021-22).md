@@ -4,12 +4,12 @@ player: "Clint Capela"
 season: "2021-22"
 team: "ATL"
 archetype: "Two-Way Big"
-composite_score: 41.59
+composite_score: 34.80
 salary: 4872168
-vorpd: 3.31
-off_rating_adj: 2.31
-def_rating_adj: -1.25
-on_off_diff: 5.09
+vorpd: 2.92
+off_rating_adj: 1.85
+def_rating_adj: -1.00
+on_off_diff: 4.10
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | ATL |
-| Composite Score | **41.6** / 100 |
+| Composite Score | **34.8** / 100 |
 | Salary | $4,872,168 |
-| VORPD | 3.31 |
-| Off Rating Adj | 2.31 |
-| Def Rating Adj | -1.25 |
-| On/Off Diff | 5.09 |
-| TS% | 59.6% |
-| 3P% | 34.1% |
+| VORPD | 2.92 |
+| Off Rating Adj | 1.85 |
+| Def Rating Adj | -1.00 |
+| On/Off Diff | 4.10 |
+| TS% | 59.1% |
+| 3P% | 35.7% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

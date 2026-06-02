@@ -3,12 +3,12 @@ player: "Terence Davis"
 team: "SAC"
 season: "2022-23"
 archetype: "Defensive Wing"
-composite_score: 43.20
+composite_score: 34.83
 salary: 1017781
-vorpd: 17.43
-off_rating_adj: -2.07
-def_rating_adj: 2.58
-on_off_diff: 0.65
+vorpd: 17.63
+off_rating_adj: -1.30
+def_rating_adj: 1.62
+on_off_diff: 0.42
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,29 +20,29 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **43.2** / 100 |
+| Composite Score | **34.8** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 17.43 |
-| Off Rating Adj | -2.07 |
-| Def Rating Adj | 2.58 |
-| On/Off Diff | 0.65 |
-| TS% | 56.7% |
-| 3P% | 36.6% |
+| VORPD | 17.63 |
+| Off Rating Adj | -1.30 |
+| Def Rating Adj | 1.62 |
+| On/Off Diff | 0.42 |
+| TS% | 56.9% |
+| 3P% | 36.7% |
 | Influence Score | 0.12 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-22.6 pts over 2 seasons)
+> **Trend:** Trending DOWN (-20.7 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | SAC | 43.2 | $1017781 | 17.43 | -2.07 | 2.58 | 0.65 |
-| 2021-22 | SAC | 65.8 | $925258 | 43.65 | 5.43 | 3.31 | 13.17 |
+| 2022-23 | SAC | 34.8 | $1017781 | 17.63 | -1.30 | 1.62 | 0.42 |
+| 2021-22 | SAC | 55.5 | $925258 | 37.82 | 2.81 | 1.72 | 6.82 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.24, -0.02)
+- **Cluster:** 2
+- **PCA Position:** (-0.34, -0.01)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

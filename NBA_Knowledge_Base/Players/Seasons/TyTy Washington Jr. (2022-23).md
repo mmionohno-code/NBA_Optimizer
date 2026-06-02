@@ -4,12 +4,12 @@ player: "TyTy Washington Jr."
 season: "2022-23"
 team: "HOU"
 archetype: "Defensive Wing"
-composite_score: 47.18
+composite_score: 37.94
 salary: 1017781
-vorpd: 21.34
-off_rating_adj: -3.33
-def_rating_adj: 6.03
-on_off_diff: 3.85
+vorpd: 20.69
+off_rating_adj: -1.55
+def_rating_adj: 2.80
+on_off_diff: 1.78
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | HOU |
-| Composite Score | **47.2** / 100 |
+| Composite Score | **37.9** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 21.34 |
-| Off Rating Adj | -3.33 |
-| Def Rating Adj | 6.03 |
-| On/Off Diff | 3.85 |
-| TS% | 50.1% |
-| 3P% | 23.8% |
+| VORPD | 20.69 |
+| Off Rating Adj | -1.55 |
+| Def Rating Adj | 2.80 |
+| On/Off Diff | 1.78 |
+| TS% | 52.3% |
+| 3P% | 33.7% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

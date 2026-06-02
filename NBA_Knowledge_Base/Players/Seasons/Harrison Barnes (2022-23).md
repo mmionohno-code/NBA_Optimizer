@@ -4,12 +4,12 @@ player: "Harrison Barnes"
 season: "2022-23"
 team: "SAC"
 archetype: "Perimeter Scorer"
-composite_score: 40.82
+composite_score: 32.13
 salary: 15198206
-vorpd: 1.01
-off_rating_adj: 2.53
-def_rating_adj: -1.22
-on_off_diff: 4.30
+vorpd: 1.00
+off_rating_adj: 2.13
+def_rating_adj: -1.03
+on_off_diff: 3.63
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | SAC |
-| Composite Score | **40.8** / 100 |
+| Composite Score | **32.1** / 100 |
 | Salary | $15,198,206 |
-| VORPD | 1.01 |
-| Off Rating Adj | 2.53 |
-| Def Rating Adj | -1.22 |
-| On/Off Diff | 4.30 |
-| TS% | 62.3% |
-| 3P% | 37.4% |
+| VORPD | 1.00 |
+| Off Rating Adj | 2.13 |
+| Def Rating Adj | -1.03 |
+| On/Off Diff | 3.63 |
+| TS% | 61.8% |
+| 3P% | 37.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

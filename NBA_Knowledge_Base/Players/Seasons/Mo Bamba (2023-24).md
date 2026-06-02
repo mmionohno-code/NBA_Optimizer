@@ -4,12 +4,12 @@ player: "Mo Bamba"
 season: "2023-24"
 team: "PHI"
 archetype: "Bench / Role Player"
-composite_score: 21.54
+composite_score: 13.78
 salary: 8100000
 vorpd: 0.00
-off_rating_adj: -6.53
-def_rating_adj: 0.67
-on_off_diff: -7.36
+off_rating_adj: -3.90
+def_rating_adj: 0.40
+on_off_diff: -4.39
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | PHI |
-| Composite Score | **21.5** / 100 |
+| Composite Score | **13.8** / 100 |
 | Salary | $8,100,000 |
 | VORPD | 0.00 |
-| Off Rating Adj | -6.53 |
-| Def Rating Adj | 0.67 |
-| On/Off Diff | -7.36 |
+| Off Rating Adj | -3.90 |
+| Def Rating Adj | 0.40 |
+| On/Off Diff | -4.39 |
 | TS% | 57.5% |
-| 3P% | 39.1% |
+| 3P% | 37.8% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

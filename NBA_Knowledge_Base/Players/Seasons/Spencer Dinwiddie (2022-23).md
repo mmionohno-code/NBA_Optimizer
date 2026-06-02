@@ -4,12 +4,12 @@ player: "Spencer Dinwiddie"
 season: "2022-23"
 team: "BKN"
 archetype: "Versatile Scorer"
-composite_score: 54.91
+composite_score: 48.67
 salary: 1017781
-vorpd: 28.94
-off_rating_adj: 1.21
-def_rating_adj: -0.90
-on_off_diff: -1.49
+vorpd: 31.23
+off_rating_adj: 1.03
+def_rating_adj: -0.76
+on_off_diff: -1.24
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,13 +21,13 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | BKN |
-| Composite Score | **54.9** / 100 |
+| Composite Score | **48.7** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 28.94 |
-| Off Rating Adj | 1.21 |
-| Def Rating Adj | -0.90 |
-| On/Off Diff | -1.49 |
-| TS% | 57.3% |
+| VORPD | 31.23 |
+| Off Rating Adj | 1.03 |
+| Def Rating Adj | -0.76 |
+| On/Off Diff | -1.24 |
+| TS% | 57.4% |
 | 3P% | 36.9% |
 | Influence Score | 0.13 |
 | Season Weight | 0.35 |

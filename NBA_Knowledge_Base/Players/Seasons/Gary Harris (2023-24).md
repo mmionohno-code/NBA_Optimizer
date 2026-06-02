@@ -4,12 +4,12 @@ player: "Gary Harris"
 season: "2023-24"
 team: "ORL"
 archetype: "Perimeter Scorer"
-composite_score: 39.80
+composite_score: 30.87
 salary: 3197689
-vorpd: 4.49
-off_rating_adj: 1.61
-def_rating_adj: -0.77
-on_off_diff: 1.69
+vorpd: 4.30
+off_rating_adj: 1.16
+def_rating_adj: -0.56
+on_off_diff: 1.23
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | ORL |
-| Composite Score | **39.8** / 100 |
+| Composite Score | **30.9** / 100 |
 | Salary | $3,197,689 |
-| VORPD | 4.49 |
-| Off Rating Adj | 1.61 |
-| Def Rating Adj | -0.77 |
-| On/Off Diff | 1.69 |
-| TS% | 58.3% |
-| 3P% | 37.1% |
+| VORPD | 4.30 |
+| Off Rating Adj | 1.16 |
+| Def Rating Adj | -0.56 |
+| On/Off Diff | 1.23 |
+| TS% | 58.1% |
+| 3P% | 37.3% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

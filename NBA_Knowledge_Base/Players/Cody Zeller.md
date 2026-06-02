@@ -3,12 +3,12 @@ player: "Cody Zeller"
 team: "POR"
 season: "2021-22"
 archetype: "Defensive Wing"
-composite_score: 44.07
+composite_score: 32.87
 salary: 925258
-vorpd: 20.12
-off_rating_adj: 3.59
-def_rating_adj: 3.38
-on_off_diff: 9.04
+vorpd: 13.32
+off_rating_adj: 1.49
+def_rating_adj: 1.40
+on_off_diff: 3.75
 is_shooter: 0
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **44.1** / 100 |
+| Composite Score | **32.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 20.12 |
-| Off Rating Adj | 3.59 |
-| Def Rating Adj | 3.38 |
-| On/Off Diff | 9.04 |
-| TS% | 58.6% |
-| 3P% | 34.1% |
+| VORPD | 13.32 |
+| Off Rating Adj | 1.49 |
+| Def Rating Adj | 1.40 |
+| On/Off Diff | 3.75 |
+| TS% | 57.8% |
+| 3P% | 35.7% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | POR | 44.1 | $925258 | 20.12 | 3.59 | 3.38 | 9.04 |
+| 2021-22 | POR | 32.9 | $925258 | 13.32 | 1.49 | 1.40 | 3.75 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (0.24, -1.50)
+- **Cluster:** 2
+- **PCA Position:** (-0.31, -0.84)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

@@ -22,6 +22,19 @@ df_master   = pd.read_csv('nba_complete_master.csv')
 df_scored   = pd.read_csv('nba_scored_complete.csv')
 df_cluster  = pd.read_csv('nba_clustered.csv')
 
+# Deduplicate lineups: same pair can appear twice when a player was traded
+# mid-season and has separate stint rows. Keep the row with more minutes
+# (larger sample = more reliable rating). Using both would double-count.
+_pre_dedup = len(df_lineups)
+df_lineups = (df_lineups
+              .sort_values('MIN', ascending=False)
+              .drop_duplicates(subset=['GROUP_NAME', 'SEASON'], keep='first')
+              .reset_index(drop=True))
+_dupes_removed = _pre_dedup - len(df_lineups)
+if _dupes_removed:
+    print(f"Deduped lineups: removed {_dupes_removed} duplicate pair-season rows "
+          f"(kept max-MIN row per pair)")
+
 print(f"2-man lineups:  {len(df_lineups)} pair-seasons")
 print(f"Master data:    {len(df_master)} player-seasons")
 print(f"Scored data:    {len(df_scored)} player-seasons")

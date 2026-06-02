@@ -4,12 +4,12 @@ player: "Josh Green"
 season: "2022-23"
 team: "DAL"
 archetype: "Perimeter Scorer"
-composite_score: 41.54
+composite_score: 31.86
 salary: 10932043
-vorpd: 1.47
-off_rating_adj: 2.11
-def_rating_adj: 1.22
-on_off_diff: 3.29
+vorpd: 1.37
+off_rating_adj: 1.59
+def_rating_adj: 0.92
+on_off_diff: 2.49
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | DAL |
-| Composite Score | **41.5** / 100 |
+| Composite Score | **31.9** / 100 |
 | Salary | $10,932,043 |
-| VORPD | 1.47 |
-| Off Rating Adj | 2.11 |
-| Def Rating Adj | 1.22 |
-| On/Off Diff | 3.29 |
-| TS% | 62.6% |
-| 3P% | 40.2% |
+| VORPD | 1.37 |
+| Off Rating Adj | 1.59 |
+| Def Rating Adj | 0.92 |
+| On/Off Diff | 2.49 |
+| TS% | 61.6% |
+| 3P% | 38.1% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

@@ -3,12 +3,12 @@ player: "Jaden Ivey"
 team: "DET"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 54.64
+composite_score: 50.55
 salary: 8893286
-vorpd: 3.28
-off_rating_adj: 3.39
-def_rating_adj: -2.55
-on_off_diff: 4.54
+vorpd: 3.76
+off_rating_adj: 2.77
+def_rating_adj: -2.08
+on_off_diff: 3.69
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,29 +20,29 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **54.6** / 100 |
+| Composite Score | **50.5** / 100 |
 | Salary | $8,893,286 |
-| VORPD | 3.28 |
-| Off Rating Adj | 3.39 |
-| Def Rating Adj | -2.55 |
-| On/Off Diff | 4.54 |
-| TS% | 54.1% |
-| 3P% | 33.6% |
+| VORPD | 3.76 |
+| Off Rating Adj | 2.77 |
+| Def Rating Adj | -2.08 |
+| On/Off Diff | 3.69 |
+| TS% | 54.5% |
+| 3P% | 35.2% |
 | Influence Score | 0.13 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+10.7 pts over 2 seasons)
+> **Trend:** Trending UP (+13.7 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DET | 54.6 | $8893286 | 3.28 | 3.39 | -2.55 | 4.54 |
-| 2022-23 | DET | 43.9 | $8084776 | 2.28 | -1.31 | -3.46 | -10.74 |
+| 2023-24 | DET | 50.5 | $8893286 | 3.76 | 2.77 | -2.08 | 3.69 |
+| 2022-23 | DET | 36.8 | $8084776 | 2.47 | -1.08 | -2.84 | -8.83 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (0.93, 0.99)
+- **Cluster:** 6
+- **PCA Position:** (1.02, 1.26)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

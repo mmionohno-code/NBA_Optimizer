@@ -4,12 +4,12 @@ player: "Dean Wade"
 season: "2023-24"
 team: "CLE"
 archetype: "Defensive Wing"
-composite_score: 41.17
+composite_score: 30.23
 salary: 5827975
-vorpd: 2.70
-off_rating_adj: -1.27
-def_rating_adj: 7.48
-on_off_diff: 7.24
+vorpd: 2.25
+off_rating_adj: -0.87
+def_rating_adj: 5.15
+on_off_diff: 5.01
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | CLE |
-| Composite Score | **41.2** / 100 |
+| Composite Score | **30.2** / 100 |
 | Salary | $5,827,975 |
-| VORPD | 2.70 |
-| Off Rating Adj | -1.27 |
-| Def Rating Adj | 7.48 |
-| On/Off Diff | 7.24 |
-| TS% | 58.9% |
-| 3P% | 39.1% |
+| VORPD | 2.25 |
+| Off Rating Adj | -0.87 |
+| Def Rating Adj | 5.15 |
+| On/Off Diff | 5.01 |
+| TS% | 58.6% |
+| 3P% | 38.2% |
 | Influence Score | 0.06 |
 | Season Weight | 0.45 |
 

@@ -4,12 +4,12 @@ player: "Drew Eubanks"
 season: "2022-23"
 team: "POR"
 archetype: "Two-Way Big"
-composite_score: 32.94
+composite_score: 24.23
 salary: 1836802
-vorpd: 4.07
-off_rating_adj: 1.64
-def_rating_adj: -0.79
-on_off_diff: -0.57
+vorpd: 4.00
+off_rating_adj: 1.25
+def_rating_adj: -0.60
+on_off_diff: -0.43
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | POR |
-| Composite Score | **32.9** / 100 |
+| Composite Score | **24.2** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 4.07 |
-| Off Rating Adj | 1.64 |
-| Def Rating Adj | -0.79 |
-| On/Off Diff | -0.57 |
-| TS% | 63.8% |
-| 3P% | 35.0% |
+| VORPD | 4.00 |
+| Off Rating Adj | 1.25 |
+| Def Rating Adj | -0.60 |
+| On/Off Diff | -0.43 |
+| TS% | 62.6% |
+| 3P% | 36.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Day'Ron Sharpe"
 season: "2021-22"
 team: "BKN"
 archetype: "Defensive Wing"
-composite_score: 46.97
+composite_score: 36.81
 salary: 4544933
-vorpd: 4.73
-off_rating_adj: 4.00
-def_rating_adj: 2.52
-on_off_diff: 7.48
+vorpd: 3.58
+off_rating_adj: 1.75
+def_rating_adj: 1.10
+on_off_diff: 3.28
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | BKN |
-| Composite Score | **47.0** / 100 |
+| Composite Score | **36.8** / 100 |
 | Salary | $4,544,933 |
-| VORPD | 4.73 |
-| Off Rating Adj | 4.00 |
-| Def Rating Adj | 2.52 |
-| On/Off Diff | 7.48 |
-| TS% | 57.8% |
-| 3P% | 34.1% |
+| VORPD | 3.58 |
+| Off Rating Adj | 1.75 |
+| Def Rating Adj | 1.10 |
+| On/Off Diff | 3.28 |
+| TS% | 57.3% |
+| 3P% | 35.7% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

@@ -4,12 +4,12 @@ player: "Trevor Ariza"
 season: "2021-22"
 team: "LAL"
 archetype: "Bench / Role Player"
-composite_score: 32.89
+composite_score: 27.26
 salary: 925258
-vorpd: 8.03
-off_rating_adj: -1.95
-def_rating_adj: -0.19
-on_off_diff: -0.43
+vorpd: 7.25
+off_rating_adj: -0.94
+def_rating_adj: -0.09
+on_off_diff: -0.21
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | LAL |
-| Composite Score | **32.9** / 100 |
+| Composite Score | **27.3** / 100 |
 | Salary | $925,258 |
-| VORPD | 8.03 |
-| Off Rating Adj | -1.95 |
-| Def Rating Adj | -0.19 |
-| On/Off Diff | -0.43 |
-| TS% | 51.7% |
-| 3P% | 27.0% |
+| VORPD | 7.25 |
+| Off Rating Adj | -0.94 |
+| Def Rating Adj | -0.09 |
+| On/Off Diff | -0.21 |
+| TS% | 53.2% |
+| 3P% | 34.1% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

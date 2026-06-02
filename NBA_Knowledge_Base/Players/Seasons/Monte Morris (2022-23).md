@@ -4,12 +4,12 @@ player: "Monte Morris"
 season: "2022-23"
 team: "WAS"
 archetype: "Perimeter Scorer"
-composite_score: 49.38
+composite_score: 42.40
 salary: 1017781
-vorpd: 23.51
-off_rating_adj: 5.11
-def_rating_adj: -3.92
-on_off_diff: 2.55
+vorpd: 25.07
+off_rating_adj: 3.95
+def_rating_adj: -3.03
+on_off_diff: 1.97
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | WAS |
-| Composite Score | **49.4** / 100 |
+| Composite Score | **42.4** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 23.51 |
-| Off Rating Adj | 5.11 |
-| Def Rating Adj | -3.92 |
-| On/Off Diff | 2.55 |
+| VORPD | 25.07 |
+| Off Rating Adj | 3.95 |
+| Def Rating Adj | -3.03 |
+| On/Off Diff | 1.97 |
 | TS% | 57.8% |
-| 3P% | 38.2% |
+| 3P% | 37.4% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

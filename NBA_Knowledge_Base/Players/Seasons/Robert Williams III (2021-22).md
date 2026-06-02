@@ -4,12 +4,12 @@ player: "Robert Williams III"
 season: "2021-22"
 team: "BOS"
 archetype: "Two-Way Big"
-composite_score: 44.39
+composite_score: 36.87
 salary: 925258
-vorpd: 20.46
-off_rating_adj: 2.39
-def_rating_adj: 2.07
-on_off_diff: 3.71
+vorpd: 17.64
+off_rating_adj: 1.87
+def_rating_adj: 1.62
+on_off_diff: 2.93
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | BOS |
-| Composite Score | **44.4** / 100 |
+| Composite Score | **36.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 20.46 |
-| Off Rating Adj | 2.39 |
-| Def Rating Adj | 2.07 |
-| On/Off Diff | 3.71 |
-| TS% | 69.2% |
-| 3P% | 34.1% |
-| Influence Score | 0.08 |
+| VORPD | 17.64 |
+| Off Rating Adj | 1.87 |
+| Def Rating Adj | 1.62 |
+| On/Off Diff | 2.93 |
+| TS% | 66.7% |
+| 3P% | 35.7% |
+| Influence Score | 0.07 |
 | Season Weight | 0.20 |
 
 _Navigate back to the full player profile: [[Players/Robert Williams III]]_

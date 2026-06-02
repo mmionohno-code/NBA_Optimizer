@@ -4,12 +4,12 @@ player: "Robin Lopez"
 season: "2021-22"
 team: "ORL"
 archetype: "Defensive Wing"
-composite_score: 40.44
+composite_score: 31.67
 salary: 925258
-vorpd: 16.19
-off_rating_adj: 0.59
-def_rating_adj: 1.71
-on_off_diff: 4.72
+vorpd: 12.02
+off_rating_adj: 0.32
+def_rating_adj: 0.94
+on_off_diff: 2.59
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | ORL |
-| Composite Score | **40.4** / 100 |
+| Composite Score | **31.7** / 100 |
 | Salary | $925,258 |
-| VORPD | 16.19 |
-| Off Rating Adj | 0.59 |
-| Def Rating Adj | 1.71 |
-| On/Off Diff | 4.72 |
-| TS% | 56.7% |
-| 3P% | 34.1% |
+| VORPD | 12.02 |
+| Off Rating Adj | 0.32 |
+| Def Rating Adj | 0.94 |
+| On/Off Diff | 2.59 |
+| TS% | 56.5% |
+| 3P% | 35.7% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

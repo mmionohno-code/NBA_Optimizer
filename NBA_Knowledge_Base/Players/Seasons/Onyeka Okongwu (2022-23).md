@@ -4,12 +4,12 @@ player: "Onyeka Okongwu"
 season: "2022-23"
 team: "ATL"
 archetype: "Two-Way Big"
-composite_score: 43.77
+composite_score: 35.81
 salary: 11998583
-vorpd: 1.53
-off_rating_adj: 3.26
-def_rating_adj: 0.87
-on_off_diff: 3.79
+vorpd: 1.58
+off_rating_adj: 2.57
+def_rating_adj: 0.68
+on_off_diff: 2.99
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | ATL |
-| Composite Score | **43.8** / 100 |
+| Composite Score | **35.8** / 100 |
 | Salary | $11,998,583 |
-| VORPD | 1.53 |
-| Off Rating Adj | 3.26 |
-| Def Rating Adj | 0.87 |
-| On/Off Diff | 3.79 |
-| TS% | 65.4% |
-| 3P% | 35.0% |
+| VORPD | 1.58 |
+| Off Rating Adj | 2.57 |
+| Def Rating Adj | 0.68 |
+| On/Off Diff | 2.99 |
+| TS% | 64.2% |
+| 3P% | 36.4% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

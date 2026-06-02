@@ -4,12 +4,12 @@ player: "Payton Pritchard"
 season: "2023-24"
 team: "BOS"
 archetype: "Perimeter Scorer"
-composite_score: 46.84
+composite_score: 38.27
 salary: 6363558
-vorpd: 3.36
-off_rating_adj: 2.85
-def_rating_adj: -0.03
-on_off_diff: 1.78
+vorpd: 3.32
+off_rating_adj: 2.24
+def_rating_adj: -0.02
+on_off_diff: 1.43
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | BOS |
-| Composite Score | **46.8** / 100 |
+| Composite Score | **38.3** / 100 |
 | Salary | $6,363,558 |
-| VORPD | 3.36 |
-| Off Rating Adj | 2.85 |
-| Def Rating Adj | -0.03 |
-| On/Off Diff | 1.78 |
-| TS% | 59.3% |
-| 3P% | 38.5% |
+| VORPD | 3.32 |
+| Off Rating Adj | 2.24 |
+| Def Rating Adj | -0.02 |
+| On/Off Diff | 1.43 |
+| TS% | 59.0% |
+| 3P% | 38.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

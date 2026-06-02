@@ -3,12 +3,12 @@ player: "Dwight Powell"
 team: "DAL"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 26.96
+composite_score: 17.53
 salary: 3519597
-vorpd: 0.43
-off_rating_adj: -1.38
-def_rating_adj: -0.25
-on_off_diff: -2.60
+vorpd: 0.11
+off_rating_adj: -0.86
+def_rating_adj: -0.16
+on_off_diff: -1.62
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **27.0** / 100 |
+| Composite Score | **17.5** / 100 |
 | Salary | $3,519,597 |
-| VORPD | 0.43 |
-| Off Rating Adj | -1.38 |
-| Def Rating Adj | -0.25 |
-| On/Off Diff | -2.60 |
-| TS% | 63.4% |
-| 3P% | 35.6% |
-| Influence Score | 0.06 |
+| VORPD | 0.11 |
+| Off Rating Adj | -0.86 |
+| Def Rating Adj | -0.16 |
+| On/Off Diff | -1.62 |
+| TS% | 61.5% |
+| 3P% | 37.0% |
+| Influence Score | 0.05 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Stable (-2.9 pts over 3 seasons)
+> **Trend:** Trending DOWN (-3.6 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DAL | 27.0 | $3519597 | 0.43 | -1.38 | -0.25 | -2.60 |
-| 2022-23 | DAL | 45.3 | $3199622 | 6.20 | 6.21 | 0.82 | 8.64 |
-| 2021-22 | DAL | 29.8 | $2908757 | 1.50 | 3.67 | -3.51 | -3.29 |
+| 2023-24 | DAL | 17.5 | $3519597 | 0.11 | -0.86 | -0.16 | -1.62 |
+| 2022-23 | DAL | 37.4 | $3199622 | 6.40 | 4.62 | 0.61 | 6.45 |
+| 2021-22 | DAL | 21.1 | $2908757 | 0.20 | 2.87 | -2.75 | -2.56 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.93, -1.45)
+- **Cluster:** 1
+- **PCA Position:** (-1.08, -1.46)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Cody Zeller"
 season: "2021-22"
 team: "POR"
 archetype: "Defensive Wing"
-composite_score: 44.07
+composite_score: 32.87
 salary: 925258
-vorpd: 20.12
-off_rating_adj: 3.59
-def_rating_adj: 3.38
-on_off_diff: 9.04
+vorpd: 13.32
+off_rating_adj: 1.49
+def_rating_adj: 1.40
+on_off_diff: 3.75
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | POR |
-| Composite Score | **44.1** / 100 |
+| Composite Score | **32.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 20.12 |
-| Off Rating Adj | 3.59 |
-| Def Rating Adj | 3.38 |
-| On/Off Diff | 9.04 |
-| TS% | 58.6% |
-| 3P% | 34.1% |
+| VORPD | 13.32 |
+| Off Rating Adj | 1.49 |
+| Def Rating Adj | 1.40 |
+| On/Off Diff | 3.75 |
+| TS% | 57.8% |
+| 3P% | 35.7% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

@@ -4,12 +4,12 @@ player: "Donte DiVincenzo"
 season: "2022-23"
 team: "GSW"
 archetype: "Perimeter Scorer"
-composite_score: 51.63
+composite_score: 41.70
 salary: 9590868
-vorpd: 2.73
-off_rating_adj: -0.68
-def_rating_adj: 2.14
-on_off_diff: 2.22
+vorpd: 2.59
+off_rating_adj: -0.54
+def_rating_adj: 1.69
+on_off_diff: 1.77
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | GSW |
-| Composite Score | **51.6** / 100 |
+| Composite Score | **41.7** / 100 |
 | Salary | $9,590,868 |
-| VORPD | 2.73 |
-| Off Rating Adj | -0.68 |
-| Def Rating Adj | 2.14 |
-| On/Off Diff | 2.22 |
-| TS% | 58.9% |
-| 3P% | 39.7% |
+| VORPD | 2.59 |
+| Off Rating Adj | -0.54 |
+| Def Rating Adj | 1.69 |
+| On/Off Diff | 1.77 |
+| TS% | 58.7% |
+| 3P% | 38.5% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

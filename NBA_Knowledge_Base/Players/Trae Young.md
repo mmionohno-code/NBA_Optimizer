@@ -3,12 +3,12 @@ player: "Trae Young"
 team: "ATL"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 75.12
+composite_score: 69.77
 salary: 40822138
-vorpd: 1.22
-off_rating_adj: 2.95
-def_rating_adj: -2.57
-on_off_diff: -0.75
+vorpd: 1.29
+off_rating_adj: 2.34
+def_rating_adj: -2.04
+on_off_diff: -0.59
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,30 +20,30 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **75.1** / 100 |
+| Composite Score | **69.8** / 100 |
 | Salary | $40,822,138 |
-| VORPD | 1.22 |
-| Off Rating Adj | 2.95 |
-| Def Rating Adj | -2.57 |
-| On/Off Diff | -0.75 |
-| TS% | 58.4% |
+| VORPD | 1.29 |
+| Off Rating Adj | 2.34 |
+| Def Rating Adj | -2.04 |
+| On/Off Diff | -0.59 |
+| TS% | 58.3% |
 | 3P% | 37.3% |
 | Influence Score | 0.17 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Stable (-0.4 pts over 3 seasons)
+> **Trend:** Stable (-2.0 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | ATL | 75.1 | $40822138 | 1.22 | 2.95 | -2.57 | -0.75 |
-| 2022-23 | ATL | 78.7 | $37110898 | 1.43 | 4.96 | -1.33 | 0.96 |
-| 2021-22 | ATL | 75.5 | $33737289 | 1.48 | 2.91 | -2.85 | 3.47 |
+| 2023-24 | ATL | 69.8 | $40822138 | 1.29 | 2.34 | -2.04 | -0.59 |
+| 2022-23 | ATL | 77.9 | $37110898 | 1.65 | 4.15 | -1.11 | 0.82 |
+| 2021-22 | ATL | 71.8 | $33737289 | 1.52 | 2.45 | -2.39 | 2.93 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (2.73, 3.23)
+- **Cluster:** 0
+- **PCA Position:** (2.94, 3.02)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

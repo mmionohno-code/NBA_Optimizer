@@ -4,12 +4,12 @@ player: "Jaxson Hayes"
 season: "2021-22"
 team: "NOP"
 archetype: "Two-Way Big"
-composite_score: 36.58
+composite_score: 28.26
 salary: 2508311
-vorpd: 4.43
-off_rating_adj: 1.37
-def_rating_adj: 1.17
-on_off_diff: 2.41
+vorpd: 3.07
+off_rating_adj: 1.01
+def_rating_adj: 0.86
+on_off_diff: 1.78
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | NOP |
-| Composite Score | **36.6** / 100 |
+| Composite Score | **28.3** / 100 |
 | Salary | $2,508,311 |
-| VORPD | 4.43 |
-| Off Rating Adj | 1.37 |
-| Def Rating Adj | 1.17 |
-| On/Off Diff | 2.41 |
-| TS% | 64.8% |
-| 3P% | 35.1% |
+| VORPD | 3.07 |
+| Off Rating Adj | 1.01 |
+| Def Rating Adj | 0.86 |
+| On/Off Diff | 1.78 |
+| TS% | 63.2% |
+| 3P% | 35.9% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

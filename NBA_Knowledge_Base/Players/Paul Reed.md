@@ -3,12 +3,12 @@ player: "Paul Reed"
 team: "PHI"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 42.54
+composite_score: 34.17
 salary: 4695050
-vorpd: 3.64
-off_rating_adj: 2.27
-def_rating_adj: -0.83
-on_off_diff: 1.27
+vorpd: 3.63
+off_rating_adj: 1.73
+def_rating_adj: -0.63
+on_off_diff: 0.98
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,29 +20,29 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **42.5** / 100 |
+| Composite Score | **34.2** / 100 |
 | Salary | $4,695,050 |
-| VORPD | 3.64 |
-| Off Rating Adj | 2.27 |
-| Def Rating Adj | -0.83 |
-| On/Off Diff | 1.27 |
-| TS% | 57.9% |
-| 3P% | 36.8% |
+| VORPD | 3.63 |
+| Off Rating Adj | 1.73 |
+| Def Rating Adj | -0.63 |
+| On/Off Diff | 0.98 |
+| TS% | 57.8% |
+| 3P% | 37.3% |
 | Influence Score | 0.09 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+13.8 pts over 2 seasons)
+> **Trend:** Trending UP (+12.5 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | PHI | 42.5 | $4695050 | 3.64 | 2.27 | -0.83 | 1.27 |
-| 2022-23 | PHI | 28.8 | $4268211 | 0.77 | -2.73 | 0.25 | -5.52 |
+| 2023-24 | PHI | 34.2 | $4695050 | 3.63 | 1.73 | -0.63 | 0.98 |
+| 2022-23 | PHI | 21.7 | $4268211 | 1.13 | -1.64 | 0.15 | -3.30 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.61, -1.00)
+- **Cluster:** 3
+- **PCA Position:** (0.58, -1.09)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

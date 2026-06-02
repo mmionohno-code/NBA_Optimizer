@@ -4,12 +4,12 @@ player: "Trayce Jackson-Davis"
 season: "2023-24"
 team: "GSW"
 archetype: "Two-Way Big"
-composite_score: 30.65
+composite_score: 21.11
 salary: 1954852
-vorpd: 2.66
-off_rating_adj: -0.54
-def_rating_adj: -0.13
-on_off_diff: -2.16
+vorpd: 2.04
+off_rating_adj: -0.37
+def_rating_adj: -0.09
+on_off_diff: -1.49
 season_weight: 0.45
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2023-24 |
 | Team | GSW |
-| Composite Score | **30.6** / 100 |
+| Composite Score | **21.1** / 100 |
 | Salary | $1,954,852 |
-| VORPD | 2.66 |
-| Off Rating Adj | -0.54 |
-| Def Rating Adj | -0.13 |
-| On/Off Diff | -2.16 |
-| TS% | 65.6% |
-| 3P% | 35.6% |
+| VORPD | 2.04 |
+| Off Rating Adj | -0.37 |
+| Def Rating Adj | -0.09 |
+| On/Off Diff | -1.49 |
+| TS% | 63.9% |
+| 3P% | 37.0% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

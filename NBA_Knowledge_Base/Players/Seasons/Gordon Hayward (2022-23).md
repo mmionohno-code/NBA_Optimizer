@@ -4,12 +4,12 @@ player: "Gordon Hayward"
 season: "2022-23"
 team: "CHA"
 archetype: "Versatile Scorer"
-composite_score: 53.55
+composite_score: 47.40
 salary: 1017781
-vorpd: 27.60
-off_rating_adj: 1.85
-def_rating_adj: 0.39
-on_off_diff: 4.21
+vorpd: 29.98
+off_rating_adj: 1.40
+def_rating_adj: 0.30
+on_off_diff: 3.20
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | CHA |
-| Composite Score | **53.5** / 100 |
+| Composite Score | **47.4** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 27.60 |
-| Off Rating Adj | 1.85 |
-| Def Rating Adj | 0.39 |
-| On/Off Diff | 4.21 |
-| TS% | 56.6% |
-| 3P% | 32.5% |
+| VORPD | 29.98 |
+| Off Rating Adj | 1.40 |
+| Def Rating Adj | 0.30 |
+| On/Off Diff | 3.20 |
+| TS% | 56.7% |
+| 3P% | 35.2% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

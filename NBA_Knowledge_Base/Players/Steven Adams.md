@@ -3,12 +3,12 @@ player: "Steven Adams"
 team: "MEM"
 season: "2022-23"
 archetype: "Perimeter Scorer"
-composite_score: 52.34
+composite_score: 45.00
 salary: 11303013
-vorpd: 2.38
-off_rating_adj: 5.71
-def_rating_adj: 0.67
-on_off_diff: 5.60
+vorpd: 2.49
+off_rating_adj: 3.96
+def_rating_adj: 0.47
+on_off_diff: 3.90
 is_shooter: 0
 tags: [player, perimeter-scorer]
 ---
@@ -20,29 +20,29 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **52.3** / 100 |
+| Composite Score | **45.0** / 100 |
 | Salary | $11,303,013 |
-| VORPD | 2.38 |
-| Off Rating Adj | 5.71 |
-| Def Rating Adj | 0.67 |
-| On/Off Diff | 5.60 |
-| TS% | 56.8% |
-| 3P% | 35.0% |
+| VORPD | 2.49 |
+| Off Rating Adj | 3.96 |
+| Def Rating Adj | 0.47 |
+| On/Off Diff | 3.90 |
+| TS% | 57.0% |
+| 3P% | 36.4% |
 | Influence Score | 0.08 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+3.3 pts over 2 seasons)
+> **Trend:** Stable (+1.1 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | MEM | 52.3 | $11303013 | 2.38 | 5.71 | 0.67 | 5.60 |
-| 2021-22 | MEM | 49.1 | $10275499 | 2.30 | 5.67 | -2.44 | 3.40 |
+| 2022-23 | MEM | 45.0 | $11303013 | 2.49 | 3.96 | 0.47 | 3.90 |
+| 2021-22 | MEM | 43.9 | $10275499 | 2.27 | 4.54 | -1.95 | 2.74 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (1.34, -1.01)
+- **Cluster:** 3
+- **PCA Position:** (1.33, -0.97)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

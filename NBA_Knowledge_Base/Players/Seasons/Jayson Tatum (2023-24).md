@@ -4,12 +4,12 @@ player: "Jayson Tatum"
 season: "2023-24"
 team: "BOS"
 archetype: "Elite Playmaker"
-composite_score: 56.87
+composite_score: 49.29
 salary: 47625828
-vorpd: 0.66
-off_rating_adj: 1.75
-def_rating_adj: -1.33
-on_off_diff: -2.70
+vorpd: 0.68
+off_rating_adj: 1.47
+def_rating_adj: -1.12
+on_off_diff: -2.24
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | BOS |
-| Composite Score | **56.9** / 100 |
+| Composite Score | **49.3** / 100 |
 | Salary | $47,625,828 |
-| VORPD | 0.66 |
-| Off Rating Adj | 1.75 |
-| Def Rating Adj | -1.33 |
-| On/Off Diff | -2.70 |
-| TS% | 60.1% |
-| 3P% | 37.6% |
+| VORPD | 0.68 |
+| Off Rating Adj | 1.47 |
+| Def Rating Adj | -1.12 |
+| On/Off Diff | -2.24 |
+| TS% | 59.9% |
+| 3P% | 37.5% |
 | Influence Score | 0.18 |
 | Season Weight | 0.45 |
 

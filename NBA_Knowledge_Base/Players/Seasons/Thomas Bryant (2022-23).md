@@ -4,12 +4,12 @@ player: "Thomas Bryant"
 season: "2022-23"
 team: "DEN"
 archetype: "Bench / Role Player"
-composite_score: 18.54
+composite_score: 9.48
 salary: 1836802
 vorpd: 0.00
-off_rating_adj: -2.45
-def_rating_adj: -3.38
-on_off_diff: -7.17
+off_rating_adj: -1.68
+def_rating_adj: -2.31
+on_off_diff: -4.89
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | DEN |
-| Composite Score | **18.5** / 100 |
+| Composite Score | **9.5** / 100 |
 | Salary | $1,836,802 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.45 |
-| Def Rating Adj | -3.38 |
-| On/Off Diff | -7.17 |
-| TS% | 65.2% |
-| 3P% | 44.1% |
+| Off Rating Adj | -1.68 |
+| Def Rating Adj | -2.31 |
+| On/Off Diff | -4.89 |
+| TS% | 63.7% |
+| 3P% | 38.1% |
 | Influence Score | 0.12 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Gary Payton II"
 season: "2022-23"
 team: "GSW"
 archetype: "Perimeter Scorer"
-composite_score: 46.41
+composite_score: 36.46
 salary: 1836802
-vorpd: 11.41
-off_rating_adj: 9.52
-def_rating_adj: -5.56
-on_off_diff: 8.33
+vorpd: 10.66
+off_rating_adj: 4.03
+def_rating_adj: -2.36
+on_off_diff: 3.54
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | GSW |
-| Composite Score | **46.4** / 100 |
+| Composite Score | **36.5** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 11.41 |
-| Off Rating Adj | 9.52 |
-| Def Rating Adj | -5.56 |
-| On/Off Diff | 8.33 |
-| TS% | 61.5% |
-| 3P% | 50.0% |
+| VORPD | 10.66 |
+| Off Rating Adj | 4.03 |
+| Def Rating Adj | -2.36 |
+| On/Off Diff | 3.54 |
+| TS% | 60.1% |
+| 3P% | 38.0% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

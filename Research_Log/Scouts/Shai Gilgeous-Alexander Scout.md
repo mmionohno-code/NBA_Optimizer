@@ -1,6 +1,6 @@
 ---
 type: player-scout
-date: 2026-05-08
+date: 2026-06-01
 player: "Shai Gilgeous-Alexander"
 team: "OKC"
 tags: [scout, player, elite-playmaker]
@@ -8,7 +8,7 @@ tags: [scout, player, elite-playmaker]
 
 # Scout Note: Shai Gilgeous-Alexander
 
-**Date:** 2026-05-08
+**Date:** 2026-06-01
 **Team:** OKC Thunder
 **Obsidian Profile:** [[Players/Shai Gilgeous-Alexander]]
 

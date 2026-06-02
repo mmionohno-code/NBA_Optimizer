@@ -4,12 +4,12 @@ player: "Robert Covington"
 season: "2022-23"
 team: "LAC"
 archetype: "Defensive Wing"
-composite_score: 38.67
+composite_score: 29.35
 salary: 1017781
-vorpd: 12.98
-off_rating_adj: -2.31
-def_rating_adj: 3.84
-on_off_diff: 0.11
+vorpd: 12.25
+off_rating_adj: -1.41
+def_rating_adj: 2.34
+on_off_diff: 0.07
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | LAC |
-| Composite Score | **38.7** / 100 |
+| Composite Score | **29.4** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 12.98 |
-| Off Rating Adj | -2.31 |
-| Def Rating Adj | 3.84 |
-| On/Off Diff | 0.11 |
-| TS% | 58.1% |
-| 3P% | 39.7% |
+| VORPD | 12.25 |
+| Off Rating Adj | -1.41 |
+| Def Rating Adj | 2.34 |
+| On/Off Diff | 0.07 |
+| TS% | 58.0% |
+| 3P% | 37.8% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

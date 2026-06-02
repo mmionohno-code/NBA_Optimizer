@@ -4,12 +4,12 @@ player: "Bruno Fernando"
 season: "2023-24"
 team: "ATL"
 archetype: "Bench / Role Player"
-composite_score: 32.00
+composite_score: 23.59
 salary: 1119563
-vorpd: 5.85
-off_rating_adj: -6.15
-def_rating_adj: 2.63
-on_off_diff: -3.54
+vorpd: 5.77
+off_rating_adj: -3.55
+def_rating_adj: 1.52
+on_off_diff: -2.04
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | ATL |
-| Composite Score | **32.0** / 100 |
+| Composite Score | **23.6** / 100 |
 | Salary | $1,119,563 |
-| VORPD | 5.85 |
-| Off Rating Adj | -6.15 |
-| Def Rating Adj | 2.63 |
-| On/Off Diff | -3.54 |
-| TS% | 59.7% |
-| 3P% | 35.6% |
+| VORPD | 5.77 |
+| Off Rating Adj | -3.55 |
+| Def Rating Adj | 1.52 |
+| On/Off Diff | -2.04 |
+| TS% | 59.1% |
+| 3P% | 37.0% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

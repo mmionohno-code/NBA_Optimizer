@@ -3,12 +3,12 @@ player: "Jordan McLaughlin"
 team: "MIN"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 44.20
+composite_score: 30.59
 salary: 2020490
-vorpd: 9.28
-off_rating_adj: -2.28
-def_rating_adj: 6.35
-on_off_diff: 4.49
+vorpd: 6.66
+off_rating_adj: -1.27
+def_rating_adj: 3.53
+on_off_diff: 2.51
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **44.2** / 100 |
+| Composite Score | **30.6** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 9.28 |
-| Off Rating Adj | -2.28 |
-| Def Rating Adj | 6.35 |
-| On/Off Diff | 4.49 |
-| TS% | 60.6% |
-| 3P% | 47.2% |
+| VORPD | 6.66 |
+| Off Rating Adj | -1.27 |
+| Def Rating Adj | 3.53 |
+| On/Off Diff | 2.51 |
+| TS% | 59.7% |
+| 3P% | 39.9% |
 | Influence Score | 0.07 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-4.4 pts over 3 seasons)
+> **Trend:** Trending DOWN (-10.0 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MIN | 44.2 | $2020490 | 9.28 | -2.28 | 6.35 | 4.49 |
-| 2022-23 | MIN | 56.0 | $1836802 | 16.63 | -0.39 | 6.34 | 7.36 |
-| 2021-22 | MIN | 48.6 | $1669826 | 13.88 | -0.62 | 0.40 | 0.41 |
+| 2023-24 | MIN | 30.6 | $2020490 | 6.66 | -1.27 | 3.53 | 2.51 |
+| 2022-23 | MIN | 44.2 | $1836802 | 14.89 | -0.23 | 3.65 | 4.25 |
+| 2021-22 | MIN | 40.6 | $1669826 | 12.03 | -0.40 | 0.26 | 0.27 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (0.39, -1.26)
+- **Cluster:** 2
+- **PCA Position:** (-0.03, -1.50)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

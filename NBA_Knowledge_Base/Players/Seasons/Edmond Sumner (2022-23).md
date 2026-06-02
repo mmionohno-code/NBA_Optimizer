@@ -4,12 +4,12 @@ player: "Edmond Sumner"
 season: "2022-23"
 team: "BKN"
 archetype: "Defensive Wing"
-composite_score: 44.19
+composite_score: 35.26
 salary: 1017781
-vorpd: 18.41
-off_rating_adj: -1.19
-def_rating_adj: 3.20
-on_off_diff: 0.21
+vorpd: 18.05
+off_rating_adj: -0.71
+def_rating_adj: 1.91
+on_off_diff: 0.14
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | BKN |
-| Composite Score | **44.2** / 100 |
+| Composite Score | **35.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 18.41 |
-| Off Rating Adj | -1.19 |
-| Def Rating Adj | 3.20 |
-| On/Off Diff | 0.21 |
-| TS% | 59.0% |
-| 3P% | 35.6% |
+| VORPD | 18.05 |
+| Off Rating Adj | -0.71 |
+| Def Rating Adj | 1.91 |
+| On/Off Diff | 0.14 |
+| TS% | 58.6% |
+| 3P% | 36.5% |
 | Influence Score | 0.12 |
 | Season Weight | 0.35 |
 

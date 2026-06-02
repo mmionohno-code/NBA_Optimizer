@@ -3,32 +3,32 @@ player_season: "Thomas Bryant (2023-24)"
 player: "Thomas Bryant"
 season: "2023-24"
 team: "MIA"
-archetype: "Defensive Wing"
-composite_score: 37.60
+archetype: "Bench / Role Player"
+composite_score: 27.78
 salary: 2020490
-vorpd: 6.01
-off_rating_adj: 1.29
-def_rating_adj: -0.26
-on_off_diff: 0.50
+vorpd: 5.27
+off_rating_adj: 0.61
+def_rating_adj: -0.12
+on_off_diff: 0.24
 season_weight: 0.45
-tags: [season-note, defensive-wing]
+tags: [season-note, bench-/-role-player]
 ---
 # Thomas Bryant — 2023-24
 
-> Part of [[Players/Thomas Bryant]] | Archetype: [[Archetypes/Defensive Wing]]
+> Part of [[Players/Thomas Bryant]] | Archetype: [[Archetypes/Bench / Role Player]]
 
 | Metric | Value |
 |---|---|
 | Season | 2023-24 |
 | Team | MIA |
-| Composite Score | **37.6** / 100 |
+| Composite Score | **27.8** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 6.01 |
-| Off Rating Adj | 1.29 |
-| Def Rating Adj | -0.26 |
-| On/Off Diff | 0.50 |
-| TS% | 60.7% |
-| 3P% | 18.2% |
+| VORPD | 5.27 |
+| Off Rating Adj | 0.61 |
+| Def Rating Adj | -0.12 |
+| On/Off Diff | 0.24 |
+| TS% | 59.8% |
+| 3P% | 35.9% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |
 

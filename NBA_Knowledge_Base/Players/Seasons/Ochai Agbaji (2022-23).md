@@ -4,12 +4,12 @@ player: "Ochai Agbaji"
 season: "2022-23"
 team: "UTA"
 archetype: "Bench / Role Player"
-composite_score: 33.89
+composite_score: 26.15
 salary: 5106217
-vorpd: 1.65
-off_rating_adj: 2.57
-def_rating_adj: 0.13
-on_off_diff: -0.19
+vorpd: 1.81
+off_rating_adj: 1.82
+def_rating_adj: 0.09
+on_off_diff: -0.12
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | UTA |
-| Composite Score | **33.9** / 100 |
+| Composite Score | **26.1** / 100 |
 | Salary | $5,106,217 |
-| VORPD | 1.65 |
-| Off Rating Adj | 2.57 |
-| Def Rating Adj | 0.13 |
-| On/Off Diff | -0.19 |
-| TS% | 56.5% |
-| 3P% | 35.5% |
+| VORPD | 1.81 |
+| Off Rating Adj | 1.82 |
+| Def Rating Adj | 0.09 |
+| On/Off Diff | -0.12 |
+| TS% | 56.7% |
+| 3P% | 36.2% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

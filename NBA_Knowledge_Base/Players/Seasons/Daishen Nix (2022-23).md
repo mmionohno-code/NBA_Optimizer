@@ -4,12 +4,12 @@ player: "Daishen Nix"
 season: "2022-23"
 team: "HOU"
 archetype: "Defensive Wing"
-composite_score: 45.11
+composite_score: 38.03
 salary: 1017781
-vorpd: 19.31
-off_rating_adj: -2.03
-def_rating_adj: 2.63
-on_off_diff: 2.82
+vorpd: 20.78
+off_rating_adj: -1.31
+def_rating_adj: 1.70
+on_off_diff: 1.82
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | HOU |
-| Composite Score | **45.1** / 100 |
+| Composite Score | **38.0** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 19.31 |
-| Off Rating Adj | -2.03 |
-| Def Rating Adj | 2.63 |
-| On/Off Diff | 2.82 |
-| TS% | 49.7% |
-| 3P% | 28.6% |
-| Influence Score | 0.07 |
+| VORPD | 20.78 |
+| Off Rating Adj | -1.31 |
+| Def Rating Adj | 1.70 |
+| On/Off Diff | 1.82 |
+| TS% | 51.6% |
+| 3P% | 33.9% |
+| Influence Score | 0.08 |
 | Season Weight | 0.35 |
 
 _Navigate back to the full player profile: [[Players/Daishen Nix]]_

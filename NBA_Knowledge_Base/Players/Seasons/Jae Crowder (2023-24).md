@@ -4,12 +4,12 @@ player: "Jae Crowder"
 season: "2023-24"
 team: "MIL"
 archetype: "Bench / Role Player"
-composite_score: 28.36
+composite_score: 19.53
 salary: 6833333
-vorpd: 0.42
-off_rating_adj: -3.03
-def_rating_adj: -0.63
-on_off_diff: -4.88
+vorpd: 0.35
+off_rating_adj: -2.12
+def_rating_adj: -0.44
+on_off_diff: -3.40
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | MIL |
-| Composite Score | **28.4** / 100 |
+| Composite Score | **19.5** / 100 |
 | Salary | $6,833,333 |
-| VORPD | 0.42 |
-| Off Rating Adj | -3.03 |
-| Def Rating Adj | -0.63 |
-| On/Off Diff | -4.88 |
-| TS% | 55.6% |
-| 3P% | 34.9% |
+| VORPD | 0.35 |
+| Off Rating Adj | -2.12 |
+| Def Rating Adj | -0.44 |
+| On/Off Diff | -3.40 |
+| TS% | 56.1% |
+| 3P% | 36.4% |
 | Influence Score | 0.06 |
 | Season Weight | 0.45 |
 

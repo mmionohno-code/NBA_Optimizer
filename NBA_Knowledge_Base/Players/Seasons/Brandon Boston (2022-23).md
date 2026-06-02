@@ -4,12 +4,12 @@ player: "Brandon Boston"
 season: "2022-23"
 team: "LAC"
 archetype: "Bench / Role Player"
-composite_score: 24.54
+composite_score: 25.10
 salary: 1017781
-vorpd: 0.00
-off_rating_adj: -4.71
-def_rating_adj: -0.46
-on_off_diff: -11.51
+vorpd: 8.07
+off_rating_adj: -1.56
+def_rating_adj: -0.15
+on_off_diff: -3.82
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | LAC |
-| Composite Score | **24.5** / 100 |
+| Composite Score | **25.1** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 0.00 |
-| Off Rating Adj | -4.71 |
-| Def Rating Adj | -0.46 |
-| On/Off Diff | -11.51 |
-| TS% | 54.9% |
-| 3P% | 41.4% |
+| VORPD | 8.07 |
+| Off Rating Adj | -1.56 |
+| Def Rating Adj | -0.15 |
+| On/Off Diff | -3.82 |
+| TS% | 55.7% |
+| 3P% | 37.2% |
 | Influence Score | 0.13 |
 | Season Weight | 0.35 |
 

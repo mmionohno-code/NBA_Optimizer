@@ -4,12 +4,12 @@ player: "Jalen Duren"
 season: "2022-23"
 team: "DET"
 archetype: "Two-Way Big"
-composite_score: 36.27
+composite_score: 27.09
 salary: 5185903
-vorpd: 2.09
-off_rating_adj: -0.41
-def_rating_adj: 0.44
-on_off_diff: 0.80
+vorpd: 1.97
+off_rating_adj: -0.32
+def_rating_adj: 0.34
+on_off_diff: 0.61
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | DET |
-| Composite Score | **36.3** / 100 |
+| Composite Score | **27.1** / 100 |
 | Salary | $5,185,903 |
-| VORPD | 2.09 |
-| Off Rating Adj | -0.41 |
-| Def Rating Adj | 0.44 |
-| On/Off Diff | 0.80 |
-| TS% | 63.3% |
-| 3P% | 35.0% |
+| VORPD | 1.97 |
+| Off Rating Adj | -0.32 |
+| Def Rating Adj | 0.34 |
+| On/Off Diff | 0.61 |
+| TS% | 62.3% |
+| 3P% | 36.4% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

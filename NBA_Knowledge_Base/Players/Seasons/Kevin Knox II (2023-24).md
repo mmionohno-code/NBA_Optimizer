@@ -3,32 +3,32 @@ player_season: "Kevin Knox II (2023-24)"
 player: "Kevin Knox II"
 season: "2023-24"
 team: "POR"
-archetype: "Perimeter Scorer"
-composite_score: 38.00
+archetype: "Bench / Role Player"
+composite_score: 29.78
 salary: 1119563
-vorpd: 11.20
-off_rating_adj: 3.42
-def_rating_adj: -2.15
-on_off_diff: 4.80
+vorpd: 11.30
+off_rating_adj: 1.81
+def_rating_adj: -1.14
+on_off_diff: 2.53
 season_weight: 0.45
-tags: [season-note, perimeter-scorer]
+tags: [season-note, bench-/-role-player]
 ---
 # Kevin Knox II — 2023-24
 
-> Part of [[Players/Kevin Knox II]] | Archetype: [[Archetypes/Perimeter Scorer]]
+> Part of [[Players/Kevin Knox II]] | Archetype: [[Archetypes/Bench / Role Player]]
 
 | Metric | Value |
 |---|---|
 | Season | 2023-24 |
 | Team | POR |
-| Composite Score | **38.0** / 100 |
+| Composite Score | **29.8** / 100 |
 | Salary | $1,119,563 |
-| VORPD | 11.20 |
-| Off Rating Adj | 3.42 |
-| Def Rating Adj | -2.15 |
-| On/Off Diff | 4.80 |
-| TS% | 57.2% |
-| 3P% | 33.0% |
+| VORPD | 11.30 |
+| Off Rating Adj | 1.81 |
+| Def Rating Adj | -1.14 |
+| On/Off Diff | 2.53 |
+| TS% | 57.3% |
+| 3P% | 36.3% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

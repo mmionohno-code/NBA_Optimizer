@@ -4,12 +4,12 @@ player: "Alex Caruso"
 season: "2021-22"
 team: "CHI"
 archetype: "Defensive Wing"
-composite_score: 68.74
+composite_score: 61.41
 salary: 13163579
-vorpd: 3.29
-off_rating_adj: -0.37
-def_rating_adj: 4.88
-on_off_diff: 7.68
+vorpd: 3.10
+off_rating_adj: -0.26
+def_rating_adj: 3.40
+on_off_diff: 5.36
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | CHI |
-| Composite Score | **68.7** / 100 |
+| Composite Score | **61.4** / 100 |
 | Salary | $13,163,579 |
-| VORPD | 3.29 |
-| Off Rating Adj | -0.37 |
-| Def Rating Adj | 4.88 |
-| On/Off Diff | 7.68 |
-| TS% | 54.1% |
-| 3P% | 33.3% |
+| VORPD | 3.10 |
+| Off Rating Adj | -0.26 |
+| Def Rating Adj | 3.40 |
+| On/Off Diff | 5.36 |
+| TS% | 54.6% |
+| 3P% | 35.2% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

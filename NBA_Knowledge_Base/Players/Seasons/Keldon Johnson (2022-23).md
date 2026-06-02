@@ -4,12 +4,12 @@ player: "Keldon Johnson"
 season: "2022-23"
 team: "SAS"
 archetype: "Versatile Scorer"
-composite_score: 43.89
+composite_score: 38.66
 salary: 13998347
-vorpd: 1.32
-off_rating_adj: 2.69
-def_rating_adj: -4.95
-on_off_diff: -3.09
+vorpd: 1.56
+off_rating_adj: 2.17
+def_rating_adj: -3.99
+on_off_diff: -2.49
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | SAS |
-| Composite Score | **43.9** / 100 |
+| Composite Score | **38.7** / 100 |
 | Salary | $13,998,347 |
-| VORPD | 1.32 |
-| Off Rating Adj | 2.69 |
-| Def Rating Adj | -4.95 |
-| On/Off Diff | -3.09 |
-| TS% | 55.4% |
-| 3P% | 32.9% |
+| VORPD | 1.56 |
+| Off Rating Adj | 2.17 |
+| Def Rating Adj | -3.99 |
+| On/Off Diff | -2.49 |
+| TS% | 55.6% |
+| 3P% | 34.4% |
 | Influence Score | 0.15 |
 | Season Weight | 0.35 |
 

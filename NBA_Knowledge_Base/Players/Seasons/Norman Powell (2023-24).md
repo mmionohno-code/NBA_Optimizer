@@ -4,12 +4,12 @@ player: "Norman Powell"
 season: "2023-24"
 team: "LAC"
 archetype: "Perimeter Scorer"
-composite_score: 42.10
+composite_score: 30.16
 salary: 18022765
-vorpd: 0.92
-off_rating_adj: 2.83
-def_rating_adj: 1.15
-on_off_diff: 3.16
+vorpd: 0.72
+off_rating_adj: 2.26
+def_rating_adj: 0.92
+on_off_diff: 2.54
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | LAC |
-| Composite Score | **42.1** / 100 |
+| Composite Score | **30.2** / 100 |
 | Salary | $18,022,765 |
-| VORPD | 0.92 |
-| Off Rating Adj | 2.83 |
-| Def Rating Adj | 1.15 |
-| On/Off Diff | 3.16 |
-| TS% | 61.8% |
-| 3P% | 43.5% |
+| VORPD | 0.72 |
+| Off Rating Adj | 2.26 |
+| Def Rating Adj | 0.92 |
+| On/Off Diff | 2.54 |
+| TS% | 61.3% |
+| 3P% | 41.1% |
 | Influence Score | 0.12 |
 | Season Weight | 0.45 |
 

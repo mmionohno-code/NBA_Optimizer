@@ -4,12 +4,12 @@ player: "Kenrich Williams"
 season: "2021-22"
 team: "OKC"
 archetype: "Defensive Wing"
-composite_score: 64.55
+composite_score: 55.97
 salary: 5208856
-vorpd: 7.51
-off_rating_adj: -0.65
-def_rating_adj: 9.45
-on_off_diff: 13.73
+vorpd: 6.80
+off_rating_adj: -0.44
+def_rating_adj: 6.45
+on_off_diff: 9.37
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | OKC |
-| Composite Score | **64.5** / 100 |
+| Composite Score | **56.0** / 100 |
 | Salary | $5,208,856 |
-| VORPD | 7.51 |
-| Off Rating Adj | -0.65 |
-| Def Rating Adj | 9.45 |
-| On/Off Diff | 13.73 |
-| TS% | 54.2% |
-| 3P% | 33.9% |
+| VORPD | 6.80 |
+| Off Rating Adj | -0.44 |
+| Def Rating Adj | 6.45 |
+| On/Off Diff | 9.37 |
+| TS% | 54.6% |
+| 3P% | 35.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

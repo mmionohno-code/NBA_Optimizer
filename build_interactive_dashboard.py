@@ -12,8 +12,7 @@ import plotly.express as px
 
 print("=" * 60)
 print("BUILDING INTERACTIVE DASHBOARD")
-print("=" * 60)
-
+print("=" * 60) 
 # ── Load data ────────────────────────────────────────────────────────────────
 df_all = pd.read_csv('nba_clustered.csv')
 df_2324 = df_all[df_all['SEASON'] == '2023-24'].copy().sort_values('COMPOSITE_SCORE_NORM', ascending=False)
@@ -27,7 +26,6 @@ def clean_salary(series):
               .str.strip(),
         errors='coerce'
     ).fillna(0)
-
 rosters = {}
 for key in 'ABCDEFGHIJ':
     try:
@@ -235,11 +233,11 @@ print("Building Chart 5: Scenario comparison...")
 scenario_data = []
 for key, roster in rosters.items():
     score_col = 'COMPOSITE_SYNERGY' if 'COMPOSITE_SYNERGY' in roster.columns else 'COMPOSITE_SCORE_NORM'
-roster['SALARY'] = pd.to_numeric(
-    roster['SALARY'].astype(str).str.replace('$', '', regex=False).str.replace(',', '', regex=False).str.strip(),
-    errors='coerce'
-).fillna(0)
-roster[score_col] = pd.to_numeric(roster[score_col], errors='coerce').fillna(0)                                                                          
+    roster['SALARY'] = pd.to_numeric(
+        roster['SALARY'].astype(str).str.replace('$', '', regex=False).str.replace(',', '', regex=False).str.strip(),
+        errors='coerce'
+    ).fillna(0)
+    roster[score_col] = pd.to_numeric(roster[score_col], errors='coerce').fillna(0)
     scenario_data.append({
         'Scenario': f"{key} - {scenario_names.get(key, key)}",
         'Total Score': roster[score_col].sum(),
@@ -277,6 +275,7 @@ fig5.update_xaxes(tickangle=45, tickfont=dict(size=9))
 
 print("Building Chart 6: Roster A breakdown...")
 
+fig6 = go.Figure()
 if 'A' in rosters:
     roster_a = rosters['A'].copy()
     score_col = 'COMPOSITE_SYNERGY' if 'COMPOSITE_SYNERGY' in roster_a.columns else 'COMPOSITE_SCORE_NORM'

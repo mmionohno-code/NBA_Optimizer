@@ -4,12 +4,12 @@ player: "Russell Westbrook"
 season: "2023-24"
 team: "LAC"
 archetype: "Versatile Scorer"
-composite_score: 65.36
+composite_score: 60.87
 salary: 2020490
-vorpd: 19.75
-off_rating_adj: 1.33
-def_rating_adj: 1.35
-on_off_diff: 0.78
+vorpd: 21.65
+off_rating_adj: 1.00
+def_rating_adj: 1.02
+on_off_diff: 0.61
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | LAC |
-| Composite Score | **65.4** / 100 |
+| Composite Score | **60.9** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 19.75 |
-| Off Rating Adj | 1.33 |
-| Def Rating Adj | 1.35 |
-| On/Off Diff | 0.78 |
-| TS% | 52.5% |
-| 3P% | 27.3% |
+| VORPD | 21.65 |
+| Off Rating Adj | 1.00 |
+| Def Rating Adj | 1.02 |
+| On/Off Diff | 0.61 |
+| TS% | 53.2% |
+| 3P% | 33.6% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

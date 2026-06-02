@@ -3,12 +3,12 @@ player: "Kai Jones"
 team: "CHA"
 season: "2022-23"
 archetype: "Defensive Wing"
-composite_score: 33.94
+composite_score: 25.25
 salary: 1017781
-vorpd: 8.34
-off_rating_adj: -1.25
-def_rating_adj: 3.69
-on_off_diff: 4.04
+vorpd: 8.22
+off_rating_adj: -0.65
+def_rating_adj: 1.93
+on_off_diff: 2.11
 is_shooter: 0
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **33.9** / 100 |
+| Composite Score | **25.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 8.34 |
-| Off Rating Adj | -1.25 |
-| Def Rating Adj | 3.69 |
-| On/Off Diff | 4.04 |
-| TS% | 58.5% |
-| 3P% | 35.0% |
+| VORPD | 8.22 |
+| Off Rating Adj | -0.65 |
+| Def Rating Adj | 1.93 |
+| On/Off Diff | 2.11 |
+| TS% | 58.2% |
+| 3P% | 36.4% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | CHA | 33.9 | $1017781 | 8.34 | -1.25 | 3.69 | 4.04 |
+| 2022-23 | CHA | 25.2 | $1017781 | 8.22 | -0.65 | 1.93 | 2.11 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.65, -1.96)
+- **Cluster:** 2
+- **PCA Position:** (-0.75, -1.63)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

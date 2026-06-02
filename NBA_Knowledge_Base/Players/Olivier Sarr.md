@@ -2,32 +2,32 @@
 player: "Olivier Sarr"
 team: "OKC"
 season: "2021-22"
-archetype: "Perimeter Scorer"
-composite_score: 39.33
+archetype: "Defensive Wing"
+composite_score: 29.64
 salary: 925258
-vorpd: 14.99
-off_rating_adj: 3.35
-def_rating_adj: 1.75
-on_off_diff: 7.08
+vorpd: 9.82
+off_rating_adj: 1.53
+def_rating_adj: 0.80
+on_off_diff: 3.23
 is_shooter: 1
-tags: [player, perimeter-scorer]
+tags: [player, defensive-wing]
 ---
 # Olivier Sarr
 
-> **Archetype:** [[Archetypes/Perimeter Scorer]] | **Team:** OKC | **Latest Season:** 2021-22
+> **Archetype:** [[Archetypes/Defensive Wing]] | **Team:** OKC | **Latest Season:** 2021-22
 
 ## Most Recent Season Stats (2021-22)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **39.3** / 100 |
+| Composite Score | **29.6** / 100 |
 | Salary | $925,258 |
-| VORPD | 14.99 |
-| Off Rating Adj | 3.35 |
-| Def Rating Adj | 1.75 |
-| On/Off Diff | 7.08 |
-| TS% | 60.6% |
-| 3P% | 44.8% |
+| VORPD | 9.82 |
+| Off Rating Adj | 1.53 |
+| Def Rating Adj | 0.80 |
+| On/Off Diff | 3.23 |
+| TS% | 59.2% |
+| 3P% | 37.0% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, perimeter-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | OKC | 39.3 | $925258 | 14.99 | 3.35 | 1.75 | 7.08 |
+| 2021-22 | OKC | 29.6 | $925258 | 9.82 | 1.53 | 0.80 | 3.23 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.97, -2.46)
+- **Cluster:** 2
+- **PCA Position:** (0.11, -1.67)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "John Konchar"
 season: "2021-22"
 team: "MEM"
 archetype: "Bench / Role Player"
-composite_score: 27.41
+composite_score: 17.44
 salary: 4483122
-vorpd: 0.44
-off_rating_adj: -2.43
-def_rating_adj: 0.06
-on_off_diff: -3.85
+vorpd: 0.00
+off_rating_adj: -1.75
+def_rating_adj: 0.05
+on_off_diff: -2.76
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | MEM |
-| Composite Score | **27.4** / 100 |
+| Composite Score | **17.4** / 100 |
 | Salary | $4,483,122 |
-| VORPD | 0.44 |
-| Off Rating Adj | -2.43 |
-| Def Rating Adj | 0.06 |
-| On/Off Diff | -3.85 |
-| TS% | 59.6% |
-| 3P% | 41.3% |
+| VORPD | 0.00 |
+| Off Rating Adj | -1.75 |
+| Def Rating Adj | 0.05 |
+| On/Off Diff | -2.76 |
+| TS% | 58.8% |
+| 3P% | 37.8% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

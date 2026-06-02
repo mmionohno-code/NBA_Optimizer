@@ -4,12 +4,12 @@ player: "Xavier Tillman"
 season: "2022-23"
 team: "MEM"
 archetype: "Bench / Role Player"
-composite_score: 35.61
+composite_score: 26.76
 salary: 1017781
-vorpd: 9.98
-off_rating_adj: -2.09
-def_rating_adj: -0.43
-on_off_diff: -5.47
+vorpd: 9.70
+off_rating_adj: -1.47
+def_rating_adj: -0.30
+on_off_diff: -3.82
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | MEM |
-| Composite Score | **35.6** / 100 |
+| Composite Score | **26.8** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 9.98 |
-| Off Rating Adj | -2.09 |
-| Def Rating Adj | -0.43 |
-| On/Off Diff | -5.47 |
-| TS% | 60.6% |
-| 3P% | 35.0% |
+| VORPD | 9.70 |
+| Off Rating Adj | -1.47 |
+| Def Rating Adj | -0.30 |
+| On/Off Diff | -3.82 |
+| TS% | 60.0% |
+| 3P% | 36.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

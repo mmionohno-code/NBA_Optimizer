@@ -4,12 +4,12 @@ player: "Bradley Beal"
 season: "2022-23"
 team: "WAS"
 archetype: "Elite Playmaker"
-composite_score: 62.93
+composite_score: 57.28
 salary: 19787272
-vorpd: 1.89
-off_rating_adj: 4.31
-def_rating_adj: -2.52
-on_off_diff: 3.54
+vorpd: 2.04
+off_rating_adj: 3.32
+def_rating_adj: -1.94
+on_off_diff: 2.74
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | WAS |
-| Composite Score | **62.9** / 100 |
+| Composite Score | **57.3** / 100 |
 | Salary | $19,787,272 |
-| VORPD | 1.89 |
-| Off Rating Adj | 4.31 |
-| Def Rating Adj | -2.52 |
-| On/Off Diff | 3.54 |
-| TS% | 59.1% |
-| 3P% | 36.5% |
+| VORPD | 2.04 |
+| Off Rating Adj | 3.32 |
+| Def Rating Adj | -1.94 |
+| On/Off Diff | 2.74 |
+| TS% | 58.9% |
+| 3P% | 36.7% |
 | Influence Score | 0.17 |
 | Season Weight | 0.35 |
 

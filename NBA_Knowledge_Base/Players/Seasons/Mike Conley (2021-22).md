@@ -4,12 +4,12 @@ player: "Mike Conley"
 season: "2021-22"
 team: "UTA"
 archetype: "Elite Playmaker"
-composite_score: 63.99
+composite_score: 55.35
 salary: 8362583
-vorpd: 4.61
-off_rating_adj: -1.20
-def_rating_adj: 3.44
-on_off_diff: 3.02
+vorpd: 4.16
+off_rating_adj: -0.97
+def_rating_adj: 2.77
+on_off_diff: 2.45
 season_weight: 0.20
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2021-22 |
 | Team | UTA |
-| Composite Score | **64.0** / 100 |
+| Composite Score | **55.4** / 100 |
 | Salary | $8,362,583 |
-| VORPD | 4.61 |
-| Off Rating Adj | -1.20 |
-| Def Rating Adj | 3.44 |
-| On/Off Diff | 3.02 |
-| TS% | 57.0% |
-| 3P% | 40.8% |
+| VORPD | 4.16 |
+| Off Rating Adj | -0.97 |
+| Def Rating Adj | 2.77 |
+| On/Off Diff | 2.45 |
+| TS% | 56.9% |
+| 3P% | 39.0% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

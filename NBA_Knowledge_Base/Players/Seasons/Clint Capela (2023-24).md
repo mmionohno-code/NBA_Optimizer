@@ -4,12 +4,12 @@ player: "Clint Capela"
 season: "2023-24"
 team: "ATL"
 archetype: "Two-Way Big"
-composite_score: 41.86
+composite_score: 33.63
 salary: 5895326
-vorpd: 2.78
-off_rating_adj: 1.85
-def_rating_adj: 0.93
-on_off_diff: 3.20
+vorpd: 2.80
+off_rating_adj: 1.46
+def_rating_adj: 0.74
+on_off_diff: 2.53
 season_weight: 0.45
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2023-24 |
 | Team | ATL |
-| Composite Score | **41.9** / 100 |
+| Composite Score | **33.6** / 100 |
 | Salary | $5,895,326 |
-| VORPD | 2.78 |
-| Off Rating Adj | 1.85 |
-| Def Rating Adj | 0.93 |
-| On/Off Diff | 3.20 |
-| TS% | 58.7% |
-| 3P% | 35.6% |
+| VORPD | 2.80 |
+| Off Rating Adj | 1.46 |
+| Def Rating Adj | 0.74 |
+| On/Off Diff | 2.53 |
+| TS% | 58.5% |
+| 3P% | 37.0% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

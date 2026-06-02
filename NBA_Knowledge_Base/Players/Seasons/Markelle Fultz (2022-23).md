@@ -4,12 +4,12 @@ player: "Markelle Fultz"
 season: "2022-23"
 team: "ORL"
 archetype: "Versatile Scorer"
-composite_score: 63.37
+composite_score: 57.27
 salary: 1017781
-vorpd: 37.25
-off_rating_adj: 0.64
-def_rating_adj: -1.82
-on_off_diff: -1.17
+vorpd: 39.68
+off_rating_adj: 0.50
+def_rating_adj: -1.42
+on_off_diff: -0.90
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | ORL |
-| Composite Score | **63.4** / 100 |
+| Composite Score | **57.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 37.25 |
-| Off Rating Adj | 0.64 |
-| Def Rating Adj | -1.82 |
-| On/Off Diff | -1.17 |
-| TS% | 56.6% |
-| 3P% | 31.0% |
+| VORPD | 39.68 |
+| Off Rating Adj | 0.50 |
+| Def Rating Adj | -1.42 |
+| On/Off Diff | -0.90 |
+| TS% | 56.8% |
+| 3P% | 35.3% |
 | Influence Score | 0.12 |
 | Season Weight | 0.35 |
 

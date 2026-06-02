@@ -4,12 +4,12 @@ player: "Josh Jackson"
 season: "2021-22"
 team: "SAC"
 archetype: "Bench / Role Player"
-composite_score: 37.36
+composite_score: 32.65
 salary: 925258
-vorpd: 12.87
-off_rating_adj: -4.37
-def_rating_adj: 0.11
-on_off_diff: -0.41
+vorpd: 13.08
+off_rating_adj: -2.73
+def_rating_adj: 0.07
+on_off_diff: -0.26
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | SAC |
-| Composite Score | **37.4** / 100 |
+| Composite Score | **32.6** / 100 |
 | Salary | $925,258 |
-| VORPD | 12.87 |
-| Off Rating Adj | -4.37 |
-| Def Rating Adj | 0.11 |
-| On/Off Diff | -0.41 |
-| TS% | 51.5% |
-| 3P% | 25.4% |
+| VORPD | 13.08 |
+| Off Rating Adj | -2.73 |
+| Def Rating Adj | 0.07 |
+| On/Off Diff | -0.26 |
+| TS% | 52.5% |
+| 3P% | 32.6% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

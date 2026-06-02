@@ -4,12 +4,12 @@ player: "James Johnson"
 season: "2021-22"
 team: "BKN"
 archetype: "Bench / Role Player"
-composite_score: 35.81
+composite_score: 28.79
 salary: 925258
-vorpd: 11.19
-off_rating_adj: -2.70
-def_rating_adj: 0.82
-on_off_diff: -3.81
+vorpd: 8.91
+off_rating_adj: -1.90
+def_rating_adj: 0.58
+on_off_diff: -2.68
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | BKN |
-| Composite Score | **35.8** / 100 |
+| Composite Score | **28.8** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.19 |
-| Off Rating Adj | -2.70 |
-| Def Rating Adj | 0.82 |
-| On/Off Diff | -3.81 |
-| TS% | 52.9% |
-| 3P% | 27.1% |
+| VORPD | 8.91 |
+| Off Rating Adj | -1.90 |
+| Def Rating Adj | 0.58 |
+| On/Off Diff | -2.68 |
+| TS% | 53.6% |
+| 3P% | 33.9% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

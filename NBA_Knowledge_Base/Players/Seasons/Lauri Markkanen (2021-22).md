@@ -4,12 +4,12 @@ player: "Lauri Markkanen"
 season: "2021-22"
 team: "CLE"
 archetype: "Perimeter Scorer"
-composite_score: 43.74
+composite_score: 37.44
 salary: 33737289
-vorpd: 0.54
-off_rating_adj: 4.99
-def_rating_adj: -1.27
-on_off_diff: 3.71
+vorpd: 0.50
+off_rating_adj: 3.94
+def_rating_adj: -1.00
+on_off_diff: 2.94
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | CLE |
-| Composite Score | **43.7** / 100 |
+| Composite Score | **37.4** / 100 |
 | Salary | $33,737,289 |
-| VORPD | 0.54 |
-| Off Rating Adj | 4.99 |
-| Def Rating Adj | -1.27 |
-| On/Off Diff | 3.71 |
-| TS% | 57.9% |
-| 3P% | 35.8% |
+| VORPD | 0.50 |
+| Off Rating Adj | 3.94 |
+| Def Rating Adj | -1.00 |
+| On/Off Diff | 2.94 |
+| TS% | 57.6% |
+| 3P% | 35.9% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

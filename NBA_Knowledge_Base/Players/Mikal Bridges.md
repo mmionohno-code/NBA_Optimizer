@@ -3,12 +3,12 @@ player: "Mikal Bridges"
 team: "BKN"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 50.52
+composite_score: 42.64
 salary: 21909494
-vorpd: 1.14
-off_rating_adj: 0.88
-def_rating_adj: -0.75
-on_off_diff: -0.63
+vorpd: 1.16
+off_rating_adj: 0.75
+def_rating_adj: -0.64
+on_off_diff: -0.53
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **50.5** / 100 |
+| Composite Score | **42.6** / 100 |
 | Salary | $21,909,494 |
-| VORPD | 1.14 |
-| Off Rating Adj | 0.88 |
-| Def Rating Adj | -0.75 |
-| On/Off Diff | -0.63 |
-| TS% | 56.2% |
-| 3P% | 37.2% |
+| VORPD | 1.16 |
+| Off Rating Adj | 0.75 |
+| Def Rating Adj | -0.64 |
+| On/Off Diff | -0.53 |
+| TS% | 56.3% |
+| 3P% | 37.3% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Stable (-0.9 pts over 3 seasons)
+> **Trend:** Stable (-2.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | BKN | 50.5 | $21909494 | 1.14 | 0.88 | -0.75 | -0.63 |
-| 2022-23 | BKN | 50.8 | $19917648 | 1.27 | 1.11 | 0.10 | -1.29 |
-| 2021-22 | PHX | 51.4 | $18107012 | 1.43 | 4.78 | -0.63 | 5.82 |
+| 2023-24 | BKN | 42.6 | $21909494 | 1.16 | 0.75 | -0.64 | -0.53 |
+| 2022-23 | BKN | 42.3 | $19917648 | 1.28 | 0.95 | 0.09 | -1.10 |
+| 2021-22 | PHX | 44.9 | $18107012 | 1.35 | 4.07 | -0.53 | 4.98 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (0.74, 0.72)
+- **Cluster:** 6
+- **PCA Position:** (0.68, 0.63)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -3,12 +3,12 @@ player: "Patrick Williams"
 team: "CHI"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 42.02
+composite_score: 33.35
 salary: 15838188
-vorpd: 1.05
-off_rating_adj: 2.57
-def_rating_adj: -1.88
-on_off_diff: 0.77
+vorpd: 1.02
+off_rating_adj: 1.80
+def_rating_adj: -1.32
+on_off_diff: 0.55
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,29 +20,29 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **42.0** / 100 |
+| Composite Score | **33.4** / 100 |
 | Salary | $15,838,188 |
-| VORPD | 1.05 |
-| Off Rating Adj | 2.57 |
-| Def Rating Adj | -1.88 |
-| On/Off Diff | 0.77 |
-| TS% | 56.0% |
-| 3P% | 39.9% |
+| VORPD | 1.02 |
+| Off Rating Adj | 1.80 |
+| Def Rating Adj | -1.32 |
+| On/Off Diff | 0.55 |
+| TS% | 56.3% |
+| 3P% | 38.3% |
 | Influence Score | 0.09 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+14.3 pts over 2 seasons)
+> **Trend:** Trending UP (+18.2 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHI | 42.0 | $15838188 | 1.05 | 2.57 | -1.88 | 0.77 |
-| 2022-23 | CHI | 27.7 | $14398300 | 0.16 | -0.95 | -3.50 | -9.55 |
+| 2023-24 | CHI | 33.4 | $15838188 | 1.02 | 1.80 | -1.32 | 0.55 |
+| 2022-23 | CHI | 15.1 | $14398300 | 0.00 | -0.78 | -2.88 | -7.85 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.55, -0.67)
+- **Cluster:** 3
+- **PCA Position:** (0.46, -0.78)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

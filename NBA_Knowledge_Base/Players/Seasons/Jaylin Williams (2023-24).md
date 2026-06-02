@@ -4,12 +4,12 @@ player: "Jaylin Williams"
 season: "2023-24"
 team: "OKC"
 archetype: "Defensive Wing"
-composite_score: 37.74
+composite_score: 28.04
 salary: 7435769
-vorpd: 1.65
-off_rating_adj: -0.38
-def_rating_adj: 2.71
-on_off_diff: -1.25
+vorpd: 1.47
+off_rating_adj: -0.24
+def_rating_adj: 1.74
+on_off_diff: -0.79
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | OKC |
-| Composite Score | **37.7** / 100 |
+| Composite Score | **28.0** / 100 |
 | Salary | $7,435,769 |
-| VORPD | 1.65 |
-| Off Rating Adj | -0.38 |
-| Def Rating Adj | 2.71 |
-| On/Off Diff | -1.25 |
-| TS% | 56.7% |
-| 3P% | 36.8% |
+| VORPD | 1.47 |
+| Off Rating Adj | -0.24 |
+| Def Rating Adj | 1.74 |
+| On/Off Diff | -0.79 |
+| TS% | 56.9% |
+| 3P% | 37.2% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

@@ -4,12 +4,12 @@ player: "Markieff Morris"
 season: "2022-23"
 team: "DAL"
 archetype: "Defensive Wing"
-composite_score: 37.06
+composite_score: 26.96
 salary: 1017781
-vorpd: 11.40
-off_rating_adj: -1.99
-def_rating_adj: 4.52
-on_off_diff: 1.98
+vorpd: 9.90
+off_rating_adj: -0.83
+def_rating_adj: 1.87
+on_off_diff: 0.82
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | DAL |
-| Composite Score | **37.1** / 100 |
+| Composite Score | **27.0** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 11.40 |
-| Off Rating Adj | -1.99 |
-| Def Rating Adj | 4.52 |
-| On/Off Diff | 1.98 |
-| TS% | 56.6% |
-| 3P% | 39.4% |
+| VORPD | 9.90 |
+| Off Rating Adj | -0.83 |
+| Def Rating Adj | 1.87 |
+| On/Off Diff | 0.82 |
+| TS% | 56.9% |
+| 3P% | 37.3% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

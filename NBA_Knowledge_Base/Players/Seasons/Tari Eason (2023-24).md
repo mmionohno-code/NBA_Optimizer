@@ -4,12 +4,12 @@ player: "Tari Eason"
 season: "2023-24"
 team: "HOU"
 archetype: "Defensive Wing"
-composite_score: 64.21
+composite_score: 52.22
 salary: 4994103
-vorpd: 7.76
-off_rating_adj: 0.30
-def_rating_adj: 6.95
-on_off_diff: 9.84
+vorpd: 7.03
+off_rating_adj: 0.15
+def_rating_adj: 3.40
+on_off_diff: 4.83
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | HOU |
-| Composite Score | **64.2** / 100 |
+| Composite Score | **52.2** / 100 |
 | Salary | $4,994,103 |
-| VORPD | 7.76 |
-| Off Rating Adj | 0.30 |
-| Def Rating Adj | 6.95 |
-| On/Off Diff | 9.84 |
-| TS% | 54.9% |
-| 3P% | 36.0% |
+| VORPD | 7.03 |
+| Off Rating Adj | 0.15 |
+| Def Rating Adj | 3.40 |
+| On/Off Diff | 4.83 |
+| TS% | 55.6% |
+| 3P% | 37.2% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

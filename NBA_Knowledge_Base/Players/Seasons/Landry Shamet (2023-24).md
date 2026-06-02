@@ -4,12 +4,12 @@ player: "Landry Shamet"
 season: "2023-24"
 team: "WAS"
 archetype: "Bench / Role Player"
-composite_score: 37.26
+composite_score: 30.03
 salary: 2020490
-vorpd: 5.84
-off_rating_adj: 0.78
-def_rating_adj: -2.59
-on_off_diff: 1.23
+vorpd: 6.39
+off_rating_adj: 0.46
+def_rating_adj: -1.54
+on_off_diff: 0.72
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | WAS |
-| Composite Score | **37.3** / 100 |
+| Composite Score | **30.0** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 5.84 |
-| Off Rating Adj | 0.78 |
-| Def Rating Adj | -2.59 |
-| On/Off Diff | 1.23 |
-| TS% | 56.3% |
-| 3P% | 33.8% |
+| VORPD | 6.39 |
+| Off Rating Adj | 0.46 |
+| Def Rating Adj | -1.54 |
+| On/Off Diff | 0.72 |
+| TS% | 56.6% |
+| 3P% | 36.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

@@ -4,12 +4,12 @@ player: "Jalen Brunson"
 season: "2022-23"
 team: "NYK"
 archetype: "Elite Playmaker"
-composite_score: 57.96
+composite_score: 50.62
 salary: 27951901
-vorpd: 1.16
-off_rating_adj: 6.23
-def_rating_adj: -4.93
-on_off_diff: -2.28
+vorpd: 1.21
+off_rating_adj: 5.15
+def_rating_adj: -4.07
+on_off_diff: -1.87
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | NYK |
-| Composite Score | **58.0** / 100 |
+| Composite Score | **50.6** / 100 |
 | Salary | $27,951,901 |
-| VORPD | 1.16 |
-| Off Rating Adj | 6.23 |
-| Def Rating Adj | -4.93 |
-| On/Off Diff | -2.28 |
-| TS% | 59.5% |
-| 3P% | 41.6% |
+| VORPD | 1.21 |
+| Off Rating Adj | 5.15 |
+| Def Rating Adj | -4.07 |
+| On/Off Diff | -1.87 |
+| TS% | 59.3% |
+| 3P% | 39.4% |
 | Influence Score | 0.16 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Pat Connaughton"
 season: "2023-24"
 team: "MIL"
 archetype: "Bench / Role Player"
-composite_score: 26.08
+composite_score: 16.82
 salary: 9449840
-vorpd: 0.07
-off_rating_adj: -0.23
-def_rating_adj: -1.63
-on_off_diff: -7.69
+vorpd: 0.00
+off_rating_adj: -0.18
+def_rating_adj: -1.25
+on_off_diff: -5.91
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | MIL |
-| Composite Score | **26.1** / 100 |
+| Composite Score | **16.8** / 100 |
 | Salary | $9,449,840 |
-| VORPD | 0.07 |
-| Off Rating Adj | -0.23 |
-| Def Rating Adj | -1.63 |
-| On/Off Diff | -7.69 |
-| TS% | 57.4% |
-| 3P% | 34.5% |
+| VORPD | 0.00 |
+| Off Rating Adj | -0.18 |
+| Def Rating Adj | -1.25 |
+| On/Off Diff | -5.91 |
+| TS% | 57.5% |
+| 3P% | 36.0% |
 | Influence Score | 0.06 |
 | Season Weight | 0.45 |
 

@@ -2,32 +2,32 @@
 player: "Kemba Walker"
 team: "NYK"
 season: "2021-22"
-archetype: "Versatile Scorer"
-composite_score: 32.48
+archetype: "Bench / Role Player"
+composite_score: 25.96
 salary: 925258
-vorpd: 7.59
-off_rating_adj: -2.33
-def_rating_adj: -6.18
-on_off_diff: -11.45
+vorpd: 5.85
+off_rating_adj: -1.52
+def_rating_adj: -4.04
+on_off_diff: -7.49
 is_shooter: 1
-tags: [player, versatile-scorer]
+tags: [player, bench-/-role-player]
 ---
 # Kemba Walker
 
-> **Archetype:** [[Archetypes/Versatile Scorer]] | **Team:** NYK | **Latest Season:** 2021-22
+> **Archetype:** [[Archetypes/Bench / Role Player]] | **Team:** NYK | **Latest Season:** 2021-22
 
 ## Most Recent Season Stats (2021-22)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **32.5** / 100 |
+| Composite Score | **26.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 7.59 |
-| Off Rating Adj | -2.33 |
-| Def Rating Adj | -6.18 |
-| On/Off Diff | -11.45 |
-| TS% | 54.4% |
-| 3P% | 36.7% |
+| VORPD | 5.85 |
+| Off Rating Adj | -1.52 |
+| Def Rating Adj | -4.04 |
+| On/Off Diff | -7.49 |
+| TS% | 54.8% |
+| 3P% | 36.4% |
 | Influence Score | 0.11 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, versatile-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | NYK | 32.5 | $925258 | 7.59 | -2.33 | -6.18 | -11.45 |
+| 2021-22 | NYK | 26.0 | $925258 | 5.85 | -1.52 | -4.04 | -7.49 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-1.22, 1.83)
+- **Cluster:** 5
+- **PCA Position:** (-1.37, 1.80)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

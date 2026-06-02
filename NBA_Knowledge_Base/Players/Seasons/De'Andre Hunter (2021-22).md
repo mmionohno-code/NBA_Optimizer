@@ -4,12 +4,12 @@ player: "De'Andre Hunter"
 season: "2021-22"
 team: "ATL"
 archetype: "Bench / Role Player"
-composite_score: 36.37
+composite_score: 28.29
 salary: 16946106
-vorpd: 0.64
-off_rating_adj: 0.31
-def_rating_adj: -1.85
-on_off_diff: -1.11
+vorpd: 0.46
+off_rating_adj: 0.23
+def_rating_adj: -1.40
+on_off_diff: -0.83
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | ATL |
-| Composite Score | **36.4** / 100 |
+| Composite Score | **28.3** / 100 |
 | Salary | $16,946,106 |
-| VORPD | 0.64 |
-| Off Rating Adj | 0.31 |
-| Def Rating Adj | -1.85 |
-| On/Off Diff | -1.11 |
-| TS% | 55.0% |
-| 3P% | 37.9% |
+| VORPD | 0.46 |
+| Off Rating Adj | 0.23 |
+| Def Rating Adj | -1.40 |
+| On/Off Diff | -0.83 |
+| TS% | 55.2% |
+| 3P% | 36.9% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

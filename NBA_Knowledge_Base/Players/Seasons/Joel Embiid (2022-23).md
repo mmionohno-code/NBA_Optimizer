@@ -4,12 +4,12 @@ player: "Joel Embiid"
 season: "2022-23"
 team: "PHI"
 archetype: "Elite Playmaker"
-composite_score: 79.31
+composite_score: 76.83
 salary: 44174405
-vorpd: 1.22
-off_rating_adj: 5.27
-def_rating_adj: 1.55
-on_off_diff: 8.67
+vorpd: 1.36
+off_rating_adj: 4.32
+def_rating_adj: 1.27
+on_off_diff: 7.13
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | PHI |
-| Composite Score | **79.3** / 100 |
+| Composite Score | **76.8** / 100 |
 | Salary | $44,174,405 |
-| VORPD | 1.22 |
-| Off Rating Adj | 5.27 |
-| Def Rating Adj | 1.55 |
-| On/Off Diff | 8.67 |
-| TS% | 64.7% |
-| 3P% | 33.0% |
+| VORPD | 1.36 |
+| Off Rating Adj | 4.32 |
+| Def Rating Adj | 1.27 |
+| On/Off Diff | 7.13 |
+| TS% | 64.1% |
+| 3P% | 35.1% |
 | Influence Score | 0.24 |
 | Season Weight | 0.35 |
 

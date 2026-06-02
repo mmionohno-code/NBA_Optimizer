@@ -4,12 +4,12 @@ player: "Lonnie Walker IV"
 season: "2022-23"
 team: "LAL"
 archetype: "Bench / Role Player"
-composite_score: 21.91
+composite_score: 13.00
 salary: 1017781
 vorpd: 0.00
-off_rating_adj: -3.64
-def_rating_adj: -3.87
-on_off_diff: -11.45
+off_rating_adj: -2.63
+def_rating_adj: -2.79
+on_off_diff: -8.26
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | LAL |
-| Composite Score | **21.9** / 100 |
+| Composite Score | **13.0** / 100 |
 | Salary | $1,017,781 |
 | VORPD | 0.00 |
-| Off Rating Adj | -3.64 |
-| Def Rating Adj | -3.87 |
-| On/Off Diff | -11.45 |
-| TS% | 57.1% |
-| 3P% | 36.5% |
+| Off Rating Adj | -2.63 |
+| Def Rating Adj | -2.79 |
+| On/Off Diff | -8.26 |
+| TS% | 57.2% |
+| 3P% | 36.6% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

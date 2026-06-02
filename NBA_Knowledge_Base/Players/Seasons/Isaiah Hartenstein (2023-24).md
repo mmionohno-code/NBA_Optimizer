@@ -4,12 +4,12 @@ player: "Isaiah Hartenstein"
 season: "2023-24"
 team: "NYK"
 archetype: "Perimeter Scorer"
-composite_score: 59.63
+composite_score: 52.91
 salary: 25077131
-vorpd: 1.36
-off_rating_adj: 6.08
-def_rating_adj: 2.52
-on_off_diff: 9.14
+vorpd: 1.43
+off_rating_adj: 4.81
+def_rating_adj: 2.00
+on_off_diff: 7.25
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | NYK |
-| Composite Score | **59.6** / 100 |
+| Composite Score | **52.9** / 100 |
 | Salary | $25,077,131 |
-| VORPD | 1.36 |
-| Off Rating Adj | 6.08 |
-| Def Rating Adj | 2.52 |
-| On/Off Diff | 9.14 |
-| TS% | 64.3% |
-| 3P% | 35.6% |
+| VORPD | 1.43 |
+| Off Rating Adj | 4.81 |
+| Def Rating Adj | 2.00 |
+| On/Off Diff | 7.25 |
+| TS% | 62.9% |
+| 3P% | 37.0% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

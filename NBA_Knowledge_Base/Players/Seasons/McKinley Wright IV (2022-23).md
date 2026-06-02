@@ -4,12 +4,12 @@ player: "McKinley Wright IV"
 season: "2022-23"
 team: "DAL"
 archetype: "Bench / Role Player"
-composite_score: 19.08
+composite_score: 16.90
 salary: 1017781
-vorpd: 0.00
-off_rating_adj: -10.49
-def_rating_adj: -3.58
-on_off_diff: -15.52
+vorpd: 0.02
+off_rating_adj: -4.21
+def_rating_adj: -1.44
+on_off_diff: -6.22
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | DAL |
-| Composite Score | **19.1** / 100 |
+| Composite Score | **16.9** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 0.00 |
-| Off Rating Adj | -10.49 |
-| Def Rating Adj | -3.58 |
-| On/Off Diff | -15.52 |
-| TS% | 56.0% |
-| 3P% | 32.1% |
+| VORPD | 0.02 |
+| Off Rating Adj | -4.21 |
+| Def Rating Adj | -1.44 |
+| On/Off Diff | -6.22 |
+| TS% | 56.6% |
+| 3P% | 36.3% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

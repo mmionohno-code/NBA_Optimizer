@@ -4,12 +4,12 @@ player: "Nick Richards"
 season: "2023-24"
 team: "CHA"
 archetype: "Two-Way Big"
-composite_score: 24.38
+composite_score: 13.80
 salary: 4399497
 vorpd: 0.00
-off_rating_adj: -0.01
-def_rating_adj: -2.92
-on_off_diff: -1.45
+off_rating_adj: -0.00
+def_rating_adj: -2.27
+on_off_diff: -1.14
 season_weight: 0.45
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2023-24 |
 | Team | CHA |
-| Composite Score | **24.4** / 100 |
+| Composite Score | **13.8** / 100 |
 | Salary | $4,399,497 |
 | VORPD | 0.00 |
-| Off Rating Adj | -0.01 |
-| Def Rating Adj | -2.92 |
-| On/Off Diff | -1.45 |
-| TS% | 67.7% |
-| 3P% | 35.6% |
+| Off Rating Adj | -0.00 |
+| Def Rating Adj | -2.27 |
+| On/Off Diff | -1.14 |
+| TS% | 65.7% |
+| 3P% | 37.0% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

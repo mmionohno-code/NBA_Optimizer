@@ -3,12 +3,12 @@ player: "Giannis Antetokounmpo"
 team: "MIL"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 83.10
+composite_score: 81.46
 salary: 47625828
-vorpd: 1.21
-off_rating_adj: 4.47
-def_rating_adj: 1.07
-on_off_diff: 9.93
+vorpd: 1.35
+off_rating_adj: 3.74
+def_rating_adj: 0.90
+on_off_diff: 8.33
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,30 +20,30 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **83.1** / 100 |
+| Composite Score | **81.5** / 100 |
 | Salary | $47,625,828 |
-| VORPD | 1.21 |
-| Off Rating Adj | 4.47 |
-| Def Rating Adj | 1.07 |
-| On/Off Diff | 9.93 |
-| TS% | 64.2% |
-| 3P% | 27.4% |
-| Influence Score | 0.21 |
+| VORPD | 1.35 |
+| Off Rating Adj | 3.74 |
+| Def Rating Adj | 0.90 |
+| On/Off Diff | 8.33 |
+| TS% | 63.7% |
+| 3P% | 34.2% |
+| Influence Score | 0.20 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Stable (+1.2 pts over 3 seasons)
+> **Trend:** Stable (-0.1 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MIL | 83.1 | $47625828 | 1.21 | 4.47 | 1.07 | 9.93 |
-| 2022-23 | MIL | 76.8 | $43296048 | 1.19 | 3.82 | 0.34 | 6.81 |
-| 2021-22 | MIL | 81.8 | $39360171 | 1.43 | 4.05 | 1.27 | 8.22 |
+| 2023-24 | MIL | 81.5 | $47625828 | 1.35 | 3.74 | 0.90 | 8.33 |
+| 2022-23 | MIL | 75.3 | $43296048 | 1.35 | 3.06 | 0.27 | 5.49 |
+| 2021-22 | MIL | 81.5 | $39360171 | 1.55 | 3.30 | 1.04 | 6.72 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (4.17, 0.96)
+- **Cluster:** 0
+- **PCA Position:** (4.81, 0.82)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

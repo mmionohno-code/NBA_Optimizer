@@ -3,12 +3,12 @@ player: "Kelan Martin"
 team: "BOS"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 22.68
+composite_score: 21.07
 salary: 925258
-vorpd: 0.00
-off_rating_adj: -8.61
-def_rating_adj: -3.13
-on_off_diff: -2.70
+vorpd: 0.56
+off_rating_adj: -4.08
+def_rating_adj: -1.48
+on_off_diff: -1.27
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,15 +20,15 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **22.7** / 100 |
+| Composite Score | **21.1** / 100 |
 | Salary | $925,258 |
-| VORPD | 0.00 |
-| Off Rating Adj | -8.61 |
-| Def Rating Adj | -3.13 |
-| On/Off Diff | -2.70 |
-| TS% | 52.1% |
-| 3P% | 29.3% |
-| Influence Score | 0.09 |
+| VORPD | 0.56 |
+| Off Rating Adj | -4.08 |
+| Def Rating Adj | -1.48 |
+| On/Off Diff | -1.27 |
+| TS% | 53.2% |
+| 3P% | 34.6% |
+| Influence Score | 0.10 |
 
 ## Season History (1 season)
 
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | BOS | 22.7 | $925258 | 0.00 | -8.61 | -3.13 | -2.70 |
+| 2021-22 | BOS | 21.1 | $925258 | 0.56 | -4.08 | -1.48 | -1.27 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.89, 0.66)
+- **Cluster:** 5
+- **PCA Position:** (-2.40, 0.83)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

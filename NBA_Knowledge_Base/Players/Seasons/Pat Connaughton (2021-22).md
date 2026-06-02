@@ -4,12 +4,12 @@ player: "Pat Connaughton"
 season: "2021-22"
 team: "MIL"
 archetype: "Bench / Role Player"
-composite_score: 28.97
+composite_score: 18.05
 salary: 7809782
-vorpd: 0.45
-off_rating_adj: -0.55
-def_rating_adj: -2.93
-on_off_diff: -7.24
+vorpd: 0.00
+off_rating_adj: -0.42
+def_rating_adj: -2.26
+on_off_diff: -5.57
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | MIL |
-| Composite Score | **29.0** / 100 |
+| Composite Score | **18.1** / 100 |
 | Salary | $7,809,782 |
-| VORPD | 0.45 |
-| Off Rating Adj | -0.55 |
-| Def Rating Adj | -2.93 |
-| On/Off Diff | -7.24 |
-| TS% | 60.7% |
-| 3P% | 39.5% |
+| VORPD | 0.00 |
+| Off Rating Adj | -0.42 |
+| Def Rating Adj | -2.26 |
+| On/Off Diff | -5.57 |
+| TS% | 59.9% |
+| 3P% | 38.1% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

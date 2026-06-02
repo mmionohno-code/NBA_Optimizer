@@ -4,12 +4,12 @@ player: "Wesley Matthews"
 season: "2021-22"
 team: "MIL"
 archetype: "Defensive Wing"
-composite_score: 38.97
+composite_score: 31.76
 salary: 925258
-vorpd: 14.61
-off_rating_adj: 2.55
-def_rating_adj: 1.47
-on_off_diff: 5.54
+vorpd: 12.12
+off_rating_adj: 1.70
+def_rating_adj: 0.98
+on_off_diff: 3.71
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | MIL |
-| Composite Score | **39.0** / 100 |
+| Composite Score | **31.8** / 100 |
 | Salary | $925,258 |
-| VORPD | 14.61 |
-| Off Rating Adj | 2.55 |
-| Def Rating Adj | 1.47 |
-| On/Off Diff | 5.54 |
-| TS% | 54.7% |
-| 3P% | 33.8% |
+| VORPD | 12.12 |
+| Off Rating Adj | 1.70 |
+| Def Rating Adj | 0.98 |
+| On/Off Diff | 3.71 |
+| TS% | 55.1% |
+| 3P% | 35.3% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

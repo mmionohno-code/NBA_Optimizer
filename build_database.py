@@ -10,6 +10,31 @@ import os
 
 DB_FILE = 'nba_optimizer.db'
 
+def _normalize_percent(val):
+    """Coerce a 3P% / TS% value to a 0-1 decimal regardless of source format."""
+    if pd.isna(val):
+        return None
+    if isinstance(val, str):
+        cleaned = val.strip().rstrip('%').strip()
+        if not cleaned:
+            return None
+        num = float(cleaned)
+        return num / 100.0 if num > 1 else num
+    num = float(val)
+    return num / 100.0 if num > 1 else num
+
+
+def _normalize_salary(val):
+    """Coerce '$33,729,226.00' or 33729226.0 to a plain float."""
+    if pd.isna(val):
+        return None
+    if isinstance(val, str):
+        cleaned = val.replace('$', '').replace(',', '').strip()
+        if not cleaned:
+            return None
+        return float(cleaned)
+    return float(val)
+
 print("=" * 60)
 print("BUILDING NBA OPTIMIZER DATABASE")
 print("=" * 60)
@@ -44,6 +69,13 @@ print(f"  {len(players)} unique players")
 
 print("\n--- Table: player_seasons ---")
 df_scored = pd.read_csv('nba_scored_complete.csv')
+
+# Normalize text-encoded numerics so SQLite stores them as REAL.
+for pct_col in ('TS_PCT', 'FG3_PCT', 'AST_PCT_ADJUSTED'):
+    if pct_col in df_scored.columns:
+        df_scored[pct_col] = df_scored[pct_col].apply(_normalize_percent)
+if 'SALARY' in df_scored.columns:
+    df_scored['SALARY'] = df_scored['SALARY'].apply(_normalize_salary)
 
 cols_seasons = [
     'PLAYER_NAME', 'PLAYER_ID', 'TEAM_ABBREVIATION', 'SEASON',
@@ -92,6 +124,15 @@ for key in 'ABCDEFGHIJ':
 
 if all_rosters:
     df_rosters = pd.concat(all_rosters, ignore_index=True)
+
+    # Scenarios A & B store '35.30%' (text); C-J store 0.353 (decimal).
+    # Normalize so SQLite stores REAL and aggregates work correctly.
+    for pct_col in ('FG3_PCT', 'TS_PCT'):
+        if pct_col in df_rosters.columns:
+            df_rosters[pct_col] = df_rosters[pct_col].apply(_normalize_percent)
+    if 'SALARY' in df_rosters.columns:
+        df_rosters['SALARY'] = df_rosters['SALARY'].apply(_normalize_salary)
+
     df_rosters.to_sql('optimized_rosters', conn, index=False, if_exists='replace')
     print(f"  {len(df_rosters)} roster slots across {len(all_rosters)} scenarios")
 

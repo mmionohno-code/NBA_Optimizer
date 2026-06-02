@@ -3,12 +3,12 @@ player: "Bilal Coulibaly"
 team: "WAS"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 35.91
+composite_score: 27.30
 salary: 6401796
-vorpd: 1.63
-off_rating_adj: -1.12
-def_rating_adj: -1.79
-on_off_diff: -1.72
+vorpd: 1.59
+off_rating_adj: -0.86
+def_rating_adj: -1.39
+on_off_diff: -1.34
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **35.9** / 100 |
+| Composite Score | **27.3** / 100 |
 | Salary | $6,401,796 |
-| VORPD | 1.63 |
-| Off Rating Adj | -1.12 |
-| Def Rating Adj | -1.79 |
-| On/Off Diff | -1.72 |
-| TS% | 55.1% |
-| 3P% | 34.6% |
+| VORPD | 1.59 |
+| Off Rating Adj | -0.86 |
+| Def Rating Adj | -1.39 |
+| On/Off Diff | -1.34 |
+| TS% | 55.5% |
+| 3P% | 36.3% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | WAS | 35.9 | $6401796 | 1.63 | -1.12 | -1.79 | -1.72 |
+| 2023-24 | WAS | 27.3 | $6401796 | 1.59 | -0.86 | -1.39 | -1.34 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.63, -0.32)
+- **Cluster:** 1
+- **PCA Position:** (-0.80, -0.27)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

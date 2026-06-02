@@ -3,12 +3,12 @@ player: "Leaky Black"
 team: "CHA"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 38.58
+composite_score: 25.26
 salary: 1119563
-vorpd: 11.72
-off_rating_adj: -1.21
-def_rating_adj: 6.08
-on_off_diff: 7.96
+vorpd: 7.26
+off_rating_adj: -0.44
+def_rating_adj: 2.20
+on_off_diff: 2.87
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,14 +20,14 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **38.6** / 100 |
+| Composite Score | **25.3** / 100 |
 | Salary | $1,119,563 |
-| VORPD | 11.72 |
-| Off Rating Adj | -1.21 |
-| Def Rating Adj | 6.08 |
-| On/Off Diff | 7.96 |
-| TS% | 57.9% |
-| 3P% | 45.0% |
+| VORPD | 7.26 |
+| Off Rating Adj | -0.44 |
+| Def Rating Adj | 2.20 |
+| On/Off Diff | 2.87 |
+| TS% | 57.7% |
+| 3P% | 38.0% |
 | Influence Score | 0.06 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, defensive-wing]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHA | 38.6 | $1119563 | 11.72 | -1.21 | 6.08 | 7.96 |
+| 2023-24 | CHA | 25.3 | $1119563 | 7.26 | -0.44 | 2.20 | 2.87 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.13, -2.09)
+- **Cluster:** 2
+- **PCA Position:** (-0.74, -1.57)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

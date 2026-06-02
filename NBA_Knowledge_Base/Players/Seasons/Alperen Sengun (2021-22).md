@@ -4,12 +4,12 @@ player: "Alperen Sengun"
 season: "2021-22"
 team: "HOU"
 archetype: "Versatile Scorer"
-composite_score: 46.92
+composite_score: 41.75
 salary: 925258
-vorpd: 23.20
-off_rating_adj: -1.95
-def_rating_adj: -1.99
-on_off_diff: -1.17
+vorpd: 22.91
+off_rating_adj: -1.46
+def_rating_adj: -1.49
+on_off_diff: -0.88
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | HOU |
-| Composite Score | **46.9** / 100 |
+| Composite Score | **41.8** / 100 |
 | Salary | $925,258 |
-| VORPD | 23.20 |
-| Off Rating Adj | -1.95 |
-| Def Rating Adj | -1.99 |
-| On/Off Diff | -1.17 |
-| TS% | 55.4% |
-| 3P% | 24.8% |
+| VORPD | 22.91 |
+| Off Rating Adj | -1.46 |
+| Def Rating Adj | -1.49 |
+| On/Off Diff | -0.88 |
+| TS% | 55.6% |
+| 3P% | 32.6% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

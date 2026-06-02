@@ -3,12 +3,12 @@ player: "Willy Hernangomez"
 team: "NOP"
 season: "2022-23"
 archetype: "Defensive Wing"
-composite_score: 38.08
+composite_score: 30.25
 salary: 1017781
-vorpd: 12.40
-off_rating_adj: -3.26
-def_rating_adj: 3.63
-on_off_diff: -0.61
+vorpd: 13.13
+off_rating_adj: -1.56
+def_rating_adj: 1.73
+on_off_diff: -0.28
 is_shooter: 0
 tags: [player, defensive-wing]
 ---
@@ -20,29 +20,29 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **38.1** / 100 |
+| Composite Score | **30.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 12.40 |
-| Off Rating Adj | -3.26 |
-| Def Rating Adj | 3.63 |
-| On/Off Diff | -0.61 |
-| TS% | 59.4% |
-| 3P% | 35.0% |
+| VORPD | 13.13 |
+| Off Rating Adj | -1.56 |
+| Def Rating Adj | 1.73 |
+| On/Off Diff | -0.28 |
+| TS% | 58.9% |
+| 3P% | 36.4% |
 | Influence Score | 0.13 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Stable (-0.9 pts over 2 seasons)
+> **Trend:** Stable (-2.4 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | NOP | 38.1 | $1017781 | 12.40 | -3.26 | 3.63 | -0.61 |
-| 2021-22 | NOP | 39.0 | $925258 | 14.64 | 4.17 | -3.83 | -0.99 |
+| 2022-23 | NOP | 30.2 | $1017781 | 13.13 | -1.56 | 1.73 | -0.28 |
+| 2021-22 | NOP | 32.7 | $925258 | 13.12 | 2.62 | -2.40 | -0.61 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.51, -0.63)
+- **Cluster:** 2
+- **PCA Position:** (-0.47, -0.49)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

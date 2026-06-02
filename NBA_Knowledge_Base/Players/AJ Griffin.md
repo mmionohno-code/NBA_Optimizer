@@ -3,12 +3,12 @@ player: "AJ Griffin"
 team: "ATL"
 season: "2022-23"
 archetype: "Perimeter Scorer"
-composite_score: 43.66
+composite_score: 34.76
 salary: 1017781
-vorpd: 17.89
-off_rating_adj: 2.66
-def_rating_adj: 1.27
-on_off_diff: 3.30
+vorpd: 17.56
+off_rating_adj: 1.96
+def_rating_adj: 0.94
+on_off_diff: 2.44
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **43.7** / 100 |
+| Composite Score | **34.8** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 17.89 |
-| Off Rating Adj | 2.66 |
-| Def Rating Adj | 1.27 |
-| On/Off Diff | 3.30 |
+| VORPD | 17.56 |
+| Off Rating Adj | 1.96 |
+| Def Rating Adj | 0.94 |
+| On/Off Diff | 2.44 |
 | TS% | 57.7% |
-| 3P% | 39.0% |
+| 3P% | 37.9% |
 | Influence Score | 0.10 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, perimeter-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | ATL | 43.7 | $1017781 | 17.89 | 2.66 | 1.27 | 3.30 |
+| 2022-23 | ATL | 34.8 | $1017781 | 17.56 | 1.96 | 0.94 | 2.44 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.38, -0.72)
+- **Cluster:** 3
+- **PCA Position:** (0.32, -0.87)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

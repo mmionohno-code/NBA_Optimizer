@@ -4,12 +4,12 @@ player: "Terry Rozier"
 season: "2022-23"
 team: "CHA"
 archetype: "Versatile Scorer"
-composite_score: 60.61
+composite_score: 57.71
 salary: 21311908
-vorpd: 1.65
-off_rating_adj: 2.75
-def_rating_adj: -3.51
-on_off_diff: 1.64
+vorpd: 1.92
+off_rating_adj: 2.25
+def_rating_adj: -2.86
+on_off_diff: 1.34
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | CHA |
-| Composite Score | **60.6** / 100 |
+| Composite Score | **57.7** / 100 |
 | Salary | $21,311,908 |
-| VORPD | 1.65 |
-| Off Rating Adj | 2.75 |
-| Def Rating Adj | -3.51 |
-| On/Off Diff | 1.64 |
-| TS% | 52.4% |
-| 3P% | 32.7% |
+| VORPD | 1.92 |
+| Off Rating Adj | 2.25 |
+| Def Rating Adj | -2.86 |
+| On/Off Diff | 1.34 |
+| TS% | 52.8% |
+| 3P% | 34.1% |
 | Influence Score | 0.14 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Anthony Edwards"
 season: "2023-24"
 team: "MIN"
 archetype: "Elite Playmaker"
-composite_score: 64.04
+composite_score: 58.81
 salary: 40079866
-vorpd: 0.96
-off_rating_adj: 2.42
-def_rating_adj: -2.05
-on_off_diff: 0.95
+vorpd: 1.04
+off_rating_adj: 2.05
+def_rating_adj: -1.74
+on_off_diff: 0.82
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | MIN |
-| Composite Score | **64.0** / 100 |
+| Composite Score | **58.8** / 100 |
 | Salary | $40,079,866 |
-| VORPD | 0.96 |
-| Off Rating Adj | 2.42 |
-| Def Rating Adj | -2.05 |
-| On/Off Diff | 0.95 |
+| VORPD | 1.04 |
+| Off Rating Adj | 2.05 |
+| Def Rating Adj | -1.74 |
+| On/Off Diff | 0.82 |
 | TS% | 57.5% |
-| 3P% | 35.7% |
+| 3P% | 36.3% |
 | Influence Score | 0.18 |
 | Season Weight | 0.45 |
 

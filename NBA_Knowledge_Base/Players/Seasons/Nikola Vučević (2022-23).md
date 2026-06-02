@@ -4,12 +4,12 @@ player: "Nikola Vučević"
 season: "2022-23"
 team: "CHI"
 archetype: "Bench / Role Player"
-composite_score: 39.50
+composite_score: 31.42
 salary: 17183156
-vorpd: 0.82
-off_rating_adj: 0.65
-def_rating_adj: -3.10
-on_off_diff: -6.27
+vorpd: 0.85
+off_rating_adj: 0.55
+def_rating_adj: -2.62
+on_off_diff: -5.30
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | CHI |
-| Composite Score | **39.5** / 100 |
+| Composite Score | **31.4** / 100 |
 | Salary | $17,183,156 |
-| VORPD | 0.82 |
-| Off Rating Adj | 0.65 |
-| Def Rating Adj | -3.10 |
-| On/Off Diff | -6.27 |
-| TS% | 59.2% |
-| 3P% | 34.9% |
+| VORPD | 0.85 |
+| Off Rating Adj | 0.55 |
+| Def Rating Adj | -2.62 |
+| On/Off Diff | -5.30 |
+| TS% | 59.1% |
+| 3P% | 35.7% |
 | Influence Score | 0.13 |
 | Season Weight | 0.35 |
 

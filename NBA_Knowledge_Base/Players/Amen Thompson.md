@@ -3,12 +3,12 @@ player: "Amen Thompson"
 team: "HOU"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 56.67
+composite_score: 48.52
 salary: 8526753
-vorpd: 3.66
-off_rating_adj: -0.90
-def_rating_adj: 0.75
-on_off_diff: 1.09
+vorpd: 3.68
+off_rating_adj: -0.66
+def_rating_adj: 0.55
+on_off_diff: 0.81
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **56.7** / 100 |
+| Composite Score | **48.5** / 100 |
 | Salary | $8,526,753 |
-| VORPD | 3.66 |
-| Off Rating Adj | -0.90 |
-| Def Rating Adj | 0.75 |
-| On/Off Diff | 1.09 |
+| VORPD | 3.68 |
+| Off Rating Adj | -0.66 |
+| Def Rating Adj | 0.55 |
+| On/Off Diff | 0.81 |
 | TS% | 57.6% |
-| 3P% | 13.8% |
+| 3P% | 33.3% |
 | Influence Score | 0.10 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, versatile-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | HOU | 56.7 | $8526753 | 3.66 | -0.90 | 0.75 | 1.09 |
+| 2023-24 | HOU | 48.5 | $8526753 | 3.68 | -0.66 | 0.55 | 0.81 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-0.24, 1.52)
+- **Cluster:** 6
+- **PCA Position:** (0.37, 1.03)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Myles Turner"
 season: "2021-22"
 team: "IND"
 archetype: "Two-Way Big"
-composite_score: 42.50
+composite_score: 35.95
 salary: 18411159
-vorpd: 0.93
-off_rating_adj: -0.72
-def_rating_adj: 3.27
-on_off_diff: 4.47
+vorpd: 0.84
+off_rating_adj: -0.51
+def_rating_adj: 2.33
+on_off_diff: 3.19
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | IND |
-| Composite Score | **42.5** / 100 |
+| Composite Score | **36.0** / 100 |
 | Salary | $18,411,159 |
-| VORPD | 0.93 |
-| Off Rating Adj | -0.72 |
-| Def Rating Adj | 3.27 |
-| On/Off Diff | 4.47 |
-| TS% | 60.0% |
-| 3P% | 33.3% |
+| VORPD | 0.84 |
+| Off Rating Adj | -0.51 |
+| Def Rating Adj | 2.33 |
+| On/Off Diff | 3.19 |
+| TS% | 59.3% |
+| 3P% | 35.0% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

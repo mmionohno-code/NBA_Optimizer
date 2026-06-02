@@ -4,12 +4,12 @@ player: "Zach Collins"
 season: "2021-22"
 team: "SAS"
 archetype: "Defensive Wing"
-composite_score: 46.77
+composite_score: 37.35
 salary: 13147942
-vorpd: 1.62
-off_rating_adj: 0.74
-def_rating_adj: 1.75
-on_off_diff: 2.70
+vorpd: 1.28
+off_rating_adj: 0.37
+def_rating_adj: 0.87
+on_off_diff: 1.36
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | SAS |
-| Composite Score | **46.8** / 100 |
+| Composite Score | **37.4** / 100 |
 | Salary | $13,147,942 |
-| VORPD | 1.62 |
-| Off Rating Adj | 0.74 |
-| Def Rating Adj | 1.75 |
-| On/Off Diff | 2.70 |
-| TS% | 57.8% |
-| 3P% | 34.1% |
+| VORPD | 1.28 |
+| Off Rating Adj | 0.37 |
+| Def Rating Adj | 0.87 |
+| On/Off Diff | 1.36 |
+| TS% | 57.4% |
+| 3P% | 35.8% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

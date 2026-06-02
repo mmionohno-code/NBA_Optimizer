@@ -4,12 +4,12 @@ player: "Trae Young"
 season: "2022-23"
 team: "ATL"
 archetype: "Elite Playmaker"
-composite_score: 78.70
+composite_score: 77.94
 salary: 37110898
-vorpd: 1.43
-off_rating_adj: 4.96
-def_rating_adj: -1.33
-on_off_diff: 0.96
+vorpd: 1.65
+off_rating_adj: 4.15
+def_rating_adj: -1.11
+on_off_diff: 0.82
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | ATL |
-| Composite Score | **78.7** / 100 |
+| Composite Score | **77.9** / 100 |
 | Salary | $37,110,898 |
-| VORPD | 1.43 |
-| Off Rating Adj | 4.96 |
-| Def Rating Adj | -1.33 |
-| On/Off Diff | 0.96 |
-| TS% | 57.3% |
-| 3P% | 33.5% |
+| VORPD | 1.65 |
+| Off Rating Adj | 4.15 |
+| Def Rating Adj | -1.11 |
+| On/Off Diff | 0.82 |
+| TS% | 57.4% |
+| 3P% | 34.7% |
 | Influence Score | 0.18 |
 | Season Weight | 0.35 |
 

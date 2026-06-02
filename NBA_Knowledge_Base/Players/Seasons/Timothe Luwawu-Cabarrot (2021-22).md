@@ -4,12 +4,12 @@ player: "Timothe Luwawu-Cabarrot"
 season: "2021-22"
 team: "ATL"
 archetype: "Bench / Role Player"
-composite_score: 20.47
+composite_score: 14.48
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -4.59
-def_rating_adj: -1.15
-on_off_diff: -6.12
+off_rating_adj: -2.66
+def_rating_adj: -0.66
+on_off_diff: -3.53
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,13 +21,13 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | ATL |
-| Composite Score | **20.5** / 100 |
+| Composite Score | **14.5** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -4.59 |
-| Def Rating Adj | -1.15 |
-| On/Off Diff | -6.12 |
-| TS% | 55.9% |
+| Off Rating Adj | -2.66 |
+| Def Rating Adj | -0.66 |
+| On/Off Diff | -3.53 |
+| TS% | 56.0% |
 | 3P% | 36.1% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |

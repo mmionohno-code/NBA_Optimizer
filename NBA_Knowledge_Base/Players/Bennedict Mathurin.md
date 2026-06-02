@@ -3,12 +3,12 @@ player: "Bennedict Mathurin"
 team: "IND"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 28.40
+composite_score: 18.32
 salary: 8084139
-vorpd: 0.36
-off_rating_adj: -2.82
-def_rating_adj: -2.08
-on_off_diff: -9.89
+vorpd: 0.15
+off_rating_adj: -2.13
+def_rating_adj: -1.57
+on_off_diff: -7.45
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **28.4** / 100 |
+| Composite Score | **18.3** / 100 |
 | Salary | $8,084,139 |
-| VORPD | 0.36 |
-| Off Rating Adj | -2.82 |
-| Def Rating Adj | -2.08 |
-| On/Off Diff | -9.89 |
-| TS% | 56.4% |
+| VORPD | 0.15 |
+| Off Rating Adj | -2.13 |
+| Def Rating Adj | -1.57 |
+| On/Off Diff | -7.45 |
+| TS% | 56.6% |
 | 3P% | 37.4% |
 | Influence Score | 0.13 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-9.7 pts over 2 seasons)
+> **Trend:** Trending DOWN (-12.7 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | IND | 28.4 | $8084139 | 0.36 | -2.82 | -2.08 | -9.89 |
-| 2022-23 | IND | 38.1 | $7349191 | 1.72 | -0.27 | -0.58 | -2.29 |
+| 2023-24 | IND | 18.3 | $8084139 | 0.15 | -2.13 | -1.57 | -7.45 |
+| 2022-23 | IND | 31.0 | $7349191 | 1.92 | -0.22 | -0.47 | -1.87 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.27, 0.36)
+- **Cluster:** 1
+- **PCA Position:** (-1.53, 0.30)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

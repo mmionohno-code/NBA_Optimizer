@@ -4,12 +4,12 @@ player: "Brook Lopez"
 season: "2023-24"
 team: "MIL"
 archetype: "Two-Way Big"
-composite_score: 41.88
+composite_score: 34.22
 salary: 7699119
-vorpd: 2.13
-off_rating_adj: 1.77
-def_rating_adj: 2.37
-on_off_diff: 5.21
+vorpd: 2.22
+off_rating_adj: 1.46
+def_rating_adj: 1.97
+on_off_diff: 4.33
 season_weight: 0.45
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2023-24 |
 | Team | MIL |
-| Composite Score | **41.9** / 100 |
+| Composite Score | **34.2** / 100 |
 | Salary | $7,699,119 |
-| VORPD | 2.13 |
-| Off Rating Adj | 1.77 |
-| Def Rating Adj | 2.37 |
-| On/Off Diff | 5.21 |
-| TS% | 60.3% |
-| 3P% | 36.6% |
+| VORPD | 2.22 |
+| Off Rating Adj | 1.46 |
+| Def Rating Adj | 1.97 |
+| On/Off Diff | 4.33 |
+| TS% | 59.9% |
+| 3P% | 36.9% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

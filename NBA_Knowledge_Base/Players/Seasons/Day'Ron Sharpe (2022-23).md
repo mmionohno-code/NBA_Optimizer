@@ -4,12 +4,12 @@ player: "Day'Ron Sharpe"
 season: "2022-23"
 team: "BKN"
 archetype: "Bench / Role Player"
-composite_score: 19.66
+composite_score: 15.88
 salary: 4999410
 vorpd: 0.00
-off_rating_adj: -2.59
-def_rating_adj: -5.70
-on_off_diff: -9.63
+off_rating_adj: -1.36
+def_rating_adj: -2.99
+on_off_diff: -5.05
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | BKN |
-| Composite Score | **19.7** / 100 |
+| Composite Score | **15.9** / 100 |
 | Salary | $4,999,410 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.59 |
-| Def Rating Adj | -5.70 |
-| On/Off Diff | -9.63 |
-| TS% | 57.9% |
-| 3P% | 35.0% |
+| Off Rating Adj | -1.36 |
+| Def Rating Adj | -2.99 |
+| On/Off Diff | -5.05 |
+| TS% | 57.8% |
+| 3P% | 36.4% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

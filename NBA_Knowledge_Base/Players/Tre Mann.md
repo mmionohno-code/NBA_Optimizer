@@ -3,12 +3,12 @@ player: "Tre Mann"
 team: "CHA"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 58.12
+composite_score: 48.83
 salary: 7039195
-vorpd: 4.64
-off_rating_adj: 0.89
-def_rating_adj: 1.18
-on_off_diff: 1.44
+vorpd: 4.50
+off_rating_adj: 0.59
+def_rating_adj: 0.79
+on_off_diff: 0.97
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **58.1** / 100 |
+| Composite Score | **48.8** / 100 |
 | Salary | $7,039,195 |
-| VORPD | 4.64 |
-| Off Rating Adj | 0.89 |
-| Def Rating Adj | 1.18 |
-| On/Off Diff | 1.44 |
-| TS% | 56.4% |
-| 3P% | 37.3% |
+| VORPD | 4.50 |
+| Off Rating Adj | 0.59 |
+| Def Rating Adj | 0.79 |
+| On/Off Diff | 0.97 |
+| TS% | 56.7% |
+| 3P% | 37.4% |
 | Influence Score | 0.10 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+16.8 pts over 3 seasons)
+> **Trend:** Trending UP (+14.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHA | 58.1 | $7039195 | 4.64 | 0.89 | 1.18 | 1.44 |
-| 2022-23 | OKC | 46.3 | $6399244 | 3.25 | -3.27 | 4.00 | 1.34 |
-| 2021-22 | OKC | 41.3 | $5817514 | 2.73 | -0.95 | -2.25 | -1.43 |
+| 2023-24 | CHA | 48.8 | $7039195 | 4.50 | 0.59 | 0.79 | 0.97 |
+| 2022-23 | OKC | 39.9 | $6399244 | 3.59 | -2.30 | 2.81 | 0.95 |
+| 2021-22 | OKC | 34.5 | $5817514 | 2.40 | -0.69 | -1.65 | -1.05 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (0.92, 1.28)
+- **Cluster:** 6
+- **PCA Position:** (0.84, 0.95)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

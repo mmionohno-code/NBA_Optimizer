@@ -4,12 +4,12 @@ player: "Nick Smith Jr."
 season: "2023-24"
 team: "CHA"
 archetype: "Bench / Role Player"
-composite_score: 31.07
+composite_score: 21.24
 salary: 2385126
-vorpd: 2.35
-off_rating_adj: -3.91
-def_rating_adj: 0.38
-on_off_diff: -0.51
+vorpd: 1.72
+off_rating_adj: -2.32
+def_rating_adj: 0.23
+on_off_diff: -0.31
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | CHA |
-| Composite Score | **31.1** / 100 |
+| Composite Score | **21.2** / 100 |
 | Salary | $2,385,126 |
-| VORPD | 2.35 |
-| Off Rating Adj | -3.91 |
-| Def Rating Adj | 0.38 |
-| On/Off Diff | -0.51 |
-| TS% | 53.3% |
-| 3P% | 43.2% |
+| VORPD | 1.72 |
+| Off Rating Adj | -2.32 |
+| Def Rating Adj | 0.23 |
+| On/Off Diff | -0.31 |
+| TS% | 54.2% |
+| 3P% | 39.5% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |
 

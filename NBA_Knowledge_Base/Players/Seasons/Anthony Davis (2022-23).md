@@ -4,12 +4,12 @@ player: "Anthony Davis"
 season: "2022-23"
 team: "LAL"
 archetype: "Two-Way Big"
-composite_score: 66.98
+composite_score: 61.60
 salary: 43296048
-vorpd: 0.96
-off_rating_adj: 1.86
-def_rating_adj: 2.73
-on_off_diff: 7.45
+vorpd: 1.03
+off_rating_adj: 1.47
+def_rating_adj: 2.16
+on_off_diff: 5.91
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | LAL |
-| Composite Score | **67.0** / 100 |
+| Composite Score | **61.6** / 100 |
 | Salary | $43,296,048 |
-| VORPD | 0.96 |
-| Off Rating Adj | 1.86 |
-| Def Rating Adj | 2.73 |
-| On/Off Diff | 7.45 |
-| TS% | 62.0% |
-| 3P% | 25.7% |
+| VORPD | 1.03 |
+| Off Rating Adj | 1.47 |
+| Def Rating Adj | 2.16 |
+| On/Off Diff | 5.91 |
+| TS% | 61.6% |
+| 3P% | 34.4% |
 | Influence Score | 0.17 |
 | Season Weight | 0.35 |
 

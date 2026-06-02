@@ -4,12 +4,12 @@ player: "Isaiah Jackson"
 season: "2022-23"
 team: "IND"
 archetype: "Two-Way Big"
-composite_score: 29.82
+composite_score: 21.85
 salary: 6079282
-vorpd: 0.72
-off_rating_adj: -2.27
+vorpd: 0.82
+off_rating_adj: -1.53
 def_rating_adj: 0.02
-on_off_diff: -3.06
+on_off_diff: -2.06
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | IND |
-| Composite Score | **29.8** / 100 |
+| Composite Score | **21.9** / 100 |
 | Salary | $6,079,282 |
-| VORPD | 0.72 |
-| Off Rating Adj | -2.27 |
+| VORPD | 0.82 |
+| Off Rating Adj | -1.53 |
 | Def Rating Adj | 0.02 |
-| On/Off Diff | -3.06 |
-| TS% | 58.9% |
-| 3P% | 35.0% |
+| On/Off Diff | -2.06 |
+| TS% | 58.6% |
+| 3P% | 36.4% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

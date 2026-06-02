@@ -4,12 +4,12 @@ player: "Oshae Brissett"
 season: "2022-23"
 team: "IND"
 archetype: "Defensive Wing"
-composite_score: 41.78
+composite_score: 34.79
 salary: 1017781
-vorpd: 16.04
-off_rating_adj: 0.63
-def_rating_adj: 3.42
-on_off_diff: 5.97
+vorpd: 17.59
+off_rating_adj: 0.43
+def_rating_adj: 2.34
+on_off_diff: 4.09
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | IND |
-| Composite Score | **41.8** / 100 |
+| Composite Score | **34.8** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 16.04 |
-| Off Rating Adj | 0.63 |
-| Def Rating Adj | 3.42 |
-| On/Off Diff | 5.97 |
-| TS% | 53.8% |
-| 3P% | 31.0% |
+| VORPD | 17.59 |
+| Off Rating Adj | 0.43 |
+| Def Rating Adj | 2.34 |
+| On/Off Diff | 4.09 |
+| TS% | 54.6% |
+| 3P% | 34.6% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

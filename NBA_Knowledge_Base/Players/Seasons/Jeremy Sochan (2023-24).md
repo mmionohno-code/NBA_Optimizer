@@ -4,12 +4,12 @@ player: "Jeremy Sochan"
 season: "2023-24"
 team: "SAS"
 archetype: "Versatile Scorer"
-composite_score: 43.41
+composite_score: 37.39
 salary: 6929078
-vorpd: 2.59
-off_rating_adj: 0.29
-def_rating_adj: -0.86
-on_off_diff: -0.66
+vorpd: 2.92
+off_rating_adj: 0.23
+def_rating_adj: -0.70
+on_off_diff: -0.54
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | SAS |
-| Composite Score | **43.4** / 100 |
+| Composite Score | **37.4** / 100 |
 | Salary | $6,929,078 |
-| VORPD | 2.59 |
-| Off Rating Adj | 0.29 |
-| Def Rating Adj | -0.86 |
-| On/Off Diff | -0.66 |
-| TS% | 52.3% |
-| 3P% | 30.8% |
+| VORPD | 2.92 |
+| Off Rating Adj | 0.23 |
+| Def Rating Adj | -0.70 |
+| On/Off Diff | -0.54 |
+| TS% | 52.9% |
+| 3P% | 34.3% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

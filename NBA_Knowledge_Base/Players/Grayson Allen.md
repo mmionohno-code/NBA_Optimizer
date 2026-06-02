@@ -3,12 +3,12 @@ player: "Grayson Allen"
 team: "PHX"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 45.81
+composite_score: 33.17
 salary: 14848301
-vorpd: 1.37
-off_rating_adj: 5.38
-def_rating_adj: -1.14
-on_off_diff: 4.08
+vorpd: 1.08
+off_rating_adj: 4.49
+def_rating_adj: -0.95
+on_off_diff: 3.42
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **45.8** / 100 |
+| Composite Score | **33.2** / 100 |
 | Salary | $14,848,301 |
-| VORPD | 1.37 |
-| Off Rating Adj | 5.38 |
-| Def Rating Adj | -1.14 |
-| On/Off Diff | 4.08 |
-| TS% | 66.0% |
-| 3P% | 46.1% |
+| VORPD | 1.08 |
+| Off Rating Adj | 4.49 |
+| Def Rating Adj | -0.95 |
+| On/Off Diff | 3.42 |
+| TS% | 64.9% |
+| 3P% | 42.9% |
 | Influence Score | 0.09 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+6.1 pts over 3 seasons)
+> **Trend:** Trending UP (+4.0 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | PHX | 45.8 | $14848301 | 1.37 | 5.38 | -1.14 | 4.08 |
-| 2022-23 | MIL | 42.5 | $13498406 | 1.26 | 1.32 | 0.44 | 2.36 |
-| 2021-22 | MIL | 39.7 | $12271318 | 1.16 | 0.65 | 1.67 | 2.06 |
+| 2023-24 | PHX | 33.2 | $14848301 | 1.08 | 4.49 | -0.95 | 3.42 |
+| 2022-23 | MIL | 32.4 | $13498406 | 1.15 | 1.05 | 0.35 | 1.90 |
+| 2021-22 | MIL | 29.1 | $12271318 | 0.70 | 0.51 | 1.31 | 1.63 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (2.31, -2.13)
+- **Cluster:** 3
+- **PCA Position:** (2.63, -3.15)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

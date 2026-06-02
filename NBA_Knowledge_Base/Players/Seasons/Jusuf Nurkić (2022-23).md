@@ -4,12 +4,12 @@ player: "Jusuf Nurkić"
 season: "2022-23"
 team: "POR"
 archetype: "Perimeter Scorer"
-composite_score: 57.76
+composite_score: 50.69
 salary: 15498170
-vorpd: 2.08
-off_rating_adj: 3.24
-def_rating_adj: 2.01
-on_off_diff: 7.31
+vorpd: 2.18
+off_rating_adj: 2.38
+def_rating_adj: 1.48
+on_off_diff: 5.39
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | POR |
-| Composite Score | **57.8** / 100 |
+| Composite Score | **50.7** / 100 |
 | Salary | $15,498,170 |
-| VORPD | 2.08 |
-| Off Rating Adj | 3.24 |
-| Def Rating Adj | 2.01 |
-| On/Off Diff | 7.31 |
-| TS% | 58.6% |
-| 3P% | 36.1% |
+| VORPD | 2.18 |
+| Off Rating Adj | 2.38 |
+| Def Rating Adj | 1.48 |
+| On/Off Diff | 5.39 |
+| TS% | 58.4% |
+| 3P% | 36.6% |
 | Influence Score | 0.13 |
 | Season Weight | 0.35 |
 

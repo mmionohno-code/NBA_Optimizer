@@ -4,12 +4,12 @@ player: "Wesley Matthews"
 season: "2023-24"
 team: "ATL"
 archetype: "Bench / Role Player"
-composite_score: 26.57
+composite_score: 19.90
 salary: 2879403
-vorpd: 0.39
-off_rating_adj: -4.35
-def_rating_adj: 1.63
-on_off_diff: -2.93
+vorpd: 0.96
+off_rating_adj: -1.97
+def_rating_adj: 0.74
+on_off_diff: -1.33
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | ATL |
-| Composite Score | **26.6** / 100 |
+| Composite Score | **19.9** / 100 |
 | Salary | $2,879,403 |
-| VORPD | 0.39 |
-| Off Rating Adj | -4.35 |
-| Def Rating Adj | 1.63 |
-| On/Off Diff | -2.93 |
-| TS% | 55.0% |
-| 3P% | 34.8% |
-| Influence Score | 0.06 |
+| VORPD | 0.96 |
+| Off Rating Adj | -1.97 |
+| Def Rating Adj | 0.74 |
+| On/Off Diff | -1.33 |
+| TS% | 55.8% |
+| 3P% | 36.9% |
+| Influence Score | 0.07 |
 | Season Weight | 0.45 |
 
 _Navigate back to the full player profile: [[Players/Wesley Matthews]]_

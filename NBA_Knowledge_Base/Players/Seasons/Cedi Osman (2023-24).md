@@ -4,12 +4,12 @@ player: "Cedi Osman"
 season: "2023-24"
 team: "SAS"
 archetype: "Bench / Role Player"
-composite_score: 21.08
+composite_score: 10.96
 salary: 4000000
 vorpd: 0.00
-off_rating_adj: -1.81
-def_rating_adj: -5.06
-on_off_diff: -8.29
+off_rating_adj: -1.30
+def_rating_adj: -3.63
+on_off_diff: -5.95
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | SAS |
-| Composite Score | **21.1** / 100 |
+| Composite Score | **11.0** / 100 |
 | Salary | $4,000,000 |
 | VORPD | 0.00 |
-| Off Rating Adj | -1.81 |
-| Def Rating Adj | -5.06 |
-| On/Off Diff | -8.29 |
-| TS% | 59.4% |
-| 3P% | 38.9% |
+| Off Rating Adj | -1.30 |
+| Def Rating Adj | -3.63 |
+| On/Off Diff | -5.95 |
+| TS% | 59.0% |
+| 3P% | 38.1% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

@@ -4,12 +4,12 @@ player: "Cody Martin"
 season: "2023-24"
 team: "CHA"
 archetype: "Versatile Scorer"
-composite_score: 50.53
+composite_score: 42.74
 salary: 8600000
-vorpd: 2.92
-off_rating_adj: 0.19
-def_rating_adj: -1.72
-on_off_diff: 1.44
+vorpd: 2.98
+off_rating_adj: 0.12
+def_rating_adj: -1.03
+on_off_diff: 0.86
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | CHA |
-| Composite Score | **50.5** / 100 |
+| Composite Score | **42.7** / 100 |
 | Salary | $8,600,000 |
-| VORPD | 2.92 |
-| Off Rating Adj | 0.19 |
-| Def Rating Adj | -1.72 |
-| On/Off Diff | 1.44 |
-| TS% | 50.7% |
-| 3P% | 31.4% |
+| VORPD | 2.98 |
+| Off Rating Adj | 0.12 |
+| Def Rating Adj | -1.03 |
+| On/Off Diff | 0.86 |
+| TS% | 52.5% |
+| 3P% | 35.9% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

@@ -1,7 +1,7 @@
 ---
 type: project-story
 tags: [story, resume, career]
-date: 2026-05-08
+date: 2026-06-01
 ---
 
 # Resume Framing Guide

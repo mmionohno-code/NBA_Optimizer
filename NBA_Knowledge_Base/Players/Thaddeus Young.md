@@ -3,12 +3,12 @@ player: "Thaddeus Young"
 team: "PHX"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 37.10
+composite_score: 28.99
 salary: 4500000
-vorpd: 2.59
-off_rating_adj: 1.08
-def_rating_adj: -5.94
-on_off_diff: 0.55
+vorpd: 2.64
+off_rating_adj: 0.50
+def_rating_adj: -2.78
+on_off_diff: 0.26
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **37.1** / 100 |
+| Composite Score | **29.0** / 100 |
 | Salary | $4,500,000 |
-| VORPD | 2.59 |
-| Off Rating Adj | 1.08 |
-| Def Rating Adj | -5.94 |
-| On/Off Diff | 0.55 |
-| TS% | 58.5% |
-| 3P% | 35.6% |
+| VORPD | 2.64 |
+| Off Rating Adj | 0.50 |
+| Def Rating Adj | -2.78 |
+| On/Off Diff | 0.26 |
+| TS% | 58.2% |
+| 3P% | 37.0% |
 | Influence Score | 0.07 |
 
 ## Season History (3 seasons)
@@ -36,14 +36,14 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | PHX | 37.1 | $4500000 | 2.59 | 1.08 | -5.94 | 0.55 |
-| 2022-23 | TOR | 35.6 | $1017781 | 10.00 | -3.01 | -2.89 | -7.89 |
-| 2021-22 | TOR | 46.6 | $925258 | 22.84 | -3.25 | 2.31 | -1.23 |
+| 2023-24 | PHX | 29.0 | $4500000 | 2.64 | 0.50 | -2.78 | 0.26 |
+| 2022-23 | TOR | 27.3 | $1017781 | 10.24 | -1.84 | -1.77 | -4.84 |
+| 2021-22 | TOR | 38.5 | $925258 | 19.38 | -2.05 | 1.45 | -0.76 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.20, 0.25)
+- **Cluster:** 1
+- **PCA Position:** (-0.34, -0.05)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

@@ -3,12 +3,12 @@ player: "Tony Snell"
 team: "NOP"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 20.82
+composite_score: 14.07
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -3.53
-def_rating_adj: -2.23
-on_off_diff: -0.85
+off_rating_adj: -2.19
+def_rating_adj: -1.38
+on_off_diff: -0.53
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **20.8** / 100 |
+| Composite Score | **14.1** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -3.53 |
-| Def Rating Adj | -2.23 |
-| On/Off Diff | -0.85 |
-| TS% | 55.1% |
-| 3P% | 35.2% |
+| Off Rating Adj | -2.19 |
+| Def Rating Adj | -1.38 |
+| On/Off Diff | -0.53 |
+| TS% | 55.4% |
+| 3P% | 35.8% |
 | Influence Score | 0.05 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | NOP | 20.8 | $925258 | 0.00 | -3.53 | -2.23 | -0.85 |
+| 2021-22 | NOP | 14.1 | $925258 | 0.00 | -2.19 | -1.38 | -0.53 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-2.24, -0.76)
+- **Cluster:** 5
+- **PCA Position:** (-2.37, -0.47)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

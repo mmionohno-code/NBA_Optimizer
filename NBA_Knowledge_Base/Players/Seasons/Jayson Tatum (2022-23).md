@@ -4,12 +4,12 @@ player: "Jayson Tatum"
 season: "2022-23"
 team: "BOS"
 archetype: "Elite Playmaker"
-composite_score: 65.78
+composite_score: 61.96
 salary: 43296048
-vorpd: 0.93
-off_rating_adj: 3.39
-def_rating_adj: -2.09
-on_off_diff: 4.97
+vorpd: 1.04
+off_rating_adj: 2.86
+def_rating_adj: -1.76
+on_off_diff: 4.22
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | BOS |
-| Composite Score | **65.8** / 100 |
+| Composite Score | **62.0** / 100 |
 | Salary | $43,296,048 |
-| VORPD | 0.93 |
-| Off Rating Adj | 3.39 |
-| Def Rating Adj | -2.09 |
-| On/Off Diff | 4.97 |
-| TS% | 60.4% |
-| 3P% | 35.0% |
+| VORPD | 1.04 |
+| Off Rating Adj | 2.86 |
+| Def Rating Adj | -1.76 |
+| On/Off Diff | 4.22 |
+| TS% | 60.2% |
+| 3P% | 35.5% |
 | Influence Score | 0.19 |
 | Season Weight | 0.35 |
 

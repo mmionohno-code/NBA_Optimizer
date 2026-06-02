@@ -3,12 +3,12 @@ player: "Jrue Holiday"
 team: "BOS"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 40.19
+composite_score: 28.30
 salary: 28508739
-vorpd: 0.52
-off_rating_adj: 0.65
-def_rating_adj: -1.73
-on_off_diff: -7.04
+vorpd: 0.39
+off_rating_adj: 0.53
+def_rating_adj: -1.42
+on_off_diff: -5.74
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **40.2** / 100 |
+| Composite Score | **28.3** / 100 |
 | Salary | $28,508,739 |
-| VORPD | 0.52 |
-| Off Rating Adj | 0.65 |
-| Def Rating Adj | -1.73 |
-| On/Off Diff | -7.04 |
-| TS% | 59.3% |
-| 3P% | 42.9% |
+| VORPD | 0.39 |
+| Off Rating Adj | 0.53 |
+| Def Rating Adj | -1.42 |
+| On/Off Diff | -5.74 |
+| TS% | 59.1% |
+| 3P% | 40.5% |
 | Influence Score | 0.10 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-41.0 pts over 3 seasons)
+> **Trend:** Trending DOWN (-48.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | BOS | 40.2 | $28508739 | 0.52 | 0.65 | -1.73 | -7.04 |
-| 2022-23 | MIL | 78.0 | $25916940 | 2.03 | 4.42 | 1.64 | 11.99 |
-| 2021-22 | MIL | 81.1 | $23560931 | 2.36 | 6.35 | -0.53 | 10.73 |
+| 2023-24 | BOS | 28.3 | $28508739 | 0.39 | 0.53 | -1.42 | -5.74 |
+| 2022-23 | MIL | 73.7 | $25916940 | 2.19 | 3.60 | 1.34 | 9.78 |
+| 2021-22 | MIL | 76.6 | $23560931 | 2.38 | 5.18 | -0.43 | 8.77 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (0.56, -0.18)
+- **Cluster:** 1
+- **PCA Position:** (0.46, -0.66)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

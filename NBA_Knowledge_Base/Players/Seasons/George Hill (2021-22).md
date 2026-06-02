@@ -4,12 +4,12 @@ player: "George Hill"
 season: "2021-22"
 team: "MIL"
 archetype: "Defensive Wing"
-composite_score: 56.66
+composite_score: 49.54
 salary: 925258
-vorpd: 33.72
-off_rating_adj: 0.65
-def_rating_adj: 8.37
-on_off_diff: 10.56
+vorpd: 31.33
+off_rating_adj: 0.46
+def_rating_adj: 5.98
+on_off_diff: 7.57
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | MIL |
-| Composite Score | **56.7** / 100 |
+| Composite Score | **49.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 33.72 |
-| Off Rating Adj | 0.65 |
-| Def Rating Adj | 8.37 |
-| On/Off Diff | 10.56 |
-| TS% | 55.6% |
-| 3P% | 30.6% |
+| VORPD | 31.33 |
+| Off Rating Adj | 0.46 |
+| Def Rating Adj | 5.98 |
+| On/Off Diff | 7.57 |
+| TS% | 55.7% |
+| 3P% | 34.2% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

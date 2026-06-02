@@ -4,12 +4,12 @@ player: "Nic Claxton"
 season: "2021-22"
 team: "BKN"
 archetype: "Two-Way Big"
-composite_score: 32.61
+composite_score: 24.58
 salary: 18435899
-vorpd: 0.39
-off_rating_adj: -2.20
-def_rating_adj: 1.52
-on_off_diff: -0.88
+vorpd: 0.22
+off_rating_adj: -1.45
+def_rating_adj: 1.00
+on_off_diff: -0.57
 season_weight: 0.20
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2021-22 |
 | Team | BKN |
-| Composite Score | **32.6** / 100 |
+| Composite Score | **24.6** / 100 |
 | Salary | $18,435,899 |
-| VORPD | 0.39 |
-| Off Rating Adj | -2.20 |
-| Def Rating Adj | 1.52 |
-| On/Off Diff | -0.88 |
-| TS% | 63.2% |
-| 3P% | 34.1% |
+| VORPD | 0.22 |
+| Off Rating Adj | -1.45 |
+| Def Rating Adj | 1.00 |
+| On/Off Diff | -0.57 |
+| TS% | 61.6% |
+| 3P% | 35.7% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

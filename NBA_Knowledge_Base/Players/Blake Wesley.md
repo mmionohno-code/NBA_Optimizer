@@ -3,12 +3,12 @@ player: "Blake Wesley"
 team: "SAS"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 43.36
+composite_score: 33.66
 salary: 4965916
-vorpd: 3.61
-off_rating_adj: -3.21
-def_rating_adj: 1.74
-on_off_diff: 0.66
+vorpd: 3.33
+off_rating_adj: -2.05
+def_rating_adj: 1.11
+on_off_diff: 0.42
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **43.4** / 100 |
+| Composite Score | **33.7** / 100 |
 | Salary | $4,965,916 |
-| VORPD | 3.61 |
-| Off Rating Adj | -3.21 |
-| Def Rating Adj | 1.74 |
-| On/Off Diff | 0.66 |
-| TS% | 55.3% |
-| 3P% | 21.8% |
+| VORPD | 3.33 |
+| Off Rating Adj | -2.05 |
+| Def Rating Adj | 1.11 |
+| On/Off Diff | 0.42 |
+| TS% | 55.9% |
+| 3P% | 34.7% |
 | Influence Score | 0.08 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+4.6 pts over 2 seasons)
+> **Trend:** Stable (+2.2 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | SAS | 43.4 | $4965916 | 3.61 | -3.21 | 1.74 | 0.66 |
-| 2022-23 | SAS | 38.8 | $4514453 | 2.95 | -4.21 | -0.25 | -3.56 |
+| 2023-24 | SAS | 33.7 | $4965916 | 3.33 | -2.05 | 1.11 | 0.42 |
+| 2022-23 | SAS | 31.5 | $4514453 | 3.23 | -2.41 | -0.14 | -2.04 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.63, 1.25)
+- **Cluster:** 5
+- **PCA Position:** (-1.26, 0.78)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

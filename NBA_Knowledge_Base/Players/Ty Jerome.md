@@ -3,12 +3,12 @@ player: "Ty Jerome"
 team: "GSW"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 27.19
+composite_score: 19.00
 salary: 7023971
-vorpd: 0.25
-off_rating_adj: -3.48
-def_rating_adj: -3.56
-on_off_diff: -9.86
+vorpd: 0.30
+off_rating_adj: -2.16
+def_rating_adj: -2.21
+on_off_diff: -6.10
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **27.2** / 100 |
+| Composite Score | **19.0** / 100 |
 | Salary | $7,023,971 |
-| VORPD | 0.25 |
-| Off Rating Adj | -3.48 |
-| Def Rating Adj | -3.56 |
-| On/Off Diff | -9.86 |
-| TS% | 58.7% |
-| 3P% | 38.9% |
+| VORPD | 0.30 |
+| Off Rating Adj | -2.16 |
+| Def Rating Adj | -2.21 |
+| On/Off Diff | -6.10 |
+| TS% | 58.5% |
+| 3P% | 37.3% |
 | Influence Score | 0.09 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-34.2 pts over 2 seasons)
+> **Trend:** Trending DOWN (-34.1 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | GSW | 27.2 | $7023971 | 0.25 | -3.48 | -3.56 | -9.86 |
-| 2021-22 | OKC | 61.4 | $6385449 | 5.63 | -3.75 | 9.35 | 8.41 |
+| 2022-23 | GSW | 19.0 | $7023971 | 0.30 | -2.16 | -2.21 | -6.10 |
+| 2021-22 | OKC | 53.1 | $6385449 | 5.10 | -2.31 | 5.76 | 5.18 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.37, 0.59)
+- **Cluster:** 1
+- **PCA Position:** (-1.49, 0.37)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

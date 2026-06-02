@@ -4,12 +4,12 @@ player: "Chris Chiozza"
 season: "2021-22"
 team: "GSW"
 archetype: "Bench / Role Player"
-composite_score: 20.39
+composite_score: 18.54
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -9.03
-def_rating_adj: -3.17
-on_off_diff: -13.68
+off_rating_adj: -3.85
+def_rating_adj: -1.35
+on_off_diff: -5.81
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | GSW |
-| Composite Score | **20.4** / 100 |
+| Composite Score | **18.5** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -9.03 |
-| Def Rating Adj | -3.17 |
-| On/Off Diff | -13.68 |
-| TS% | 50.8% |
-| 3P% | 32.1% |
+| Off Rating Adj | -3.85 |
+| Def Rating Adj | -1.35 |
+| On/Off Diff | -5.81 |
+| TS% | 52.7% |
+| 3P% | 35.4% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

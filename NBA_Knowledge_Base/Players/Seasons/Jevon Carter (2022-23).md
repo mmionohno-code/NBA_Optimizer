@@ -4,12 +4,12 @@ player: "Jevon Carter"
 season: "2022-23"
 team: "MIL"
 archetype: "Bench / Role Player"
-composite_score: 38.16
+composite_score: 26.11
 salary: 6143694
-vorpd: 2.07
-off_rating_adj: -3.38
-def_rating_adj: 2.34
-on_off_diff: -1.73
+vorpd: 1.50
+off_rating_adj: -2.65
+def_rating_adj: 1.84
+on_off_diff: -1.34
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | MIL |
-| Composite Score | **38.2** / 100 |
+| Composite Score | **26.1** / 100 |
 | Salary | $6,143,694 |
-| VORPD | 2.07 |
-| Off Rating Adj | -3.38 |
-| Def Rating Adj | 2.34 |
-| On/Off Diff | -1.73 |
-| TS% | 56.3% |
-| 3P% | 42.1% |
+| VORPD | 1.50 |
+| Off Rating Adj | -2.65 |
+| Def Rating Adj | 1.84 |
+| On/Off Diff | -1.34 |
+| TS% | 56.5% |
+| 3P% | 39.8% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

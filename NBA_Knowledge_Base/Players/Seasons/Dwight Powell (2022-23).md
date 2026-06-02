@@ -4,12 +4,12 @@ player: "Dwight Powell"
 season: "2022-23"
 team: "DAL"
 archetype: "Perimeter Scorer"
-composite_score: 45.29
+composite_score: 37.36
 salary: 3199622
-vorpd: 6.20
-off_rating_adj: 6.21
-def_rating_adj: 0.82
-on_off_diff: 8.64
+vorpd: 6.40
+off_rating_adj: 4.62
+def_rating_adj: 0.61
+on_off_diff: 6.45
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | DAL |
-| Composite Score | **45.3** / 100 |
+| Composite Score | **37.4** / 100 |
 | Salary | $3,199,622 |
-| VORPD | 6.20 |
-| Off Rating Adj | 6.21 |
-| Def Rating Adj | 0.82 |
-| On/Off Diff | 8.64 |
-| TS% | 68.0% |
-| 3P% | 35.0% |
+| VORPD | 6.40 |
+| Off Rating Adj | 4.62 |
+| Def Rating Adj | 0.61 |
+| On/Off Diff | 6.45 |
+| TS% | 65.6% |
+| 3P% | 36.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

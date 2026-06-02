@@ -4,12 +4,12 @@ player: "Marvin Bagley III"
 season: "2022-23"
 team: "DET"
 archetype: "Bench / Role Player"
-composite_score: 33.85
+composite_score: 26.54
 salary: 1836802
-vorpd: 4.57
-off_rating_adj: -1.11
-def_rating_adj: -1.26
-on_off_diff: -2.50
+vorpd: 5.26
+off_rating_adj: -0.74
+def_rating_adj: -0.84
+on_off_diff: -1.67
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | DET |
-| Composite Score | **33.9** / 100 |
+| Composite Score | **26.5** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 4.57 |
-| Off Rating Adj | -1.11 |
-| Def Rating Adj | -1.26 |
-| On/Off Diff | -2.50 |
-| TS% | 58.4% |
-| 3P% | 28.8% |
+| VORPD | 5.26 |
+| Off Rating Adj | -0.74 |
+| Def Rating Adj | -0.84 |
+| On/Off Diff | -1.67 |
+| TS% | 58.2% |
+| 3P% | 35.1% |
 | Influence Score | 0.12 |
 | Season Weight | 0.35 |
 

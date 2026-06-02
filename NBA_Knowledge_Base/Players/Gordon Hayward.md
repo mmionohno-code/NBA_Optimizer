@@ -3,12 +3,12 @@ player: "Gordon Hayward"
 team: "OKC"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 34.67
+composite_score: 25.69
 salary: 31500000
-vorpd: 0.29
-off_rating_adj: -3.08
-def_rating_adj: -7.39
-on_off_diff: -0.79
+vorpd: 0.27
+off_rating_adj: -2.20
+def_rating_adj: -5.27
+on_off_diff: -0.56
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **34.7** / 100 |
+| Composite Score | **25.7** / 100 |
 | Salary | $31,500,000 |
-| VORPD | 0.29 |
-| Off Rating Adj | -3.08 |
-| Def Rating Adj | -7.39 |
-| On/Off Diff | -0.79 |
-| TS% | 55.5% |
-| 3P% | 41.1% |
+| VORPD | 0.27 |
+| Off Rating Adj | -2.20 |
+| Def Rating Adj | -5.27 |
+| On/Off Diff | -0.56 |
+| TS% | 55.9% |
+| 3P% | 38.4% |
 | Influence Score | 0.10 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-9.8 pts over 3 seasons)
+> **Trend:** Trending DOWN (-9.9 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | OKC | 34.7 | $31500000 | 0.29 | -3.08 | -7.39 | -0.79 |
-| 2022-23 | CHA | 53.5 | $1017781 | 27.60 | 1.85 | 0.39 | 4.21 |
-| 2021-22 | CHA | 44.4 | $925258 | 20.51 | -1.26 | -0.22 | -2.46 |
+| 2023-24 | OKC | 25.7 | $31500000 | 0.27 | -2.20 | -5.27 | -0.56 |
+| 2022-23 | CHA | 47.4 | $1017781 | 29.98 | 1.40 | 0.30 | 3.20 |
+| 2021-22 | CHA | 35.6 | $925258 | 16.28 | -0.96 | -0.16 | -1.85 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.42, 0.79)
+- **Cluster:** 1
+- **PCA Position:** (-0.63, 0.66)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

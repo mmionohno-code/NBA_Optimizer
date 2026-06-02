@@ -3,12 +3,12 @@ player: "Shake Milton"
 team: "NYK"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 26.45
+composite_score: 19.73
 salary: 4000000
-vorpd: 0.25
-off_rating_adj: -9.62
-def_rating_adj: 3.42
-on_off_diff: -9.93
+vorpd: 0.65
+off_rating_adj: -5.17
+def_rating_adj: 1.84
+on_off_diff: -5.32
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **26.4** / 100 |
+| Composite Score | **19.7** / 100 |
 | Salary | $4,000,000 |
-| VORPD | 0.25 |
-| Off Rating Adj | -9.62 |
-| Def Rating Adj | 3.42 |
-| On/Off Diff | -9.93 |
-| TS% | 53.2% |
-| 3P% | 28.1% |
+| VORPD | 0.65 |
+| Off Rating Adj | -5.17 |
+| Def Rating Adj | 1.84 |
+| On/Off Diff | -5.32 |
+| TS% | 54.3% |
+| 3P% | 35.6% |
 | Influence Score | 0.09 |
 
 ## Season History (3 seasons)
@@ -36,14 +36,14 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | NYK | 26.4 | $4000000 | 0.25 | -9.62 | 3.42 | -9.93 |
-| 2022-23 | PHI | 41.1 | $1017781 | 15.40 | 0.37 | 1.55 | -1.58 |
-| 2021-22 | PHI | 36.3 | $925258 | 11.72 | -1.69 | -0.47 | -5.07 |
+| 2023-24 | NYK | 19.7 | $4000000 | 0.65 | -5.17 | 1.84 | -5.32 |
+| 2022-23 | PHI | 32.5 | $1017781 | 15.29 | 0.28 | 1.17 | -1.18 |
+| 2021-22 | PHI | 29.6 | $925258 | 9.73 | -1.19 | -0.33 | -3.54 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-3.29, 1.14)
+- **Cluster:** 5
+- **PCA Position:** (-2.72, 0.77)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

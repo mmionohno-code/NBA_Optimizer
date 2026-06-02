@@ -3,12 +3,12 @@ player: "Facundo Campazzo"
 team: "DEN"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 32.86
+composite_score: 25.95
 salary: 925258
-vorpd: 8.00
-off_rating_adj: -9.60
-def_rating_adj: -0.12
-on_off_diff: -14.01
+vorpd: 5.84
+off_rating_adj: -6.75
+def_rating_adj: -0.09
+on_off_diff: -9.84
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,15 +20,15 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **32.9** / 100 |
+| Composite Score | **25.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 8.00 |
-| Off Rating Adj | -9.60 |
-| Def Rating Adj | -0.12 |
-| On/Off Diff | -14.01 |
-| TS% | 52.3% |
-| 3P% | 30.1% |
-| Influence Score | 0.07 |
+| VORPD | 5.84 |
+| Off Rating Adj | -6.75 |
+| Def Rating Adj | -0.09 |
+| On/Off Diff | -9.84 |
+| TS% | 53.1% |
+| 3P% | 33.5% |
+| Influence Score | 0.08 |
 
 ## Season History (1 season)
 
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | DEN | 32.9 | $925258 | 8.00 | -9.60 | -0.12 | -14.01 |
+| 2021-22 | DEN | 25.9 | $925258 | 5.84 | -6.75 | -0.09 | -9.84 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.66, 2.34)
+- **Cluster:** 5
+- **PCA Position:** (-2.94, 2.55)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

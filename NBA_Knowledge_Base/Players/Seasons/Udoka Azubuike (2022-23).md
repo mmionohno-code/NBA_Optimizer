@@ -4,12 +4,12 @@ player: "Udoka Azubuike"
 season: "2022-23"
 team: "UTA"
 archetype: "Bench / Role Player"
-composite_score: 7.10
+composite_score: 6.81
 salary: 1017781
 vorpd: 0.00
-off_rating_adj: -8.63
-def_rating_adj: -0.17
-on_off_diff: -11.50
+off_rating_adj: -3.61
+def_rating_adj: -0.07
+on_off_diff: -4.81
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | UTA |
-| Composite Score | **7.1** / 100 |
+| Composite Score | **6.8** / 100 |
 | Salary | $1,017,781 |
 | VORPD | 0.00 |
-| Off Rating Adj | -8.63 |
-| Def Rating Adj | -0.17 |
-| On/Off Diff | -11.50 |
-| TS% | 64.0% |
-| 3P% | 35.0% |
+| Off Rating Adj | -3.61 |
+| Def Rating Adj | -0.07 |
+| On/Off Diff | -4.81 |
+| TS% | 61.7% |
+| 3P% | 36.4% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

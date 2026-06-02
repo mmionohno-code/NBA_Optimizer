@@ -3,32 +3,32 @@ player_season: "Juan Toscano-Anderson (2021-22)"
 player: "Juan Toscano-Anderson"
 season: "2021-22"
 team: "GSW"
-archetype: "Versatile Scorer"
-composite_score: 36.38
+archetype: "Bench / Role Player"
+composite_score: 29.46
 salary: 925258
-vorpd: 11.81
-off_rating_adj: 0.37
-def_rating_adj: -1.77
-on_off_diff: -5.44
+vorpd: 9.63
+off_rating_adj: 0.24
+def_rating_adj: -1.17
+on_off_diff: -3.60
 season_weight: 0.20
-tags: [season-note, versatile-scorer]
+tags: [season-note, bench-/-role-player]
 ---
 # Juan Toscano-Anderson — 2021-22
 
-> Part of [[Players/Juan Toscano-Anderson]] | Archetype: [[Archetypes/Versatile Scorer]]
+> Part of [[Players/Juan Toscano-Anderson]] | Archetype: [[Archetypes/Bench / Role Player]]
 
 | Metric | Value |
 |---|---|
 | Season | 2021-22 |
 | Team | GSW |
-| Composite Score | **36.4** / 100 |
+| Composite Score | **29.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.81 |
-| Off Rating Adj | 0.37 |
-| Def Rating Adj | -1.77 |
-| On/Off Diff | -5.44 |
-| TS% | 56.1% |
-| 3P% | 32.2% |
+| VORPD | 9.63 |
+| Off Rating Adj | 0.24 |
+| Def Rating Adj | -1.17 |
+| On/Off Diff | -3.60 |
+| TS% | 56.2% |
+| 3P% | 35.1% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

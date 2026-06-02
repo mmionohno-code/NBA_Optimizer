@@ -3,12 +3,12 @@ player: "Kristaps Porziņģis"
 team: "BOS"
 season: "2023-24"
 archetype: "Two-Way Big"
-composite_score: 43.09
+composite_score: 34.09
 salary: 27040809
-vorpd: 0.65
-off_rating_adj: 0.85
-def_rating_adj: -0.43
-on_off_diff: -2.95
+vorpd: 0.63
+off_rating_adj: 0.66
+def_rating_adj: -0.33
+on_off_diff: -2.25
 is_shooter: 1
 tags: [player, two-way-big]
 ---
@@ -20,30 +20,30 @@ tags: [player, two-way-big]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **43.1** / 100 |
+| Composite Score | **34.1** / 100 |
 | Salary | $27,040,809 |
-| VORPD | 0.65 |
-| Off Rating Adj | 0.85 |
-| Def Rating Adj | -0.43 |
-| On/Off Diff | -2.95 |
-| TS% | 63.5% |
+| VORPD | 0.63 |
+| Off Rating Adj | 0.66 |
+| Def Rating Adj | -0.33 |
+| On/Off Diff | -2.25 |
+| TS% | 62.8% |
 | 3P% | 37.5% |
 | Influence Score | 0.16 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-9.0 pts over 3 seasons)
+> **Trend:** Trending DOWN (-13.4 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | BOS | 43.1 | $27040809 | 0.65 | 0.85 | -0.43 | -2.95 |
-| 2022-23 | WAS | 57.3 | $24582463 | 1.29 | 3.91 | -1.42 | 7.07 |
-| 2021-22 | WAS | 52.1 | $22347766 | 1.19 | 1.61 | 2.77 | -0.27 |
+| 2023-24 | BOS | 34.1 | $27040809 | 0.63 | 0.66 | -0.33 | -2.25 |
+| 2022-23 | WAS | 50.4 | $24582463 | 1.36 | 3.16 | -1.15 | 5.73 |
+| 2021-22 | WAS | 47.5 | $22347766 | 1.21 | 1.20 | 2.07 | -0.19 |
 
 ## Profile
 
 - **Cluster:** 4
-- **PCA Position:** (1.79, -1.91)
+- **PCA Position:** (1.69, -2.02)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

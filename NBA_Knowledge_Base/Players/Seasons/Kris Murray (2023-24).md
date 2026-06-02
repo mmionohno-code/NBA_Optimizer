@@ -4,12 +4,12 @@ player: "Kris Murray"
 season: "2023-24"
 team: "POR"
 archetype: "Defensive Wing"
-composite_score: 49.06
+composite_score: 43.70
 salary: 2755845
-vorpd: 8.57
-off_rating_adj: 0.12
-def_rating_adj: 2.95
-on_off_diff: 5.81
+vorpd: 9.64
+off_rating_adj: 0.08
+def_rating_adj: 2.15
+on_off_diff: 4.23
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | POR |
-| Composite Score | **49.1** / 100 |
+| Composite Score | **43.7** / 100 |
 | Salary | $2,755,845 |
-| VORPD | 8.57 |
-| Off Rating Adj | 0.12 |
-| Def Rating Adj | 2.95 |
-| On/Off Diff | 5.81 |
-| TS% | 50.8% |
-| 3P% | 26.8% |
+| VORPD | 9.64 |
+| Off Rating Adj | 0.08 |
+| Def Rating Adj | 2.15 |
+| On/Off Diff | 4.23 |
+| TS% | 52.1% |
+| 3P% | 33.0% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

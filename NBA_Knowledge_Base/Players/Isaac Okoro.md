@@ -3,12 +3,12 @@ player: "Isaac Okoro"
 team: "CLE"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 35.74
+composite_score: 25.23
 salary: 9678893
-vorpd: 1.06
-off_rating_adj: -0.07
-def_rating_adj: 0.28
-on_off_diff: -1.10
+vorpd: 0.84
+off_rating_adj: -0.05
+def_rating_adj: 0.22
+on_off_diff: -0.86
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **35.7** / 100 |
+| Composite Score | **25.2** / 100 |
 | Salary | $9,678,893 |
-| VORPD | 1.06 |
-| Off Rating Adj | -0.07 |
-| Def Rating Adj | 0.28 |
-| On/Off Diff | -1.10 |
-| TS% | 59.3% |
-| 3P% | 39.1% |
+| VORPD | 0.84 |
+| Off Rating Adj | -0.05 |
+| Def Rating Adj | 0.22 |
+| On/Off Diff | -0.86 |
+| TS% | 59.0% |
+| 3P% | 38.2% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-3.6 pts over 3 seasons)
+> **Trend:** Trending DOWN (-7.0 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CLE | 35.7 | $9678893 | 1.06 | -0.07 | 0.28 | -1.10 |
-| 2022-23 | CLE | 33.7 | $8798961 | 0.93 | 1.01 | -0.75 | 0.33 |
-| 2021-22 | CLE | 39.4 | $7999081 | 1.74 | 3.49 | -0.67 | 1.61 |
+| 2023-24 | CLE | 25.2 | $9678893 | 0.84 | -0.05 | 0.22 | -0.86 |
+| 2022-23 | CLE | 24.7 | $8798961 | 0.89 | 0.77 | -0.57 | 0.27 |
+| 2021-22 | CLE | 32.2 | $7999081 | 1.46 | 2.79 | -0.53 | 1.30 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.11, -1.11)
+- **Cluster:** 1
+- **PCA Position:** (-0.27, -1.34)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

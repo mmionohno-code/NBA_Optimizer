@@ -3,12 +3,12 @@ player: "Jalen Suggs"
 team: "ORL"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 48.36
+composite_score: 37.91
 salary: 30796477
-vorpd: 0.74
-off_rating_adj: -0.19
-def_rating_adj: -1.27
-on_off_diff: -3.36
+vorpd: 0.67
+off_rating_adj: -0.15
+def_rating_adj: -1.02
+on_off_diff: -2.68
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **48.4** / 100 |
+| Composite Score | **37.9** / 100 |
 | Salary | $30,796,477 |
-| VORPD | 0.74 |
-| Off Rating Adj | -0.19 |
-| Def Rating Adj | -1.27 |
-| On/Off Diff | -3.36 |
-| TS% | 59.7% |
-| 3P% | 39.7% |
+| VORPD | 0.67 |
+| Off Rating Adj | -0.15 |
+| Def Rating Adj | -1.02 |
+| On/Off Diff | -2.68 |
+| TS% | 59.5% |
+| 3P% | 38.8% |
 | Influence Score | 0.11 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-16.3 pts over 3 seasons)
+> **Trend:** Trending DOWN (-25.0 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | ORL | 48.4 | $30796477 | 0.74 | -0.19 | -1.27 | -3.36 |
-| 2022-23 | ORL | 57.9 | $27996694 | 1.16 | 0.04 | 1.18 | 2.25 |
-| 2021-22 | ORL | 64.7 | $25451623 | 1.54 | -2.11 | 3.61 | 1.65 |
+| 2023-24 | ORL | 37.9 | $30796477 | 0.67 | -0.15 | -1.02 | -2.68 |
+| 2022-23 | ORL | 51.6 | $27996694 | 1.24 | 0.03 | 0.84 | 1.61 |
+| 2021-22 | ORL | 62.9 | $25451623 | 1.66 | -1.53 | 2.61 | 1.19 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (1.08, 0.19)
+- **Cluster:** 3
+- **PCA Position:** (0.97, -0.18)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

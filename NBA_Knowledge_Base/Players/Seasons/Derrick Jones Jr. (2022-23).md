@@ -4,12 +4,12 @@ player: "Derrick Jones Jr."
 season: "2022-23"
 team: "CHI"
 archetype: "Defensive Wing"
-composite_score: 42.99
+composite_score: 34.01
 salary: 7999056
-vorpd: 2.19
-off_rating_adj: 1.15
-def_rating_adj: 3.70
-on_off_diff: 7.08
+vorpd: 2.14
+off_rating_adj: 0.74
+def_rating_adj: 2.37
+on_off_diff: 4.55
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | CHI |
-| Composite Score | **43.0** / 100 |
+| Composite Score | **34.0** / 100 |
 | Salary | $7,999,056 |
-| VORPD | 2.19 |
-| Off Rating Adj | 1.15 |
-| Def Rating Adj | 3.70 |
-| On/Off Diff | 7.08 |
-| TS% | 58.9% |
-| 3P% | 33.8% |
+| VORPD | 2.14 |
+| Off Rating Adj | 0.74 |
+| Def Rating Adj | 2.37 |
+| On/Off Diff | 4.55 |
+| TS% | 58.6% |
+| 3P% | 36.1% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

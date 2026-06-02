@@ -4,12 +4,12 @@ player: "Killian Hayes"
 season: "2021-22"
 team: "DET"
 archetype: "Versatile Scorer"
-composite_score: 50.25
+composite_score: 46.04
 salary: 925258
-vorpd: 26.80
-off_rating_adj: -1.47
-def_rating_adj: -0.97
-on_off_diff: -3.83
+vorpd: 27.55
+off_rating_adj: -1.13
+def_rating_adj: -0.75
+on_off_diff: -2.94
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | DET |
-| Composite Score | **50.2** / 100 |
+| Composite Score | **46.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 26.80 |
-| Off Rating Adj | -1.47 |
-| Def Rating Adj | -0.97 |
-| On/Off Diff | -3.83 |
-| TS% | 48.6% |
-| 3P% | 26.3% |
-| Influence Score | 0.07 |
+| VORPD | 27.55 |
+| Off Rating Adj | -1.13 |
+| Def Rating Adj | -0.75 |
+| On/Off Diff | -2.94 |
+| TS% | 49.9% |
+| 3P% | 32.3% |
+| Influence Score | 0.08 |
 | Season Weight | 0.20 |
 
 _Navigate back to the full player profile: [[Players/Killian Hayes]]_

@@ -4,12 +4,12 @@ player: "Ignas Brazdeikis"
 season: "2021-22"
 team: "ORL"
 archetype: "Bench / Role Player"
-composite_score: 22.85
+composite_score: 19.47
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -2.11
-def_rating_adj: -4.99
-on_off_diff: -6.41
+off_rating_adj: -1.09
+def_rating_adj: -2.59
+on_off_diff: -3.33
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | ORL |
-| Composite Score | **22.9** / 100 |
+| Composite Score | **19.5** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.11 |
-| Def Rating Adj | -4.99 |
-| On/Off Diff | -6.41 |
-| TS% | 53.9% |
-| 3P% | 31.0% |
+| Off Rating Adj | -1.09 |
+| Def Rating Adj | -2.59 |
+| On/Off Diff | -3.33 |
+| TS% | 54.5% |
+| 3P% | 34.8% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

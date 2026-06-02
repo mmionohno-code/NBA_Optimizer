@@ -4,12 +4,12 @@ player: "Jordan McLaughlin"
 season: "2023-24"
 team: "MIN"
 archetype: "Defensive Wing"
-composite_score: 44.20
+composite_score: 30.59
 salary: 2020490
-vorpd: 9.28
-off_rating_adj: -2.28
-def_rating_adj: 6.35
-on_off_diff: 4.49
+vorpd: 6.66
+off_rating_adj: -1.27
+def_rating_adj: 3.53
+on_off_diff: 2.51
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | MIN |
-| Composite Score | **44.2** / 100 |
+| Composite Score | **30.6** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 9.28 |
-| Off Rating Adj | -2.28 |
-| Def Rating Adj | 6.35 |
-| On/Off Diff | 4.49 |
-| TS% | 60.6% |
-| 3P% | 47.2% |
+| VORPD | 6.66 |
+| Off Rating Adj | -1.27 |
+| Def Rating Adj | 3.53 |
+| On/Off Diff | 2.51 |
+| TS% | 59.7% |
+| 3P% | 39.9% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

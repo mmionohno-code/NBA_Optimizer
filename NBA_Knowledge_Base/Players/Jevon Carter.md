@@ -3,12 +3,12 @@ player: "Jevon Carter"
 team: "CHI"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 46.24
+composite_score: 38.40
 salary: 6758088
-vorpd: 3.08
-off_rating_adj: -1.73
-def_rating_adj: 5.02
-on_off_diff: 4.78
+vorpd: 3.15
+off_rating_adj: -1.15
+def_rating_adj: 3.35
+on_off_diff: 3.19
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **46.2** / 100 |
+| Composite Score | **38.4** / 100 |
 | Salary | $6,758,088 |
-| VORPD | 3.08 |
-| Off Rating Adj | -1.73 |
-| Def Rating Adj | 5.02 |
-| On/Off Diff | 4.78 |
-| TS% | 51.1% |
-| 3P% | 32.9% |
+| VORPD | 3.15 |
+| Off Rating Adj | -1.15 |
+| Def Rating Adj | 3.35 |
+| On/Off Diff | 3.19 |
+| TS% | 52.4% |
+| 3P% | 35.3% |
 | Influence Score | 0.09 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+18.8 pts over 3 seasons)
+> **Trend:** Trending UP (+19.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHI | 46.2 | $6758088 | 3.08 | -1.73 | 5.02 | 4.78 |
-| 2022-23 | MIL | 38.2 | $6143694 | 2.07 | -3.38 | 2.34 | -1.73 |
-| 2021-22 | MIL | 27.5 | $5585194 | 0.36 | -4.55 | -1.13 | -4.63 |
+| 2023-24 | CHI | 38.4 | $6758088 | 3.15 | -1.15 | 3.35 | 3.19 |
+| 2022-23 | MIL | 26.1 | $6143694 | 1.50 | -2.65 | 1.84 | -1.34 |
+| 2021-22 | MIL | 19.1 | $5585194 | 0.00 | -2.93 | -0.73 | -2.97 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-1.02, 0.37)
+- **Cluster:** 2
+- **PCA Position:** (-1.10, 0.50)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

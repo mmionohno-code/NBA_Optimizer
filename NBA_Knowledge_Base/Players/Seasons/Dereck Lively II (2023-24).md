@@ -4,12 +4,12 @@ player: "Dereck Lively II"
 season: "2023-24"
 team: "DAL"
 archetype: "Two-Way Big"
-composite_score: 39.16
+composite_score: 30.45
 salary: 4622428
-vorpd: 2.96
-off_rating_adj: 4.52
-def_rating_adj: -1.45
-on_off_diff: 3.75
+vorpd: 2.88
+off_rating_adj: 3.26
+def_rating_adj: -1.05
+on_off_diff: 2.72
 season_weight: 0.45
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2023-24 |
 | Team | DAL |
-| Composite Score | **39.2** / 100 |
+| Composite Score | **30.4** / 100 |
 | Salary | $4,622,428 |
-| VORPD | 2.96 |
-| Off Rating Adj | 4.52 |
-| Def Rating Adj | -1.45 |
-| On/Off Diff | 3.75 |
-| TS% | 67.7% |
-| 3P% | 35.6% |
+| VORPD | 2.88 |
+| Off Rating Adj | 3.26 |
+| Def Rating Adj | -1.05 |
+| On/Off Diff | 2.72 |
+| TS% | 65.5% |
+| 3P% | 37.0% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

@@ -3,12 +3,12 @@ player: "Monte Morris"
 team: "MIN"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 45.55
+composite_score: 34.44
 salary: 5000000
-vorpd: 4.02
-off_rating_adj: 0.12
-def_rating_adj: 2.35
-on_off_diff: 4.10
+vorpd: 3.46
+off_rating_adj: 0.06
+def_rating_adj: 1.14
+on_off_diff: 2.01
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **45.5** / 100 |
+| Composite Score | **34.4** / 100 |
 | Salary | $5,000,000 |
-| VORPD | 4.02 |
-| Off Rating Adj | 0.12 |
-| Def Rating Adj | 2.35 |
-| On/Off Diff | 4.10 |
-| TS% | 54.1% |
-| 3P% | 38.6% |
+| VORPD | 3.46 |
+| Off Rating Adj | 0.06 |
+| Def Rating Adj | 1.14 |
+| On/Off Diff | 2.01 |
+| TS% | 55.1% |
+| 3P% | 37.7% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-9.3 pts over 3 seasons)
+> **Trend:** Trending DOWN (-14.1 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MIN | 45.5 | $5000000 | 4.02 | 0.12 | 2.35 | 4.10 |
-| 2022-23 | WAS | 49.4 | $1017781 | 23.51 | 5.11 | -3.92 | 2.55 |
-| 2021-22 | DEN | 54.9 | $925258 | 31.80 | 4.60 | 0.18 | 7.75 |
+| 2023-24 | MIN | 34.4 | $5000000 | 3.46 | 0.06 | 1.14 | 2.01 |
+| 2022-23 | WAS | 42.4 | $1017781 | 25.07 | 3.95 | -3.03 | 1.97 |
+| 2021-22 | DEN | 48.5 | $925258 | 30.24 | 3.76 | 0.14 | 6.35 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.16, -0.06)
+- **Cluster:** 2
+- **PCA Position:** (-0.35, -0.21)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

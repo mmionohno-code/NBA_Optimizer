@@ -4,12 +4,12 @@ player: "Keon Ellis"
 season: "2023-24"
 team: "SAC"
 archetype: "Perimeter Scorer"
-composite_score: 45.30
+composite_score: 34.01
 salary: 2025165
-vorpd: 9.80
-off_rating_adj: -0.30
-def_rating_adj: 4.10
-on_off_diff: 4.79
+vorpd: 8.34
+off_rating_adj: -0.20
+def_rating_adj: 2.72
+on_off_diff: 3.18
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | SAC |
-| Composite Score | **45.3** / 100 |
+| Composite Score | **34.0** / 100 |
 | Salary | $2,025,165 |
-| VORPD | 9.80 |
-| Off Rating Adj | -0.30 |
-| Def Rating Adj | 4.10 |
-| On/Off Diff | 4.79 |
-| TS% | 60.7% |
-| 3P% | 41.7% |
+| VORPD | 8.34 |
+| Off Rating Adj | -0.20 |
+| Def Rating Adj | 2.72 |
+| On/Off Diff | 3.18 |
+| TS% | 59.9% |
+| 3P% | 39.1% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

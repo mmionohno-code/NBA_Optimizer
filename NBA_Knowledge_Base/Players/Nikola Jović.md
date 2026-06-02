@@ -3,12 +3,12 @@ player: "Nikola Jović"
 team: "MIA"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 50.88
+composite_score: 40.36
 salary: 3911520
-vorpd: 6.50
-off_rating_adj: 4.29
-def_rating_adj: 2.54
-on_off_diff: 8.44
+vorpd: 5.94
+off_rating_adj: 2.76
+def_rating_adj: 1.63
+on_off_diff: 5.43
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **50.9** / 100 |
+| Composite Score | **40.4** / 100 |
 | Salary | $3,911,520 |
-| VORPD | 6.50 |
-| Off Rating Adj | 4.29 |
-| Def Rating Adj | 2.54 |
-| On/Off Diff | 8.44 |
-| TS% | 58.0% |
-| 3P% | 39.9% |
+| VORPD | 5.94 |
+| Off Rating Adj | 2.76 |
+| Def Rating Adj | 1.63 |
+| On/Off Diff | 5.43 |
+| TS% | 57.9% |
+| 3P% | 38.4% |
 | Influence Score | 0.10 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, perimeter-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MIA | 50.9 | $3911520 | 6.50 | 4.29 | 2.54 | 8.44 |
+| 2023-24 | MIA | 40.4 | $3911520 | 5.94 | 2.76 | 1.63 | 5.43 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (1.12, -0.96)
+- **Cluster:** 3
+- **PCA Position:** (0.97, -1.13)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Joe Ingles"
 season: "2022-23"
 team: "MIL"
 archetype: "Bench / Role Player"
-composite_score: 37.15
+composite_score: 27.35
 salary: 1836802
-vorpd: 6.37
-off_rating_adj: 2.32
-def_rating_adj: -2.86
-on_off_diff: -2.24
+vorpd: 5.70
+off_rating_adj: 1.57
+def_rating_adj: -1.93
+on_off_diff: -1.50
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | MIL |
-| Composite Score | **37.1** / 100 |
+| Composite Score | **27.4** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 6.37 |
-| Off Rating Adj | 2.32 |
-| Def Rating Adj | -2.86 |
-| On/Off Diff | -2.24 |
-| TS% | 60.1% |
-| 3P% | 40.9% |
+| VORPD | 5.70 |
+| Off Rating Adj | 1.57 |
+| Def Rating Adj | -1.93 |
+| On/Off Diff | -1.50 |
+| TS% | 59.5% |
+| 3P% | 38.6% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

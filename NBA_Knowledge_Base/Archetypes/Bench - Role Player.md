@@ -1,11 +1,11 @@
 ---
 archetype: "Bench / Role Player"
-player_count: 237
-avg_composite_score: 28.60
-avg_salary: 4276864
-avg_off_rating_adj: -3.53
-avg_def_rating_adj: -0.73
-avg_vorpd: 2.84
+player_count: 248
+avg_composite_score: 21.84
+avg_salary: 4334450
+avg_off_rating_adj: -1.78
+avg_def_rating_adj: -0.59
+avg_vorpd: 2.90
 tags: [archetype]
 ---
 # Bench / Role Player
@@ -16,27 +16,27 @@ tags: [archetype]
 
 | Metric | Value |
 |---|---|
-| Total Players | 237 |
-| Avg Composite Score | 28.6 |
-| Avg Salary | $4,276,864 |
-| Avg Off Rating Adj | -3.53 |
-| Avg Def Rating Adj | -0.73 |
-| Avg VORPD | 2.84 |
+| Total Players | 248 |
+| Avg Composite Score | 21.8 |
+| Avg Salary | $4,334,450 |
+| Avg Off Rating Adj | -1.78 |
+| Avg Def Rating Adj | -0.59 |
+| Avg VORPD | 2.90 |
 
 ## Top 10 Players by Composite Score
 
 | Player | Score | Salary | Team |
 |---|---|---|---|
-| [[Players/Ricky Rubio|Ricky Rubio]] | 50.0 | $1,017,781 | CLE |
-| [[Players/Kyle Anderson|Kyle Anderson]] | 45.1 | $8,112,243 | MIN |
-| [[Players/Duane Washington Jr.|Duane Washington Jr.]] | 44.6 | $1,017,781 | NYK |
-| [[Players/Blake Wesley|Blake Wesley]] | 43.4 | $4,965,916 | SAS |
-| [[Players/Lou Williams|Lou Williams]] | 42.8 | $925,258 | ATL |
-| [[Players/Nemanja Bjelica|Nemanja Bjelica]] | 42.2 | $925,258 | GSW |
-| [[Players/Kyle Lowry|Kyle Lowry]] | 41.7 | $2,020,490 | PHI |
-| [[Players/Rajon Rondo|Rajon Rondo]] | 41.3 | $925,258 | CLE |
-| [[Players/Evan Fournier|Evan Fournier]] | 41.2 | $17,000,000 | DET |
-| [[Players/Ayo Dosunmu|Ayo Dosunmu]] | 40.6 | $6,615,539 | CHI |
+| [[Players/Ricky Rubio|Ricky Rubio]] | 41.2 | $1,017,781 | CLE |
+| [[Players/Tyler Herro|Tyler Herro]] | 40.5 | $27,276,880 | MIA |
+| [[Players/Austin Reaves|Austin Reaves]] | 36.4 | $12,263,662 | LAL |
+| [[Players/Duane Washington Jr.|Duane Washington Jr.]] | 36.1 | $1,017,781 | NYK |
+| [[Players/Kyle Anderson|Kyle Anderson]] | 35.7 | $8,112,243 | MIN |
+| [[Players/Evan Fournier|Evan Fournier]] | 35.7 | $17,000,000 | DET |
+| [[Players/Lou Williams|Lou Williams]] | 34.9 | $925,258 | ATL |
+| [[Players/Blake Wesley|Blake Wesley]] | 33.7 | $4,965,916 | SAS |
+| [[Players/Bones Hyland|Bones Hyland]] | 33.5 | $2,020,490 | LAC |
+| [[Players/Trey Burke|Trey Burke]] | 33.4 | $925,258 | DAL |
 
 ## All Players (Dataview)
 

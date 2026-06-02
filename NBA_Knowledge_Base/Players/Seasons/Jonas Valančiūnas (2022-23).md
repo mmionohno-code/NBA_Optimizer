@@ -4,12 +4,12 @@ player: "Jonas Valančiūnas"
 season: "2022-23"
 team: "NOP"
 archetype: "Bench / Role Player"
-composite_score: 31.33
+composite_score: 22.47
 salary: 8315018
-vorpd: 0.71
-off_rating_adj: 1.04
-def_rating_adj: -3.07
-on_off_diff: -5.83
+vorpd: 0.67
+off_rating_adj: 0.83
+def_rating_adj: -2.45
+on_off_diff: -4.64
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | NOP |
-| Composite Score | **31.3** / 100 |
+| Composite Score | **22.5** / 100 |
 | Salary | $8,315,018 |
-| VORPD | 0.71 |
-| Off Rating Adj | 1.04 |
-| Def Rating Adj | -3.07 |
-| On/Off Diff | -5.83 |
-| TS% | 60.5% |
-| 3P% | 34.9% |
+| VORPD | 0.67 |
+| Off Rating Adj | 0.83 |
+| Def Rating Adj | -2.45 |
+| On/Off Diff | -4.64 |
+| TS% | 60.1% |
+| 3P% | 36.2% |
 | Influence Score | 0.14 |
 | Season Weight | 0.35 |
 

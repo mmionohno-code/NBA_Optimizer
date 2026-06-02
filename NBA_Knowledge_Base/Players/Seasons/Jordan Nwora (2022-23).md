@@ -4,12 +4,12 @@ player: "Jordan Nwora"
 season: "2022-23"
 team: "IND"
 archetype: "Bench / Role Player"
-composite_score: 19.84
+composite_score: 9.51
 salary: 1017781
 vorpd: 0.00
-off_rating_adj: -4.77
-def_rating_adj: -1.98
-on_off_diff: -11.50
+off_rating_adj: -3.36
+def_rating_adj: -1.39
+on_off_diff: -8.09
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | IND |
-| Composite Score | **19.8** / 100 |
+| Composite Score | **9.5** / 100 |
 | Salary | $1,017,781 |
 | VORPD | 0.00 |
-| Off Rating Adj | -4.77 |
-| Def Rating Adj | -1.98 |
-| On/Off Diff | -11.50 |
-| TS% | 56.5% |
-| 3P% | 40.8% |
+| Off Rating Adj | -3.36 |
+| Def Rating Adj | -1.39 |
+| On/Off Diff | -8.09 |
+| TS% | 56.7% |
+| 3P% | 38.6% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Nikola Vučević"
 season: "2023-24"
 team: "CHI"
 archetype: "Versatile Scorer"
-composite_score: 44.36
+composite_score: 39.64
 salary: 18901541
-vorpd: 1.00
-off_rating_adj: 0.77
-def_rating_adj: -2.08
-on_off_diff: -3.89
+vorpd: 1.19
+off_rating_adj: 0.65
+def_rating_adj: -1.74
+on_off_diff: -3.25
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | CHI |
-| Composite Score | **44.4** / 100 |
+| Composite Score | **39.6** / 100 |
 | Salary | $18,901,541 |
-| VORPD | 1.00 |
-| Off Rating Adj | 0.77 |
-| Def Rating Adj | -2.08 |
-| On/Off Diff | -3.89 |
-| TS% | 54.4% |
-| 3P% | 29.4% |
+| VORPD | 1.19 |
+| Off Rating Adj | 0.65 |
+| Def Rating Adj | -1.74 |
+| On/Off Diff | -3.25 |
+| TS% | 54.7% |
+| 3P% | 33.1% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

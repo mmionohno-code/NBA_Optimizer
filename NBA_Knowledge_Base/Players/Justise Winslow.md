@@ -3,12 +3,12 @@ player: "Justise Winslow"
 team: "POR"
 season: "2022-23"
 archetype: "Defensive Wing"
-composite_score: 51.64
+composite_score: 42.29
 salary: 1017781
-vorpd: 25.73
-off_rating_adj: -1.56
-def_rating_adj: 4.01
-on_off_diff: 2.81
+vorpd: 24.96
+off_rating_adj: -0.95
+def_rating_adj: 2.44
+on_off_diff: 1.72
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,29 +20,29 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **51.6** / 100 |
+| Composite Score | **42.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 25.73 |
-| Off Rating Adj | -1.56 |
-| Def Rating Adj | 4.01 |
-| On/Off Diff | 2.81 |
-| TS% | 51.4% |
-| 3P% | 31.1% |
+| VORPD | 24.96 |
+| Off Rating Adj | -0.95 |
+| Def Rating Adj | 2.44 |
+| On/Off Diff | 1.72 |
+| TS% | 53.0% |
+| 3P% | 35.9% |
 | Influence Score | 0.07 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-8.3 pts over 2 seasons)
+> **Trend:** Trending DOWN (-9.1 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | POR | 51.6 | $1017781 | 25.73 | -1.56 | 4.01 | 2.81 |
-| 2021-22 | POR | 59.9 | $925258 | 37.26 | 2.89 | 8.38 | 6.86 |
+| 2022-23 | POR | 42.3 | $1017781 | 24.96 | -0.95 | 2.44 | 1.72 |
+| 2021-22 | POR | 51.4 | $925258 | 33.36 | 1.75 | 5.09 | 4.17 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.63, 0.93)
+- **Cluster:** 2
+- **PCA Position:** (-0.52, 0.68)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

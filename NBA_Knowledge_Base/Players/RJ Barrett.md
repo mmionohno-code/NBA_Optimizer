@@ -3,12 +3,12 @@ player: "RJ Barrett"
 team: "TOR"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 48.55
+composite_score: 41.53
 salary: 24377925
-vorpd: 0.95
-off_rating_adj: 4.16
-def_rating_adj: -0.07
-on_off_diff: -1.37
+vorpd: 1.00
+off_rating_adj: 3.27
+def_rating_adj: -0.06
+on_off_diff: -1.07
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **48.5** / 100 |
+| Composite Score | **41.5** / 100 |
 | Salary | $24,377,925 |
-| VORPD | 0.95 |
-| Off Rating Adj | 4.16 |
-| Def Rating Adj | -0.07 |
-| On/Off Diff | -1.37 |
+| VORPD | 1.00 |
+| Off Rating Adj | 3.27 |
+| Def Rating Adj | -0.06 |
+| On/Off Diff | -1.07 |
 | TS% | 57.9% |
-| 3P% | 36.0% |
+| 3P% | 36.7% |
 | Influence Score | 0.15 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+9.6 pts over 3 seasons)
+> **Trend:** Trending UP (+9.1 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | TOR | 48.5 | $24377925 | 0.95 | 4.16 | -0.07 | -1.37 |
-| 2022-23 | NYK | 33.3 | $22161669 | 0.36 | 2.33 | -4.33 | -10.61 |
-| 2021-22 | NYK | 39.0 | $20147037 | 0.67 | 0.57 | -3.28 | -8.18 |
+| 2023-24 | TOR | 41.5 | $24377925 | 1.00 | 3.27 | -0.06 | -1.07 |
+| 2022-23 | NYK | 27.6 | $22161669 | 0.48 | 1.94 | -3.60 | -8.81 |
+| 2021-22 | NYK | 32.4 | $20147037 | 0.59 | 0.47 | -2.72 | -6.77 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.87, 0.17)
+- **Cluster:** 3
+- **PCA Position:** (0.92, 0.13)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

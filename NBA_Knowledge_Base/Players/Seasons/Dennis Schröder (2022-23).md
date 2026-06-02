@@ -4,12 +4,12 @@ player: "Dennis Schröder"
 season: "2022-23"
 team: "LAL"
 archetype: "Versatile Scorer"
-composite_score: 55.76
+composite_score: 50.99
 salary: 11281868
-vorpd: 2.69
-off_rating_adj: 2.56
+vorpd: 3.02
+off_rating_adj: 2.05
 def_rating_adj: 0.03
-on_off_diff: 4.85
+on_off_diff: 3.89
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | LAL |
-| Composite Score | **55.8** / 100 |
+| Composite Score | **51.0** / 100 |
 | Salary | $11,281,868 |
-| VORPD | 2.69 |
-| Off Rating Adj | 2.56 |
+| VORPD | 3.02 |
+| Off Rating Adj | 2.05 |
 | Def Rating Adj | 0.03 |
-| On/Off Diff | 4.85 |
-| TS% | 55.1% |
-| 3P% | 32.9% |
+| On/Off Diff | 3.89 |
+| TS% | 55.4% |
+| 3P% | 35.0% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

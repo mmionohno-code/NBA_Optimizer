@@ -3,12 +3,12 @@ player: "Derrick Favors"
 team: "OKC"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 26.24
+composite_score: 19.45
 salary: 925258
-vorpd: 0.85
-off_rating_adj: -7.15
-def_rating_adj: 3.25
-on_off_diff: -2.41
+vorpd: 0.00
+off_rating_adj: -4.04
+def_rating_adj: 1.84
+on_off_diff: -1.36
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **26.2** / 100 |
+| Composite Score | **19.4** / 100 |
 | Salary | $925,258 |
-| VORPD | 0.85 |
-| Off Rating Adj | -7.15 |
-| Def Rating Adj | 3.25 |
-| On/Off Diff | -2.41 |
-| TS% | 54.7% |
-| 3P% | 34.1% |
+| VORPD | 0.00 |
+| Off Rating Adj | -4.04 |
+| Def Rating Adj | 1.84 |
+| On/Off Diff | -1.36 |
+| TS% | 55.1% |
+| 3P% | 35.7% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | OKC | 26.2 | $925258 | 0.85 | -7.15 | 3.25 | -2.41 |
+| 2021-22 | OKC | 19.4 | $925258 | 0.00 | -4.04 | 1.84 | -1.36 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.38, -0.48)
+- **Cluster:** 5
+- **PCA Position:** (-2.35, -0.26)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

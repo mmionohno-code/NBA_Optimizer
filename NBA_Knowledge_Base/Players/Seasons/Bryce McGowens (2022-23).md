@@ -4,12 +4,12 @@ player: "Bryce McGowens"
 season: "2022-23"
 team: "CHA"
 archetype: "Bench / Role Player"
-composite_score: 26.83
+composite_score: 19.38
 salary: 1017781
-vorpd: 1.35
-off_rating_adj: -3.95
-def_rating_adj: -0.21
-on_off_diff: -3.01
+vorpd: 2.45
+off_rating_adj: -2.41
+def_rating_adj: -0.13
+on_off_diff: -1.84
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | CHA |
-| Composite Score | **26.8** / 100 |
+| Composite Score | **19.4** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 1.35 |
-| Off Rating Adj | -3.95 |
-| Def Rating Adj | -0.21 |
-| On/Off Diff | -3.01 |
-| TS% | 54.3% |
-| 3P% | 32.5% |
+| VORPD | 2.45 |
+| Off Rating Adj | -2.41 |
+| Def Rating Adj | -0.13 |
+| On/Off Diff | -1.84 |
+| TS% | 55.2% |
+| 3P% | 35.8% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

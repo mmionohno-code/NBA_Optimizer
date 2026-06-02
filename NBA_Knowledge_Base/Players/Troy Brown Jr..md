@@ -3,12 +3,12 @@ player: "Troy Brown Jr."
 team: "DET"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 30.75
+composite_score: 23.11
 salary: 2800000
-vorpd: 1.89
-off_rating_adj: -0.11
-def_rating_adj: 0.95
-on_off_diff: -5.09
+vorpd: 2.14
+off_rating_adj: -0.07
+def_rating_adj: 0.59
+on_off_diff: -3.17
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **30.8** / 100 |
+| Composite Score | **23.1** / 100 |
 | Salary | $2,800,000 |
-| VORPD | 1.89 |
-| Off Rating Adj | -0.11 |
-| Def Rating Adj | 0.95 |
-| On/Off Diff | -5.09 |
-| TS% | 53.6% |
-| 3P% | 33.3% |
-| Influence Score | 0.07 |
+| VORPD | 2.14 |
+| Off Rating Adj | -0.07 |
+| Def Rating Adj | 0.59 |
+| On/Off Diff | -3.17 |
+| TS% | 54.6% |
+| 3P% | 36.0% |
+| Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Stable (-0.2 pts over 3 seasons)
+> **Trend:** Stable (-0.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DET | 30.8 | $2800000 | 1.89 | -0.11 | 0.95 | -5.09 |
-| 2022-23 | LAL | 35.6 | $1017781 | 9.99 | -0.44 | -0.27 | -0.24 |
-| 2021-22 | CHI | 30.9 | $925258 | 5.94 | -1.57 | -1.33 | -1.35 |
+| 2023-24 | DET | 23.1 | $2800000 | 2.14 | -0.07 | 0.59 | -3.17 |
+| 2022-23 | LAL | 25.9 | $1017781 | 8.90 | -0.35 | -0.21 | -0.18 |
+| 2021-22 | CHI | 23.4 | $925258 | 3.08 | -1.06 | -0.90 | -0.90 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.80, 0.07)
+- **Cluster:** 5
+- **PCA Position:** (-1.77, 0.09)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

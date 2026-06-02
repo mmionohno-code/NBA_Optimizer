@@ -4,12 +4,12 @@ player: "Ziaire Williams"
 season: "2023-24"
 team: "MEM"
 archetype: "Bench / Role Player"
-composite_score: 34.03
+composite_score: 27.63
 salary: 5499371
-vorpd: 1.56
-off_rating_adj: -3.64
-def_rating_adj: -0.70
-on_off_diff: -4.38
+vorpd: 1.91
+off_rating_adj: -2.46
+def_rating_adj: -0.47
+on_off_diff: -2.95
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | MEM |
-| Composite Score | **34.0** / 100 |
+| Composite Score | **27.6** / 100 |
 | Salary | $5,499,371 |
-| VORPD | 1.56 |
-| Off Rating Adj | -3.64 |
-| Def Rating Adj | -0.70 |
-| On/Off Diff | -4.38 |
-| TS% | 52.9% |
-| 3P% | 30.7% |
+| VORPD | 1.91 |
+| Off Rating Adj | -2.46 |
+| Def Rating Adj | -0.47 |
+| On/Off Diff | -2.95 |
+| TS% | 53.8% |
+| 3P% | 34.6% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

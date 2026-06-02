@@ -4,12 +4,12 @@ player: "Amen Thompson"
 season: "2023-24"
 team: "HOU"
 archetype: "Versatile Scorer"
-composite_score: 56.67
+composite_score: 48.52
 salary: 8526753
-vorpd: 3.66
-off_rating_adj: -0.90
-def_rating_adj: 0.75
-on_off_diff: 1.09
+vorpd: 3.68
+off_rating_adj: -0.66
+def_rating_adj: 0.55
+on_off_diff: 0.81
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | HOU |
-| Composite Score | **56.7** / 100 |
+| Composite Score | **48.5** / 100 |
 | Salary | $8,526,753 |
-| VORPD | 3.66 |
-| Off Rating Adj | -0.90 |
-| Def Rating Adj | 0.75 |
-| On/Off Diff | 1.09 |
+| VORPD | 3.68 |
+| Off Rating Adj | -0.66 |
+| Def Rating Adj | 0.55 |
+| On/Off Diff | 0.81 |
 | TS% | 57.6% |
-| 3P% | 13.8% |
+| 3P% | 33.3% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

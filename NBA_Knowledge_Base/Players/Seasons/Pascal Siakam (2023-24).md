@@ -4,12 +4,12 @@ player: "Pascal Siakam"
 season: "2023-24"
 team: "IND"
 archetype: "Perimeter Scorer"
-composite_score: 54.53
+composite_score: 47.93
 salary: 40079866
-vorpd: 0.73
-off_rating_adj: -0.22
-def_rating_adj: 0.52
-on_off_diff: 5.05
+vorpd: 0.77
+off_rating_adj: -0.19
+def_rating_adj: 0.44
+on_off_diff: 4.26
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | IND |
-| Composite Score | **54.5** / 100 |
+| Composite Score | **47.9** / 100 |
 | Salary | $40,079,866 |
-| VORPD | 0.73 |
-| Off Rating Adj | -0.22 |
-| Def Rating Adj | 0.52 |
-| On/Off Diff | 5.05 |
-| TS% | 59.8% |
-| 3P% | 34.6% |
+| VORPD | 0.77 |
+| Off Rating Adj | -0.19 |
+| Def Rating Adj | 0.44 |
+| On/Off Diff | 4.26 |
+| TS% | 59.6% |
+| 3P% | 36.0% |
 | Influence Score | 0.15 |
 | Season Weight | 0.45 |
 

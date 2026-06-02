@@ -4,12 +4,12 @@ player: "Kelly Oubre Jr."
 season: "2023-24"
 team: "PHI"
 archetype: "Versatile Scorer"
-composite_score: 39.43
+composite_score: 32.87
 salary: 7375448
-vorpd: 1.89
-off_rating_adj: 0.07
-def_rating_adj: -2.83
-on_off_diff: -7.79
+vorpd: 2.13
+off_rating_adj: 0.06
+def_rating_adj: -2.27
+on_off_diff: -6.25
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | PHI |
-| Composite Score | **39.4** / 100 |
+| Composite Score | **32.9** / 100 |
 | Salary | $7,375,448 |
-| VORPD | 1.89 |
-| Off Rating Adj | 0.07 |
-| Def Rating Adj | -2.83 |
-| On/Off Diff | -7.79 |
-| TS% | 54.1% |
-| 3P% | 31.1% |
+| VORPD | 2.13 |
+| Off Rating Adj | 0.06 |
+| Def Rating Adj | -2.27 |
+| On/Off Diff | -6.25 |
+| TS% | 54.5% |
+| 3P% | 33.9% |
 | Influence Score | 0.12 |
 | Season Weight | 0.45 |
 

@@ -3,12 +3,12 @@ player: "McKinley Wright IV"
 team: "DAL"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 19.08
+composite_score: 16.90
 salary: 1017781
-vorpd: 0.00
-off_rating_adj: -10.49
-def_rating_adj: -3.58
-on_off_diff: -15.52
+vorpd: 0.02
+off_rating_adj: -4.21
+def_rating_adj: -1.44
+on_off_diff: -6.22
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **19.1** / 100 |
+| Composite Score | **16.9** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 0.00 |
-| Off Rating Adj | -10.49 |
-| Def Rating Adj | -3.58 |
-| On/Off Diff | -15.52 |
-| TS% | 56.0% |
-| 3P% | 32.1% |
+| VORPD | 0.02 |
+| Off Rating Adj | -4.21 |
+| Def Rating Adj | -1.44 |
+| On/Off Diff | -6.22 |
+| TS% | 56.6% |
+| 3P% | 36.3% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | DAL | 19.1 | $1017781 | 0.00 | -10.49 | -3.58 | -15.52 |
+| 2022-23 | DAL | 16.9 | $1017781 | 0.02 | -4.21 | -1.44 | -6.22 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-3.20, 1.74)
+- **Cluster:** 5
+- **PCA Position:** (-2.28, 0.75)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

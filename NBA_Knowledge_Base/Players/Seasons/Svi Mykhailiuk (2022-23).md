@@ -4,12 +4,12 @@ player: "Svi Mykhailiuk"
 season: "2022-23"
 team: "CHA"
 archetype: "Perimeter Scorer"
-composite_score: 50.51
+composite_score: 37.70
 salary: 2939653
-vorpd: 8.52
-off_rating_adj: 3.05
-def_rating_adj: 3.59
-on_off_diff: 4.90
+vorpd: 7.08
+off_rating_adj: 1.47
+def_rating_adj: 1.74
+on_off_diff: 2.37
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | CHA |
-| Composite Score | **50.5** / 100 |
+| Composite Score | **37.7** / 100 |
 | Salary | $2,939,653 |
-| VORPD | 8.52 |
-| Off Rating Adj | 3.05 |
-| Def Rating Adj | 3.59 |
-| On/Off Diff | 4.90 |
-| TS% | 58.0% |
-| 3P% | 42.4% |
+| VORPD | 7.08 |
+| Off Rating Adj | 1.47 |
+| Def Rating Adj | 1.74 |
+| On/Off Diff | 2.37 |
+| TS% | 57.9% |
+| 3P% | 38.3% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

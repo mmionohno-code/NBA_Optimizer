@@ -1,11 +1,11 @@
 ---
 archetype: "Versatile Scorer"
-player_count: 68
-avg_composite_score: 49.01
-avg_salary: 11752812
-avg_off_rating_adj: 0.44
-avg_def_rating_adj: -1.59
-avg_vorpd: 6.20
+player_count: 55
+avg_composite_score: 43.44
+avg_salary: 11339654
+avg_off_rating_adj: 0.48
+avg_def_rating_adj: -1.01
+avg_vorpd: 7.32
 tags: [archetype]
 ---
 # Versatile Scorer
@@ -16,27 +16,27 @@ tags: [archetype]
 
 | Metric | Value |
 |---|---|
-| Total Players | 68 |
-| Avg Composite Score | 49.0 |
-| Avg Salary | $11,752,812 |
-| Avg Off Rating Adj | 0.44 |
-| Avg Def Rating Adj | -1.59 |
-| Avg VORPD | 6.20 |
+| Total Players | 55 |
+| Avg Composite Score | 43.4 |
+| Avg Salary | $11,339,654 |
+| Avg Off Rating Adj | 0.48 |
+| Avg Def Rating Adj | -1.01 |
+| Avg VORPD | 7.32 |
 
 ## Top 10 Players by Composite Score
 
 | Player | Score | Salary | Team |
 |---|---|---|---|
-| [[Players/Russell Westbrook|Russell Westbrook]] | 65.4 | $2,020,490 | LAC |
-| [[Players/Darius Garland|Darius Garland]] | 61.8 | $34,708,589 | CLE |
-| [[Players/Franz Wagner|Franz Wagner]] | 61.7 | $34,018,448 | ORL |
-| [[Players/Ben Simmons|Ben Simmons]] | 61.6 | $1,017,781 | BKN |
-| [[Players/Chris Paul|Chris Paul]] | 60.0 | $2,020,490 | GSW |
-| [[Players/Caris LeVert|Caris LeVert]] | 59.0 | $12,410,100 | CLE |
-| [[Players/Julius Randle|Julius Randle]] | 58.1 | $27,157,388 | NYK |
-| [[Players/Tre Mann|Tre Mann]] | 58.1 | $7,039,195 | CHA |
-| [[Players/Vasilije Micic|Vasilije Micic]] | 57.5 | $2,000,000 | CHA |
-| [[Players/Talen Horton-Tucker|Talen Horton-Tucker]] | 57.2 | $10,960,000 | UTA |
+| [[Players/Russell Westbrook|Russell Westbrook]] | 60.9 | $2,020,490 | LAC |
+| [[Players/Franz Wagner|Franz Wagner]] | 59.0 | $34,018,448 | ORL |
+| [[Players/Caris LeVert|Caris LeVert]] | 54.5 | $12,410,100 | CLE |
+| [[Players/Julius Randle|Julius Randle]] | 54.0 | $27,157,388 | NYK |
+| [[Players/Ben Simmons|Ben Simmons]] | 53.3 | $1,017,781 | BKN |
+| [[Players/Vasilije Micic|Vasilije Micic]] | 51.8 | $2,000,000 | CHA |
+| [[Players/Chris Paul|Chris Paul]] | 51.7 | $2,020,490 | GSW |
+| [[Players/Josh Giddey|Josh Giddey]] | 51.5 | $21,997,484 | OKC |
+| [[Players/Dennis Schröder|Dennis Schröder]] | 51.0 | $12,410,100 | BKN |
+| [[Players/Victor Oladipo|Victor Oladipo]] | 50.8 | $1,017,781 | MIA |
 
 ## All Players (Dataview)
 

@@ -27,7 +27,26 @@ df_onoff = pd.read_csv('nba_onoff.csv')[['PLAYER_ID', 'SEASON', 'ON_OFF_DIFF']]
 df = df.merge(df_onoff, on=['PLAYER_ID', 'SEASON'], how='left')
 matched = df['ON_OFF_DIFF'].notna().sum()
 print(f"ON_OFF_DIFF merged: {matched} of {len(df)} player-seasons matched")
-print(f"Unmatched (will be excluded from PCA): {len(df) - matched}")
+
+# Impute missing ON_OFF_DIFF with the per-season mean so no players are dropped.
+# MIA 2021-22 and 2022-23 are absent from nba_onoff.csv — the entire roster is
+# missing for those two seasons. Treating them as league-average lineup impact
+# (season mean ≈ 0 after residualization) is far better than silently excluding
+# Bam Adebayo, Jimmy Butler, Tyler Herro, etc. from the model entirely.
+missing_mask = df['ON_OFF_DIFF'].isna()
+if missing_mask.any():
+    for season in df['SEASON'].unique():
+        season_mask = df['SEASON'] == season
+        season_mean = df.loc[season_mask & ~missing_mask, 'ON_OFF_DIFF'].mean()
+        fill_mask = season_mask & missing_mask
+        if fill_mask.any():
+            affected = df.loc[fill_mask, ['PLAYER_NAME', 'TEAM_ABBREVIATION']].drop_duplicates()
+            print(f"  ON_OFF_DIFF imputed ({season}, mean={season_mean:.2f}) "
+                  f"for {fill_mask.sum()} missing players:")
+            for _, r in affected.iterrows():
+                print(f"    {r['PLAYER_NAME']} ({r['TEAM_ABBREVIATION']})")
+            df.loc[fill_mask, 'ON_OFF_DIFF'] = season_mean
+print(f"Unmatched player-seasons imputed: {missing_mask.sum()} (set to season mean)")
 
 # ============================================================
 # STEP 1 — TEAM CONTEXT ADJUSTMENTS
@@ -90,7 +109,7 @@ df['PLUS_MINUS_ADJUSTED'] = df['PLUS_MINUS'] - pm_team_avg
 # FIX: Bayesian shrinkage pulls every player's TS% toward the
 # league mean proportionally to their shot volume.
 # Formula: TS_ADJ = (FGA × TS + PRIOR × LEAGUE_AVG) / (FGA + PRIOR)
-# where PRIOR = 150 shots (~2/game for a full season).
+# where PRIOR = 275 shots (~3.4/game for a full season).
 #
 # Effect:
 #   Player with 800 FGA: TS_ADJ ≈ actual TS%  (barely changes)
@@ -102,7 +121,7 @@ print("\n" + "=" * 40)
 print("STEP 2: Bayesian TS_PCT Shrinkage (volume-weighted)")
 print("=" * 40)
 
-PRIOR_WEIGHT = 150   # equivalent shots of prior information
+PRIOR_WEIGHT = 275   # equivalent shots of prior information
 
 df['TOTAL_FGA'] = df['GP'] * df['FGA']
 
@@ -156,6 +175,77 @@ print("=" * 40)
 # Optimizer uses IS_SHOOTER (not FG3_PCT) to enforce shooter constraints.
 df['IS_SHOOTER'] = (df['FG3A'] >= 0.5).astype(int)
 
+# ============================================================
+# STEP 2B - BAYESIAN FG3_PCT SHRINKAGE (volume-weighted)
+#
+# PROBLEM: The non-shooter neutralization below handles bigs who
+# never shoot threes, but flagged shooters (IS_SHOOTER=1) keep
+# their raw FG3% regardless of sample size. Example: Gary Payton
+# II 2022-23 - 22 GP * 1.2 3PA/g = ~26 attempts, went 50% by
+# chance, leaving an inflated 0.500 in the data.
+#
+# FIX: Mirror the TS% Bayesian shrinkage above for FG3%.
+# Formula: FG3_ADJ = (TOTAL_3PA * FG3% + PRIOR * LEAGUE_AVG) /
+#                   (TOTAL_3PA + PRIOR), PRIOR = 260 attempts.
+#
+# PRIOR STRENGTH (MSE-derived): 260 comes from season-to-season
+# cross-validation — for each candidate K, shrink a player's
+# season-t FG3% and measure how well it predicts season-t+1; the K
+# that minimizes out-of-sample squared error is ~260 3PA. This
+# nearly matches TS%'s MSE-optimal prior (~260 FGA), which is the
+# expected result: both are shooting percentages with similar
+# shot-to-shot variance, so they stabilize at a similar attempt
+# count. (The earlier value 82 was the NBA's 82-GAME leaderboard
+# QUALIFICATION rule — a different concept from a shrinkage prior —
+# so it was replaced once MSE produced a data-driven number.)
+#
+# QUALIFICATION (separate knob, unchanged): the LEAGUE AVERAGE
+# baseline is still computed only from players who made >= 1 three
+# per game played (TOTAL_FG3M >= GP). That cleans the baseline mu
+# so non-shooters don't pollute it — it is NOT the shrinkage
+# strength. It matches the NBA's official 3PT leaders qualification.
+# ============================================================
+
+print("\n" + "=" * 40)
+print("STEP 2B: Bayesian FG3_PCT Shrinkage (NBA-qualified league avg)")
+print("=" * 40)
+
+PRIOR_3PA = 260   # MSE-derived (season-to-season CV); ~matches TS% prior (~260)
+
+df['TOTAL_FG3A'] = df['GP'] * df['FG3A']
+df['TOTAL_FG3M'] = df['GP'] * df['FG3M']   # made threes — NBA qualification uses this
+
+for season in df['SEASON'].unique():
+    season_mask = df['SEASON'] == season
+    # NBA standard: >= 1 made three per game played (pro-rated for partial seasons)
+    reliable_shooter_mask = (
+        season_mask & (df['IS_SHOOTER'] == 1) &
+        (df['TOTAL_FG3M'] >= df['GP'])
+    )
+    league_avg_fg3 = df.loc[reliable_shooter_mask, 'FG3_PCT'].dropna().mean()
+    if pd.isna(league_avg_fg3):
+        print(f"  {season}: no reliable FG3% - skipping")
+        continue
+    shooter_season_mask = season_mask & (df['IS_SHOOTER'] == 1)
+    total_3pa = df.loc[shooter_season_mask, 'TOTAL_FG3A'].fillna(0)
+    raw_fg3 = df.loc[shooter_season_mask, 'FG3_PCT'].fillna(league_avg_fg3)
+    df.loc[shooter_season_mask, 'FG3_PCT'] = (
+        (total_3pa * raw_fg3 + PRIOR_3PA * league_avg_fg3) /
+        (total_3pa + PRIOR_3PA)
+    )
+    low_mask = shooter_season_mask & (df['TOTAL_FG3A'] < 75)
+    if low_mask.any():
+        shifted = (
+            df.loc[low_mask, 'FG3_PCT'] - raw_fg3.loc[low_mask].values
+        ).abs().mean()
+        print(f"  {season}: league avg FG3% = {league_avg_fg3:.3f}  |  "
+              f"low-vol shooters shrunk (n={low_mask.sum()}, "
+              f"avg shift = {shifted:.3f})")
+    else:
+        print(f"  {season}: league avg FG3% = {league_avg_fg3:.3f}")
+
+print(f"\nFG3_PCT NaN count after Bayesian shrinkage: {df['FG3_PCT'].isna().sum()}")
+
 for season in df['SEASON'].unique():
     mask = df['SEASON'] == season
     # Only neutralize if they essentially never attempt 3s
@@ -169,7 +259,7 @@ for season in df['SEASON'].unique():
               f"→ set to league avg FG3% = {league_avg_fg3:.3f}")
 
 # ============================================================
-# STEP 2B — W_PCT RESIDUALIZATION OF TEAM-CONTEXT STATS
+# STEP 2C — W_PCT RESIDUALIZATION OF TEAM-CONTEXT STATS
 #
 # PROBLEM IDENTIFIED (audit findings):
 #   W_PCT vs OFF_RATING_ADJUSTED: r = 0.181
@@ -198,7 +288,7 @@ for season in df['SEASON'].unique():
 # ============================================================
 
 print("\n" + "=" * 40)
-print("STEP 2B: W_PCT Residualization of Team-Context Stats")
+print("STEP 2C: W_PCT Residualization of Team-Context Stats")
 print("=" * 40)
 
 from numpy.linalg import lstsq
@@ -241,6 +331,77 @@ print("  Wembanyama: ON_OFF_DIFF residual RISES (good player on bad team)")
 print("  KCP/Exum:   ON_OFF_DIFF residual FALLS (role player on great team)")
 
 # ============================================================
+# STEP 2D — MINUTES-WEIGHTED BAYESIAN SHRINKAGE OF ADJUSTED STATS
+#
+# PROBLEM IDENTIFIED: Only TS% (Step 2) and FG3% (Step 2B) were
+# protected against small samples. The four adjusted / lineup stats
+# below went into PCA at FULL confidence regardless of how few
+# minutes backed them — a 20-game player was trusted exactly as much
+# as an 80-game player.
+#
+# ON_OFF_DIFF is the worst offender: it is a *difference of two noisy
+# team rates*, so a handful of hot/cold lineups over ~20 games can
+# swing it +/-10 — AND it is one of the heaviest weights in PC1, the
+# dominant axis of the composite score. Pre-fix symptom: LaMelo Ball
+# (22 GP) ranked #5 overall, above Mitchell, Brunson, Fox, Haliburton
+# (all 55-77 GP). That is small-sample noise wearing a high score, and
+# because it lives in PC1 it corrupts the whole pipeline downstream
+# (composite -> K-Means archetypes -> synergy -> optimizer rosters).
+#
+# FIX: the SAME Bayesian shrinkage used for TS%/FG3%, with two knobs
+# changed to suit these stats:
+#   counter  n_i      = total minutes played (GP * MIN)
+#   baseline mu_group = 0  (already centered on 0 by team-adjustment
+#                           in Step 1 / residualization in Step 2C)
+#   prior    KAPPA    = 500 minutes  (~14-20 games of evidence)
+#
+#   stat_adj = (n_i * stat + KAPPA * 0) / (n_i + KAPPA)
+#            = (n_i * stat) / (n_i + KAPPA)
+#
+# Effect: a full-season starter (~2,500 min) keeps ~84% of their value;
+# a 20-game player (~700 min) is pulled ~42% toward zero.
+#
+# DELIBERATELY NOT SHRUNK — BLK and STL:
+#   These are individually-attributable counting stats (you recorded
+#   the block/steal or you didn't). They do not manufacture fake skill
+#   the way a rate stat does (72% TS on 5 shots), and every available
+#   baseline distorts them: shrinking toward the LEAGUE mean punishes
+#   bigs for blocking and guards for stealing; shrinking toward a
+#   POSITION-GROUP mean misclassifies positionless players (LeBron,
+#   Draymond, Bam) who defy a single position. Leaving them raw is the
+#   least-distorting choice. Documented as a limitation.
+# ============================================================
+
+print("\n" + "=" * 40)
+print("STEP 2D: Minutes-Weighted Shrinkage of Adjusted Stats")
+print("=" * 40)
+
+KAPPA_MIN = 500   # prior strength, in total minutes
+
+df['TOTAL_MIN'] = df['GP'] * df['MIN']
+
+shrink_stats = ['ON_OFF_DIFF', 'OFF_RATING_ADJUSTED',
+                'DEF_RATING_ADJUSTED', 'AST_PCT_ADJUSTED']
+
+for stat in shrink_stats:
+    if stat not in df.columns:
+        print(f"  {stat}: column not found — skipping")
+        continue
+    raw = df[stat].copy()                       # pre-shrink values, for reporting
+    n   = df['TOTAL_MIN'].fillna(0)
+    # baseline mu = 0  ->  stat_adj = n * stat / (n + KAPPA)
+    df[stat] = (n * raw) / (n + KAPPA_MIN)
+    low_mask = df['TOTAL_MIN'] < 900            # ~ under 25-30 games
+    shift = (df.loc[low_mask, stat] - raw[low_mask]).abs().mean()
+    print(f"  {stat}: shrunk toward 0  (low-minute players n={int(low_mask.sum())}, "
+          f"avg |shift|={shift:.3f})")
+
+print(f"\nShrinkage prior KAPPA = {KAPPA_MIN} total minutes "
+      f"(player half-trusted at {KAPPA_MIN} min ≈ {KAPPA_MIN/30:.0f} games)")
+print("BLK and STL deliberately left raw (individually-attributable counting "
+      "stats; any baseline distorts them — see limitation note).")
+
+# ============================================================
 # INFLUENCE SCORE = USG_PCT x TS_PCT
 # Measures how much productive offensive work a player is
 # responsible for. High usage alone is not enough — the player
@@ -260,34 +421,57 @@ print("\n" + "=" * 40)
 print("STEP 3: Three-Framework Correlation Analysis")
 print("=" * 40)
 
-def safe_pearson(series_x, series_y):
-    """Run pearsonr only if enough valid rows exist."""
+def safe_pearson(series_x, series_y, w_series=None):
+    """Weighted Pearson r using SEASON_WEIGHT so recent seasons drive selection.
+    Falls back to equal weights when w_series is None."""
     df_tmp = pd.DataFrame({'x': series_x, 'y': series_y}).dropna()
     if len(df_tmp) < 10:
         return None, None
-    return pearsonr(df_tmp['x'], df_tmp['y'])
+    if w_series is not None:
+        w = w_series.reindex(df_tmp.index).fillna(w_series.mean()).values
+    else:
+        w = np.ones(len(df_tmp))
+    w = w / w.sum()
+    x, y = df_tmp['x'].values, df_tmp['y'].values
+    mx = np.dot(w, x);  my = np.dot(w, y)
+    cov = np.dot(w, (x - mx) * (y - my))
+    sx  = np.sqrt(np.dot(w, (x - mx) ** 2))
+    sy  = np.sqrt(np.dot(w, (y - my) ** 2))
+    if sx < 1e-10 or sy < 1e-10:
+        return 0.0, 1.0
+    r = float(np.clip(cov / (sx * sy), -1.0, 1.0))
+    if abs(r) >= 1.0:
+        return r, 0.0
+    from scipy.stats import t as t_dist
+    t_stat = r * np.sqrt(len(x) - 2) / np.sqrt(1 - r ** 2)
+    return r, float(2 * (1 - t_dist.cdf(abs(t_stat), df=len(x) - 2)))
+
+# All correlation tests use SEASON_WEIGHT so the same recency emphasis
+# that drives PCA fitting also drives which stats are selected.
+# This makes the entire pipeline — selection, scaling, and PCA — consistent.
+_sw = df['SEASON_WEIGHT']
 
 # Framework 1: Team-adjusted stats vs W_PCT
-print("\nFramework 1: Team-adjusted stats vs W_PCT")
+print("\nFramework 1: Team-adjusted stats vs W_PCT (season-weighted)")
 fw1_stats = ['OFF_RATING_ADJUSTED', 'DEF_RATING_ADJUSTED',
              'PIE_ADJUSTED', 'AST_PCT_ADJUSTED', 'DREB_PCT_ADJUSTED']
 fw1_results = {}
 for stat in fw1_stats:
-    corr, pval = safe_pearson(df[stat], df['W_PCT'])
+    corr, pval = safe_pearson(df[stat], df['W_PCT'], _sw)
     if corr is not None:
         fw1_results[stat] = {'pearson': corr, 'pval': pval, 'significant': pval < 0.05}
         sig = "SIGNIFICANT" if pval < 0.05 else "not significant"
         print(f"  {stat}: r={corr:.3f}, p={pval:.4f} — {sig}")
 
 # Framework 2: Individual stats vs W_PCT
-print("\nFramework 2: Individual stats vs W_PCT")
+print("\nFramework 2: Individual stats vs W_PCT (season-weighted)")
 fw2_stats = ['TS_PCT', 'STL', 'BLK', 'FG3_PCT', 'AST', 'REB', 'PTS', 'INFLUENCE_SCORE', 'ON_OFF_DIFF']
 fw2_results = {}
 for stat in fw2_stats:
     if stat not in df.columns:
         print(f"  {stat}: column not found — skipping")
         continue
-    corr, pval = safe_pearson(df[stat], df['W_PCT'])
+    corr, pval = safe_pearson(df[stat], df['W_PCT'], _sw)
     if corr is not None:
         fw2_results[stat] = {'pearson': corr, 'pval': pval, 'significant': pval < 0.05}
         sig = "SIGNIFICANT" if pval < 0.05 else "not significant"
@@ -296,7 +480,7 @@ for stat in fw2_stats:
         print(f"  {stat}: insufficient data")
 
 # Framework 3: Stats vs PLUS_MINUS_ADJUSTED
-print("\nFramework 3: Stats vs PLUS_MINUS_ADJUSTED")
+print("\nFramework 3: Stats vs PLUS_MINUS_ADJUSTED (season-weighted)")
 fw3_stats = ['OFF_RATING_ADJUSTED', 'DEF_RATING_ADJUSTED',
              'TS_PCT', 'PIE_ADJUSTED', 'AST_PCT_ADJUSTED',
              'DREB_PCT_ADJUSTED', 'STL', 'BLK', 'FG3_PCT', 'INFLUENCE_SCORE', 'ON_OFF_DIFF']
@@ -304,7 +488,7 @@ fw3_results = {}
 for stat in fw3_stats:
     if stat not in df.columns:
         continue
-    corr, pval = safe_pearson(df[stat], df['PLUS_MINUS_ADJUSTED'])
+    corr, pval = safe_pearson(df[stat], df['PLUS_MINUS_ADJUSTED'], _sw)
     if corr is not None:
         fw3_results[stat] = {'pearson': corr, 'pval': pval, 'significant': pval < 0.05}
         sig = "SIGNIFICANT" if pval < 0.05 else "not significant"
@@ -323,14 +507,21 @@ candidate_stats = ['OFF_RATING_ADJUSTED', 'DEF_RATING_ADJUSTED',
                    'DREB_PCT_ADJUSTED', 'STL', 'BLK', 'FG3_PCT', 'INFLUENCE_SCORE', 'ON_OFF_DIFF']
 
 spearman_results = {}
-print("\nSpearman correlations with PLUS_MINUS_ADJUSTED:")
+print("\nWeighted Spearman correlations with PLUS_MINUS_ADJUSTED:")
 for stat in candidate_stats:
     if stat not in df.columns:
         continue
-    tmp = df[[stat, 'PLUS_MINUS_ADJUSTED']].dropna()
-    if len(tmp) < 10:
+    # Weighted Spearman: apply weighted Pearson to ranks.
+    # Rank order is unweighted (ranks don't change), but the correlation
+    # between ranks is computed with SEASON_WEIGHT so recent seasons
+    # contribute more to the final rho.
+    corr, pval = safe_pearson(
+        df[stat].rank(),
+        df['PLUS_MINUS_ADJUSTED'].rank(),
+        _sw
+    )
+    if corr is None:
         continue
-    corr, pval = spearmanr(tmp[stat], tmp['PLUS_MINUS_ADJUSTED'])
     spearman_results[stat] = {'spearman': corr, 'pval': pval, 'significant': pval < 0.05}
     sig = "SIGNIFICANT" if pval < 0.05 else "not significant"
     print(f"  {stat}: rho={corr:.3f}, p={pval:.4f} — {sig}")
@@ -425,11 +616,32 @@ print("\n" + "=" * 40)
 print("STEP 7: PCA — Deriving Composite Score Weights")
 print("=" * 40)
 
+# SEASON_WEIGHT fix: StandardScaler and PCA have no sample_weight argument,
+# so we apply the weights manually.
+#   - Weighted mean and std → replaces StandardScaler
+#   - Multiply each row by sqrt(w) before fitting PCA → weighted covariance matrix
+# The transform step uses the same centering/scaling but NO weight multiplication,
+# so all 3 seasons are scored on the same scale derived from the weighted fit.
+weights   = df_pca_input['SEASON_WEIGHT'].values
+w_norm    = weights / weights.mean()   # normalize so mean weight = 1
+
+X_raw     = df_pca_input[final_stats].values
+w_mean    = np.average(X_raw, axis=0, weights=w_norm)
+w_var     = np.average((X_raw - w_mean) ** 2, axis=0, weights=w_norm)
+w_std     = np.sqrt(w_var)
+w_std[w_std == 0] = 1   # guard against zero-variance columns
+
+X_scaled  = (X_raw - w_mean) / w_std   # centered + scaled for ALL rows (transform)
+X_for_fit = X_scaled * np.sqrt(w_norm)[:, np.newaxis]   # weighted for FIT only
+
 scaler = StandardScaler()
-X_scaled = scaler.fit_transform(df_pca_input[final_stats])
+scaler.fit(df_pca_input[final_stats])   # kept for reference; actual scaling above
+# Override with weighted statistics so downstream code that calls scaler still works
+scaler.mean_ = w_mean
+scaler.scale_ = w_std
 
 pca = PCA()
-pca.fit(X_scaled)
+pca.fit(X_for_fit)
 
 explained = pca.explained_variance_ratio_
 print("\nVariance explained by each component:")
@@ -491,11 +703,24 @@ df_pca_input['COMPOSITE_SCORE_NORM'] = (
     (score_max - score_min) * 100
 ).round(2)
 
-replacement_level = df_pca_input['COMPOSITE_SCORE_NORM'].quantile(0.10)
-print(f"Replacement level (10th percentile): {replacement_level:.2f}")
-
-df_pca_input['VAR'] = (df_pca_input['COMPOSITE_SCORE_NORM'] - replacement_level).clip(lower=0)
-df_pca_input['VORPD'] = (df_pca_input['VAR'] / (df_pca_input['SALARY'] / 1_000_000)).round(4)
+# Per-season replacement levels: each season's VORPD is benchmarked against
+# that season's own replacement player (10th percentile of that year's pool).
+# This makes VORPD meaningful across seasons — a 2021-22 value reflects 2021-22
+# depth; a 2023-24 value reflects today's market. Cross-season comparison stays
+# valid because the baseline is always "could we have replaced this player that year."
+df_pca_input['VAR']   = 0.0
+df_pca_input['VORPD'] = 0.0
+for season in df_pca_input['SEASON'].unique():
+    s_mask = df_pca_input['SEASON'] == season
+    replacement_level = df_pca_input.loc[s_mask, 'COMPOSITE_SCORE_NORM'].quantile(0.10)
+    print(f"  Replacement level {season} (10th pct): {replacement_level:.2f}")
+    df_pca_input.loc[s_mask, 'VAR'] = (
+        (df_pca_input.loc[s_mask, 'COMPOSITE_SCORE_NORM'] - replacement_level).clip(lower=0)
+    )
+    df_pca_input.loc[s_mask, 'VORPD'] = (
+        df_pca_input.loc[s_mask, 'VAR'] /
+        (df_pca_input.loc[s_mask, 'SALARY'] / 1_000_000)
+    ).round(4)
 
 # ============================================================
 # STEP 9 — VALIDATION

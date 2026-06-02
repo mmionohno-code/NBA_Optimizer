@@ -4,12 +4,12 @@ player: "Herbert Jones"
 season: "2022-23"
 team: "NOP"
 archetype: "Perimeter Scorer"
-composite_score: 57.07
+composite_score: 51.31
 salary: 11148743
-vorpd: 2.84
-off_rating_adj: 4.04
-def_rating_adj: -1.37
-on_off_diff: 5.00
+vorpd: 3.09
+off_rating_adj: 3.22
+def_rating_adj: -1.09
+on_off_diff: 3.99
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | NOP |
-| Composite Score | **57.1** / 100 |
+| Composite Score | **51.3** / 100 |
 | Salary | $11,148,743 |
-| VORPD | 2.84 |
-| Off Rating Adj | 4.04 |
-| Def Rating Adj | -1.37 |
-| On/Off Diff | 5.00 |
-| TS% | 56.9% |
-| 3P% | 33.5% |
+| VORPD | 3.09 |
+| Off Rating Adj | 3.22 |
+| Def Rating Adj | -1.09 |
+| On/Off Diff | 3.99 |
+| TS% | 57.0% |
+| 3P% | 35.5% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

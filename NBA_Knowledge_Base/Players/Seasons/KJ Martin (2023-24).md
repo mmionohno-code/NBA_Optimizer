@@ -4,12 +4,12 @@ player: "KJ Martin"
 season: "2023-24"
 team: "PHI"
 archetype: "Bench / Role Player"
-composite_score: 28.43
+composite_score: 19.23
 salary: 6000000
-vorpd: 0.50
-off_rating_adj: -3.33
-def_rating_adj: 0.67
-on_off_diff: -3.56
+vorpd: 0.35
+off_rating_adj: -1.99
+def_rating_adj: 0.40
+on_off_diff: -2.12
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | PHI |
-| Composite Score | **28.4** / 100 |
+| Composite Score | **19.2** / 100 |
 | Salary | $6,000,000 |
-| VORPD | 0.50 |
-| Off Rating Adj | -3.33 |
-| Def Rating Adj | 0.67 |
-| On/Off Diff | -3.56 |
-| TS% | 56.9% |
-| 3P% | 28.6% |
+| VORPD | 0.35 |
+| Off Rating Adj | -1.99 |
+| Def Rating Adj | 0.40 |
+| On/Off Diff | -2.12 |
+| TS% | 57.0% |
+| 3P% | 36.5% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

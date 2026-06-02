@@ -4,12 +4,12 @@ player: "Keon Johnson"
 season: "2022-23"
 team: "POR"
 archetype: "Bench / Role Player"
-composite_score: 27.31
+composite_score: 24.98
 salary: 1879440
-vorpd: 0.99
-off_rating_adj: -8.16
-def_rating_adj: -2.99
-on_off_diff: -13.40
+vorpd: 4.31
+off_rating_adj: -3.71
+def_rating_adj: -1.36
+on_off_diff: -6.08
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | POR |
-| Composite Score | **27.3** / 100 |
+| Composite Score | **25.0** / 100 |
 | Salary | $1,879,440 |
-| VORPD | 0.99 |
-| Off Rating Adj | -8.16 |
-| Def Rating Adj | -2.99 |
-| On/Off Diff | -13.40 |
-| TS% | 52.5% |
-| 3P% | 34.6% |
-| Influence Score | 0.12 |
+| VORPD | 4.31 |
+| Off Rating Adj | -3.71 |
+| Def Rating Adj | -1.36 |
+| On/Off Diff | -6.08 |
+| TS% | 53.9% |
+| 3P% | 36.3% |
+| Influence Score | 0.13 |
 | Season Weight | 0.35 |
 
 _Navigate back to the full player profile: [[Players/Keon Johnson]]_

@@ -4,12 +4,12 @@ player: "Bruce Brown"
 season: "2023-24"
 team: "TOR"
 archetype: "Versatile Scorer"
-composite_score: 41.92
+composite_score: 35.42
 salary: 2020490
-vorpd: 8.15
-off_rating_adj: 6.16
-def_rating_adj: -4.57
-on_off_diff: -5.57
+vorpd: 9.05
+off_rating_adj: 4.86
+def_rating_adj: -3.60
+on_off_diff: -4.39
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | TOR |
-| Composite Score | **41.9** / 100 |
+| Composite Score | **35.4** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 8.15 |
-| Off Rating Adj | 6.16 |
-| Def Rating Adj | -4.57 |
-| On/Off Diff | -5.57 |
-| TS% | 56.5% |
-| 3P% | 32.3% |
+| VORPD | 9.05 |
+| Off Rating Adj | 4.86 |
+| Def Rating Adj | -3.60 |
+| On/Off Diff | -4.39 |
+| TS% | 56.7% |
+| 3P% | 35.5% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

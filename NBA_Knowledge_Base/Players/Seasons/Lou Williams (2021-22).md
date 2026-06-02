@@ -4,12 +4,12 @@ player: "Lou Williams"
 season: "2021-22"
 team: "ATL"
 archetype: "Bench / Role Player"
-composite_score: 42.77
+composite_score: 34.86
 salary: 925258
-vorpd: 18.71
-off_rating_adj: -3.89
-def_rating_adj: 2.55
-on_off_diff: -1.29
+vorpd: 15.47
+off_rating_adj: -2.40
+def_rating_adj: 1.57
+on_off_diff: -0.79
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | ATL |
-| Composite Score | **42.8** / 100 |
+| Composite Score | **34.9** / 100 |
 | Salary | $925,258 |
-| VORPD | 18.71 |
-| Off Rating Adj | -3.89 |
-| Def Rating Adj | 2.55 |
-| On/Off Diff | -1.29 |
-| TS% | 52.0% |
-| 3P% | 36.3% |
+| VORPD | 15.47 |
+| Off Rating Adj | -2.40 |
+| Def Rating Adj | 1.57 |
+| On/Off Diff | -0.79 |
+| TS% | 52.9% |
+| 3P% | 36.2% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

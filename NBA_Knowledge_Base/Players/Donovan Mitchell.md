@@ -3,12 +3,12 @@ player: "Donovan Mitchell"
 team: "CLE"
 season: "2023-24"
 archetype: "Elite Playmaker"
-composite_score: 82.02
+composite_score: 76.74
 salary: 40822138
-vorpd: 1.39
-off_rating_adj: 2.73
-def_rating_adj: 2.38
-on_off_diff: 7.48
+vorpd: 1.46
+off_rating_adj: 2.17
+def_rating_adj: 1.89
+on_off_diff: 5.97
 is_shooter: 1
 tags: [player, elite-playmaker]
 ---
@@ -20,30 +20,30 @@ tags: [player, elite-playmaker]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **82.0** / 100 |
+| Composite Score | **76.7** / 100 |
 | Salary | $40,822,138 |
-| VORPD | 1.39 |
-| Off Rating Adj | 2.73 |
-| Def Rating Adj | 2.38 |
-| On/Off Diff | 7.48 |
-| TS% | 59.3% |
-| 3P% | 36.8% |
+| VORPD | 1.46 |
+| Off Rating Adj | 2.17 |
+| Def Rating Adj | 1.89 |
+| On/Off Diff | 5.97 |
+| TS% | 59.1% |
+| 3P% | 37.0% |
 | Influence Score | 0.18 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+12.2 pts over 3 seasons)
+> **Trend:** Trending UP (+10.9 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CLE | 82.0 | $40822138 | 1.39 | 2.73 | 2.38 | 7.48 |
-| 2022-23 | CLE | 65.7 | $37110898 | 1.08 | 2.81 | -2.15 | 0.52 |
-| 2021-22 | UTA | 69.8 | $33737289 | 1.31 | 3.90 | -3.36 | -1.56 |
+| 2023-24 | CLE | 76.7 | $40822138 | 1.46 | 2.17 | 1.89 | 5.97 |
+| 2022-23 | CLE | 58.3 | $37110898 | 1.11 | 2.33 | -1.78 | 0.45 |
+| 2021-22 | UTA | 65.8 | $33737289 | 1.34 | 3.19 | -2.75 | -1.26 |
 
 ## Profile
 
-- **Cluster:** 3
-- **PCA Position:** (3.63, 1.59)
+- **Cluster:** 0
+- **PCA Position:** (3.84, 1.30)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

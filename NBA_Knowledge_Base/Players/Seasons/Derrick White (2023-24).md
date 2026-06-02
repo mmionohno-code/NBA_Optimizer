@@ -4,12 +4,12 @@ player: "Derrick White"
 season: "2023-24"
 team: "BOS"
 archetype: "Perimeter Scorer"
-composite_score: 52.18
+composite_score: 43.46
 salary: 24725172
-vorpd: 1.08
-off_rating_adj: 2.45
-def_rating_adj: -0.73
-on_off_diff: -0.44
+vorpd: 1.06
+off_rating_adj: 2.02
+def_rating_adj: -0.60
+on_off_diff: -0.34
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | BOS |
-| Composite Score | **52.2** / 100 |
+| Composite Score | **43.5** / 100 |
 | Salary | $24,725,172 |
-| VORPD | 1.08 |
-| Off Rating Adj | 2.45 |
-| Def Rating Adj | -0.73 |
-| On/Off Diff | -0.44 |
-| TS% | 60.6% |
-| 3P% | 39.6% |
+| VORPD | 1.06 |
+| Off Rating Adj | 2.02 |
+| Def Rating Adj | -0.60 |
+| On/Off Diff | -0.34 |
+| TS% | 60.2% |
+| 3P% | 38.9% |
 | Influence Score | 0.11 |
 | Season Weight | 0.45 |
 

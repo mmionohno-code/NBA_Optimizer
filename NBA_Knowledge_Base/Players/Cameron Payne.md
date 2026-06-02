@@ -3,12 +3,12 @@ player: "Cameron Payne"
 team: "PHI"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 37.89
+composite_score: 28.03
 salary: 6000000
-vorpd: 2.07
-off_rating_adj: -1.63
-def_rating_adj: -2.03
-on_off_diff: -4.29
+vorpd: 1.82
+off_rating_adj: -1.18
+def_rating_adj: -1.46
+on_off_diff: -3.09
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **37.9** / 100 |
+| Composite Score | **28.0** / 100 |
 | Salary | $6,000,000 |
-| VORPD | 2.07 |
-| Off Rating Adj | -1.63 |
-| Def Rating Adj | -2.03 |
-| On/Off Diff | -4.29 |
-| TS% | 56.8% |
-| 3P% | 39.0% |
+| VORPD | 1.82 |
+| Off Rating Adj | -1.18 |
+| Def Rating Adj | -1.46 |
+| On/Off Diff | -3.09 |
+| TS% | 56.9% |
+| 3P% | 38.2% |
 | Influence Score | 0.11 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-15.8 pts over 3 seasons)
+> **Trend:** Trending DOWN (-19.0 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | PHI | 37.9 | $6000000 | 2.07 | -1.63 | -2.03 | -4.29 |
-| 2022-23 | PHX | 58.9 | $1017781 | 32.81 | 3.18 | -1.32 | 2.05 |
-| 2021-22 | PHX | 53.7 | $925258 | 30.48 | -2.82 | 3.57 | -3.88 |
+| 2023-24 | PHI | 28.0 | $6000000 | 1.82 | -1.18 | -1.46 | -3.09 |
+| 2022-23 | PHX | 51.0 | $1017781 | 33.54 | 2.10 | -0.87 | 1.36 |
+| 2021-22 | PHX | 47.1 | $925258 | 28.66 | -2.03 | 2.57 | -2.76 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.57, 0.82)
+- **Cluster:** 1
+- **PCA Position:** (-0.68, 0.54)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

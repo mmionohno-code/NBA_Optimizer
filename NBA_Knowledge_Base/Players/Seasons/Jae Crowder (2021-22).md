@@ -4,12 +4,12 @@ player: "Jae Crowder"
 season: "2021-22"
 team: "PHX"
 archetype: "Perimeter Scorer"
-composite_score: 52.77
+composite_score: 47.16
 salary: 925258
-vorpd: 29.52
-off_rating_adj: 4.18
-def_rating_adj: 0.37
-on_off_diff: 2.61
+vorpd: 28.76
+off_rating_adj: 3.30
+def_rating_adj: 0.29
+on_off_diff: 2.09
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | PHX |
-| Composite Score | **52.8** / 100 |
+| Composite Score | **47.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 29.52 |
-| Off Rating Adj | 4.18 |
-| Def Rating Adj | 0.37 |
-| On/Off Diff | 2.61 |
-| TS% | 54.6% |
-| 3P% | 34.8% |
+| VORPD | 28.76 |
+| Off Rating Adj | 3.30 |
+| Def Rating Adj | 0.29 |
+| On/Off Diff | 2.09 |
+| TS% | 54.8% |
+| 3P% | 35.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

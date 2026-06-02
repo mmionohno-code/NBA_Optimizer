@@ -4,12 +4,12 @@ player: "Saddiq Bey"
 season: "2021-22"
 team: "DET"
 archetype: "Versatile Scorer"
-composite_score: 42.05
+composite_score: 35.29
 salary: 4449412
-vorpd: 3.73
-off_rating_adj: 0.63
-def_rating_adj: -2.07
-on_off_diff: -3.87
+vorpd: 3.31
+off_rating_adj: 0.53
+def_rating_adj: -1.75
+on_off_diff: -3.27
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | DET |
-| Composite Score | **42.0** / 100 |
+| Composite Score | **35.3** / 100 |
 | Salary | $4,449,412 |
-| VORPD | 3.73 |
-| Off Rating Adj | 0.63 |
-| Def Rating Adj | -2.07 |
-| On/Off Diff | -3.87 |
-| TS% | 53.3% |
-| 3P% | 34.6% |
+| VORPD | 3.31 |
+| Off Rating Adj | 0.53 |
+| Def Rating Adj | -1.75 |
+| On/Off Diff | -3.27 |
+| TS% | 53.5% |
+| 3P% | 35.1% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

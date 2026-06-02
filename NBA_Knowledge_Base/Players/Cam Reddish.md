@@ -3,12 +3,12 @@ player: "Cam Reddish"
 team: "LAL"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 33.73
+composite_score: 25.61
 salary: 7000000
-vorpd: 1.18
-off_rating_adj: -3.18
-def_rating_adj: 0.81
-on_off_diff: -3.22
+vorpd: 1.21
+off_rating_adj: -2.11
+def_rating_adj: 0.54
+on_off_diff: -2.12
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **33.7** / 100 |
+| Composite Score | **25.6** / 100 |
 | Salary | $7,000,000 |
-| VORPD | 1.18 |
-| Off Rating Adj | -3.18 |
-| Def Rating Adj | 0.81 |
-| On/Off Diff | -3.22 |
-| TS% | 53.2% |
-| 3P% | 33.6% |
+| VORPD | 1.21 |
+| Off Rating Adj | -2.11 |
+| Def Rating Adj | 0.54 |
+| On/Off Diff | -2.12 |
+| TS% | 54.2% |
+| 3P% | 36.3% |
 | Influence Score | 0.07 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+6.6 pts over 3 seasons)
+> **Trend:** Trending UP (+4.7 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | LAL | 33.7 | $7000000 | 1.18 | -3.18 | 0.81 | -3.22 |
-| 2022-23 | POR | 33.3 | $1017781 | 7.68 | -2.46 | -1.49 | -7.73 |
-| 2021-22 | NYK | 27.1 | $925258 | 1.83 | -4.53 | -4.68 | -12.74 |
+| 2023-24 | LAL | 25.6 | $7000000 | 1.21 | -2.11 | 0.54 | -2.12 |
+| 2022-23 | POR | 26.8 | $1017781 | 9.78 | -1.63 | -0.99 | -5.13 |
+| 2021-22 | NYK | 20.9 | $925258 | 0.41 | -3.03 | -3.13 | -8.53 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-1.59, 0.11)
+- **Cluster:** 5
+- **PCA Position:** (-1.60, 0.08)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Paul George"
 season: "2023-24"
 team: "LAC"
 archetype: "Elite Playmaker"
-composite_score: 77.63
+composite_score: 71.25
 salary: 45460959
-vorpd: 1.15
-off_rating_adj: 6.03
-def_rating_adj: 2.05
-on_off_diff: 13.67
+vorpd: 1.19
+off_rating_adj: 5.02
+def_rating_adj: 1.71
+on_off_diff: 11.41
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | LAC |
-| Composite Score | **77.6** / 100 |
+| Composite Score | **71.2** / 100 |
 | Salary | $45,460,959 |
-| VORPD | 1.15 |
-| Off Rating Adj | 6.03 |
-| Def Rating Adj | 2.05 |
-| On/Off Diff | 13.67 |
-| TS% | 60.9% |
-| 3P% | 41.3% |
+| VORPD | 1.19 |
+| Off Rating Adj | 5.02 |
+| Def Rating Adj | 1.71 |
+| On/Off Diff | 11.41 |
+| TS% | 60.6% |
+| 3P% | 40.1% |
 | Influence Score | 0.16 |
 | Season Weight | 0.45 |
 

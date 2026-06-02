@@ -4,12 +4,12 @@ player: "Terence Davis"
 season: "2021-22"
 team: "SAC"
 archetype: "Defensive Wing"
-composite_score: 65.84
+composite_score: 55.54
 salary: 925258
-vorpd: 43.65
-off_rating_adj: 5.43
-def_rating_adj: 3.31
-on_off_diff: 13.17
+vorpd: 37.82
+off_rating_adj: 2.81
+def_rating_adj: 1.72
+on_off_diff: 6.82
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | SAC |
-| Composite Score | **65.8** / 100 |
+| Composite Score | **55.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 43.65 |
-| Off Rating Adj | 5.43 |
-| Def Rating Adj | 3.31 |
-| On/Off Diff | 13.17 |
-| TS% | 55.0% |
-| 3P% | 32.9% |
+| VORPD | 37.82 |
+| Off Rating Adj | 2.81 |
+| Def Rating Adj | 1.72 |
+| On/Off Diff | 6.82 |
+| TS% | 55.3% |
+| 3P% | 34.9% |
 | Influence Score | 0.13 |
 | Season Weight | 0.20 |
 

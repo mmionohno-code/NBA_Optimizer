@@ -3,12 +3,12 @@ player: "Jaylen Nowell"
 team: "MIN"
 season: "2022-23"
 archetype: "Versatile Scorer"
-composite_score: 44.30
+composite_score: 39.28
 salary: 1017781
-vorpd: 18.51
-off_rating_adj: -0.89
-def_rating_adj: 0.94
-on_off_diff: -1.32
+vorpd: 22.00
+off_rating_adj: -0.64
+def_rating_adj: 0.67
+on_off_diff: -0.93
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,29 +20,29 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **44.3** / 100 |
+| Composite Score | **39.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 18.51 |
-| Off Rating Adj | -0.89 |
-| Def Rating Adj | 0.94 |
-| On/Off Diff | -1.32 |
-| TS% | 53.7% |
-| 3P% | 28.9% |
+| VORPD | 22.00 |
+| Off Rating Adj | -0.64 |
+| Def Rating Adj | 0.67 |
+| On/Off Diff | -0.93 |
+| TS% | 54.2% |
+| 3P% | 33.1% |
 | Influence Score | 0.13 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+3.3 pts over 2 seasons)
+> **Trend:** Trending UP (+6.5 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | MIN | 44.3 | $1017781 | 18.51 | -0.89 | 0.94 | -1.32 |
-| 2021-22 | MIN | 41.0 | $925258 | 16.77 | 2.48 | -2.30 | -1.85 |
+| 2022-23 | MIN | 39.3 | $1017781 | 22.00 | -0.64 | 0.67 | -0.93 |
+| 2021-22 | MIN | 32.8 | $925258 | 13.25 | 1.64 | -1.52 | -1.21 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-0.87, 1.10)
+- **Cluster:** 6
+- **PCA Position:** (-1.00, 1.53)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

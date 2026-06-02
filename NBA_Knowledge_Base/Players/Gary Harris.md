@@ -3,12 +3,12 @@ player: "Gary Harris"
 team: "ORL"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 39.80
+composite_score: 30.87
 salary: 3197689
-vorpd: 4.49
-off_rating_adj: 1.61
-def_rating_adj: -0.77
-on_off_diff: 1.69
+vorpd: 4.30
+off_rating_adj: 1.16
+def_rating_adj: -0.56
+on_off_diff: 1.23
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **39.8** / 100 |
+| Composite Score | **30.9** / 100 |
 | Salary | $3,197,689 |
-| VORPD | 4.49 |
-| Off Rating Adj | 1.61 |
-| Def Rating Adj | -0.77 |
-| On/Off Diff | 1.69 |
-| TS% | 58.3% |
-| 3P% | 37.1% |
+| VORPD | 4.30 |
+| Off Rating Adj | 1.16 |
+| Def Rating Adj | -0.56 |
+| On/Off Diff | 1.23 |
+| TS% | 58.1% |
+| 3P% | 37.3% |
 | Influence Score | 0.07 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-8.6 pts over 3 seasons)
+> **Trend:** Trending DOWN (-9.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | ORL | 39.8 | $3197689 | 4.49 | 1.61 | -0.77 | 1.69 |
-| 2022-23 | ORL | 35.2 | $2906979 | 3.35 | 3.34 | -3.62 | -1.14 |
-| 2021-22 | ORL | 48.4 | $2642717 | 8.68 | 1.49 | 1.31 | 5.01 |
+| 2023-24 | ORL | 30.9 | $3197689 | 4.30 | 1.16 | -0.56 | 1.23 |
+| 2022-23 | ORL | 25.0 | $2906979 | 2.78 | 2.35 | -2.55 | -0.79 |
+| 2021-22 | ORL | 40.2 | $2642717 | 7.44 | 1.15 | 1.01 | 3.89 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.00, -0.69)
+- **Cluster:** 3
+- **PCA Position:** (-0.08, -0.79)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

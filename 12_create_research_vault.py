@@ -5,6 +5,8 @@ model decisions, scenario hypotheses, player scouts, and weekly reviews.
 Run from the project root: python 12_create_research_vault.py
 """
 
+import sys
+sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 from pathlib import Path
 from datetime import date
 

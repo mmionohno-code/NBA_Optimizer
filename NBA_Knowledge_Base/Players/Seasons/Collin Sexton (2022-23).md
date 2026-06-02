@@ -4,12 +4,12 @@ player: "Collin Sexton"
 season: "2022-23"
 team: "UTA"
 archetype: "Perimeter Scorer"
-composite_score: 48.84
+composite_score: 40.53
 salary: 15178208
-vorpd: 1.54
-off_rating_adj: 4.57
-def_rating_adj: -1.57
-on_off_diff: 0.19
+vorpd: 1.56
+off_rating_adj: 3.18
+def_rating_adj: -1.10
+on_off_diff: 0.14
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | UTA |
-| Composite Score | **48.8** / 100 |
+| Composite Score | **40.5** / 100 |
 | Salary | $15,178,208 |
-| VORPD | 1.54 |
-| Off Rating Adj | 4.57 |
-| Def Rating Adj | -1.57 |
-| On/Off Diff | 0.19 |
-| TS% | 60.6% |
-| 3P% | 39.3% |
+| VORPD | 1.56 |
+| Off Rating Adj | 3.18 |
+| Def Rating Adj | -1.10 |
+| On/Off Diff | 0.14 |
+| TS% | 60.1% |
+| 3P% | 37.6% |
 | Influence Score | 0.14 |
 | Season Weight | 0.35 |
 

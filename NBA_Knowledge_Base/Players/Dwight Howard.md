@@ -3,12 +3,12 @@ player: "Dwight Howard"
 team: "LAL"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 29.56
+composite_score: 22.54
 salary: 925258
-vorpd: 4.44
-off_rating_adj: 0.45
-def_rating_adj: -2.99
-on_off_diff: -3.51
+vorpd: 2.15
+off_rating_adj: 0.29
+def_rating_adj: -1.98
+on_off_diff: -2.31
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **29.6** / 100 |
+| Composite Score | **22.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 4.44 |
-| Off Rating Adj | 0.45 |
-| Def Rating Adj | -2.99 |
-| On/Off Diff | -3.51 |
-| TS% | 61.9% |
-| 3P% | 34.1% |
+| VORPD | 2.15 |
+| Off Rating Adj | 0.29 |
+| Def Rating Adj | -1.98 |
+| On/Off Diff | -2.31 |
+| TS% | 60.5% |
+| 3P% | 35.7% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | LAL | 29.6 | $925258 | 4.44 | 0.45 | -2.99 | -3.51 |
+| 2021-22 | LAL | 22.5 | $925258 | 2.15 | 0.29 | -1.98 | -2.31 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.37, -1.20)
+- **Cluster:** 1
+- **PCA Position:** (-0.57, -0.93)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

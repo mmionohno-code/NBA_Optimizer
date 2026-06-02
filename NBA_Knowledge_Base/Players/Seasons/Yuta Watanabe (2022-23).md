@@ -4,12 +4,12 @@ player: "Yuta Watanabe"
 season: "2022-23"
 team: "BKN"
 archetype: "Bench / Role Player"
-composite_score: 26.55
+composite_score: 16.16
 salary: 1017781
-vorpd: 1.07
-off_rating_adj: -0.59
-def_rating_adj: 0.40
-on_off_diff: -2.94
+vorpd: 0.00
+off_rating_adj: -0.38
+def_rating_adj: 0.26
+on_off_diff: -1.90
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | BKN |
-| Composite Score | **26.6** / 100 |
+| Composite Score | **16.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 1.07 |
-| Off Rating Adj | -0.59 |
-| Def Rating Adj | 0.40 |
-| On/Off Diff | -2.94 |
-| TS% | 61.3% |
-| 3P% | 44.4% |
+| VORPD | 0.00 |
+| Off Rating Adj | -0.38 |
+| Def Rating Adj | 0.26 |
+| On/Off Diff | -1.90 |
+| TS% | 60.4% |
+| 3P% | 39.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Devin Vassell"
 season: "2023-24"
 team: "SAS"
 archetype: "Perimeter Scorer"
-composite_score: 53.26
+composite_score: 45.38
 salary: 23757282
-vorpd: 1.17
-off_rating_adj: 0.69
-def_rating_adj: -0.46
-on_off_diff: 2.15
+vorpd: 1.19
+off_rating_adj: 0.56
+def_rating_adj: -0.38
+on_off_diff: 1.75
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | SAS |
-| Composite Score | **53.3** / 100 |
+| Composite Score | **45.4** / 100 |
 | Salary | $23,757,282 |
-| VORPD | 1.17 |
-| Off Rating Adj | 0.69 |
-| Def Rating Adj | -0.46 |
-| On/Off Diff | 2.15 |
-| TS% | 57.8% |
-| 3P% | 37.2% |
+| VORPD | 1.19 |
+| Off Rating Adj | 0.56 |
+| Def Rating Adj | -0.38 |
+| On/Off Diff | 1.75 |
+| TS% | 57.7% |
+| 3P% | 37.3% |
 | Influence Score | 0.13 |
 | Season Weight | 0.45 |
 

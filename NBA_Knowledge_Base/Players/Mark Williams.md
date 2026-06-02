@@ -3,12 +3,12 @@ player: "Mark Williams"
 team: "CHA"
 season: "2022-23"
 archetype: "Two-Way Big"
-composite_score: 36.29
+composite_score: 28.18
 salary: 5020632
-vorpd: 2.16
-off_rating_adj: -0.95
-def_rating_adj: 1.79
-on_off_diff: 0.66
+vorpd: 2.25
+off_rating_adj: -0.59
+def_rating_adj: 1.12
+on_off_diff: 0.42
 is_shooter: 0
 tags: [player, two-way-big]
 ---
@@ -20,15 +20,15 @@ tags: [player, two-way-big]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **36.3** / 100 |
+| Composite Score | **28.2** / 100 |
 | Salary | $5,020,632 |
-| VORPD | 2.16 |
-| Off Rating Adj | -0.95 |
-| Def Rating Adj | 1.79 |
-| On/Off Diff | 0.66 |
-| TS% | 62.8% |
-| 3P% | 35.0% |
-| Influence Score | 0.11 |
+| VORPD | 2.25 |
+| Off Rating Adj | -0.59 |
+| Def Rating Adj | 1.12 |
+| On/Off Diff | 0.42 |
+| TS% | 61.6% |
+| 3P% | 36.4% |
+| Influence Score | 0.10 |
 
 ## Season History (1 season)
 
@@ -36,12 +36,12 @@ tags: [player, two-way-big]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | CHA | 36.3 | $5020632 | 2.16 | -0.95 | 1.79 | 0.66 |
+| 2022-23 | CHA | 28.2 | $5020632 | 2.25 | -0.59 | 1.12 | 0.42 |
 
 ## Profile
 
 - **Cluster:** 4
-- **PCA Position:** (0.33, -2.08)
+- **PCA Position:** (0.21, -1.90)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

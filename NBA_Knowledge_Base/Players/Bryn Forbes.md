@@ -3,12 +3,12 @@ player: "Bryn Forbes"
 team: "MIN"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 16.79
+composite_score: 18.05
 salary: 1017781
-vorpd: 0.00
-off_rating_adj: -4.29
-def_rating_adj: -3.96
-on_off_diff: -9.66
+vorpd: 1.15
+off_rating_adj: -1.50
+def_rating_adj: -1.38
+on_off_diff: -3.37
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **16.8** / 100 |
+| Composite Score | **18.1** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 0.00 |
-| Off Rating Adj | -4.29 |
-| Def Rating Adj | -3.96 |
-| On/Off Diff | -9.66 |
-| TS% | 54.8% |
-| 3P% | 30.4% |
-| Influence Score | 0.08 |
+| VORPD | 1.15 |
+| Off Rating Adj | -1.50 |
+| Def Rating Adj | -1.38 |
+| On/Off Diff | -3.37 |
+| TS% | 55.8% |
+| 3P% | 35.8% |
+| Influence Score | 0.09 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-13.2 pts over 2 seasons)
+> **Trend:** Stable (-1.3 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | MIN | 16.8 | $1017781 | 0.00 | -4.29 | -3.96 | -9.66 |
-| 2021-22 | DEN | 30.0 | $925258 | 4.90 | -2.40 | 0.78 | -2.15 |
+| 2022-23 | MIN | 18.1 | $1017781 | 1.15 | -1.50 | -1.38 | -3.37 |
+| 2021-22 | DEN | 19.4 | $925258 | 0.00 | -1.73 | 0.56 | -1.54 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.91, 0.30)
+- **Cluster:** 5
+- **PCA Position:** (-2.01, 0.16)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

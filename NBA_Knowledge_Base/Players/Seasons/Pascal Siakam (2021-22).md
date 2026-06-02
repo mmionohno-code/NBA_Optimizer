@@ -4,12 +4,12 @@ player: "Pascal Siakam"
 season: "2021-22"
 team: "TOR"
 archetype: "Elite Playmaker"
-composite_score: 69.76
+composite_score: 67.18
 salary: 33123841
-vorpd: 1.34
-off_rating_adj: 4.95
-def_rating_adj: -0.99
-on_off_diff: 5.79
+vorpd: 1.41
+off_rating_adj: 4.14
+def_rating_adj: -0.83
+on_off_diff: 4.87
 season_weight: 0.20
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2021-22 |
 | Team | TOR |
-| Composite Score | **69.8** / 100 |
+| Composite Score | **67.2** / 100 |
 | Salary | $33,123,841 |
-| VORPD | 1.34 |
-| Off Rating Adj | 4.95 |
-| Def Rating Adj | -0.99 |
-| On/Off Diff | 5.79 |
-| TS% | 56.5% |
-| 3P% | 34.4% |
+| VORPD | 1.41 |
+| Off Rating Adj | 4.14 |
+| Def Rating Adj | -0.83 |
+| On/Off Diff | 4.87 |
+| TS% | 56.4% |
+| 3P% | 35.3% |
 | Influence Score | 0.15 |
 | Season Weight | 0.20 |
 

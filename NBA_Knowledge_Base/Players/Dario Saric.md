@@ -3,12 +3,12 @@ player: "Dario Saric"
 team: "GSW"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 34.64
+composite_score: 25.50
 salary: 5500000
-vorpd: 1.67
-off_rating_adj: -0.94
-def_rating_adj: -2.43
-on_off_diff: -4.85
+vorpd: 1.52
+off_rating_adj: -0.64
+def_rating_adj: -1.67
+on_off_diff: -3.33
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **34.6** / 100 |
+| Composite Score | **25.5** / 100 |
 | Salary | $5,500,000 |
-| VORPD | 1.67 |
-| Off Rating Adj | -0.94 |
-| Def Rating Adj | -2.43 |
-| On/Off Diff | -4.85 |
-| TS% | 59.3% |
-| 3P% | 37.6% |
+| VORPD | 1.52 |
+| Off Rating Adj | -0.64 |
+| Def Rating Adj | -1.67 |
+| On/Off Diff | -3.33 |
+| TS% | 59.0% |
+| 3P% | 37.5% |
 | Influence Score | 0.11 |
 
 ## Season History (2 seasons)
@@ -36,13 +36,13 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | GSW | 34.6 | $5500000 | 1.67 | -0.94 | -2.43 | -4.85 |
-| 2022-23 | OKC | 38.8 | $1017781 | 13.07 | 0.23 | 1.00 | -1.35 |
+| 2023-24 | GSW | 25.5 | $5500000 | 1.52 | -0.64 | -1.67 | -3.33 |
+| 2022-23 | OKC | 29.6 | $1017781 | 12.47 | 0.14 | 0.62 | -0.82 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.43, 0.14)
+- **Cluster:** 1
+- **PCA Position:** (-0.55, -0.03)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

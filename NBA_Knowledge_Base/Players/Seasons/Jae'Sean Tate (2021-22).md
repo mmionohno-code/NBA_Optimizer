@@ -4,12 +4,12 @@ player: "Jae'Sean Tate"
 season: "2021-22"
 team: "HOU"
 archetype: "Versatile Scorer"
-composite_score: 47.08
+composite_score: 40.79
 salary: 1669826
-vorpd: 12.95
-off_rating_adj: -3.05
-def_rating_adj: 0.41
-on_off_diff: 1.00
+vorpd: 12.12
+off_rating_adj: -2.45
+def_rating_adj: 0.33
+on_off_diff: 0.80
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | HOU |
-| Composite Score | **47.1** / 100 |
+| Composite Score | **40.8** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 12.95 |
-| Off Rating Adj | -3.05 |
-| Def Rating Adj | 0.41 |
-| On/Off Diff | 1.00 |
+| VORPD | 12.12 |
+| Off Rating Adj | -2.45 |
+| Def Rating Adj | 0.33 |
+| On/Off Diff | 0.80 |
 | TS% | 56.6% |
-| 3P% | 31.2% |
+| 3P% | 34.0% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

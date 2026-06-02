@@ -4,12 +4,12 @@ player: "Frank Ntilikina"
 season: "2021-22"
 team: "DAL"
 archetype: "Defensive Wing"
-composite_score: 40.70
+composite_score: 32.52
 salary: 925258
-vorpd: 16.48
-off_rating_adj: -2.93
-def_rating_adj: 4.79
-on_off_diff: -0.21
+vorpd: 12.94
+off_rating_adj: -1.69
+def_rating_adj: 2.77
+on_off_diff: -0.11
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | DAL |
-| Composite Score | **40.7** / 100 |
+| Composite Score | **32.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 16.48 |
-| Off Rating Adj | -2.93 |
-| Def Rating Adj | 4.79 |
-| On/Off Diff | -0.21 |
-| TS% | 53.3% |
-| 3P% | 34.2% |
+| VORPD | 12.94 |
+| Off Rating Adj | -1.69 |
+| Def Rating Adj | 2.77 |
+| On/Off Diff | -0.11 |
+| TS% | 54.0% |
+| 3P% | 35.6% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

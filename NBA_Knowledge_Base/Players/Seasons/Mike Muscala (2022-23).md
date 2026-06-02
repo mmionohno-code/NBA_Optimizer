@@ -3,32 +3,32 @@ player_season: "Mike Muscala (2022-23)"
 player: "Mike Muscala"
 season: "2022-23"
 team: "BOS"
-archetype: "Perimeter Scorer"
-composite_score: 33.63
+archetype: "Bench / Role Player"
+composite_score: 23.94
 salary: 1017781
-vorpd: 8.03
-off_rating_adj: 0.59
-def_rating_adj: 1.11
-on_off_diff: 5.47
+vorpd: 6.93
+off_rating_adj: 0.38
+def_rating_adj: 0.73
+on_off_diff: 3.58
 season_weight: 0.35
-tags: [season-note, perimeter-scorer]
+tags: [season-note, bench-/-role-player]
 ---
 # Mike Muscala — 2022-23
 
-> Part of [[Players/Mike Muscala]] | Archetype: [[Archetypes/Perimeter Scorer]]
+> Part of [[Players/Mike Muscala]] | Archetype: [[Archetypes/Bench / Role Player]]
 
 | Metric | Value |
 |---|---|
 | Season | 2022-23 |
 | Team | BOS |
-| Composite Score | **33.6** / 100 |
+| Composite Score | **23.9** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 8.03 |
-| Off Rating Adj | 0.59 |
-| Def Rating Adj | 1.11 |
-| On/Off Diff | 5.47 |
-| TS% | 59.7% |
-| 3P% | 39.1% |
+| VORPD | 6.93 |
+| Off Rating Adj | 0.38 |
+| Def Rating Adj | 0.73 |
+| On/Off Diff | 3.58 |
+| TS% | 59.3% |
+| 3P% | 37.8% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

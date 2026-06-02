@@ -4,12 +4,12 @@ player: "Delon Wright"
 season: "2022-23"
 team: "WAS"
 archetype: "Perimeter Scorer"
-composite_score: 65.97
+composite_score: 58.18
 salary: 1017781
-vorpd: 39.81
-off_rating_adj: 1.81
-def_rating_adj: 2.48
-on_off_diff: 6.15
+vorpd: 40.57
+off_rating_adj: 1.28
+def_rating_adj: 1.76
+on_off_diff: 4.37
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | WAS |
-| Composite Score | **66.0** / 100 |
+| Composite Score | **58.2** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 39.81 |
-| Off Rating Adj | 1.81 |
-| Def Rating Adj | 2.48 |
-| On/Off Diff | 6.15 |
+| VORPD | 40.57 |
+| Off Rating Adj | 1.28 |
+| Def Rating Adj | 1.76 |
+| On/Off Diff | 4.37 |
 | TS% | 57.9% |
-| 3P% | 34.5% |
+| 3P% | 36.1% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

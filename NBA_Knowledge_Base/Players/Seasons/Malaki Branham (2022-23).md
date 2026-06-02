@@ -3,32 +3,32 @@ player_season: "Malaki Branham (2022-23)"
 player: "Malaki Branham"
 season: "2022-23"
 team: "SAS"
-archetype: "Versatile Scorer"
-composite_score: 36.60
+archetype: "Bench / Role Player"
+composite_score: 31.33
 salary: 3969158
-vorpd: 2.81
-off_rating_adj: 0.79
-def_rating_adj: -2.95
-on_off_diff: -1.02
+vorpd: 3.64
+off_rating_adj: 0.60
+def_rating_adj: -2.23
+on_off_diff: -0.78
 season_weight: 0.35
-tags: [season-note, versatile-scorer]
+tags: [season-note, bench-/-role-player]
 ---
 # Malaki Branham — 2022-23
 
-> Part of [[Players/Malaki Branham]] | Archetype: [[Archetypes/Versatile Scorer]]
+> Part of [[Players/Malaki Branham]] | Archetype: [[Archetypes/Bench / Role Player]]
 
 | Metric | Value |
 |---|---|
 | Season | 2022-23 |
 | Team | SAS |
-| Composite Score | **36.6** / 100 |
+| Composite Score | **31.3** / 100 |
 | Salary | $3,969,158 |
-| VORPD | 2.81 |
-| Off Rating Adj | 0.79 |
-| Def Rating Adj | -2.95 |
-| On/Off Diff | -1.02 |
-| TS% | 53.4% |
-| 3P% | 30.2% |
+| VORPD | 3.64 |
+| Off Rating Adj | 0.60 |
+| Def Rating Adj | -2.23 |
+| On/Off Diff | -0.78 |
+| TS% | 54.0% |
+| 3P% | 33.5% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

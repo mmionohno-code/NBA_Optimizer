@@ -4,12 +4,12 @@ player: "Kessler Edwards"
 season: "2022-23"
 team: "SAC"
 archetype: "Bench / Role Player"
-composite_score: 30.21
+composite_score: 23.92
 salary: 1017781
-vorpd: 4.67
-off_rating_adj: 0.53
-def_rating_adj: -1.82
-on_off_diff: -0.38
+vorpd: 6.91
+off_rating_adj: 0.23
+def_rating_adj: -0.79
+on_off_diff: -0.16
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | SAC |
-| Composite Score | **30.2** / 100 |
+| Composite Score | **23.9** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 4.67 |
-| Off Rating Adj | 0.53 |
-| Def Rating Adj | -1.82 |
-| On/Off Diff | -0.38 |
-| TS% | 54.8% |
-| 3P% | 30.9% |
+| VORPD | 6.91 |
+| Off Rating Adj | 0.23 |
+| Def Rating Adj | -0.79 |
+| On/Off Diff | -0.16 |
+| TS% | 55.7% |
+| 3P% | 35.8% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

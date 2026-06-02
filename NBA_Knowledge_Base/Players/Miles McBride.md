@@ -3,12 +3,12 @@ player: "Miles McBride"
 team: "NYK"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 33.08
+composite_score: 21.22
 salary: 3812897
-vorpd: 2.00
-off_rating_adj: -3.62
-def_rating_adj: 2.22
-on_off_diff: -7.20
+vorpd: 1.07
+off_rating_adj: -2.63
+def_rating_adj: 1.61
+on_off_diff: -5.21
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **33.1** / 100 |
+| Composite Score | **21.2** / 100 |
 | Salary | $3,812,897 |
-| VORPD | 2.00 |
-| Off Rating Adj | -3.62 |
-| Def Rating Adj | 2.22 |
-| On/Off Diff | -7.20 |
-| TS% | 58.6% |
-| 3P% | 41.0% |
+| VORPD | 1.07 |
+| Off Rating Adj | -2.63 |
+| Def Rating Adj | 1.61 |
+| On/Off Diff | -5.21 |
+| TS% | 58.4% |
+| 3P% | 39.2% |
 | Influence Score | 0.10 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-10.0 pts over 2 seasons)
+> **Trend:** Trending DOWN (-14.0 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | NYK | 33.1 | $3812897 | 2.00 | -3.62 | 2.22 | -7.20 |
-| 2022-23 | NYK | 43.1 | $3466257 | 5.08 | -2.07 | 4.87 | 1.35 |
+| 2023-24 | NYK | 21.2 | $3812897 | 1.07 | -2.63 | 1.61 | -5.21 |
+| 2022-23 | NYK | 35.3 | $3466257 | 5.30 | -1.25 | 2.94 | 0.82 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.92, -0.16)
+- **Cluster:** 1
+- **PCA Position:** (-1.11, -0.57)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

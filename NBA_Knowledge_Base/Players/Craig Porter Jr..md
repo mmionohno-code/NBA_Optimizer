@@ -2,32 +2,32 @@
 player: "Craig Porter Jr."
 team: "CLE"
 season: "2023-24"
-archetype: "Versatile Scorer"
-composite_score: 38.04
+archetype: "Bench / Role Player"
+composite_score: 29.32
 salary: 1954852
-vorpd: 6.44
-off_rating_adj: -1.47
-def_rating_adj: -2.42
-on_off_diff: -5.63
+vorpd: 6.24
+off_rating_adj: -0.83
+def_rating_adj: -1.37
+on_off_diff: -3.17
 is_shooter: 1
-tags: [player, versatile-scorer]
+tags: [player, bench-/-role-player]
 ---
 # Craig Porter Jr.
 
-> **Archetype:** [[Archetypes/Versatile Scorer]] | **Team:** CLE | **Latest Season:** 2023-24
+> **Archetype:** [[Archetypes/Bench / Role Player]] | **Team:** CLE | **Latest Season:** 2023-24
 
 ## Most Recent Season Stats (2023-24)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **38.0** / 100 |
+| Composite Score | **29.3** / 100 |
 | Salary | $1,954,852 |
-| VORPD | 6.44 |
-| Off Rating Adj | -1.47 |
-| Def Rating Adj | -2.42 |
-| On/Off Diff | -5.63 |
-| TS% | 56.8% |
-| 3P% | 35.3% |
+| VORPD | 6.24 |
+| Off Rating Adj | -0.83 |
+| Def Rating Adj | -1.37 |
+| On/Off Diff | -3.17 |
+| TS% | 57.0% |
+| 3P% | 37.2% |
 | Influence Score | 0.11 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, versatile-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CLE | 38.0 | $1954852 | 6.44 | -1.47 | -2.42 | -5.63 |
+| 2023-24 | CLE | 29.3 | $1954852 | 6.24 | -0.83 | -1.37 | -3.17 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-0.66, 0.99)
+- **Cluster:** 1
+- **PCA Position:** (-0.62, 0.56)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

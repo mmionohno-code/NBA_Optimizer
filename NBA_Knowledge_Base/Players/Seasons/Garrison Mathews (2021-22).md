@@ -4,12 +4,12 @@ player: "Garrison Mathews"
 season: "2021-22"
 team: "HOU"
 archetype: "Perimeter Scorer"
-composite_score: 42.61
+composite_score: 35.46
 salary: 925258
-vorpd: 18.54
-off_rating_adj: 2.35
-def_rating_adj: -1.89
-on_off_diff: 6.17
+vorpd: 16.11
+off_rating_adj: 1.82
+def_rating_adj: -1.46
+on_off_diff: 4.77
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | HOU |
-| Composite Score | **42.6** / 100 |
+| Composite Score | **35.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 18.54 |
-| Off Rating Adj | 2.35 |
-| Def Rating Adj | -1.89 |
-| On/Off Diff | 6.17 |
-| TS% | 59.2% |
-| 3P% | 36.0% |
+| VORPD | 16.11 |
+| Off Rating Adj | 1.82 |
+| Def Rating Adj | -1.46 |
+| On/Off Diff | 4.77 |
+| TS% | 58.7% |
+| 3P% | 36.1% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

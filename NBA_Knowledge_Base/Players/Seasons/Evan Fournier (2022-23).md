@@ -4,12 +4,12 @@ player: "Evan Fournier"
 season: "2022-23"
 team: "NYK"
 archetype: "Bench / Role Player"
-composite_score: 28.39
+composite_score: 25.55
 salary: 1017781
-vorpd: 2.88
-off_rating_adj: -3.87
-def_rating_adj: -1.63
-on_off_diff: -9.10
+vorpd: 8.51
+off_rating_adj: -1.85
+def_rating_adj: -0.78
+on_off_diff: -4.35
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | NYK |
-| Composite Score | **28.4** / 100 |
+| Composite Score | **25.6** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 2.88 |
-| Off Rating Adj | -3.87 |
-| Def Rating Adj | -1.63 |
-| On/Off Diff | -9.10 |
-| TS% | 52.1% |
-| 3P% | 30.7% |
-| Influence Score | 0.09 |
+| VORPD | 8.51 |
+| Off Rating Adj | -1.85 |
+| Def Rating Adj | -0.78 |
+| On/Off Diff | -4.35 |
+| TS% | 53.7% |
+| 3P% | 34.9% |
+| Influence Score | 0.10 |
 | Season Weight | 0.35 |
 
 _Navigate back to the full player profile: [[Players/Evan Fournier]]_

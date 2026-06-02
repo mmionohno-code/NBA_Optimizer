@@ -3,12 +3,12 @@ player: "Tristan Thompson"
 team: "CLE"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 25.15
+composite_score: 18.03
 salary: 2879403
-vorpd: 0.00
-off_rating_adj: 0.13
-def_rating_adj: -2.82
-on_off_diff: -4.65
+vorpd: 0.31
+off_rating_adj: 0.07
+def_rating_adj: -1.48
+on_off_diff: -2.43
 is_shooter: 0
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **25.1** / 100 |
+| Composite Score | **18.0** / 100 |
 | Salary | $2,879,403 |
-| VORPD | 0.00 |
-| Off Rating Adj | 0.13 |
-| Def Rating Adj | -2.82 |
-| On/Off Diff | -4.65 |
-| TS% | 57.2% |
-| 3P% | 35.6% |
+| VORPD | 0.31 |
+| Off Rating Adj | 0.07 |
+| Def Rating Adj | -1.48 |
+| On/Off Diff | -2.43 |
+| TS% | 57.3% |
+| 3P% | 37.0% |
 | Influence Score | 0.08 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-6.2 pts over 2 seasons)
+> **Trend:** Trending DOWN (-7.3 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CLE | 25.1 | $2879403 | 0.00 | 0.13 | -2.82 | -4.65 |
-| 2021-22 | CHI | 31.4 | $925258 | 6.40 | 1.23 | -5.33 | -0.10 |
+| 2023-24 | CLE | 18.0 | $2879403 | 0.31 | 0.07 | -1.48 | -2.43 |
+| 2021-22 | CHI | 25.4 | $925258 | 5.19 | 0.79 | -3.42 | -0.06 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.44, -0.53)
+- **Cluster:** 1
+- **PCA Position:** (-1.39, -0.62)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

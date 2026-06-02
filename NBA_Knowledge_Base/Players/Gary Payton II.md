@@ -3,12 +3,12 @@ player: "Gary Payton II"
 team: "GSW"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 44.34
+composite_score: 34.25
 salary: 2020490
-vorpd: 9.35
-off_rating_adj: 0.06
-def_rating_adj: 3.97
-on_off_diff: 4.02
+vorpd: 8.47
+off_rating_adj: 0.04
+def_rating_adj: 2.29
+on_off_diff: 2.33
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **44.3** / 100 |
+| Composite Score | **34.2** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 9.35 |
-| Off Rating Adj | 0.06 |
-| Def Rating Adj | 3.97 |
-| On/Off Diff | 4.02 |
-| TS% | 60.0% |
-| 3P% | 36.4% |
+| VORPD | 8.47 |
+| Off Rating Adj | 0.04 |
+| Def Rating Adj | 2.29 |
+| On/Off Diff | 2.33 |
+| TS% | 59.4% |
+| 3P% | 37.2% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-5.2 pts over 3 seasons)
+> **Trend:** Trending DOWN (-7.0 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | GSW | 44.3 | $2020490 | 9.35 | 0.06 | 3.97 | 4.02 |
-| 2022-23 | GSW | 46.4 | $1836802 | 11.41 | 9.52 | -5.56 | 8.33 |
-| 2021-22 | GSW | 49.5 | $1669826 | 14.41 | 1.17 | 2.83 | 3.40 |
+| 2023-24 | GSW | 34.2 | $2020490 | 8.47 | 0.04 | 2.29 | 2.33 |
+| 2022-23 | GSW | 36.5 | $1836802 | 10.66 | 4.03 | -2.36 | 3.54 |
+| 2021-22 | GSW | 41.3 | $1669826 | 12.41 | 0.83 | 2.02 | 2.45 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (0.29, -1.27)
+- **Cluster:** 2
+- **PCA Position:** (0.17, -1.26)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

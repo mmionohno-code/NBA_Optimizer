@@ -2,48 +2,48 @@
 player: "Darius Garland"
 team: "CLE"
 season: "2023-24"
-archetype: "Versatile Scorer"
-composite_score: 61.83
+archetype: "Elite Playmaker"
+composite_score: 54.58
 salary: 34708589
-vorpd: 1.05
-off_rating_adj: 0.33
-def_rating_adj: -0.42
-on_off_diff: -1.00
+vorpd: 1.08
+off_rating_adj: 0.26
+def_rating_adj: -0.33
+on_off_diff: -0.78
 is_shooter: 1
-tags: [player, versatile-scorer]
+tags: [player, elite-playmaker]
 ---
 # Darius Garland
 
-> **Archetype:** [[Archetypes/Versatile Scorer]] | **Team:** CLE | **Latest Season:** 2023-24
+> **Archetype:** [[Archetypes/Elite Playmaker]] | **Team:** CLE | **Latest Season:** 2023-24
 
 ## Most Recent Season Stats (2023-24)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **61.8** / 100 |
+| Composite Score | **54.6** / 100 |
 | Salary | $34,708,589 |
-| VORPD | 1.05 |
-| Off Rating Adj | 0.33 |
-| Def Rating Adj | -0.42 |
-| On/Off Diff | -1.00 |
-| TS% | 56.2% |
-| 3P% | 37.1% |
+| VORPD | 1.08 |
+| Off Rating Adj | 0.26 |
+| Def Rating Adj | -0.33 |
+| On/Off Diff | -0.78 |
+| TS% | 56.4% |
+| 3P% | 37.2% |
 | Influence Score | 0.14 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-22.8 pts over 3 seasons)
+> **Trend:** Trending DOWN (-27.5 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CLE | 61.8 | $34708589 | 1.05 | 0.33 | -0.42 | -1.00 |
-| 2022-23 | CLE | 72.0 | $31553147 | 1.47 | 3.41 | -0.55 | 6.80 |
-| 2021-22 | CLE | 84.6 | $28684771 | 2.06 | 4.69 | 1.73 | 12.99 |
+| 2023-24 | CLE | 54.6 | $34708589 | 1.08 | 0.26 | -0.33 | -0.78 |
+| 2022-23 | CLE | 65.7 | $31553147 | 1.55 | 2.83 | -0.45 | 5.66 |
+| 2021-22 | CLE | 82.1 | $28684771 | 2.15 | 3.89 | 1.44 | 10.78 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (1.27, 2.14)
+- **Cluster:** 0
+- **PCA Position:** (1.27, 1.96)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

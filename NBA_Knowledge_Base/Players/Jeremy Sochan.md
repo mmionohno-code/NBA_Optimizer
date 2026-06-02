@@ -3,12 +3,12 @@ player: "Jeremy Sochan"
 team: "SAS"
 season: "2023-24"
 archetype: "Versatile Scorer"
-composite_score: 43.41
+composite_score: 37.39
 salary: 6929078
-vorpd: 2.59
-off_rating_adj: 0.29
-def_rating_adj: -0.86
-on_off_diff: -0.66
+vorpd: 2.92
+off_rating_adj: 0.23
+def_rating_adj: -0.70
+on_off_diff: -0.54
 is_shooter: 1
 tags: [player, versatile-scorer]
 ---
@@ -20,29 +20,29 @@ tags: [player, versatile-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **43.4** / 100 |
+| Composite Score | **37.4** / 100 |
 | Salary | $6,929,078 |
-| VORPD | 2.59 |
-| Off Rating Adj | 0.29 |
-| Def Rating Adj | -0.86 |
-| On/Off Diff | -0.66 |
-| TS% | 52.3% |
-| 3P% | 30.8% |
+| VORPD | 2.92 |
+| Off Rating Adj | 0.23 |
+| Def Rating Adj | -0.70 |
+| On/Off Diff | -0.54 |
+| TS% | 52.9% |
+| 3P% | 34.3% |
 | Influence Score | 0.10 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending DOWN (-9.3 pts over 2 seasons)
+> **Trend:** Trending DOWN (-11.4 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | SAS | 43.4 | $6929078 | 2.59 | 0.29 | -0.86 | -0.66 |
-| 2022-23 | SAS | 52.8 | $6299139 | 4.33 | 3.09 | -1.15 | 5.95 |
+| 2023-24 | SAS | 37.4 | $6929078 | 2.92 | 0.23 | -0.70 | -0.54 |
+| 2022-23 | SAS | 48.8 | $6299139 | 5.07 | 2.30 | -0.86 | 4.43 |
 
 ## Profile
 
-- **Cluster:** 2
-- **PCA Position:** (-0.66, 0.75)
+- **Cluster:** 6
+- **PCA Position:** (-0.78, 1.06)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

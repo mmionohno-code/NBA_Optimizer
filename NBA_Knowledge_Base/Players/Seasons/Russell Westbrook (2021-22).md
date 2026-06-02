@@ -4,12 +4,12 @@ player: "Russell Westbrook"
 season: "2021-22"
 team: "LAL"
 archetype: "Versatile Scorer"
-composite_score: 61.72
+composite_score: 59.18
 salary: 1669826
-vorpd: 21.72
-off_rating_adj: -1.35
-def_rating_adj: 0.51
-on_off_diff: -1.89
+vorpd: 23.13
+off_rating_adj: -1.14
+def_rating_adj: 0.43
+on_off_diff: -1.59
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | LAL |
-| Composite Score | **61.7** / 100 |
+| Composite Score | **59.2** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 21.72 |
-| Off Rating Adj | -1.35 |
-| Def Rating Adj | 0.51 |
-| On/Off Diff | -1.89 |
-| TS% | 51.7% |
-| 3P% | 29.8% |
+| VORPD | 23.13 |
+| Off Rating Adj | -1.14 |
+| Def Rating Adj | 0.43 |
+| On/Off Diff | -1.59 |
+| TS% | 52.1% |
+| 3P% | 32.9% |
 | Influence Score | 0.14 |
 | Season Weight | 0.20 |
 

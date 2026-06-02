@@ -3,12 +3,12 @@ player: "Vít Krejčí"
 team: "ATL"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 38.94
+composite_score: 28.44
 salary: 2067392
-vorpd: 6.52
-off_rating_adj: 3.75
-def_rating_adj: -1.17
-on_off_diff: 3.72
+vorpd: 5.47
+off_rating_adj: 1.95
+def_rating_adj: -0.61
+on_off_diff: 1.93
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,29 +20,29 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **38.9** / 100 |
+| Composite Score | **28.4** / 100 |
 | Salary | $2,067,392 |
-| VORPD | 6.52 |
-| Off Rating Adj | 3.75 |
-| Def Rating Adj | -1.17 |
-| On/Off Diff | 3.72 |
-| TS% | 59.9% |
-| 3P% | 41.2% |
+| VORPD | 5.47 |
+| Off Rating Adj | 1.95 |
+| Def Rating Adj | -0.61 |
+| On/Off Diff | 1.93 |
+| TS% | 59.1% |
+| 3P% | 38.2% |
 | Influence Score | 0.06 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+8.4 pts over 2 seasons)
+> **Trend:** Trending UP (+3.1 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | ATL | 38.9 | $2067392 | 6.52 | 3.75 | -1.17 | 3.72 |
-| 2021-22 | OKC | 30.6 | $1708588 | 3.00 | 0.65 | -6.35 | -3.70 |
+| 2023-24 | ATL | 28.4 | $2067392 | 5.47 | 1.95 | -0.61 | 1.93 |
+| 2021-22 | OKC | 25.3 | $1708588 | 2.80 | 0.38 | -3.68 | -2.14 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.44, -1.28)
+- **Cluster:** 3
+- **PCA Position:** (0.05, -1.27)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

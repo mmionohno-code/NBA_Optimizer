@@ -3,12 +3,12 @@ player: "Aaron Nesmith"
 team: "IND"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 40.01
+composite_score: 28.35
 salary: 9678893
-vorpd: 1.50
-off_rating_adj: 1.48
-def_rating_adj: 0.82
-on_off_diff: 0.93
+vorpd: 1.16
+off_rating_adj: 1.18
+def_rating_adj: 0.66
+on_off_diff: 0.75
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **40.0** / 100 |
+| Composite Score | **28.4** / 100 |
 | Salary | $9,678,893 |
-| VORPD | 1.50 |
-| Off Rating Adj | 1.48 |
-| Def Rating Adj | 0.82 |
-| On/Off Diff | 0.93 |
-| TS% | 62.0% |
-| 3P% | 41.9% |
+| VORPD | 1.16 |
+| Off Rating Adj | 1.18 |
+| Def Rating Adj | 0.66 |
+| On/Off Diff | 0.75 |
+| TS% | 61.4% |
+| 3P% | 39.9% |
 | Influence Score | 0.10 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+13.4 pts over 3 seasons)
+> **Trend:** Trending UP (+5.2 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | IND | 40.0 | $9678893 | 1.50 | 1.48 | 0.82 | 0.93 |
-| 2022-23 | IND | 34.4 | $8798961 | 1.01 | 2.03 | -3.28 | -4.00 |
-| 2021-22 | BOS | 26.6 | $7999081 | 0.14 | -3.71 | 1.17 | -6.47 |
+| 2023-24 | IND | 28.4 | $9678893 | 1.16 | 1.18 | 0.66 | 0.75 |
+| 2022-23 | IND | 25.9 | $8798961 | 1.02 | 1.59 | -2.57 | -3.13 |
+| 2021-22 | BOS | 23.2 | $7999081 | 0.33 | -1.98 | 0.62 | -3.44 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.96, -1.81)
+- **Cluster:** 3
+- **PCA Position:** (0.91, -2.34)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

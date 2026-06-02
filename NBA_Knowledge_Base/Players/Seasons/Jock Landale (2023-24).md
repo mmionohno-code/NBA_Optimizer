@@ -4,12 +4,12 @@ player: "Jock Landale"
 season: "2023-24"
 team: "HOU"
 archetype: "Defensive Wing"
-composite_score: 51.08
+composite_score: 39.60
 salary: 2020490
-vorpd: 12.68
-off_rating_adj: 2.60
-def_rating_adj: 4.75
-on_off_diff: 10.19
+vorpd: 11.12
+off_rating_adj: 1.57
+def_rating_adj: 2.87
+on_off_diff: 6.16
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | HOU |
-| Composite Score | **51.1** / 100 |
+| Composite Score | **39.6** / 100 |
 | Salary | $2,020,490 |
-| VORPD | 12.68 |
-| Off Rating Adj | 2.60 |
-| Def Rating Adj | 4.75 |
-| On/Off Diff | 10.19 |
-| TS% | 58.0% |
-| 3P% | 25.0% |
+| VORPD | 11.12 |
+| Off Rating Adj | 1.57 |
+| Def Rating Adj | 2.87 |
+| On/Off Diff | 6.16 |
+| TS% | 57.9% |
+| 3P% | 35.8% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

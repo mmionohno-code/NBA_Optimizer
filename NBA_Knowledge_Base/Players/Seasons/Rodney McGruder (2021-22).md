@@ -4,12 +4,12 @@ player: "Rodney McGruder"
 season: "2021-22"
 team: "DET"
 archetype: "Defensive Wing"
-composite_score: 39.99
+composite_score: 30.33
 salary: 925258
-vorpd: 15.71
-off_rating_adj: 0.93
-def_rating_adj: 3.23
-on_off_diff: 6.22
+vorpd: 10.57
+off_rating_adj: 0.56
+def_rating_adj: 1.94
+on_off_diff: 3.74
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | DET |
-| Composite Score | **40.0** / 100 |
+| Composite Score | **30.3** / 100 |
 | Salary | $925,258 |
-| VORPD | 15.71 |
-| Off Rating Adj | 0.93 |
-| Def Rating Adj | 3.23 |
-| On/Off Diff | 6.22 |
-| TS% | 57.1% |
-| 3P% | 39.7% |
+| VORPD | 10.57 |
+| Off Rating Adj | 0.56 |
+| Def Rating Adj | 1.94 |
+| On/Off Diff | 3.74 |
+| TS% | 56.9% |
+| 3P% | 37.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

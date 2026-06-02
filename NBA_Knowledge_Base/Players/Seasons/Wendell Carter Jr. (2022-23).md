@@ -4,12 +4,12 @@ player: "Wendell Carter Jr."
 season: "2022-23"
 team: "ORL"
 archetype: "Perimeter Scorer"
-composite_score: 43.88
+composite_score: 36.00
 salary: 8678975
-vorpd: 2.12
-off_rating_adj: 0.84
-def_rating_adj: 0.78
-on_off_diff: 2.87
+vorpd: 2.20
+off_rating_adj: 0.65
+def_rating_adj: 0.60
+on_off_diff: 2.22
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | ORL |
-| Composite Score | **43.9** / 100 |
+| Composite Score | **36.0** / 100 |
 | Salary | $8,678,975 |
-| VORPD | 2.12 |
-| Off Rating Adj | 0.84 |
-| Def Rating Adj | 0.78 |
-| On/Off Diff | 2.87 |
-| TS% | 61.2% |
-| 3P% | 35.6% |
+| VORPD | 2.20 |
+| Off Rating Adj | 0.65 |
+| Def Rating Adj | 0.60 |
+| On/Off Diff | 2.22 |
+| TS% | 60.7% |
+| 3P% | 36.2% |
 | Influence Score | 0.12 |
 | Season Weight | 0.35 |
 

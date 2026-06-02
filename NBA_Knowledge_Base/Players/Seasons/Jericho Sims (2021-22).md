@@ -4,12 +4,12 @@ player: "Jericho Sims"
 season: "2021-22"
 team: "NYK"
 archetype: "Defensive Wing"
-composite_score: 39.93
+composite_score: 29.15
 salary: 1789949
-vorpd: 8.09
-off_rating_adj: 1.57
-def_rating_adj: 5.42
-on_off_diff: 10.75
+vorpd: 4.80
+off_rating_adj: 0.83
+def_rating_adj: 2.85
+on_off_diff: 5.65
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | NYK |
-| Composite Score | **39.9** / 100 |
+| Composite Score | **29.1** / 100 |
 | Salary | $1,789,949 |
-| VORPD | 8.09 |
-| Off Rating Adj | 1.57 |
-| Def Rating Adj | 5.42 |
-| On/Off Diff | 10.75 |
-| TS% | 59.2% |
-| 3P% | 34.1% |
+| VORPD | 4.80 |
+| Off Rating Adj | 0.83 |
+| Def Rating Adj | 2.85 |
+| On/Off Diff | 5.65 |
+| TS% | 58.0% |
+| 3P% | 35.7% |
 | Influence Score | 0.04 |
 | Season Weight | 0.20 |
 

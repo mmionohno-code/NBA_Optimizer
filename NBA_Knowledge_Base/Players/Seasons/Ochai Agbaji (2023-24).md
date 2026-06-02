@@ -4,12 +4,12 @@ player: "Ochai Agbaji"
 season: "2023-24"
 team: "TOR"
 archetype: "Bench / Role Player"
-composite_score: 35.15
+composite_score: 28.98
 salary: 5616859
-vorpd: 1.73
-off_rating_adj: 0.66
-def_rating_adj: -0.37
-on_off_diff: -1.25
+vorpd: 2.11
+off_rating_adj: 0.51
+def_rating_adj: -0.28
+on_off_diff: -0.95
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | TOR |
-| Composite Score | **35.1** / 100 |
+| Composite Score | **29.0** / 100 |
 | Salary | $5,616,859 |
-| VORPD | 1.73 |
-| Off Rating Adj | 0.66 |
-| Def Rating Adj | -0.37 |
-| On/Off Diff | -1.25 |
-| TS% | 51.7% |
-| 3P% | 29.4% |
+| VORPD | 2.11 |
+| Off Rating Adj | 0.51 |
+| Def Rating Adj | -0.28 |
+| On/Off Diff | -0.95 |
+| TS% | 52.7% |
+| 3P% | 33.8% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

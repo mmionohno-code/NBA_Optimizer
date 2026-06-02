@@ -4,12 +4,12 @@ player: "James Harden"
 season: "2023-24"
 team: "LAC"
 archetype: "Elite Playmaker"
-composite_score: 67.83
+composite_score: 62.88
 salary: 34476826
-vorpd: 1.23
-off_rating_adj: 5.73
-def_rating_adj: -1.05
-on_off_diff: 2.62
+vorpd: 1.33
+off_rating_adj: 4.76
+def_rating_adj: -0.87
+on_off_diff: 2.20
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | LAC |
-| Composite Score | **67.8** / 100 |
+| Composite Score | **62.9** / 100 |
 | Salary | $34,476,826 |
-| VORPD | 1.23 |
-| Off Rating Adj | 5.73 |
-| Def Rating Adj | -1.05 |
-| On/Off Diff | 2.62 |
-| TS% | 60.6% |
-| 3P% | 38.1% |
+| VORPD | 1.33 |
+| Off Rating Adj | 4.76 |
+| Def Rating Adj | -0.87 |
+| On/Off Diff | 2.20 |
+| TS% | 60.3% |
+| 3P% | 37.9% |
 | Influence Score | 0.12 |
 | Season Weight | 0.45 |
 

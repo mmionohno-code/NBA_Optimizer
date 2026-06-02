@@ -4,12 +4,12 @@ player: "Lindy Waters III"
 season: "2022-23"
 team: "OKC"
 archetype: "Defensive Wing"
-composite_score: 49.17
+composite_score: 36.71
 salary: 1836802
-vorpd: 12.91
-off_rating_adj: 2.63
-def_rating_adj: 7.40
-on_off_diff: 10.37
+vorpd: 10.79
+off_rating_adj: 1.35
+def_rating_adj: 3.80
+on_off_diff: 5.33
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | OKC |
-| Composite Score | **49.2** / 100 |
+| Composite Score | **36.7** / 100 |
 | Salary | $1,836,802 |
-| VORPD | 12.91 |
-| Off Rating Adj | 2.63 |
-| Def Rating Adj | 7.40 |
-| On/Off Diff | 10.37 |
-| TS% | 57.4% |
-| 3P% | 35.8% |
+| VORPD | 10.79 |
+| Off Rating Adj | 1.35 |
+| Def Rating Adj | 3.80 |
+| On/Off Diff | 5.33 |
+| TS% | 57.5% |
+| 3P% | 36.4% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

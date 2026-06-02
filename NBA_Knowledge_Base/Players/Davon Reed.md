@@ -3,12 +3,12 @@ player: "Davon Reed"
 team: "DEN"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 30.59
+composite_score: 21.97
 salary: 925258
-vorpd: 5.55
-off_rating_adj: -1.90
-def_rating_adj: 1.08
-on_off_diff: -0.55
+vorpd: 1.53
+off_rating_adj: -1.09
+def_rating_adj: 0.62
+on_off_diff: -0.30
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **30.6** / 100 |
+| Composite Score | **22.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 5.55 |
-| Off Rating Adj | -1.90 |
-| Def Rating Adj | 1.08 |
-| On/Off Diff | -0.55 |
-| TS% | 59.4% |
-| 3P% | 43.0% |
+| VORPD | 1.53 |
+| Off Rating Adj | -1.09 |
+| Def Rating Adj | 0.62 |
+| On/Off Diff | -0.30 |
+| TS% | 58.5% |
+| 3P% | 37.8% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | DEN | 30.6 | $925258 | 5.55 | -1.90 | 1.08 | -0.55 |
+| 2021-22 | DEN | 22.0 | $925258 | 1.53 | -1.09 | 0.62 | -0.30 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.65, -1.26)
+- **Cluster:** 1
+- **PCA Position:** (-1.00, -1.06)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

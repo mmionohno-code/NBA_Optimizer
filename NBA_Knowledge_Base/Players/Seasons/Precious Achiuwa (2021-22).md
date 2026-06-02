@@ -4,12 +4,12 @@ player: "Precious Achiuwa"
 season: "2021-22"
 team: "TOR"
 archetype: "Defensive Wing"
-composite_score: 37.22
+composite_score: 29.72
 salary: 1535472
-vorpd: 7.66
-off_rating_adj: -0.65
-def_rating_adj: 1.91
-on_off_diff: -0.67
+vorpd: 5.97
+off_rating_adj: -0.51
+def_rating_adj: 1.48
+on_off_diff: -0.50
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | TOR |
-| Composite Score | **37.2** / 100 |
+| Composite Score | **29.7** / 100 |
 | Salary | $1,535,472 |
-| VORPD | 7.66 |
-| Off Rating Adj | -0.65 |
-| Def Rating Adj | 1.91 |
-| On/Off Diff | -0.67 |
-| TS% | 51.5% |
-| 3P% | 35.9% |
+| VORPD | 5.97 |
+| Off Rating Adj | -0.51 |
+| Def Rating Adj | 1.48 |
+| On/Off Diff | -0.50 |
+| TS% | 52.1% |
+| 3P% | 36.0% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

@@ -4,12 +4,12 @@ player: "Shake Milton"
 season: "2022-23"
 team: "PHI"
 archetype: "Bench / Role Player"
-composite_score: 41.13
+composite_score: 32.45
 salary: 1017781
-vorpd: 15.40
-off_rating_adj: 0.37
-def_rating_adj: 1.55
-on_off_diff: -1.58
+vorpd: 15.29
+off_rating_adj: 0.28
+def_rating_adj: 1.17
+on_off_diff: -1.18
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | PHI |
-| Composite Score | **41.1** / 100 |
+| Composite Score | **32.5** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 15.40 |
-| Off Rating Adj | 0.37 |
-| Def Rating Adj | 1.55 |
-| On/Off Diff | -1.58 |
+| VORPD | 15.29 |
+| Off Rating Adj | 0.28 |
+| Def Rating Adj | 1.17 |
+| On/Off Diff | -1.18 |
 | TS% | 57.5% |
-| 3P% | 37.8% |
+| 3P% | 37.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

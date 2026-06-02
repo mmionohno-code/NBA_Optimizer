@@ -4,12 +4,12 @@ player: "Frank Jackson"
 season: "2021-22"
 team: "DET"
 archetype: "Defensive Wing"
-composite_score: 40.77
+composite_score: 35.77
 salary: 925258
-vorpd: 16.55
-off_rating_adj: 0.03
-def_rating_adj: 1.03
-on_off_diff: 3.09
+vorpd: 16.45
+off_rating_adj: 0.02
+def_rating_adj: 0.72
+on_off_diff: 2.16
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | DET |
-| Composite Score | **40.8** / 100 |
+| Composite Score | **35.8** / 100 |
 | Salary | $925,258 |
-| VORPD | 16.55 |
-| Off Rating Adj | 0.03 |
-| Def Rating Adj | 1.03 |
-| On/Off Diff | 3.09 |
-| TS% | 53.8% |
-| 3P% | 30.8% |
+| VORPD | 16.45 |
+| Off Rating Adj | 0.02 |
+| Def Rating Adj | 0.72 |
+| On/Off Diff | 2.16 |
+| TS% | 54.2% |
+| 3P% | 33.4% |
 | Influence Score | 0.11 |
 | Season Weight | 0.20 |
 

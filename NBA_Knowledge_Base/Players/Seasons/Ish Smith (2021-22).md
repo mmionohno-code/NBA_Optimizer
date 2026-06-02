@@ -4,12 +4,12 @@ player: "Ish Smith"
 season: "2021-22"
 team: "WAS"
 archetype: "Versatile Scorer"
-composite_score: 45.74
+composite_score: 38.84
 salary: 925258
-vorpd: 21.92
-off_rating_adj: -1.19
-def_rating_adj: -1.53
-on_off_diff: -5.55
+vorpd: 19.77
+off_rating_adj: -0.83
+def_rating_adj: -1.06
+on_off_diff: -3.84
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | WAS |
-| Composite Score | **45.7** / 100 |
+| Composite Score | **38.8** / 100 |
 | Salary | $925,258 |
-| VORPD | 21.92 |
-| Off Rating Adj | -1.19 |
-| Def Rating Adj | -1.53 |
-| On/Off Diff | -5.55 |
-| TS% | 49.0% |
-| 3P% | 37.3% |
+| VORPD | 19.77 |
+| Off Rating Adj | -0.83 |
+| Def Rating Adj | -1.06 |
+| On/Off Diff | -3.84 |
+| TS% | 50.3% |
+| 3P% | 36.4% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

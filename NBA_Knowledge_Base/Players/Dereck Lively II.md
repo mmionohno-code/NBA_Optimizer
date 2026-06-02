@@ -3,12 +3,12 @@ player: "Dereck Lively II"
 team: "DAL"
 season: "2023-24"
 archetype: "Two-Way Big"
-composite_score: 39.16
+composite_score: 30.45
 salary: 4622428
-vorpd: 2.96
-off_rating_adj: 4.52
-def_rating_adj: -1.45
-on_off_diff: 3.75
+vorpd: 2.88
+off_rating_adj: 3.26
+def_rating_adj: -1.05
+on_off_diff: 2.72
 is_shooter: 0
 tags: [player, two-way-big]
 ---
@@ -20,14 +20,14 @@ tags: [player, two-way-big]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **39.2** / 100 |
+| Composite Score | **30.4** / 100 |
 | Salary | $4,622,428 |
-| VORPD | 2.96 |
-| Off Rating Adj | 4.52 |
-| Def Rating Adj | -1.45 |
-| On/Off Diff | 3.75 |
-| TS% | 67.7% |
-| 3P% | 35.6% |
+| VORPD | 2.88 |
+| Off Rating Adj | 3.26 |
+| Def Rating Adj | -1.05 |
+| On/Off Diff | 2.72 |
+| TS% | 65.5% |
+| 3P% | 37.0% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, two-way-big]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | DAL | 39.2 | $4622428 | 2.96 | 4.52 | -1.45 | 3.75 |
+| 2023-24 | DAL | 30.4 | $4622428 | 2.88 | 3.26 | -1.05 | 2.72 |
 
 ## Profile
 
 - **Cluster:** 4
-- **PCA Position:** (1.73, -3.10)
+- **PCA Position:** (1.67, -3.10)
 - **Is Shooter:** No
 
 ## Appears In Scenarios

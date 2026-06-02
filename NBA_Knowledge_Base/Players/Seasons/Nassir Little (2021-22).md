@@ -4,12 +4,12 @@ player: "Nassir Little"
 season: "2021-22"
 team: "POR"
 archetype: "Defensive Wing"
-composite_score: 50.84
+composite_score: 44.30
 salary: 2259481
-vorpd: 11.23
-off_rating_adj: 4.99
-def_rating_adj: 3.18
-on_off_diff: 10.86
+vorpd: 10.51
+off_rating_adj: 3.42
+def_rating_adj: 2.18
+on_off_diff: 7.44
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | POR |
-| Composite Score | **50.8** / 100 |
+| Composite Score | **44.3** / 100 |
 | Salary | $2,259,481 |
-| VORPD | 11.23 |
-| Off Rating Adj | 4.99 |
-| Def Rating Adj | 3.18 |
-| On/Off Diff | 10.86 |
-| TS% | 57.1% |
-| 3P% | 33.1% |
+| VORPD | 10.51 |
+| Off Rating Adj | 3.42 |
+| Def Rating Adj | 2.18 |
+| On/Off Diff | 7.44 |
+| TS% | 56.9% |
+| 3P% | 35.0% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

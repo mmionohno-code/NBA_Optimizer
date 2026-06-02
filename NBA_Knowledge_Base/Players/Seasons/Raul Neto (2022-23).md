@@ -4,12 +4,12 @@ player: "Raul Neto"
 season: "2022-23"
 team: "CLE"
 archetype: "Bench / Role Player"
-composite_score: 33.40
+composite_score: 24.96
 salary: 1017781
-vorpd: 7.81
-off_rating_adj: -2.29
-def_rating_adj: -1.55
-on_off_diff: -4.52
+vorpd: 7.93
+off_rating_adj: -1.15
+def_rating_adj: -0.78
+on_off_diff: -2.26
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | CLE |
-| Composite Score | **33.4** / 100 |
+| Composite Score | **25.0** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 7.81 |
-| Off Rating Adj | -2.29 |
-| Def Rating Adj | -1.55 |
-| On/Off Diff | -4.52 |
-| TS% | 59.8% |
-| 3P% | 28.6% |
+| VORPD | 7.93 |
+| Off Rating Adj | -1.15 |
+| Def Rating Adj | -0.78 |
+| On/Off Diff | -2.26 |
+| TS% | 59.1% |
+| 3P% | 35.6% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

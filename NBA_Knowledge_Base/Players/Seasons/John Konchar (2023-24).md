@@ -4,12 +4,12 @@ player: "John Konchar"
 season: "2023-24"
 team: "MEM"
 archetype: "Defensive Wing"
-composite_score: 40.60
+composite_score: 32.77
 salary: 5424579
-vorpd: 2.79
-off_rating_adj: 0.16
-def_rating_adj: -0.50
-on_off_diff: 2.11
+vorpd: 2.88
+off_rating_adj: 0.11
+def_rating_adj: -0.35
+on_off_diff: 1.48
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | MEM |
-| Composite Score | **40.6** / 100 |
+| Composite Score | **32.8** / 100 |
 | Salary | $5,424,579 |
-| VORPD | 2.79 |
-| Off Rating Adj | 0.16 |
-| Def Rating Adj | -0.50 |
-| On/Off Diff | 2.11 |
-| TS% | 55.3% |
-| 3P% | 31.7% |
+| VORPD | 2.88 |
+| Off Rating Adj | 0.11 |
+| Def Rating Adj | -0.35 |
+| On/Off Diff | 1.48 |
+| TS% | 55.9% |
+| 3P% | 35.6% |
 | Influence Score | 0.05 |
 | Season Weight | 0.45 |
 

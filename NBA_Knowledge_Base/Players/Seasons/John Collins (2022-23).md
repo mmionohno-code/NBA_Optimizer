@@ -4,12 +4,12 @@ player: "John Collins"
 season: "2022-23"
 team: "ATL"
 archetype: "Two-Way Big"
-composite_score: 39.13
+composite_score: 34.12
 salary: 21261490
-vorpd: 0.64
-off_rating_adj: 4.06
-def_rating_adj: -1.93
-on_off_diff: -1.36
+vorpd: 0.81
+off_rating_adj: 3.29
+def_rating_adj: -1.56
+on_off_diff: -1.09
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | ATL |
-| Composite Score | **39.1** / 100 |
+| Composite Score | **34.1** / 100 |
 | Salary | $21,261,490 |
-| VORPD | 0.64 |
-| Off Rating Adj | 4.06 |
-| Def Rating Adj | -1.93 |
-| On/Off Diff | -1.36 |
-| TS% | 59.0% |
-| 3P% | 29.2% |
+| VORPD | 0.81 |
+| Off Rating Adj | 3.29 |
+| Def Rating Adj | -1.56 |
+| On/Off Diff | -1.09 |
+| TS% | 58.8% |
+| 3P% | 33.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.35 |
 

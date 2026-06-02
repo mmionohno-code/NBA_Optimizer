@@ -4,12 +4,12 @@ player: "Damion Lee"
 season: "2021-22"
 team: "GSW"
 archetype: "Bench / Role Player"
-composite_score: 28.63
+composite_score: 21.53
 salary: 925258
-vorpd: 3.43
-off_rating_adj: -0.13
-def_rating_adj: -1.37
-on_off_diff: -5.80
+vorpd: 1.06
+off_rating_adj: -0.10
+def_rating_adj: -0.98
+on_off_diff: -4.13
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | GSW |
-| Composite Score | **28.6** / 100 |
+| Composite Score | **21.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 3.43 |
-| Off Rating Adj | -0.13 |
-| Def Rating Adj | -1.37 |
-| On/Off Diff | -5.80 |
-| TS% | 56.1% |
-| 3P% | 33.7% |
+| VORPD | 1.06 |
+| Off Rating Adj | -0.10 |
+| Def Rating Adj | -0.98 |
+| On/Off Diff | -4.13 |
+| TS% | 56.2% |
+| 3P% | 35.1% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

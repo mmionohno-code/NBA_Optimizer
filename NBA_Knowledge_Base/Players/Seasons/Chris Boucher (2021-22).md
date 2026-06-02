@@ -4,12 +4,12 @@ player: "Chris Boucher"
 season: "2021-22"
 team: "TOR"
 archetype: "Defensive Wing"
-composite_score: 43.63
+composite_score: 38.75
 salary: 1669826
-vorpd: 10.88
-off_rating_adj: 1.65
-def_rating_adj: 2.91
-on_off_diff: 5.29
+vorpd: 10.90
+off_rating_adj: 1.27
+def_rating_adj: 2.24
+on_off_diff: 4.10
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | TOR |
-| Composite Score | **43.6** / 100 |
+| Composite Score | **38.8** / 100 |
 | Salary | $1,669,826 |
-| VORPD | 10.88 |
-| Off Rating Adj | 1.65 |
-| Def Rating Adj | 2.91 |
-| On/Off Diff | 5.29 |
-| TS% | 56.8% |
-| 3P% | 29.7% |
+| VORPD | 10.90 |
+| Off Rating Adj | 1.27 |
+| Def Rating Adj | 2.24 |
+| On/Off Diff | 4.10 |
+| TS% | 56.7% |
+| 3P% | 33.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

@@ -3,12 +3,12 @@ player: "Kessler Edwards"
 team: "SAC"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 30.21
+composite_score: 23.92
 salary: 1017781
-vorpd: 4.67
-off_rating_adj: 0.53
-def_rating_adj: -1.82
-on_off_diff: -0.38
+vorpd: 6.91
+off_rating_adj: 0.23
+def_rating_adj: -0.79
+on_off_diff: -0.16
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **30.2** / 100 |
+| Composite Score | **23.9** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 4.67 |
-| Off Rating Adj | 0.53 |
-| Def Rating Adj | -1.82 |
-| On/Off Diff | -0.38 |
-| TS% | 54.8% |
-| 3P% | 30.9% |
+| VORPD | 6.91 |
+| Off Rating Adj | 0.23 |
+| Def Rating Adj | -0.79 |
+| On/Off Diff | -0.16 |
+| TS% | 55.7% |
+| 3P% | 35.8% |
 | Influence Score | 0.07 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Stable (+2.9 pts over 2 seasons)
+> **Trend:** Stable (+2.8 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | SAC | 30.2 | $1017781 | 4.67 | 0.53 | -1.82 | -0.38 |
-| 2021-22 | BKN | 27.3 | $925258 | 1.97 | 0.60 | -4.18 | -4.37 |
+| 2022-23 | SAC | 23.9 | $1017781 | 6.91 | 0.23 | -0.79 | -0.16 |
+| 2021-22 | BKN | 21.1 | $925258 | 0.59 | 0.40 | -2.78 | -2.89 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.56, -0.28)
+- **Cluster:** 1
+- **PCA Position:** (-1.39, -0.23)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Jaylen Nowell"
 season: "2022-23"
 team: "MIN"
 archetype: "Versatile Scorer"
-composite_score: 44.30
+composite_score: 39.28
 salary: 1017781
-vorpd: 18.51
-off_rating_adj: -0.89
-def_rating_adj: 0.94
-on_off_diff: -1.32
+vorpd: 22.00
+off_rating_adj: -0.64
+def_rating_adj: 0.67
+on_off_diff: -0.93
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | MIN |
-| Composite Score | **44.3** / 100 |
+| Composite Score | **39.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 18.51 |
-| Off Rating Adj | -0.89 |
-| Def Rating Adj | 0.94 |
-| On/Off Diff | -1.32 |
-| TS% | 53.7% |
-| 3P% | 28.9% |
+| VORPD | 22.00 |
+| Off Rating Adj | -0.64 |
+| Def Rating Adj | 0.67 |
+| On/Off Diff | -0.93 |
+| TS% | 54.2% |
+| 3P% | 33.1% |
 | Influence Score | 0.13 |
 | Season Weight | 0.35 |
 

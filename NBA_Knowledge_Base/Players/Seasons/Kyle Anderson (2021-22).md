@@ -4,12 +4,12 @@ player: "Kyle Anderson"
 season: "2021-22"
 team: "MEM"
 archetype: "Versatile Scorer"
-composite_score: 40.99
+composite_score: 33.93
 salary: 6704330
-vorpd: 2.32
-off_rating_adj: -1.83
-def_rating_adj: -1.24
-on_off_diff: -6.72
+vorpd: 2.00
+off_rating_adj: -1.37
+def_rating_adj: -0.92
+on_off_diff: -5.01
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | MEM |
-| Composite Score | **41.0** / 100 |
+| Composite Score | **33.9** / 100 |
 | Salary | $6,704,330 |
-| VORPD | 2.32 |
-| Off Rating Adj | -1.83 |
-| Def Rating Adj | -1.24 |
-| On/Off Diff | -6.72 |
-| TS% | 52.0% |
-| 3P% | 33.0% |
+| VORPD | 2.00 |
+| Off Rating Adj | -1.37 |
+| Def Rating Adj | -0.92 |
+| On/Off Diff | -5.01 |
+| TS% | 52.7% |
+| 3P% | 35.2% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

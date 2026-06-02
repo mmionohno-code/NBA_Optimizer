@@ -3,12 +3,12 @@ player: "Johnny Davis"
 team: "WAS"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 28.00
+composite_score: 19.91
 salary: 5000000
-vorpd: 0.51
-off_rating_adj: -3.62
-def_rating_adj: 1.41
-on_off_diff: -0.67
+vorpd: 0.56
+off_rating_adj: -1.99
+def_rating_adj: 0.78
+on_off_diff: -0.38
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **28.0** / 100 |
+| Composite Score | **19.9** / 100 |
 | Salary | $5,000,000 |
-| VORPD | 0.51 |
-| Off Rating Adj | -3.62 |
-| Def Rating Adj | 1.41 |
-| On/Off Diff | -0.67 |
-| TS% | 51.8% |
-| 3P% | 35.0% |
+| VORPD | 0.56 |
+| Off Rating Adj | -1.99 |
+| Def Rating Adj | 0.78 |
+| On/Off Diff | -0.38 |
+| TS% | 53.4% |
+| 3P% | 37.1% |
 | Influence Score | 0.06 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Stable (-0.3 pts over 2 seasons)
+> **Trend:** Trending DOWN (-4.7 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | WAS | 28.0 | $5000000 | 0.51 | -3.62 | 1.41 | -0.67 |
-| 2022-23 | WAS | 28.3 | $1017781 | 2.81 | -10.59 | 5.48 | -5.46 |
+| 2023-24 | WAS | 19.9 | $5000000 | 0.56 | -1.99 | 0.78 | -0.38 |
+| 2022-23 | WAS | 24.6 | $1017781 | 7.63 | -4.85 | 2.51 | -2.50 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.23, -0.26)
+- **Cluster:** 5
+- **PCA Position:** (-2.05, -0.34)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

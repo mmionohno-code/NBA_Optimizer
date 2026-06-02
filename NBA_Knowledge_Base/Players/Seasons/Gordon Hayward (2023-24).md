@@ -4,12 +4,12 @@ player: "Gordon Hayward"
 season: "2023-24"
 team: "OKC"
 archetype: "Bench / Role Player"
-composite_score: 34.67
+composite_score: 25.69
 salary: 31500000
-vorpd: 0.29
-off_rating_adj: -3.08
-def_rating_adj: -7.39
-on_off_diff: -0.79
+vorpd: 0.27
+off_rating_adj: -2.20
+def_rating_adj: -5.27
+on_off_diff: -0.56
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | OKC |
-| Composite Score | **34.7** / 100 |
+| Composite Score | **25.7** / 100 |
 | Salary | $31,500,000 |
-| VORPD | 0.29 |
-| Off Rating Adj | -3.08 |
-| Def Rating Adj | -7.39 |
-| On/Off Diff | -0.79 |
-| TS% | 55.5% |
-| 3P% | 41.1% |
+| VORPD | 0.27 |
+| Off Rating Adj | -2.20 |
+| Def Rating Adj | -5.27 |
+| On/Off Diff | -0.56 |
+| TS% | 55.9% |
+| 3P% | 38.4% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

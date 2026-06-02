@@ -3,12 +3,12 @@ player: "Terance Mann"
 team: "LAC"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 34.06
+composite_score: 25.07
 salary: 13638440
-vorpd: 0.63
-off_rating_adj: 1.53
-def_rating_adj: -0.65
-on_off_diff: -2.66
+vorpd: 0.58
+off_rating_adj: 1.21
+def_rating_adj: -0.51
+on_off_diff: -2.08
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **34.1** / 100 |
+| Composite Score | **25.1** / 100 |
 | Salary | $13,638,440 |
-| VORPD | 0.63 |
-| Off Rating Adj | 1.53 |
-| Def Rating Adj | -0.65 |
-| On/Off Diff | -2.66 |
-| TS% | 60.6% |
-| 3P% | 34.8% |
+| VORPD | 0.58 |
+| Off Rating Adj | 1.21 |
+| Def Rating Adj | -0.51 |
+| On/Off Diff | -2.08 |
+| TS% | 60.1% |
+| 3P% | 36.3% |
 | Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-13.7 pts over 3 seasons)
+> **Trend:** Trending DOWN (-15.8 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | LAC | 34.1 | $13638440 | 0.63 | 1.53 | -0.65 | -2.66 |
-| 2022-23 | LAC | 38.3 | $12398536 | 1.04 | 2.19 | 0.54 | 0.85 |
-| 2021-22 | LAC | 47.8 | $11271433 | 1.98 | 0.64 | 2.55 | 4.68 |
+| 2023-24 | LAC | 25.1 | $13638440 | 0.58 | 1.21 | -0.51 | -2.08 |
+| 2022-23 | LAC | 29.1 | $12398536 | 0.98 | 1.73 | 0.43 | 0.68 |
+| 2021-22 | LAC | 40.9 | $11271433 | 1.80 | 0.52 | 2.10 | 3.86 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.43, -0.79)
+- **Cluster:** 1
+- **PCA Position:** (-0.54, -0.83)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

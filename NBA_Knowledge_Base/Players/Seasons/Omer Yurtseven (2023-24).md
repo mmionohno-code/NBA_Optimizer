@@ -4,12 +4,12 @@ player: "Omer Yurtseven"
 season: "2023-24"
 team: "UTA"
 archetype: "Bench / Role Player"
-composite_score: 19.92
+composite_score: 13.08
 salary: 2019706
 vorpd: 0.00
-off_rating_adj: -8.36
-def_rating_adj: 1.52
-on_off_diff: -8.42
+off_rating_adj: -4.37
+def_rating_adj: 0.80
+on_off_diff: -4.40
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | UTA |
-| Composite Score | **19.9** / 100 |
+| Composite Score | **13.1** / 100 |
 | Salary | $2,019,706 |
 | VORPD | 0.00 |
-| Off Rating Adj | -8.36 |
-| Def Rating Adj | 1.52 |
-| On/Off Diff | -8.42 |
-| TS% | 57.0% |
-| 3P% | 20.8% |
+| Off Rating Adj | -4.37 |
+| Def Rating Adj | 0.80 |
+| On/Off Diff | -4.40 |
+| TS% | 57.1% |
+| 3P% | 36.0% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

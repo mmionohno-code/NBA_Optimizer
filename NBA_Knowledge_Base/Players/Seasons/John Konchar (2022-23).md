@@ -4,12 +4,12 @@ player: "John Konchar"
 season: "2022-23"
 team: "MEM"
 archetype: "Defensive Wing"
-composite_score: 47.74
+composite_score: 40.42
 salary: 4931418
-vorpd: 4.52
-off_rating_adj: 1.61
-def_rating_adj: 2.17
-on_off_diff: 4.53
+vorpd: 4.77
+off_rating_adj: 1.20
+def_rating_adj: 1.63
+on_off_diff: 3.40
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | MEM |
-| Composite Score | **47.7** / 100 |
+| Composite Score | **40.4** / 100 |
 | Salary | $4,931,418 |
-| VORPD | 4.52 |
-| Off Rating Adj | 1.61 |
-| Def Rating Adj | 2.17 |
-| On/Off Diff | 4.53 |
-| TS% | 55.3% |
-| 3P% | 33.9% |
+| VORPD | 4.77 |
+| Off Rating Adj | 1.20 |
+| Def Rating Adj | 1.63 |
+| On/Off Diff | 3.40 |
+| TS% | 55.8% |
+| 3P% | 35.6% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

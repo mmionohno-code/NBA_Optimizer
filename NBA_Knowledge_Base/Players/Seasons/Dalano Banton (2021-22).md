@@ -4,12 +4,12 @@ player: "Dalano Banton"
 season: "2021-22"
 team: "TOR"
 archetype: "Bench / Role Player"
-composite_score: 43.55
+composite_score: 35.03
 salary: 925258
-vorpd: 19.56
-off_rating_adj: -2.75
-def_rating_adj: 3.51
-on_off_diff: -0.14
+vorpd: 15.65
+off_rating_adj: -1.60
+def_rating_adj: 2.04
+on_off_diff: -0.07
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | TOR |
-| Composite Score | **43.5** / 100 |
+| Composite Score | **35.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 19.56 |
-| Off Rating Adj | -2.75 |
-| Def Rating Adj | 3.51 |
-| On/Off Diff | -0.14 |
-| TS% | 50.5% |
-| 3P% | 25.5% |
+| VORPD | 15.65 |
+| Off Rating Adj | -1.60 |
+| Def Rating Adj | 2.04 |
+| On/Off Diff | -0.07 |
+| TS% | 52.0% |
+| 3P% | 34.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

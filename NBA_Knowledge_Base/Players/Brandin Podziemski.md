@@ -3,12 +3,12 @@ player: "Brandin Podziemski"
 team: "GSW"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 51.92
+composite_score: 44.40
 salary: 3245034
-vorpd: 8.16
-off_rating_adj: 2.86
-def_rating_adj: 1.27
-on_off_diff: 6.85
+vorpd: 8.40
+off_rating_adj: 2.28
+def_rating_adj: 1.01
+on_off_diff: 5.48
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **51.9** / 100 |
+| Composite Score | **44.4** / 100 |
 | Salary | $3,245,034 |
-| VORPD | 8.16 |
-| Off Rating Adj | 2.86 |
-| Def Rating Adj | 1.27 |
-| On/Off Diff | 6.85 |
-| TS% | 54.7% |
-| 3P% | 38.5% |
+| VORPD | 8.40 |
+| Off Rating Adj | 2.28 |
+| Def Rating Adj | 1.01 |
+| On/Off Diff | 5.48 |
+| TS% | 55.1% |
+| 3P% | 37.9% |
 | Influence Score | 0.08 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, perimeter-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | GSW | 51.9 | $3245034 | 8.16 | 2.86 | 1.27 | 6.85 |
+| 2023-24 | GSW | 44.4 | $3245034 | 8.40 | 2.28 | 1.01 | 5.48 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.60, 0.06)
+- **Cluster:** 3
+- **PCA Position:** (0.70, -0.16)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

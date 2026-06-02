@@ -2,48 +2,48 @@
 player: "Saddiq Bey"
 team: "ATL"
 season: "2023-24"
-archetype: "Perimeter Scorer"
-composite_score: 44.21
+archetype: "Versatile Scorer"
+composite_score: 39.51
 salary: 5383791
-vorpd: 3.48
-off_rating_adj: 4.95
-def_rating_adj: -2.57
-on_off_diff: 3.05
+vorpd: 4.16
+off_rating_adj: 3.98
+def_rating_adj: -2.07
+on_off_diff: 2.46
 is_shooter: 1
-tags: [player, perimeter-scorer]
+tags: [player, versatile-scorer]
 ---
 # Saddiq Bey
 
-> **Archetype:** [[Archetypes/Perimeter Scorer]] | **Team:** ATL | **Latest Season:** 2023-24
+> **Archetype:** [[Archetypes/Versatile Scorer]] | **Team:** ATL | **Latest Season:** 2023-24
 
 ## Most Recent Season Stats (2023-24)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **44.2** / 100 |
+| Composite Score | **39.5** / 100 |
 | Salary | $5,383,791 |
-| VORPD | 3.48 |
-| Off Rating Adj | 4.95 |
-| Def Rating Adj | -2.57 |
-| On/Off Diff | 3.05 |
-| TS% | 55.4% |
-| 3P% | 31.6% |
+| VORPD | 4.16 |
+| Off Rating Adj | 3.98 |
+| Def Rating Adj | -2.07 |
+| On/Off Diff | 2.46 |
+| TS% | 55.6% |
+| 3P% | 34.0% |
 | Influence Score | 0.09 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Stable (+2.2 pts over 3 seasons)
+> **Trend:** Trending UP (+4.2 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | ATL | 44.2 | $5383791 | 3.48 | 4.95 | -2.57 | 3.05 |
-| 2022-23 | ATL | 46.8 | $4894337 | 4.37 | 2.96 | -3.73 | 4.07 |
-| 2021-22 | DET | 42.0 | $4449412 | 3.73 | 0.63 | -2.07 | -3.87 |
+| 2023-24 | ATL | 39.5 | $5383791 | 4.16 | 3.98 | -2.07 | 2.46 |
+| 2022-23 | ATL | 40.2 | $4894337 | 4.77 | 2.40 | -3.02 | 3.30 |
+| 2021-22 | DET | 35.3 | $4449412 | 3.31 | 0.53 | -1.75 | -3.27 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.08, 0.03)
+- **Cluster:** 6
+- **PCA Position:** (0.09, 0.38)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Josh Hart"
 season: "2022-23"
 team: "NYK"
 archetype: "Perimeter Scorer"
-composite_score: 59.99
+composite_score: 55.07
 salary: 15575953
-vorpd: 2.22
-off_rating_adj: 6.43
-def_rating_adj: -1.33
-on_off_diff: 11.46
+vorpd: 2.45
+off_rating_adj: 5.34
+def_rating_adj: -1.10
+on_off_diff: 9.53
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | NYK |
-| Composite Score | **60.0** / 100 |
+| Composite Score | **55.1** / 100 |
 | Salary | $15,575,953 |
-| VORPD | 2.22 |
-| Off Rating Adj | 6.43 |
-| Def Rating Adj | -1.33 |
-| On/Off Diff | 11.46 |
-| TS% | 61.2% |
-| 3P% | 37.2% |
+| VORPD | 2.45 |
+| Off Rating Adj | 5.34 |
+| Def Rating Adj | -1.10 |
+| On/Off Diff | 9.53 |
+| TS% | 60.6% |
+| 3P% | 36.9% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

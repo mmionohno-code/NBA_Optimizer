@@ -4,12 +4,12 @@ player: "Walker Kessler"
 season: "2022-23"
 team: "UTA"
 archetype: "Two-Way Big"
-composite_score: 39.74
+composite_score: 31.87
 salary: 3902690
-vorpd: 3.66
-off_rating_adj: 3.87
-def_rating_adj: 2.03
-on_off_diff: 5.54
+vorpd: 3.84
+off_rating_adj: 2.99
+def_rating_adj: 1.57
+on_off_diff: 4.29
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | UTA |
-| Composite Score | **39.7** / 100 |
+| Composite Score | **31.9** / 100 |
 | Salary | $3,902,690 |
-| VORPD | 3.66 |
-| Off Rating Adj | 3.87 |
-| Def Rating Adj | 2.03 |
-| On/Off Diff | 5.54 |
-| TS% | 66.9% |
-| 3P% | 35.0% |
-| Influence Score | 0.09 |
+| VORPD | 3.84 |
+| Off Rating Adj | 2.99 |
+| Def Rating Adj | 1.57 |
+| On/Off Diff | 4.29 |
+| TS% | 65.2% |
+| 3P% | 36.4% |
+| Influence Score | 0.08 |
 | Season Weight | 0.35 |
 
 _Navigate back to the full player profile: [[Players/Walker Kessler]]_

@@ -3,12 +3,12 @@ player: "Jarred Vanderbilt"
 team: "LAL"
 season: "2023-24"
 archetype: "Defensive Wing"
-composite_score: 49.70
+composite_score: 38.86
 salary: 10181693
-vorpd: 2.38
-off_rating_adj: 0.72
-def_rating_adj: 3.91
-on_off_diff: 5.29
+vorpd: 2.13
+off_rating_adj: 0.38
+def_rating_adj: 2.10
+on_off_diff: 2.85
 is_shooter: 1
 tags: [player, defensive-wing]
 ---
@@ -20,30 +20,30 @@ tags: [player, defensive-wing]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **49.7** / 100 |
+| Composite Score | **38.9** / 100 |
 | Salary | $10,181,693 |
-| VORPD | 2.38 |
-| Off Rating Adj | 0.72 |
-| Def Rating Adj | 3.91 |
-| On/Off Diff | 5.29 |
+| VORPD | 2.13 |
+| Off Rating Adj | 0.38 |
+| Def Rating Adj | 2.10 |
+| On/Off Diff | 2.85 |
 | TS% | 57.6% |
-| 3P% | 29.6% |
+| 3P% | 36.7% |
 | Influence Score | 0.06 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Stable (+2.7 pts over 3 seasons)
+> **Trend:** Stable (-1.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | LAL | 49.7 | $10181693 | 2.38 | 0.72 | 3.91 | 5.29 |
-| 2022-23 | LAL | 43.5 | $9256050 | 1.95 | 2.26 | -3.97 | -1.88 |
-| 2021-22 | MIN | 47.0 | $8414618 | 2.56 | 3.48 | -1.10 | 4.27 |
+| 2023-24 | LAL | 38.9 | $10181693 | 2.13 | 0.38 | 2.10 | 2.85 |
+| 2022-23 | LAL | 36.0 | $9256050 | 2.06 | 1.79 | -3.13 | -1.48 |
+| 2021-22 | MIN | 40.1 | $8414618 | 2.33 | 2.75 | -0.87 | 3.39 |
 
 ## Profile
 
-- **Cluster:** 0
-- **PCA Position:** (-0.02, -0.40)
+- **Cluster:** 2
+- **PCA Position:** (0.12, -0.59)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

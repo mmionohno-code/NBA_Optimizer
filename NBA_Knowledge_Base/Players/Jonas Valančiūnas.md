@@ -3,12 +3,12 @@ player: "Jonas Valančiūnas"
 team: "NOP"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 38.41
+composite_score: 30.96
 salary: 9146554
-vorpd: 1.42
-off_rating_adj: 2.58
-def_rating_adj: -3.24
-on_off_diff: -1.32
+vorpd: 1.51
+off_rating_adj: 2.05
+def_rating_adj: -2.57
+on_off_diff: -1.04
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,30 +20,30 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **38.4** / 100 |
+| Composite Score | **31.0** / 100 |
 | Salary | $9,146,554 |
-| VORPD | 1.42 |
-| Off Rating Adj | 2.58 |
-| Def Rating Adj | -3.24 |
-| On/Off Diff | -1.32 |
-| TS% | 61.1% |
-| 3P% | 30.8% |
+| VORPD | 1.51 |
+| Off Rating Adj | 2.05 |
+| Def Rating Adj | -2.57 |
+| On/Off Diff | -1.04 |
+| TS% | 60.7% |
+| 3P% | 35.3% |
 | Influence Score | 0.13 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-12.8 pts over 3 seasons)
+> **Trend:** Trending DOWN (-14.2 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | NOP | 38.4 | $9146554 | 1.42 | 2.58 | -3.24 | -1.32 |
-| 2022-23 | NOP | 31.3 | $8315018 | 0.71 | 1.04 | -3.07 | -5.83 |
-| 2021-22 | NOP | 51.2 | $7559132 | 3.41 | 3.07 | 0.17 | 4.48 |
+| 2023-24 | NOP | 31.0 | $9146554 | 1.51 | 2.05 | -2.57 | -1.04 |
+| 2022-23 | NOP | 22.5 | $8315018 | 0.67 | 0.83 | -2.45 | -4.64 |
+| 2021-22 | NOP | 45.2 | $7559132 | 3.26 | 2.51 | 0.14 | 3.67 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (0.36, -0.68)
+- **Cluster:** 1
+- **PCA Position:** (0.43, -0.63)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

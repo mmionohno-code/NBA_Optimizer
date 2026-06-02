@@ -4,12 +4,12 @@ player: "Tobias Harris"
 season: "2022-23"
 team: "PHI"
 archetype: "Perimeter Scorer"
-composite_score: 48.24
+composite_score: 40.01
 salary: 21304801
-vorpd: 1.07
-off_rating_adj: 3.47
-def_rating_adj: 0.05
-on_off_diff: 2.19
+vorpd: 1.09
+off_rating_adj: 2.88
+def_rating_adj: 0.04
+on_off_diff: 1.83
 season_weight: 0.35
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | PHI |
-| Composite Score | **48.2** / 100 |
+| Composite Score | **40.0** / 100 |
 | Salary | $21,304,801 |
-| VORPD | 1.07 |
-| Off Rating Adj | 3.47 |
-| Def Rating Adj | 0.05 |
-| On/Off Diff | 2.19 |
-| TS% | 59.8% |
-| 3P% | 38.9% |
+| VORPD | 1.09 |
+| Off Rating Adj | 2.88 |
+| Def Rating Adj | 0.04 |
+| On/Off Diff | 1.83 |
+| TS% | 59.6% |
+| 3P% | 38.0% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

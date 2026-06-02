@@ -4,12 +4,12 @@ player: "Kristaps Porziņģis"
 season: "2022-23"
 team: "WAS"
 archetype: "Two-Way Big"
-composite_score: 57.27
+composite_score: 50.40
 salary: 24582463
-vorpd: 1.29
-off_rating_adj: 3.91
-def_rating_adj: -1.42
-on_off_diff: 7.07
+vorpd: 1.36
+off_rating_adj: 3.16
+def_rating_adj: -1.15
+on_off_diff: 5.73
 season_weight: 0.35
 tags: [season-note, two-way-big]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, two-way-big]
 |---|---|
 | Season | 2022-23 |
 | Team | WAS |
-| Composite Score | **57.3** / 100 |
+| Composite Score | **50.4** / 100 |
 | Salary | $24,582,463 |
-| VORPD | 1.29 |
-| Off Rating Adj | 3.91 |
-| Def Rating Adj | -1.42 |
-| On/Off Diff | 7.07 |
-| TS% | 62.0% |
-| 3P% | 38.5% |
+| VORPD | 1.36 |
+| Off Rating Adj | 3.16 |
+| Def Rating Adj | -1.15 |
+| On/Off Diff | 5.73 |
+| TS% | 61.6% |
+| 3P% | 37.8% |
 | Influence Score | 0.17 |
 | Season Weight | 0.35 |
 

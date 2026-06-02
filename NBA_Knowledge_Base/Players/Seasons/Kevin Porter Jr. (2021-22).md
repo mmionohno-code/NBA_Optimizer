@@ -4,12 +4,12 @@ player: "Kevin Porter Jr."
 season: "2021-22"
 team: "HOU"
 archetype: "Versatile Scorer"
-composite_score: 65.19
+composite_score: 59.49
 salary: 3733389
-vorpd: 10.64
-off_rating_adj: -0.05
-def_rating_adj: -0.29
-on_off_diff: 5.56
+vorpd: 10.43
+off_rating_adj: -0.04
+def_rating_adj: -0.23
+on_off_diff: 4.40
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | HOU |
-| Composite Score | **65.2** / 100 |
+| Composite Score | **59.5** / 100 |
 | Salary | $3,733,389 |
-| VORPD | 10.64 |
-| Off Rating Adj | -0.05 |
-| Def Rating Adj | -0.29 |
-| On/Off Diff | 5.56 |
-| TS% | 53.6% |
-| 3P% | 37.5% |
+| VORPD | 10.43 |
+| Off Rating Adj | -0.04 |
+| Def Rating Adj | -0.23 |
+| On/Off Diff | 4.40 |
+| TS% | 53.9% |
+| 3P% | 37.0% |
 | Influence Score | 0.13 |
 | Season Weight | 0.20 |
 

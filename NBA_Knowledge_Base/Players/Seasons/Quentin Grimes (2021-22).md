@@ -4,12 +4,12 @@ player: "Quentin Grimes"
 season: "2021-22"
 team: "NYK"
 archetype: "Bench / Role Player"
-composite_score: 33.00
+composite_score: 24.55
 salary: 6356513
-vorpd: 1.19
-off_rating_adj: -5.73
-def_rating_adj: 3.32
-on_off_diff: -2.86
+vorpd: 0.63
+off_rating_adj: -3.50
+def_rating_adj: 2.03
+on_off_diff: -1.74
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | NYK |
-| Composite Score | **33.0** / 100 |
+| Composite Score | **24.6** / 100 |
 | Salary | $6,356,513 |
-| VORPD | 1.19 |
-| Off Rating Adj | -5.73 |
-| Def Rating Adj | 3.32 |
-| On/Off Diff | -2.86 |
-| TS% | 56.4% |
-| 3P% | 38.1% |
+| VORPD | 0.63 |
+| Off Rating Adj | -3.50 |
+| Def Rating Adj | 2.03 |
+| On/Off Diff | -1.74 |
+| TS% | 56.3% |
+| 3P% | 37.0% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

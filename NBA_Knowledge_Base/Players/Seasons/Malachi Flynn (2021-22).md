@@ -3,32 +3,32 @@ player_season: "Malachi Flynn (2021-22)"
 player: "Malachi Flynn"
 season: "2021-22"
 team: "TOR"
-archetype: "Versatile Scorer"
-composite_score: 36.34
+archetype: "Bench / Role Player"
+composite_score: 30.14
 salary: 925258
-vorpd: 11.76
-off_rating_adj: -0.15
-def_rating_adj: -3.19
-on_off_diff: -3.91
+vorpd: 10.36
+off_rating_adj: -0.08
+def_rating_adj: -1.65
+on_off_diff: -2.01
 season_weight: 0.20
-tags: [season-note, versatile-scorer]
+tags: [season-note, bench-/-role-player]
 ---
 # Malachi Flynn — 2021-22
 
-> Part of [[Players/Malachi Flynn]] | Archetype: [[Archetypes/Versatile Scorer]]
+> Part of [[Players/Malachi Flynn]] | Archetype: [[Archetypes/Bench / Role Player]]
 
 | Metric | Value |
 |---|---|
 | Season | 2021-22 |
 | Team | TOR |
-| Composite Score | **36.3** / 100 |
+| Composite Score | **30.1** / 100 |
 | Salary | $925,258 |
-| VORPD | 11.76 |
-| Off Rating Adj | -0.15 |
-| Def Rating Adj | -3.19 |
-| On/Off Diff | -3.91 |
-| TS% | 52.1% |
-| 3P% | 33.3% |
+| VORPD | 10.36 |
+| Off Rating Adj | -0.08 |
+| Def Rating Adj | -1.65 |
+| On/Off Diff | -2.01 |
+| TS% | 53.2% |
+| 3P% | 35.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

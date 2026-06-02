@@ -4,12 +4,12 @@ player: "Isaiah Stewart"
 season: "2023-24"
 team: "DET"
 archetype: "Perimeter Scorer"
-composite_score: 42.73
+composite_score: 34.17
 salary: 13198490
-vorpd: 1.31
-off_rating_adj: 3.79
-def_rating_adj: 0.65
-on_off_diff: 9.54
+vorpd: 1.29
+off_rating_adj: 2.80
+def_rating_adj: 0.48
+on_off_diff: 7.05
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | DET |
-| Composite Score | **42.7** / 100 |
+| Composite Score | **34.2** / 100 |
 | Salary | $13,198,490 |
-| VORPD | 1.31 |
-| Off Rating Adj | 3.79 |
-| Def Rating Adj | 0.65 |
-| On/Off Diff | 9.54 |
-| TS% | 59.3% |
-| 3P% | 38.3% |
+| VORPD | 1.29 |
+| Off Rating Adj | 2.80 |
+| Def Rating Adj | 0.48 |
+| On/Off Diff | 7.05 |
+| TS% | 59.0% |
+| 3P% | 37.8% |
 | Influence Score | 0.08 |
 | Season Weight | 0.45 |
 

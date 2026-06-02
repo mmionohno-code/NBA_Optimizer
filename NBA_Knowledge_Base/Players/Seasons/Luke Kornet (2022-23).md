@@ -4,12 +4,12 @@ player: "Luke Kornet"
 season: "2022-23"
 team: "BOS"
 archetype: "Bench / Role Player"
-composite_score: 20.61
+composite_score: 12.14
 salary: 8798961
 vorpd: 0.00
-off_rating_adj: -4.01
-def_rating_adj: 0.81
-on_off_diff: -4.13
+off_rating_adj: -2.48
+def_rating_adj: 0.50
+on_off_diff: -2.54
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | BOS |
-| Composite Score | **20.6** / 100 |
+| Composite Score | **12.1** / 100 |
 | Salary | $8,798,961 |
 | VORPD | 0.00 |
-| Off Rating Adj | -4.01 |
-| Def Rating Adj | 0.81 |
-| On/Off Diff | -4.13 |
-| TS% | 64.1% |
-| 3P% | 35.0% |
+| Off Rating Adj | -2.48 |
+| Def Rating Adj | 0.50 |
+| On/Off Diff | -2.54 |
+| TS% | 62.3% |
+| 3P% | 36.4% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

@@ -4,12 +4,12 @@ player: "Luka Dončić"
 season: "2022-23"
 team: "DAL"
 archetype: "Elite Playmaker"
-composite_score: 86.11
+composite_score: 85.00
 salary: 36795384
-vorpd: 1.65
-off_rating_adj: 4.91
-def_rating_adj: -1.98
-on_off_diff: 3.23
+vorpd: 1.85
+off_rating_adj: 4.06
+def_rating_adj: -1.64
+on_off_diff: 2.68
 season_weight: 0.35
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2022-23 |
 | Team | DAL |
-| Composite Score | **86.1** / 100 |
+| Composite Score | **85.0** / 100 |
 | Salary | $36,795,384 |
-| VORPD | 1.65 |
-| Off Rating Adj | 4.91 |
-| Def Rating Adj | -1.98 |
-| On/Off Diff | 3.23 |
-| TS% | 60.6% |
-| 3P% | 34.2% |
+| VORPD | 1.85 |
+| Off Rating Adj | 4.06 |
+| Def Rating Adj | -1.64 |
+| On/Off Diff | 2.68 |
+| TS% | 60.4% |
+| 3P% | 35.0% |
 | Influence Score | 0.22 |
 | Season Weight | 0.35 |
 

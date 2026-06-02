@@ -4,12 +4,12 @@ player: "Torrey Craig"
 season: "2023-24"
 team: "CHI"
 archetype: "Bench / Role Player"
-composite_score: 23.18
+composite_score: 14.29
 salary: 3000000
 vorpd: 0.00
-off_rating_adj: -0.53
-def_rating_adj: -4.78
-on_off_diff: -7.19
+off_rating_adj: -0.36
+def_rating_adj: -3.24
+on_off_diff: -4.86
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | CHI |
-| Composite Score | **23.2** / 100 |
+| Composite Score | **14.3** / 100 |
 | Salary | $3,000,000 |
 | VORPD | 0.00 |
-| Off Rating Adj | -0.53 |
-| Def Rating Adj | -4.78 |
-| On/Off Diff | -7.19 |
-| TS% | 57.1% |
-| 3P% | 39.2% |
+| Off Rating Adj | -0.36 |
+| Def Rating Adj | -3.24 |
+| On/Off Diff | -4.86 |
+| TS% | 57.2% |
+| 3P% | 38.1% |
 | Influence Score | 0.07 |
 | Season Weight | 0.45 |
 

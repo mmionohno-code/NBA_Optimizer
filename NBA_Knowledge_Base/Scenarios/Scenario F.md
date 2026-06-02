@@ -1,11 +1,11 @@
 ---
 scenario: "F"
 label: "Hard Cap - 3-and-D Focus"
-total_salary: 131586604
-avg_composite_score: 54.46
+total_salary: 128052813
+avg_composite_score: 41.53
 roster_size: 15
 tags: [scenario]
-players: ["Marcus Smart", "OG Anunoby", "Victor Wembanyama", "Tari Eason", "Russell Westbrook", "Devonte' Graham", "Chris Paul", "Robert Covington", "Jonathan Isaac", "Seth Curry", "Lamar Stevens", "Keon Ellis", "Dean Wade", "Isaiah Jackson", "Taj Gibson"]
+players: ["OG Anunoby", "T.J. McConnell", "Tari Eason", "Vasilije Micic", "Jalen Williams", "Kris Murray", "Toumani Camara", "Jonathan Isaac", "Chet Holmgren", "Markelle Fultz", "Jae'Sean Tate", "Quentin Grimes", "Dean Wade", "Isaiah Jackson", "Precious Achiuwa"]
 ---
 # Scenario F: Hard Cap - 3-and-D Focus
 
@@ -13,16 +13,16 @@ players: ["Marcus Smart", "OG Anunoby", "Victor Wembanyama", "Tari Eason", "Russ
 
 | Metric | Value |
 |---|---|
-| Total Salary | $131,586,604 |
+| Total Salary | $128,052,813 |
 | Roster Size | 15 players |
-| Avg Composite Score | 54.5 |
+| Avg Composite Score | 41.5 |
 
 ## Archetype Breakdown
 
   - Defensive Wing: 7
   - Perimeter Scorer: 2
-  - Two-Way Big: 2
   - Versatile Scorer: 2
+  - Two-Way Big: 2
   - Elite Playmaker: 1
   - Bench / Role Player: 1
 
@@ -30,21 +30,21 @@ players: ["Marcus Smart", "OG Anunoby", "Victor Wembanyama", "Tari Eason", "Russ
 
 | Player | Archetype | Score | Salary | Team |
 |---|---|---|---|---|
-| [[Players/Marcus Smart|Marcus Smart]] | Elite Playmaker | 78.1 | $17,528,347 | MEM |
-| [[Players/OG Anunoby|OG Anunoby]] | Perimeter Scorer | 68.9 | $34,816,707 | NYK |
-| [[Players/Victor Wembanyama|Victor Wembanyama]] | Two-Way Big | 68.9 | $11,770,308 | SAS |
-| [[Players/Russell Westbrook|Russell Westbrook]] | Versatile Scorer | 65.4 | $2,020,490 | LAC |
-| [[Players/Tari Eason|Tari Eason]] | Defensive Wing | 64.2 | $4,994,103 | HOU |
-| [[Players/Chris Paul|Chris Paul]] | Versatile Scorer | 60.0 | $2,020,490 | GSW |
-| [[Players/Devonte' Graham|Devonte' Graham]] | Defensive Wing | 59.0 | $12,700,000 | SAS |
-| [[Players/Robert Covington|Robert Covington]] | Defensive Wing | 55.1 | $12,833,333 | PHI |
-| [[Players/Jonathan Isaac|Jonathan Isaac]] | Defensive Wing | 51.0 | $13,198,490 | ORL |
-| [[Players/Seth Curry|Seth Curry]] | Defensive Wing | 49.6 | $1,544,398 | CHA |
-| [[Players/Lamar Stevens|Lamar Stevens]] | Defensive Wing | 48.6 | $2,500,000 | MEM |
-| [[Players/Keon Ellis|Keon Ellis]] | Perimeter Scorer | 45.3 | $2,025,165 | SAC |
-| [[Players/Dean Wade|Dean Wade]] | Defensive Wing | 41.2 | $5,827,975 | CLE |
-| [[Players/Isaiah Jackson|Isaiah Jackson]] | Two-Way Big | 35.3 | $6,687,235 | IND |
-| [[Players/Taj Gibson|Taj Gibson]] | Bench / Role Player | 26.4 | $1,119,563 | DET |
+| [[Players/OG Anunoby|OG Anunoby]] | Perimeter Scorer | 61.8 | $34,816,707 | NYK |
+| [[Players/T.J. McConnell|T.J. McConnell]] | Elite Playmaker | 56.8 | $8,974,973 | IND |
+| [[Players/Tari Eason|Tari Eason]] | Defensive Wing | 52.2 | $4,994,103 | HOU |
+| [[Players/Vasilije Micic|Vasilije Micic]] | Versatile Scorer | 51.8 | $2,000,000 | CHA |
+| [[Players/Jalen Williams|Jalen Williams]] | Perimeter Scorer | 48.5 | $5,790,615 | OKC |
+| [[Players/Toumani Camara|Toumani Camara]] | Defensive Wing | 43.7 | $1,954,852 | POR |
+| [[Players/Kris Murray|Kris Murray]] | Defensive Wing | 43.7 | $2,755,845 | POR |
+| [[Players/Jonathan Isaac|Jonathan Isaac]] | Defensive Wing | 40.8 | $13,198,490 | ORL |
+| [[Players/Chet Holmgren|Chet Holmgren]] | Two-Way Big | 39.4 | $12,082,222 | OKC |
+| [[Players/Markelle Fultz|Markelle Fultz]] | Versatile Scorer | 38.2 | $17,400,000 | ORL |
+| [[Players/Quentin Grimes|Quentin Grimes]] | Defensive Wing | 32.8 | $7,691,384 | DET |
+| [[Players/Jae'Sean Tate|Jae'Sean Tate]] | Defensive Wing | 32.1 | $2,020,490 | HOU |
+| [[Players/Dean Wade|Dean Wade]] | Defensive Wing | 30.2 | $5,827,975 | CLE |
+| [[Players/Isaiah Jackson|Isaiah Jackson]] | Two-Way Big | 25.8 | $6,687,235 | IND |
+| [[Players/Precious Achiuwa|Precious Achiuwa]] | Bench / Role Player | 25.2 | $1,857,922 | NYK |
 
 ## Analysis
 

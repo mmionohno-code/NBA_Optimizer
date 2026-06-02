@@ -3,12 +3,12 @@ player: "Rodney Hood"
 team: "LAC"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 29.42
+composite_score: 22.46
 salary: 925258
-vorpd: 4.28
-off_rating_adj: 0.84
-def_rating_adj: 1.75
-on_off_diff: -4.38
+vorpd: 2.06
+off_rating_adj: 0.49
+def_rating_adj: 1.03
+on_off_diff: -2.55
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **29.4** / 100 |
+| Composite Score | **22.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 4.28 |
-| Off Rating Adj | 0.84 |
-| Def Rating Adj | 1.75 |
-| On/Off Diff | -4.38 |
-| TS% | 52.7% |
-| 3P% | 33.0% |
+| VORPD | 2.06 |
+| Off Rating Adj | 0.49 |
+| Def Rating Adj | 1.03 |
+| On/Off Diff | -2.55 |
+| TS% | 53.7% |
+| 3P% | 35.3% |
 | Influence Score | 0.06 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | LAC | 29.4 | $925258 | 4.28 | 0.84 | 1.75 | -4.38 |
+| 2021-22 | LAC | 22.5 | $925258 | 2.06 | 0.49 | 1.03 | -2.55 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.05, -0.17)
+- **Cluster:** 5
+- **PCA Position:** (-2.08, 0.04)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

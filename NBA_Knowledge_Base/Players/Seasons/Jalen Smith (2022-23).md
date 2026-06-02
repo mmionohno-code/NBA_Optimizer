@@ -4,12 +4,12 @@ player: "Jalen Smith"
 season: "2022-23"
 team: "IND"
 archetype: "Bench / Role Player"
-composite_score: 34.65
+composite_score: 29.09
 salary: 7199150
-vorpd: 1.28
-off_rating_adj: -0.37
-def_rating_adj: -0.08
-on_off_diff: -0.34
+vorpd: 1.70
+off_rating_adj: -0.27
+def_rating_adj: -0.06
+on_off_diff: -0.23
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | IND |
-| Composite Score | **34.6** / 100 |
+| Composite Score | **29.1** / 100 |
 | Salary | $7,199,150 |
-| VORPD | 1.28 |
-| Off Rating Adj | -0.37 |
-| Def Rating Adj | -0.08 |
-| On/Off Diff | -0.34 |
-| TS% | 56.8% |
-| 3P% | 28.3% |
+| VORPD | 1.70 |
+| Off Rating Adj | -0.27 |
+| Def Rating Adj | -0.06 |
+| On/Off Diff | -0.23 |
+| TS% | 56.9% |
+| 3P% | 33.2% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

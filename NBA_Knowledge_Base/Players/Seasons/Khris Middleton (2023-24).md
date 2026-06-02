@@ -4,12 +4,12 @@ player: "Khris Middleton"
 season: "2023-24"
 team: "MIL"
 archetype: "Elite Playmaker"
-composite_score: 57.99
+composite_score: 49.89
 salary: 29297389
-vorpd: 1.11
-off_rating_adj: 2.67
-def_rating_adj: -0.33
-on_off_diff: 0.71
+vorpd: 1.12
+off_rating_adj: 1.99
+def_rating_adj: -0.24
+on_off_diff: 0.55
 season_weight: 0.45
 tags: [season-note, elite-playmaker]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, elite-playmaker]
 |---|---|
 | Season | 2023-24 |
 | Team | MIL |
-| Composite Score | **58.0** / 100 |
+| Composite Score | **49.9** / 100 |
 | Salary | $29,297,389 |
-| VORPD | 1.11 |
-| Off Rating Adj | 2.67 |
-| Def Rating Adj | -0.33 |
-| On/Off Diff | 0.71 |
-| TS% | 59.1% |
-| 3P% | 38.1% |
+| VORPD | 1.12 |
+| Off Rating Adj | 1.99 |
+| Def Rating Adj | -0.24 |
+| On/Off Diff | 0.55 |
+| TS% | 58.9% |
+| 3P% | 37.8% |
 | Influence Score | 0.14 |
 | Season Weight | 0.45 |
 

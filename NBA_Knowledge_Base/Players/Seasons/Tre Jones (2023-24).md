@@ -4,12 +4,12 @@ player: "Tre Jones"
 season: "2023-24"
 team: "SAS"
 archetype: "Defensive Wing"
-composite_score: 66.92
+composite_score: 62.54
 salary: 7039195
-vorpd: 5.89
-off_rating_adj: 3.09
-def_rating_adj: 2.34
-on_off_diff: 13.18
+vorpd: 6.45
+off_rating_adj: 2.50
+def_rating_adj: 1.89
+on_off_diff: 10.68
 season_weight: 0.45
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2023-24 |
 | Team | SAS |
-| Composite Score | **66.9** / 100 |
+| Composite Score | **62.5** / 100 |
 | Salary | $7,039,195 |
-| VORPD | 5.89 |
-| Off Rating Adj | 3.09 |
-| Def Rating Adj | 2.34 |
-| On/Off Diff | 13.18 |
-| TS% | 58.8% |
-| 3P% | 33.5% |
+| VORPD | 6.45 |
+| Off Rating Adj | 2.50 |
+| Def Rating Adj | 1.89 |
+| On/Off Diff | 10.68 |
+| TS% | 58.6% |
+| 3P% | 35.8% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

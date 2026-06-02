@@ -4,12 +4,12 @@ player: "Jaden Ivey"
 season: "2022-23"
 team: "DET"
 archetype: "Versatile Scorer"
-composite_score: 43.92
+composite_score: 36.82
 salary: 8084776
-vorpd: 2.28
-off_rating_adj: -1.31
-def_rating_adj: -3.46
-on_off_diff: -10.74
+vorpd: 2.47
+off_rating_adj: -1.08
+def_rating_adj: -2.84
+on_off_diff: -8.83
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,15 +21,15 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | DET |
-| Composite Score | **43.9** / 100 |
+| Composite Score | **36.8** / 100 |
 | Salary | $8,084,776 |
-| VORPD | 2.28 |
-| Off Rating Adj | -1.31 |
-| Def Rating Adj | -3.46 |
-| On/Off Diff | -10.74 |
-| TS% | 53.4% |
-| 3P% | 34.3% |
-| Influence Score | 0.13 |
+| VORPD | 2.47 |
+| Off Rating Adj | -1.08 |
+| Def Rating Adj | -2.84 |
+| On/Off Diff | -8.83 |
+| TS% | 53.9% |
+| 3P% | 35.4% |
+| Influence Score | 0.14 |
 | Season Weight | 0.35 |
 
 _Navigate back to the full player profile: [[Players/Jaden Ivey]]_

@@ -4,12 +4,12 @@ player: "Dorian Finney-Smith"
 season: "2021-22"
 team: "DAL"
 archetype: "Perimeter Scorer"
-composite_score: 44.31
+composite_score: 35.87
 salary: 9235303
-vorpd: 2.04
-off_rating_adj: 5.27
-def_rating_adj: -3.31
-on_off_diff: 1.84
+vorpd: 1.66
+off_rating_adj: 4.43
+def_rating_adj: -2.79
+on_off_diff: 1.57
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | DAL |
-| Composite Score | **44.3** / 100 |
+| Composite Score | **35.9** / 100 |
 | Salary | $9,235,303 |
-| VORPD | 2.04 |
-| Off Rating Adj | 5.27 |
-| Def Rating Adj | -3.31 |
-| On/Off Diff | 1.84 |
-| TS% | 59.7% |
-| 3P% | 39.5% |
+| VORPD | 1.66 |
+| Off Rating Adj | 4.43 |
+| Def Rating Adj | -2.79 |
+| On/Off Diff | 1.57 |
+| TS% | 59.2% |
+| 3P% | 38.2% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

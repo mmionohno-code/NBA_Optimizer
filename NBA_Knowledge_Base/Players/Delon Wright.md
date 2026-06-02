@@ -2,48 +2,48 @@
 player: "Delon Wright"
 team: "MIA"
 season: "2023-24"
-archetype: "Versatile Scorer"
-composite_score: 53.61
+archetype: "Defensive Wing"
+composite_score: 43.31
 salary: 4000000
-vorpd: 7.04
-off_rating_adj: -0.81
-def_rating_adj: 0.74
-on_off_diff: 6.31
+vorpd: 6.55
+off_rating_adj: -0.48
+def_rating_adj: 0.44
+on_off_diff: 3.77
 is_shooter: 1
-tags: [player, versatile-scorer]
+tags: [player, defensive-wing]
 ---
 # Delon Wright
 
-> **Archetype:** [[Archetypes/Versatile Scorer]] | **Team:** MIA | **Latest Season:** 2023-24
+> **Archetype:** [[Archetypes/Defensive Wing]] | **Team:** MIA | **Latest Season:** 2023-24
 
 ## Most Recent Season Stats (2023-24)
 
 | Metric | Value |
 |---|---|
-| Composite Score | **53.6** / 100 |
+| Composite Score | **43.3** / 100 |
 | Salary | $4,000,000 |
-| VORPD | 7.04 |
-| Off Rating Adj | -0.81 |
-| Def Rating Adj | 0.74 |
-| On/Off Diff | 6.31 |
-| TS% | 53.6% |
-| 3P% | 36.8% |
+| VORPD | 6.55 |
+| Off Rating Adj | -0.48 |
+| Def Rating Adj | 0.44 |
+| On/Off Diff | 3.77 |
+| TS% | 54.7% |
+| 3P% | 37.3% |
 | Influence Score | 0.07 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending UP (+6.8 pts over 3 seasons)
+> **Trend:** Trending UP (+5.3 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | MIA | 53.6 | $4000000 | 7.04 | -0.81 | 0.74 | 6.31 |
-| 2022-23 | WAS | 66.0 | $1017781 | 39.81 | 1.81 | 2.48 | 6.15 |
-| 2021-22 | ATL | 46.9 | $925258 | 23.13 | -2.69 | 3.25 | 0.51 |
+| 2023-24 | MIA | 43.3 | $4000000 | 6.55 | -0.48 | 0.44 | 3.77 |
+| 2022-23 | WAS | 58.2 | $1017781 | 40.57 | 1.28 | 1.76 | 4.37 |
+| 2021-22 | ATL | 38.0 | $925258 | 18.84 | -2.00 | 2.42 | 0.39 |
 
 ## Profile
 
 - **Cluster:** 2
-- **PCA Position:** (0.21, 0.90)
+- **PCA Position:** (0.11, 0.58)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

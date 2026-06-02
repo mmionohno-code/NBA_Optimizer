@@ -4,12 +4,12 @@ player: "Ayo Dosunmu"
 season: "2022-23"
 team: "CHI"
 archetype: "Bench / Role Player"
-composite_score: 35.43
+composite_score: 27.13
 salary: 6014104
-vorpd: 1.66
-off_rating_adj: -2.85
-def_rating_adj: -0.40
-on_off_diff: -5.94
+vorpd: 1.70
+off_rating_adj: -2.30
+def_rating_adj: -0.32
+on_off_diff: -4.79
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | CHI |
-| Composite Score | **35.4** / 100 |
+| Composite Score | **27.1** / 100 |
 | Salary | $6,014,104 |
-| VORPD | 1.66 |
-| Off Rating Adj | -2.85 |
-| Def Rating Adj | -0.40 |
-| On/Off Diff | -5.94 |
-| TS% | 56.9% |
-| 3P% | 31.2% |
+| VORPD | 1.70 |
+| Off Rating Adj | -2.30 |
+| Def Rating Adj | -0.32 |
+| On/Off Diff | -4.79 |
+| TS% | 57.0% |
+| 3P% | 34.4% |
 | Influence Score | 0.08 |
 | Season Weight | 0.35 |
 

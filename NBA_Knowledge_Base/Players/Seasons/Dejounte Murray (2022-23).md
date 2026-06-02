@@ -4,12 +4,12 @@ player: "Dejounte Murray"
 season: "2022-23"
 team: "ATL"
 archetype: "Versatile Scorer"
-composite_score: 63.63
+composite_score: 59.43
 salary: 24637973
-vorpd: 1.55
-off_rating_adj: 3.36
-def_rating_adj: -2.13
-on_off_diff: -3.30
+vorpd: 1.73
+off_rating_adj: 2.84
+def_rating_adj: -1.80
+on_off_diff: -2.77
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | ATL |
-| Composite Score | **63.6** / 100 |
+| Composite Score | **59.4** / 100 |
 | Salary | $24,637,973 |
-| VORPD | 1.55 |
-| Off Rating Adj | 3.36 |
-| Def Rating Adj | -2.13 |
-| On/Off Diff | -3.30 |
-| TS% | 54.4% |
-| 3P% | 34.4% |
+| VORPD | 1.73 |
+| Off Rating Adj | 2.84 |
+| Def Rating Adj | -1.80 |
+| On/Off Diff | -2.77 |
+| TS% | 54.6% |
+| 3P% | 35.4% |
 | Influence Score | 0.13 |
 | Season Weight | 0.35 |
 

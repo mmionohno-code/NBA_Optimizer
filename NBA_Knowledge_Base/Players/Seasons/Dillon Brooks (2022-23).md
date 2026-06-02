@@ -4,12 +4,12 @@ player: "Dillon Brooks"
 season: "2022-23"
 team: "MEM"
 archetype: "Versatile Scorer"
-composite_score: 50.22
+composite_score: 45.55
 salary: 16897293
-vorpd: 1.47
-off_rating_adj: 0.41
-def_rating_adj: 1.17
-on_off_diff: 1.78
+vorpd: 1.70
+off_rating_adj: 0.33
+def_rating_adj: 0.96
+on_off_diff: 1.47
 season_weight: 0.35
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2022-23 |
 | Team | MEM |
-| Composite Score | **50.2** / 100 |
+| Composite Score | **45.5** / 100 |
 | Salary | $16,897,293 |
-| VORPD | 1.47 |
-| Off Rating Adj | 0.41 |
-| Def Rating Adj | 1.17 |
-| On/Off Diff | 1.78 |
-| TS% | 50.5% |
-| 3P% | 32.6% |
+| VORPD | 1.70 |
+| Off Rating Adj | 0.33 |
+| Def Rating Adj | 0.96 |
+| On/Off Diff | 1.47 |
+| TS% | 51.2% |
+| 3P% | 34.2% |
 | Influence Score | 0.11 |
 | Season Weight | 0.35 |
 

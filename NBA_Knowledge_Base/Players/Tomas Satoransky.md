@@ -3,12 +3,12 @@ player: "Tomas Satoransky"
 team: "WAS"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 37.84
+composite_score: 30.18
 salary: 925258
-vorpd: 13.38
-off_rating_adj: -3.89
-def_rating_adj: -0.13
-on_off_diff: -6.15
+vorpd: 10.41
+off_rating_adj: -2.51
+def_rating_adj: -0.09
+on_off_diff: -3.97
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **37.8** / 100 |
+| Composite Score | **30.2** / 100 |
 | Salary | $925,258 |
-| VORPD | 13.38 |
-| Off Rating Adj | -3.89 |
-| Def Rating Adj | -0.13 |
-| On/Off Diff | -6.15 |
-| TS% | 50.5% |
-| 3P% | 20.8% |
+| VORPD | 10.41 |
+| Off Rating Adj | -2.51 |
+| Def Rating Adj | -0.09 |
+| On/Off Diff | -3.97 |
+| TS% | 52.1% |
+| 3P% | 33.5% |
 | Influence Score | 0.06 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | WAS | 37.8 | $925258 | 13.38 | -3.89 | -0.13 | -6.15 |
+| 2021-22 | WAS | 30.2 | $925258 | 10.41 | -2.51 | -0.09 | -3.97 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.76, 2.36)
+- **Cluster:** 5
+- **PCA Position:** (-2.42, 2.07)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

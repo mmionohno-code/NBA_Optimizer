@@ -4,12 +4,12 @@ player: "Tyus Jones"
 season: "2021-22"
 team: "MEM"
 archetype: "Versatile Scorer"
-composite_score: 56.48
+composite_score: 48.84
 salary: 5090325
-vorpd: 6.09
-off_rating_adj: 0.87
-def_rating_adj: 1.56
-on_off_diff: 2.40
+vorpd: 5.56
+off_rating_adj: 0.66
+def_rating_adj: 1.18
+on_off_diff: 1.84
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | MEM |
-| Composite Score | **56.5** / 100 |
+| Composite Score | **48.8** / 100 |
 | Salary | $5,090,325 |
-| VORPD | 6.09 |
-| Off Rating Adj | 0.87 |
-| Def Rating Adj | 1.56 |
-| On/Off Diff | 2.40 |
-| TS% | 54.8% |
-| 3P% | 39.0% |
+| VORPD | 5.56 |
+| Off Rating Adj | 0.66 |
+| Def Rating Adj | 1.18 |
+| On/Off Diff | 1.84 |
+| TS% | 55.0% |
+| 3P% | 37.4% |
 | Influence Score | 0.09 |
 | Season Weight | 0.20 |
 

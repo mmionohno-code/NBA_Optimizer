@@ -1,11 +1,11 @@
 ---
 archetype: "Perimeter Scorer"
-player_count: 87
-avg_composite_score: 47.06
-avg_salary: 12757248
-avg_off_rating_adj: 2.69
-avg_def_rating_adj: 0.12
-avg_vorpd: 4.27
+player_count: 81
+avg_composite_score: 39.97
+avg_salary: 13783393
+avg_off_rating_adj: 2.10
+avg_def_rating_adj: 0.17
+avg_vorpd: 3.50
 tags: [archetype]
 ---
 # Perimeter Scorer
@@ -16,27 +16,27 @@ tags: [archetype]
 
 | Metric | Value |
 |---|---|
-| Total Players | 87 |
-| Avg Composite Score | 47.1 |
-| Avg Salary | $12,757,248 |
-| Avg Off Rating Adj | 2.69 |
-| Avg Def Rating Adj | 0.12 |
-| Avg VORPD | 4.27 |
+| Total Players | 81 |
+| Avg Composite Score | 40.0 |
+| Avg Salary | $13,783,393 |
+| Avg Off Rating Adj | 2.10 |
+| Avg Def Rating Adj | 0.17 |
+| Avg VORPD | 3.50 |
 
 ## Top 10 Players by Composite Score
 
 | Player | Score | Salary | Team |
 |---|---|---|---|
-| [[Players/De'Anthony Melton|De'Anthony Melton]] | 69.2 | $2,710,900 | PHI |
-| [[Players/OG Anunoby|OG Anunoby]] | 68.9 | $34,816,707 | NYK |
-| [[Players/Bogdan Bogdanović|Bogdan Bogdanović]] | 64.2 | $14,095,988 | ATL |
-| [[Players/Kris Dunn|Kris Dunn]] | 62.5 | $4,774,686 | UTA |
-| [[Players/Kentavious Caldwell-Pope|Kentavious Caldwell-Pope]] | 61.8 | $19,024,744 | DEN |
-| [[Players/Isaiah Hartenstein|Isaiah Hartenstein]] | 59.6 | $25,077,131 | NYK |
-| [[Players/Alex Caruso|Alex Caruso]] | 59.4 | $15,927,938 | CHI |
-| [[Players/Immanuel Quickley|Immanuel Quickley]] | 58.4 | $28,596,729 | TOR |
-| [[Players/Lauri Markkanen|Lauri Markkanen]] | 58.3 | $40,822,138 | UTA |
-| [[Players/Draymond Green|Draymond Green]] | 57.6 | $22,783,108 | GSW |
+| [[Players/Jusuf Nurkić|Jusuf Nurkić]] | 66.8 | $17,048,050 | PHX |
+| [[Players/De'Anthony Melton|De'Anthony Melton]] | 61.9 | $2,710,900 | PHI |
+| [[Players/OG Anunoby|OG Anunoby]] | 61.8 | $34,816,707 | NYK |
+| [[Players/Bogdan Bogdanović|Bogdan Bogdanović]] | 58.2 | $14,095,988 | ATL |
+| [[Players/Lonzo Ball|Lonzo Ball]] | 57.0 | $7,271,892 | CHI |
+| [[Players/Kentavious Caldwell-Pope|Kentavious Caldwell-Pope]] | 55.4 | $19,024,744 | DEN |
+| [[Players/Kris Dunn|Kris Dunn]] | 54.5 | $4,774,686 | UTA |
+| [[Players/Isaiah Hartenstein|Isaiah Hartenstein]] | 52.9 | $25,077,131 | NYK |
+| [[Players/D'Angelo Russell|D'Angelo Russell]] | 51.8 | $5,002,228 | LAL |
+| [[Players/Immanuel Quickley|Immanuel Quickley]] | 50.5 | $28,596,729 | TOR |
 
 ## All Players (Dataview)
 

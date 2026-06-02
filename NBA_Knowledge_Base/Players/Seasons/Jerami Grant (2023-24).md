@@ -4,12 +4,12 @@ player: "Jerami Grant"
 season: "2023-24"
 team: "POR"
 archetype: "Perimeter Scorer"
-composite_score: 47.43
+composite_score: 38.39
 salary: 28156780
-vorpd: 0.78
-off_rating_adj: 1.82
-def_rating_adj: -2.45
-on_off_diff: -0.41
+vorpd: 0.76
+off_rating_adj: 1.43
+def_rating_adj: -1.92
+on_off_diff: -0.32
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | POR |
-| Composite Score | **47.4** / 100 |
+| Composite Score | **38.4** / 100 |
 | Salary | $28,156,780 |
-| VORPD | 0.78 |
-| Off Rating Adj | 1.82 |
-| Def Rating Adj | -2.45 |
-| On/Off Diff | -0.41 |
-| TS% | 57.3% |
-| 3P% | 40.2% |
+| VORPD | 0.76 |
+| Off Rating Adj | 1.43 |
+| Def Rating Adj | -1.92 |
+| On/Off Diff | -0.32 |
+| TS% | 57.4% |
+| 3P% | 38.9% |
 | Influence Score | 0.15 |
 | Season Weight | 0.45 |
 

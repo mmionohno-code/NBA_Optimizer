@@ -4,12 +4,12 @@ player: "Cam Thomas"
 season: "2022-23"
 team: "BKN"
 archetype: "Bench / Role Player"
-composite_score: 39.33
+composite_score: 31.22
 salary: 5469577
-vorpd: 2.54
-off_rating_adj: -0.79
-def_rating_adj: -0.40
-on_off_diff: -3.46
+vorpd: 2.62
+off_rating_adj: -0.51
+def_rating_adj: -0.26
+on_off_diff: -2.26
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | BKN |
-| Composite Score | **39.3** / 100 |
+| Composite Score | **31.2** / 100 |
 | Salary | $5,469,577 |
-| VORPD | 2.54 |
-| Off Rating Adj | -0.79 |
-| Def Rating Adj | -0.40 |
-| On/Off Diff | -3.46 |
-| TS% | 56.9% |
-| 3P% | 38.3% |
+| VORPD | 2.62 |
+| Off Rating Adj | -0.51 |
+| Def Rating Adj | -0.26 |
+| On/Off Diff | -2.26 |
+| TS% | 57.0% |
+| 3P% | 37.3% |
 | Influence Score | 0.15 |
 | Season Weight | 0.35 |
 

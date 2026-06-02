@@ -4,12 +4,12 @@ player: "DeAndre Jordan"
 season: "2021-22"
 team: "PHI"
 archetype: "Bench / Role Player"
-composite_score: 10.00
+composite_score: 6.32
 salary: 1650632
 vorpd: 0.00
-off_rating_adj: -9.59
-def_rating_adj: -2.37
-on_off_diff: -9.03
+off_rating_adj: -5.32
+def_rating_adj: -1.31
+on_off_diff: -5.01
 season_weight: 0.20
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2021-22 |
 | Team | PHI |
-| Composite Score | **10.0** / 100 |
+| Composite Score | **6.3** / 100 |
 | Salary | $1,650,632 |
 | VORPD | 0.00 |
-| Off Rating Adj | -9.59 |
-| Def Rating Adj | -2.37 |
-| On/Off Diff | -9.03 |
-| TS% | 60.1% |
-| 3P% | 34.1% |
+| Off Rating Adj | -5.32 |
+| Def Rating Adj | -1.31 |
+| On/Off Diff | -5.01 |
+| TS% | 58.9% |
+| 3P% | 35.7% |
 | Influence Score | 0.08 |
 | Season Weight | 0.20 |
 

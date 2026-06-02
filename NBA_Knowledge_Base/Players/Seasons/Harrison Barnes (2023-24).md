@@ -4,12 +4,12 @@ player: "Harrison Barnes"
 season: "2023-24"
 team: "SAC"
 archetype: "Bench / Role Player"
-composite_score: 25.19
+composite_score: 12.54
 salary: 16718088
 vorpd: 0.00
-off_rating_adj: -0.60
-def_rating_adj: -2.60
-on_off_diff: -8.31
+off_rating_adj: -0.50
+def_rating_adj: -2.15
+on_off_diff: -6.85
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | SAC |
-| Composite Score | **25.2** / 100 |
+| Composite Score | **12.5** / 100 |
 | Salary | $16,718,088 |
 | VORPD | 0.00 |
-| Off Rating Adj | -0.60 |
-| Def Rating Adj | -2.60 |
-| On/Off Diff | -8.31 |
-| TS% | 60.5% |
-| 3P% | 38.7% |
+| Off Rating Adj | -0.50 |
+| Def Rating Adj | -2.15 |
+| On/Off Diff | -6.85 |
+| TS% | 60.1% |
+| 3P% | 38.2% |
 | Influence Score | 0.09 |
 | Season Weight | 0.45 |
 

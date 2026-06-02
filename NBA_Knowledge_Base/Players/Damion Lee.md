@@ -3,12 +3,12 @@ player: "Damion Lee"
 team: "PHX"
 season: "2022-23"
 archetype: "Bench / Role Player"
-composite_score: 32.52
+composite_score: 19.86
 salary: 1017781
-vorpd: 6.94
-off_rating_adj: -2.12
-def_rating_adj: 2.78
-on_off_diff: 1.15
+vorpd: 2.92
+off_rating_adj: -1.59
+def_rating_adj: 2.09
+on_off_diff: 0.88
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **32.5** / 100 |
+| Composite Score | **19.9** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 6.94 |
-| Off Rating Adj | -2.12 |
-| Def Rating Adj | 2.78 |
-| On/Off Diff | 1.15 |
-| TS% | 59.9% |
-| 3P% | 44.5% |
+| VORPD | 2.92 |
+| Off Rating Adj | -1.59 |
+| Def Rating Adj | 2.09 |
+| On/Off Diff | 0.88 |
+| TS% | 59.5% |
+| 3P% | 40.5% |
 | Influence Score | 0.09 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+3.9 pts over 2 seasons)
+> **Trend:** Stable (-1.7 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2022-23 | PHX | 32.5 | $1017781 | 6.94 | -2.12 | 2.78 | 1.15 |
-| 2021-22 | GSW | 28.6 | $925258 | 3.43 | -0.13 | -1.37 | -5.80 |
+| 2022-23 | PHX | 19.9 | $1017781 | 2.92 | -1.59 | 2.09 | 0.88 |
+| 2021-22 | GSW | 21.5 | $925258 | 1.06 | -0.10 | -0.98 | -4.13 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-0.38, -1.50)
+- **Cluster:** 1
+- **PCA Position:** (-0.57, -1.98)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

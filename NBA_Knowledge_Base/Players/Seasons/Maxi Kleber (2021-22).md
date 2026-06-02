@@ -4,12 +4,12 @@ player: "Maxi Kleber"
 season: "2021-22"
 team: "DAL"
 archetype: "Defensive Wing"
-composite_score: 34.97
+composite_score: 28.57
 salary: 7999081
-vorpd: 1.19
-off_rating_adj: -0.33
-def_rating_adj: 1.79
-on_off_diff: 0.56
+vorpd: 1.00
+off_rating_adj: -0.24
+def_rating_adj: 1.33
+on_off_diff: 0.43
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | DAL |
-| Composite Score | **35.0** / 100 |
+| Composite Score | **28.6** / 100 |
 | Salary | $7,999,081 |
-| VORPD | 1.19 |
-| Off Rating Adj | -0.33 |
-| Def Rating Adj | 1.79 |
-| On/Off Diff | 0.56 |
-| TS% | 54.5% |
-| 3P% | 32.5% |
+| VORPD | 1.00 |
+| Off Rating Adj | -0.24 |
+| Def Rating Adj | 1.33 |
+| On/Off Diff | 0.43 |
+| TS% | 54.8% |
+| 3P% | 34.3% |
 | Influence Score | 0.07 |
 | Season Weight | 0.20 |
 

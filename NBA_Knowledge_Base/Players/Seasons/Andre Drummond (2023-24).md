@@ -4,12 +4,12 @@ player: "Andre Drummond"
 season: "2023-24"
 team: "CHI"
 archetype: "Perimeter Scorer"
-composite_score: 46.06
+composite_score: 37.93
 salary: 4399497
-vorpd: 4.68
-off_rating_adj: 2.37
-def_rating_adj: 0.32
-on_off_diff: 2.83
+vorpd: 4.73
+off_rating_adj: 1.73
+def_rating_adj: 0.24
+on_off_diff: 2.07
 season_weight: 0.45
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | CHI |
-| Composite Score | **46.1** / 100 |
+| Composite Score | **37.9** / 100 |
 | Salary | $4,399,497 |
-| VORPD | 4.68 |
-| Off Rating Adj | 2.37 |
-| Def Rating Adj | 0.32 |
-| On/Off Diff | 2.83 |
+| VORPD | 4.73 |
+| Off Rating Adj | 1.73 |
+| Def Rating Adj | 0.24 |
+| On/Off Diff | 2.07 |
 | TS% | 57.6% |
-| 3P% | 35.6% |
+| 3P% | 37.0% |
 | Influence Score | 0.12 |
 | Season Weight | 0.45 |
 

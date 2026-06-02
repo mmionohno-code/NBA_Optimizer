@@ -4,12 +4,12 @@ player: "Dorian Finney-Smith"
 season: "2022-23"
 team: "BKN"
 archetype: "Bench / Role Player"
-composite_score: 37.16
+composite_score: 30.18
 salary: 10158801
-vorpd: 1.15
-off_rating_adj: 1.11
-def_rating_adj: -1.00
-on_off_diff: -1.05
+vorpd: 1.31
+off_rating_adj: 0.89
+def_rating_adj: -0.80
+on_off_diff: -0.84
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | BKN |
-| Composite Score | **37.2** / 100 |
+| Composite Score | **30.2** / 100 |
 | Salary | $10,158,801 |
-| VORPD | 1.15 |
-| Off Rating Adj | 1.11 |
-| Def Rating Adj | -1.00 |
-| On/Off Diff | -1.05 |
-| TS% | 53.5% |
-| 3P% | 33.7% |
+| VORPD | 1.31 |
+| Off Rating Adj | 0.89 |
+| Def Rating Adj | -0.80 |
+| On/Off Diff | -0.84 |
+| TS% | 54.2% |
+| 3P% | 35.0% |
 | Influence Score | 0.07 |
 | Season Weight | 0.35 |
 

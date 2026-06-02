@@ -3,12 +3,12 @@ player: "Ignas Brazdeikis"
 team: "ORL"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 22.85
+composite_score: 19.47
 salary: 925258
 vorpd: 0.00
-off_rating_adj: -2.11
-def_rating_adj: -4.99
-on_off_diff: -6.41
+off_rating_adj: -1.09
+def_rating_adj: -2.59
+on_off_diff: -3.33
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **22.9** / 100 |
+| Composite Score | **19.5** / 100 |
 | Salary | $925,258 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.11 |
-| Def Rating Adj | -4.99 |
-| On/Off Diff | -6.41 |
-| TS% | 53.9% |
-| 3P% | 31.0% |
+| Off Rating Adj | -1.09 |
+| Def Rating Adj | -2.59 |
+| On/Off Diff | -3.33 |
+| TS% | 54.5% |
+| 3P% | 34.8% |
 | Influence Score | 0.09 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | ORL | 22.9 | $925258 | 0.00 | -2.11 | -4.99 | -6.41 |
+| 2021-22 | ORL | 19.5 | $925258 | 0.00 | -1.09 | -2.59 | -3.33 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.31, 0.63)
+- **Cluster:** 5
+- **PCA Position:** (-2.15, 0.77)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

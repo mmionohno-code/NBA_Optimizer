@@ -4,12 +4,12 @@ player: "Sam Merrill"
 season: "2023-24"
 team: "CLE"
 archetype: "Bench / Role Player"
-composite_score: 30.57
+composite_score: 19.49
 salary: 7463433
-vorpd: 0.69
-off_rating_adj: -2.37
-def_rating_adj: -0.12
-on_off_diff: -2.04
+vorpd: 0.32
+off_rating_adj: -1.61
+def_rating_adj: -0.08
+on_off_diff: -1.38
 season_weight: 0.45
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2023-24 |
 | Team | CLE |
-| Composite Score | **30.6** / 100 |
+| Composite Score | **19.5** / 100 |
 | Salary | $7,463,433 |
-| VORPD | 0.69 |
-| Off Rating Adj | -2.37 |
-| Def Rating Adj | -0.12 |
-| On/Off Diff | -2.04 |
-| TS% | 59.2% |
-| 3P% | 40.4% |
+| VORPD | 0.32 |
+| Off Rating Adj | -1.61 |
+| Def Rating Adj | -0.08 |
+| On/Off Diff | -1.38 |
+| TS% | 58.9% |
+| 3P% | 39.1% |
 | Influence Score | 0.10 |
 | Season Weight | 0.45 |
 

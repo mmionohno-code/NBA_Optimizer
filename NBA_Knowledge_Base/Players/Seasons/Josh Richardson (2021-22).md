@@ -4,12 +4,12 @@ player: "Josh Richardson"
 season: "2021-22"
 team: "SAS"
 archetype: "Perimeter Scorer"
-composite_score: 43.70
+composite_score: 34.14
 salary: 925258
-vorpd: 19.72
-off_rating_adj: 2.14
-def_rating_adj: 1.75
-on_off_diff: -2.23
+vorpd: 14.69
+off_rating_adj: 1.63
+def_rating_adj: 1.33
+on_off_diff: -1.69
 season_weight: 0.20
 tags: [season-note, perimeter-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, perimeter-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | SAS |
-| Composite Score | **43.7** / 100 |
+| Composite Score | **34.1** / 100 |
 | Salary | $925,258 |
-| VORPD | 19.72 |
-| Off Rating Adj | 2.14 |
-| Def Rating Adj | 1.75 |
-| On/Off Diff | -2.23 |
-| TS% | 57.1% |
-| 3P% | 41.5% |
+| VORPD | 14.69 |
+| Off Rating Adj | 1.63 |
+| Def Rating Adj | 1.33 |
+| On/Off Diff | -1.69 |
+| TS% | 56.9% |
+| 3P% | 38.7% |
 | Influence Score | 0.10 |
 | Season Weight | 0.20 |
 

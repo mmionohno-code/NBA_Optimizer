@@ -3,12 +3,12 @@ player: "Onyeka Okongwu"
 team: "ATL"
 season: "2023-24"
 archetype: "Two-Way Big"
-composite_score: 36.55
+composite_score: 28.10
 salary: 13198490
-vorpd: 0.84
-off_rating_adj: 4.45
-def_rating_adj: -2.47
-on_off_diff: 1.84
+vorpd: 0.83
+off_rating_adj: 3.28
+def_rating_adj: -1.82
+on_off_diff: 1.36
 is_shooter: 1
 tags: [player, two-way-big]
 ---
@@ -20,30 +20,30 @@ tags: [player, two-way-big]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **36.5** / 100 |
+| Composite Score | **28.1** / 100 |
 | Salary | $13,198,490 |
-| VORPD | 0.84 |
-| Off Rating Adj | 4.45 |
-| Def Rating Adj | -2.47 |
-| On/Off Diff | 1.84 |
-| TS% | 64.5% |
-| 3P% | 33.3% |
-| Influence Score | 0.09 |
+| VORPD | 0.83 |
+| Off Rating Adj | 3.28 |
+| Def Rating Adj | -1.82 |
+| On/Off Diff | 1.36 |
+| TS% | 63.1% |
+| 3P% | 36.5% |
+| Influence Score | 0.08 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-4.8 pts over 3 seasons)
+> **Trend:** Trending DOWN (-4.9 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | ATL | 36.5 | $13198490 | 0.84 | 4.45 | -2.47 | 1.84 |
-| 2022-23 | ATL | 43.8 | $11998583 | 1.53 | 3.26 | 0.87 | 3.79 |
-| 2021-22 | ATL | 41.4 | $10907838 | 1.46 | 0.31 | 2.95 | 5.29 |
+| 2023-24 | ATL | 28.1 | $13198490 | 0.83 | 3.28 | -1.82 | 1.36 |
+| 2022-23 | ATL | 35.8 | $11998583 | 1.58 | 2.57 | 0.68 | 2.99 |
+| 2021-22 | ATL | 33.0 | $10907838 | 1.14 | 0.21 | 1.97 | 3.53 |
 
 ## Profile
 
 - **Cluster:** 4
-- **PCA Position:** (0.91, -2.23)
+- **PCA Position:** (0.95, -2.28)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

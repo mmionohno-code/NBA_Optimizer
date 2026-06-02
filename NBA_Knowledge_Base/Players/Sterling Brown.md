@@ -3,12 +3,12 @@ player: "Sterling Brown"
 team: "DAL"
 season: "2021-22"
 archetype: "Bench / Role Player"
-composite_score: 27.96
+composite_score: 21.54
 salary: 925258
-vorpd: 2.71
-off_rating_adj: -4.13
-def_rating_adj: 3.99
-on_off_diff: -3.14
+vorpd: 1.07
+off_rating_adj: -2.30
+def_rating_adj: 2.22
+on_off_diff: -1.73
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,14 +20,14 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **28.0** / 100 |
+| Composite Score | **21.5** / 100 |
 | Salary | $925,258 |
-| VORPD | 2.71 |
-| Off Rating Adj | -4.13 |
-| Def Rating Adj | 3.99 |
-| On/Off Diff | -3.14 |
-| TS% | 52.8% |
-| 3P% | 30.4% |
+| VORPD | 1.07 |
+| Off Rating Adj | -2.30 |
+| Def Rating Adj | 2.22 |
+| On/Off Diff | -1.73 |
+| TS% | 53.8% |
+| 3P% | 34.6% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, bench-/-role-player]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2021-22 | DAL | 28.0 | $925258 | 2.71 | -4.13 | 3.99 | -3.14 |
+| 2021-22 | DAL | 21.5 | $925258 | 1.07 | -2.30 | 2.22 | -1.73 |
 
 ## Profile
 
-- **Cluster:** 1
-- **PCA Position:** (-2.65, -0.15)
+- **Cluster:** 5
+- **PCA Position:** (-2.54, 0.13)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

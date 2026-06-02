@@ -4,12 +4,12 @@ player: "Buddy Hield"
 season: "2021-22"
 team: "IND"
 archetype: "Versatile Scorer"
-composite_score: 47.84
+composite_score: 41.00
 salary: 6704330
-vorpd: 3.34
-off_rating_adj: 0.98
-def_rating_adj: -1.93
-on_off_diff: 3.55
+vorpd: 3.05
+off_rating_adj: 0.82
+def_rating_adj: -1.60
+on_off_diff: 2.96
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | IND |
-| Composite Score | **47.8** / 100 |
+| Composite Score | **41.0** / 100 |
 | Salary | $6,704,330 |
-| VORPD | 3.34 |
-| Off Rating Adj | 0.98 |
-| Def Rating Adj | -1.93 |
-| On/Off Diff | 3.55 |
-| TS% | 55.0% |
-| 3P% | 36.6% |
+| VORPD | 3.05 |
+| Off Rating Adj | 0.82 |
+| Def Rating Adj | -1.60 |
+| On/Off Diff | 2.96 |
+| TS% | 55.1% |
+| 3P% | 36.5% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

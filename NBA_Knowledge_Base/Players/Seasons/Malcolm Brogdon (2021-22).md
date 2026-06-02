@@ -4,12 +4,12 @@ player: "Malcolm Brogdon"
 season: "2021-22"
 team: "IND"
 archetype: "Versatile Scorer"
-composite_score: 61.67
+composite_score: 56.01
 salary: 925258
-vorpd: 39.14
-off_rating_adj: 0.38
-def_rating_adj: 2.07
-on_off_diff: 5.77
+vorpd: 38.32
+off_rating_adj: 0.27
+def_rating_adj: 1.47
+on_off_diff: 4.08
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | IND |
-| Composite Score | **61.7** / 100 |
+| Composite Score | **56.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 39.14 |
-| Off Rating Adj | 0.38 |
-| Def Rating Adj | 2.07 |
-| On/Off Diff | 5.77 |
-| TS% | 55.8% |
-| 3P% | 31.2% |
+| VORPD | 38.32 |
+| Off Rating Adj | 0.27 |
+| Def Rating Adj | 1.47 |
+| On/Off Diff | 4.08 |
+| TS% | 55.9% |
+| 3P% | 34.1% |
 | Influence Score | 0.13 |
 | Season Weight | 0.20 |
 

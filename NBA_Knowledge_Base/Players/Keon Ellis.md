@@ -3,12 +3,12 @@ player: "Keon Ellis"
 team: "SAC"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 45.30
+composite_score: 34.01
 salary: 2025165
-vorpd: 9.80
-off_rating_adj: -0.30
-def_rating_adj: 4.10
-on_off_diff: 4.79
+vorpd: 8.34
+off_rating_adj: -0.20
+def_rating_adj: 2.72
+on_off_diff: 3.18
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,14 +20,14 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **45.3** / 100 |
+| Composite Score | **34.0** / 100 |
 | Salary | $2,025,165 |
-| VORPD | 9.80 |
-| Off Rating Adj | -0.30 |
-| Def Rating Adj | 4.10 |
-| On/Off Diff | 4.79 |
-| TS% | 60.7% |
-| 3P% | 41.7% |
+| VORPD | 8.34 |
+| Off Rating Adj | -0.20 |
+| Def Rating Adj | 2.72 |
+| On/Off Diff | 3.18 |
+| TS% | 59.9% |
+| 3P% | 39.1% |
 | Influence Score | 0.07 |
 
 ## Season History (1 season)
@@ -36,12 +36,12 @@ tags: [player, perimeter-scorer]
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | SAC | 45.3 | $2025165 | 9.80 | -0.30 | 4.10 | 4.79 |
+| 2023-24 | SAC | 34.0 | $2025165 | 8.34 | -0.20 | 2.72 | 3.18 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (0.73, -1.51)
+- **Cluster:** 3
+- **PCA Position:** (0.55, -1.77)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

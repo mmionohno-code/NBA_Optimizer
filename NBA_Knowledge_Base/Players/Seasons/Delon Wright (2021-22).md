@@ -4,12 +4,12 @@ player: "Delon Wright"
 season: "2021-22"
 team: "ATL"
 archetype: "Defensive Wing"
-composite_score: 46.86
+composite_score: 37.98
 salary: 925258
-vorpd: 23.13
-off_rating_adj: -2.69
-def_rating_adj: 3.25
-on_off_diff: 0.51
+vorpd: 18.84
+off_rating_adj: -2.00
+def_rating_adj: 2.42
+on_off_diff: 0.39
 season_weight: 0.20
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2021-22 |
 | Team | ATL |
-| Composite Score | **46.9** / 100 |
+| Composite Score | **38.0** / 100 |
 | Salary | $925,258 |
-| VORPD | 23.13 |
-| Off Rating Adj | -2.69 |
-| Def Rating Adj | 3.25 |
-| On/Off Diff | 0.51 |
-| TS% | 57.1% |
-| 3P% | 37.9% |
+| VORPD | 18.84 |
+| Off Rating Adj | -2.00 |
+| Def Rating Adj | 2.42 |
+| On/Off Diff | 0.39 |
+| TS% | 56.9% |
+| 3P% | 36.7% |
 | Influence Score | 0.06 |
 | Season Weight | 0.20 |
 

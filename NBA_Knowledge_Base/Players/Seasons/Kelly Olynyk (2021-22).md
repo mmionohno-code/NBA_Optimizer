@@ -4,12 +4,12 @@ player: "Kelly Olynyk"
 season: "2021-22"
 team: "DET"
 archetype: "Versatile Scorer"
-composite_score: 56.05
+composite_score: 48.54
 salary: 9777148
-vorpd: 3.13
-off_rating_adj: 4.33
-def_rating_adj: -1.37
-on_off_diff: 4.63
+vorpd: 2.86
+off_rating_adj: 2.62
+def_rating_adj: -0.83
+on_off_diff: 2.80
 season_weight: 0.20
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2021-22 |
 | Team | DET |
-| Composite Score | **56.0** / 100 |
+| Composite Score | **48.5** / 100 |
 | Salary | $9,777,148 |
-| VORPD | 3.13 |
-| Off Rating Adj | 4.33 |
-| Def Rating Adj | -1.37 |
-| On/Off Diff | 4.63 |
-| TS% | 56.1% |
-| 3P% | 33.6% |
+| VORPD | 2.86 |
+| Off Rating Adj | 2.62 |
+| Def Rating Adj | -0.83 |
+| On/Off Diff | 2.80 |
+| TS% | 56.2% |
+| 3P% | 35.3% |
 | Influence Score | 0.12 |
 | Season Weight | 0.20 |
 

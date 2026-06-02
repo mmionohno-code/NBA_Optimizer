@@ -3,12 +3,12 @@ player: "Max Christie"
 team: "LAL"
 season: "2023-24"
 archetype: "Bench / Role Player"
-composite_score: 27.27
+composite_score: 18.06
 salary: 6787795
-vorpd: 0.27
-off_rating_adj: -3.68
-def_rating_adj: 3.01
-on_off_diff: -2.44
+vorpd: 0.14
+off_rating_adj: -2.41
+def_rating_adj: 1.97
+on_off_diff: -1.59
 is_shooter: 1
 tags: [player, bench-/-role-player]
 ---
@@ -20,29 +20,29 @@ tags: [player, bench-/-role-player]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **27.3** / 100 |
+| Composite Score | **18.1** / 100 |
 | Salary | $6,787,795 |
-| VORPD | 0.27 |
-| Off Rating Adj | -3.68 |
-| Def Rating Adj | 3.01 |
-| On/Off Diff | -2.44 |
-| TS% | 55.6% |
-| 3P% | 35.6% |
+| VORPD | 0.14 |
+| Off Rating Adj | -2.41 |
+| Def Rating Adj | 1.97 |
+| On/Off Diff | -1.59 |
+| TS% | 56.1% |
+| 3P% | 36.9% |
 | Influence Score | 0.07 |
 
 ## Season History (2 seasons)
 
-> **Trend:** Trending UP (+15.7 pts over 2 seasons)
+> **Trend:** Trending UP (+11.3 pts over 2 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | LAL | 27.3 | $6787795 | 0.27 | -3.68 | 3.01 | -2.44 |
-| 2022-23 | LAL | 11.6 | $6170700 | 0.00 | -6.34 | -0.97 | -8.78 |
+| 2023-24 | LAL | 18.1 | $6787795 | 0.14 | -2.41 | 1.97 | -1.59 |
+| 2022-23 | LAL | 6.7 | $6170700 | 0.00 | -3.21 | -0.49 | -4.44 |
 
 ## Profile
 
-- **Cluster:** 6
-- **PCA Position:** (-1.88, -0.86)
+- **Cluster:** 5
+- **PCA Position:** (-1.95, -0.88)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

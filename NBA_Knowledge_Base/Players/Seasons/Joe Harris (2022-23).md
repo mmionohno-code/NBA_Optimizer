@@ -4,12 +4,12 @@ player: "Joe Harris"
 season: "2022-23"
 team: "BKN"
 archetype: "Bench / Role Player"
-composite_score: 30.60
+composite_score: 18.29
 salary: 1017781
-vorpd: 5.05
-off_rating_adj: -0.79
-def_rating_adj: 0.10
-on_off_diff: -2.06
+vorpd: 1.38
+off_rating_adj: -0.59
+def_rating_adj: 0.08
+on_off_diff: -1.54
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | BKN |
-| Composite Score | **30.6** / 100 |
+| Composite Score | **18.3** / 100 |
 | Salary | $1,017,781 |
-| VORPD | 5.05 |
-| Off Rating Adj | -0.79 |
-| Def Rating Adj | 0.10 |
-| On/Off Diff | -2.06 |
-| TS% | 61.0% |
-| 3P% | 42.6% |
+| VORPD | 1.38 |
+| Off Rating Adj | -0.59 |
+| Def Rating Adj | 0.08 |
+| On/Off Diff | -1.54 |
+| TS% | 60.4% |
+| 3P% | 40.1% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

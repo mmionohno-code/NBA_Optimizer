@@ -4,12 +4,12 @@ player: "Matisse Thybulle"
 season: "2022-23"
 team: "POR"
 archetype: "Defensive Wing"
-composite_score: 43.96
+composite_score: 34.75
 salary: 9238909
-vorpd: 2.00
-off_rating_adj: -1.46
-def_rating_adj: 6.01
-on_off_diff: 0.97
+vorpd: 1.93
+off_rating_adj: -1.03
+def_rating_adj: 4.24
+on_off_diff: 0.69
 season_weight: 0.35
 tags: [season-note, defensive-wing]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, defensive-wing]
 |---|---|
 | Season | 2022-23 |
 | Team | POR |
-| Composite Score | **44.0** / 100 |
+| Composite Score | **34.8** / 100 |
 | Salary | $9,238,909 |
-| VORPD | 2.00 |
-| Off Rating Adj | -1.46 |
-| Def Rating Adj | 6.01 |
-| On/Off Diff | 0.97 |
-| TS% | 56.1% |
-| 3P% | 36.5% |
+| VORPD | 1.93 |
+| Off Rating Adj | -1.03 |
+| Def Rating Adj | 4.24 |
+| On/Off Diff | 0.69 |
+| TS% | 56.5% |
+| 3P% | 36.7% |
 | Influence Score | 0.06 |
 | Season Weight | 0.35 |
 

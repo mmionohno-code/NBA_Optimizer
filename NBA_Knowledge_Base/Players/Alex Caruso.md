@@ -3,12 +3,12 @@ player: "Alex Caruso"
 team: "CHI"
 season: "2023-24"
 archetype: "Perimeter Scorer"
-composite_score: 59.41
+composite_score: 49.30
 salary: 15927938
-vorpd: 2.13
-off_rating_adj: -0.83
-def_rating_adj: 3.02
-on_off_diff: 3.22
+vorpd: 2.02
+off_rating_adj: -0.67
+def_rating_adj: 2.43
+on_off_diff: 2.59
 is_shooter: 1
 tags: [player, perimeter-scorer]
 ---
@@ -20,30 +20,30 @@ tags: [player, perimeter-scorer]
 
 | Metric | Value |
 |---|---|
-| Composite Score | **59.4** / 100 |
+| Composite Score | **49.3** / 100 |
 | Salary | $15,927,938 |
-| VORPD | 2.13 |
-| Off Rating Adj | -0.83 |
-| Def Rating Adj | 3.02 |
-| On/Off Diff | 3.22 |
-| TS% | 60.5% |
-| 3P% | 40.8% |
+| VORPD | 2.02 |
+| Off Rating Adj | -0.67 |
+| Def Rating Adj | 2.43 |
+| On/Off Diff | 2.59 |
+| TS% | 60.0% |
+| 3P% | 39.3% |
 | Influence Score | 0.09 |
 
 ## Season History (3 seasons)
 
-> **Trend:** Trending DOWN (-9.3 pts over 3 seasons)
+> **Trend:** Trending DOWN (-12.1 pts over 3 seasons)
 
 | Season | Team | Score | Salary | VORPD | Off Rtg | Def Rtg | On/Off |
 |---|---|---|---|---|---|---|---|
-| 2023-24 | CHI | 59.4 | $15927938 | 2.13 | -0.83 | 3.02 | 3.22 |
-| 2022-23 | CHI | 60.8 | $14479890 | 2.44 | 0.95 | 3.20 | 8.16 |
-| 2021-22 | CHI | 68.7 | $13163579 | 3.29 | -0.37 | 4.88 | 7.68 |
+| 2023-24 | CHI | 49.3 | $15927938 | 2.02 | -0.67 | 2.43 | 2.59 |
+| 2022-23 | CHI | 53.3 | $14479890 | 2.51 | 0.72 | 2.43 | 6.20 |
+| 2021-22 | CHI | 61.4 | $13163579 | 3.10 | -0.26 | 3.40 | 5.36 |
 
 ## Profile
 
-- **Cluster:** 5
-- **PCA Position:** (1.99, -0.45)
+- **Cluster:** 3
+- **PCA Position:** (1.97, -0.98)
 - **Is Shooter:** Yes
 
 ## Appears In Scenarios

@@ -4,12 +4,12 @@ player: "Davis Bertans"
 season: "2022-23"
 team: "DAL"
 archetype: "Bench / Role Player"
-composite_score: 23.59
+composite_score: 16.82
 salary: 1017781
 vorpd: 0.00
-off_rating_adj: -2.59
-def_rating_adj: -0.78
-on_off_diff: -2.56
+off_rating_adj: -1.28
+def_rating_adj: -0.39
+on_off_diff: -1.26
 season_weight: 0.35
 tags: [season-note, bench-/-role-player]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, bench-/-role-player]
 |---|---|
 | Season | 2022-23 |
 | Team | DAL |
-| Composite Score | **23.6** / 100 |
+| Composite Score | **16.8** / 100 |
 | Salary | $1,017,781 |
 | VORPD | 0.00 |
-| Off Rating Adj | -2.59 |
-| Def Rating Adj | -0.78 |
-| On/Off Diff | -2.56 |
-| TS% | 59.8% |
-| 3P% | 39.0% |
+| Off Rating Adj | -1.28 |
+| Def Rating Adj | -0.39 |
+| On/Off Diff | -1.26 |
+| TS% | 59.2% |
+| 3P% | 37.6% |
 | Influence Score | 0.09 |
 | Season Weight | 0.35 |
 

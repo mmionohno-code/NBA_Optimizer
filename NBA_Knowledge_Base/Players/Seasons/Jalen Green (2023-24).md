@@ -4,12 +4,12 @@ player: "Jalen Green"
 season: "2023-24"
 team: "HOU"
 archetype: "Versatile Scorer"
-composite_score: 47.67
+composite_score: 42.52
 salary: 29550979
-vorpd: 0.75
-off_rating_adj: 1.50
-def_rating_adj: -3.75
-on_off_diff: -3.38
+vorpd: 0.86
+off_rating_adj: 1.26
+def_rating_adj: -3.15
+on_off_diff: -2.82
 season_weight: 0.45
 tags: [season-note, versatile-scorer]
 ---
@@ -21,14 +21,14 @@ tags: [season-note, versatile-scorer]
 |---|---|
 | Season | 2023-24 |
 | Team | HOU |
-| Composite Score | **47.7** / 100 |
+| Composite Score | **42.5** / 100 |
 | Salary | $29,550,979 |
-| VORPD | 0.75 |
-| Off Rating Adj | 1.50 |
-| Def Rating Adj | -3.75 |
-| On/Off Diff | -3.38 |
-| TS% | 54.4% |
-| 3P% | 33.2% |
+| VORPD | 0.86 |
+| Off Rating Adj | 1.26 |
+| Def Rating Adj | -3.15 |
+| On/Off Diff | -2.82 |
+| TS% | 54.7% |
+| 3P% | 34.5% |
 | Influence Score | 0.15 |
 | Season Weight | 0.45 |
 
