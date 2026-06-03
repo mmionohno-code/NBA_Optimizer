@@ -331,75 +331,48 @@ print("  Wembanyama: ON_OFF_DIFF residual RISES (good player on bad team)")
 print("  KCP/Exum:   ON_OFF_DIFF residual FALLS (role player on great team)")
 
 # ============================================================
-# STEP 2D — MINUTES-WEIGHTED BAYESIAN SHRINKAGE OF ADJUSTED STATS
+# STEP 2D — INTENTIONALLY NOT APPLYING BAYESIAN SHRINKAGE TO
+# ADVANCED / DELTA STATS (ON_OFF_DIFF, OFF_RATING_ADJUSTED,
+# DEF_RATING_ADJUSTED, AST_PCT_ADJUSTED)
 #
-# PROBLEM IDENTIFIED: Only TS% (Step 2) and FG3% (Step 2B) were
-# protected against small samples. The four adjusted / lineup stats
-# below went into PCA at FULL confidence regardless of how few
-# minutes backed them — a 20-game player was trusted exactly as much
-# as an 80-game player.
+# An earlier version of this pipeline applied volume-weighted
+# Bayesian shrinkage to these stats with KAPPA = 500 minutes,
+# mirroring the TS%/FG3% treatment. That was removed after
+# reconsidering whether the same logic actually transfers.
 #
-# ON_OFF_DIFF is the worst offender: it is a *difference of two noisy
-# team rates*, so a handful of hot/cold lineups over ~20 games can
-# swing it +/-10 — AND it is one of the heaviest weights in PC1, the
-# dominant axis of the composite score. Pre-fix symptom: LaMelo Ball
-# (22 GP) ranked #5 overall, above Mitchell, Brunson, Fox, Haliburton
-# (all 55-77 GP). That is small-sample noise wearing a high score, and
-# because it lives in PC1 it corrupts the whole pipeline downstream
-# (composite -> K-Means archetypes -> synergy -> optimizer rosters).
+# WHY SHRINKAGE IS CORRECT FOR TS% / FG3%:
+#   - The noise on these rate stats is pure binomial sampling
+#     variance — each shot is an independent Bernoulli trial,
+#     and SE scales as sqrt(p(1-p)/n).
+#   - The prior (league average ~57% TS, ~36% FG3) is a
+#     meaningful "best guess" for an unknown player's talent.
+#   - MSE cross-validation cleanly identifies an optimal prior
+#     strength (275 shots / 260 attempts).
 #
-# FIX: the SAME Bayesian shrinkage used for TS%/FG3%, with two knobs
-# changed to suit these stats:
-#   counter  n_i      = total minutes played (GP * MIN)
-#   baseline mu_group = 0  (already centered on 0 by team-adjustment
-#                           in Step 1 / residualization in Step 2C)
-#   prior    KAPPA    = 500 minutes  (~14-20 games of evidence)
+# WHY THE SAME LOGIC DOES NOT TRANSFER TO ON_OFF_DIFF AND
+# RELATED ADVANCED STATS:
+#   - The dominant noise on these stats is lineup / context
+#     confounding (who you played with, against, and when),
+#     not sampling variance. Shrinking toward a prior does not
+#     address confounding — it only addresses sampling noise.
+#   - The "league mean" of ON_OFF_DIFF is ~0 by construction
+#     (on/off must net to zero across a team's roster), so 0
+#     is a structural constraint, not a meaningful talent prior.
+#     Shrinking a star (+12) and a role player (-5) toward 0
+#     pulls the star down more in absolute terms than it lifts
+#     the role player up.
+#   - MSE-optimal shrinkage is dominated by errors on low-minute
+#     players, so it picks an aggressive prior. That objective
+#     differs from what the composite score actually needs:
+#     preserved spread at the top of the distribution so elite
+#     player-seasons stay genuinely separated. MSE-optimal and
+#     composite-quality-optimal are not the same thing here.
 #
-#   stat_adj = (n_i * stat + KAPPA * 0) / (n_i + KAPPA)
-#            = (n_i * stat) / (n_i + KAPPA)
-#
-# Effect: a full-season starter (~2,500 min) keeps ~84% of their value;
-# a 20-game player (~700 min) is pulled ~42% toward zero.
-#
-# DELIBERATELY NOT SHRUNK — BLK and STL:
-#   These are individually-attributable counting stats (you recorded
-#   the block/steal or you didn't). They do not manufacture fake skill
-#   the way a rate stat does (72% TS on 5 shots), and every available
-#   baseline distorts them: shrinking toward the LEAGUE mean punishes
-#   bigs for blocking and guards for stealing; shrinking toward a
-#   POSITION-GROUP mean misclassifies positionless players (LeBron,
-#   Draymond, Bam) who defy a single position. Leaving them raw is the
-#   least-distorting choice. Documented as a limitation.
+# Result of removing Step 2D: PCA receives the raw (residualized,
+# but unshrunk) advanced-stat values. Elite players retain their
+# real margin over the league. Documented as a deliberate
+# asymmetry: shrink rate stats, leave delta stats raw.
 # ============================================================
-
-print("\n" + "=" * 40)
-print("STEP 2D: Minutes-Weighted Shrinkage of Adjusted Stats")
-print("=" * 40)
-
-KAPPA_MIN = 500   # prior strength, in total minutes
-
-df['TOTAL_MIN'] = df['GP'] * df['MIN']
-
-shrink_stats = ['ON_OFF_DIFF', 'OFF_RATING_ADJUSTED',
-                'DEF_RATING_ADJUSTED', 'AST_PCT_ADJUSTED']
-
-for stat in shrink_stats:
-    if stat not in df.columns:
-        print(f"  {stat}: column not found — skipping")
-        continue
-    raw = df[stat].copy()                       # pre-shrink values, for reporting
-    n   = df['TOTAL_MIN'].fillna(0)
-    # baseline mu = 0  ->  stat_adj = n * stat / (n + KAPPA)
-    df[stat] = (n * raw) / (n + KAPPA_MIN)
-    low_mask = df['TOTAL_MIN'] < 900            # ~ under 25-30 games
-    shift = (df.loc[low_mask, stat] - raw[low_mask]).abs().mean()
-    print(f"  {stat}: shrunk toward 0  (low-minute players n={int(low_mask.sum())}, "
-          f"avg |shift|={shift:.3f})")
-
-print(f"\nShrinkage prior KAPPA = {KAPPA_MIN} total minutes "
-      f"(player half-trusted at {KAPPA_MIN} min ≈ {KAPPA_MIN/30:.0f} games)")
-print("BLK and STL deliberately left raw (individually-attributable counting "
-      "stats; any baseline distorts them — see limitation note).")
 
 # ============================================================
 # INFLUENCE SCORE = USG_PCT x TS_PCT
