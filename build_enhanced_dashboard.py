@@ -714,7 +714,7 @@ NEW_HERO = """
                 Drag to rotate &middot; scroll inside the graph to zoom.
             </p>
             <div class="stats-row">
-                <div class="stat-card"><div class="val" data-target="1185">0</div><div class="lbl">Player-Seasons</div></div>
+                <div class="stat-card"><div class="val" data-target="1208">0</div><div class="lbl">Player-Seasons</div></div>
                 <div class="stat-card"><div class="val" data-target="9">0</div><div class="lbl">Validated Stats</div></div>
                 <div class="stat-card"><div class="val" data-target="6">0</div><div class="lbl">Archetypes</div></div>
                 <div class="stat-card"><div class="val" data-target="10">0</div><div class="lbl">Optimized Rosters</div></div>
@@ -999,10 +999,10 @@ SPOTLIGHTS = [
         "giphy_id": "OSeUQJQxEDki6GB3LV",  # Nikola Jokić basketball action (Denver Nuggets)
         "name_first": "Nikola", "name_last": "Jokić",
         "eyebrow": "Highest Composite Score",
-        "stat": "95.9", "stat_lbl": "PCA Score",
+        "stat": "96.3", "stat_lbl": "PCA Score",
         "desc": "Elite Playmaker  ·  DEN  ·  2023-24",
         "quote": "Every signal we trust agrees on him. The model's centerpiece.",
-        "bg_stat": "95.9",
+        "bg_stat": "96.3",
     },
     {
         "before": "rankings",
@@ -1010,7 +1010,7 @@ SPOTLIGHTS = [
         "giphy_id": "W6JJlg4UmK5XqRfz3U",  # Shai Gilgeous-Alexander basketball (OKC Thunder)
         "name_first": "Shai", "name_last": "Gilgeous-Alexander",
         "eyebrow": "Mid-Range Mastery, Quantified",
-        "stat": "91.4", "stat_lbl": "Composite",
+        "stat": "89.0", "stat_lbl": "Composite",
         "desc": "Elite Playmaker  ·  OKC  ·  2023-24",
         "quote": "Old-school footwork meets new-school efficiency.",
         "bg_stat": "#2",
@@ -1031,11 +1031,11 @@ SPOTLIGHTS = [
         "player_id": "1627750",
         "giphy_id": "n2afntw2IxBfhkqhd3",  # Jamal Murray game winner (Denver Nuggets)
         "name_first": "Jokić ×", "name_last": "Murray",
-        "eyebrow": "Strongest 2-Man Synergy",
-        "stat": "+13.5", "stat_lbl": "Net / 100",
+        "eyebrow": "A Championship Duo, Quantified",
+        "stat": "+5.2", "stat_lbl": "Net / 100",
         "desc": "Validated by real 2-man lineup performance.",
         "quote": "Where the model stops predicting and starts confirming.",
-        "bg_stat": "+13",
+        "bg_stat": "+5",
     },
 ]
 
