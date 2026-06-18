@@ -30,6 +30,14 @@ Underneath the basketball, this is the same shape of problem an HR or operations
 | **Mixed-Integer Linear Programming** | Optimize under salary, position, and chemistry constraints simultaneously |
 Full methodology writeups live in the docs/pipeline/ folder.
 ---
+## Limitations
+Honest boundaries of the model — documented because knowing where an analysis breaks is part of the analysis.
+
+- **Optimization scope — model vs. selection.** The PCA scoring model is *fit* on all 1,200+ player-seasons across three seasons (recency-weighted), so every player is scored on one common, stable scale. But the MILP optimizer only *selects* from the most recent (2023-24) pool of ~399 players. This is deliberate — the goal is to build a roster from currently available players, judged on their most recent performance — but it has two consequences: (a) players from earlier seasons aren't selectable, and (b) each player's optimizer input is their single most-recent-season score rather than a multi-season blend, so an outlier 2023-24 season is taken at face value. A multi-season talent estimate (a recency-weighted blend, or a state-space / Kalman-filter approach) would smooth this — but it changes the objective from *evaluating the current pool* to *projecting future performance*, which is a different question.
+- **Individual defense is hard to isolate.** Team defensive rating is shared across all five players on the floor, so individual defensive credit is noisy. DEF_RATING_ADJUSTED ends up with a low PCA weight (~0.04); STL and BLK carry most of the defensive signal because they're individually attributable. Public data doesn't expose the tracking metrics that would fully fix this.
+- **Positionless players.** BLK/STL are compared within position groups inferred from rebounding percentiles. This works for most players but misclassifies positionless stars (LeBron, Draymond Green, Bam Adebayo) who rebound like bigs but defend like guards — a known hard problem in basketball analytics.
+- **Salaries** for prior seasons are historical approximations scaled by cap ratio; current-season figures are actuals.
+---
 ## Repository layout
 - 01_feature_engineering.py — Raw stats → PCA-weighted, shrunk, residualized features
 - 02_clustering.py — K-Means → player archetypes
