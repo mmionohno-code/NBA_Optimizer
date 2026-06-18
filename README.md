@@ -122,8 +122,10 @@ The SQL database can be regenerated with `python build_database.py` and explored
 
 ## A note on how this was built
 
-I directed and designed the analytical decisions in this project: choosing PCA over guessed weights, applying Bayesian shrinkage so 50% on 26 threes doesn't equal 50% on 500, deriving prior strengths via MSE cross-validation instead of picking them by feel, residualizing to strip teammate halo effects, and framing roster construction as a MILP under simultaneous constraints. AI assisted with implementing the Python and assembling the deliverables (Excel workbook, dashboards, slide deck).
+I want to be clear about my role, because the honest version is the part that matters most for where I'm headed — people analytics and I/O psychology.
 
-I write SQL myself and use it to explore and validate the output — it's how I caught a 22-game player wrongly ranking top-5 overall, and other small-sample artifacts. Power BI work is in progress.
+I'm not a software engineer or an ML specialist, and I didn't write the algorithms from scratch. What I brought was the analytical thinking: framing the problem, deciding *which* methods fit and *why* — PCA so the data weights the stats instead of me guessing, Bayesian shrinkage so a 50%-on-26-threes season doesn't count like 50%-on-500, residualization to strip teammate-halo effects, a MILP to handle budget and roster constraints together — then reading the output critically and catching when it was wrong (a 22-game player wrongly ranking top-5 was the moment that taught me the most). I used AI to implement the Python and build the deliverables, and I can explain the reasoning behind every method even though I didn't code them myself.
 
-The most valuable skill this project taught me wasn't any single tool — it was catching when my own model was wrong.
+I write SQL myself and use it to dig into and validate the results. Power BI is in progress.
+
+The real takeaway wasn't mastering a tool — it was learning to question my own numbers.
