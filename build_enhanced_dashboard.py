@@ -809,10 +809,10 @@ GRAPH_JS = f"""
       }})
       .linkOpacity(0.78)
       .linkCurvature(0.08)
-      .d3AlphaDecay(0.012)
-      .d3VelocityDecay(0.32)
-      .warmupTicks(80)
-      .cooldownTicks(Infinity)
+      .d3AlphaDecay(0.035)
+      .d3VelocityDecay(0.42)
+      .warmupTicks(90)
+      .cooldownTicks(160)
       .onNodeHover(node => {{
         const tt = document.getElementById('graph-tooltip');
         container.style.cursor = node ? 'pointer' : 'grab';
