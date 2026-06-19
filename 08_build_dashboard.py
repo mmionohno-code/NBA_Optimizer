@@ -540,7 +540,7 @@ methodology_text = [
     ("Defensive Measurement", "Individual defensive stats are difficult to isolate from team context. DEF_RATING is shared across all 5 players simultaneously — the model cannot assign individual credit. PCA weight of 0.039 for DEF_RATING_ADJUSTED reflects this honest limitation, not a modeling flaw. STL (0.366) and BLK (0.274) carry the defensive signal because they are individually attributable."),
     ("Advanced Defensive Stats", "Advanced individual defensive metrics (D-EPM, D-LEBRON) require proprietary Second Spectrum tracking data available only through paid subscriptions. Public APIs (NBA Stats, Basketball Reference) do not expose this data. This is an acknowledged constraint of using public data only."),
     ("Team Context Limitation", "PLUS_MINUS still contains lineup contamination bias that team-averaging cannot fully remove."),
-    ("Player Selection Scope", "Composite scores are built from all 3 seasons (1,185 player-seasons) with recency weights (2021-22: 20%, 2022-23: 35%, 2023-24: 45%). The optimizer selects from 2023-24 players only — it reflects current roster construction, not multi-year projections. Player aging curves not modeled."),
+    ("Player Selection Scope", "Composite scores are built from all 3 seasons (1,208 player-seasons) with recency weights (2021-22: 20%, 2022-23: 35%, 2023-24: 45%). The optimizer selects from 2023-24 players only — it reflects current roster construction, not multi-year projections. Player aging curves not modeled."),
 ]
 
 for i, (label, text) in enumerate(methodology_text):
@@ -603,7 +603,7 @@ chart_files = [
     ('charts/elbow_method.png',              'Elbow Method — Optimal Number of Clusters',
      'Inertia drops steeply until K=7, then flattens. K=7 balances granularity with interpretability (7 clusters → 6 archetype names).'),
     ('charts/cluster_visualization.png',     'Player Archetypes — K-Means Clustering (PCA 2D Projection)',
-     'All 1,185 player-seasons projected onto 2 PCA dimensions. Colors = archetypes. Notable players annotated. Shows natural groupings.'),
+     'All 1,208 player-seasons projected onto 2 PCA dimensions. Colors = archetypes. Notable players annotated. Shows natural groupings.'),
     ('charts/archetype_radar_charts.png',    'Archetype Stat Profiles — Radar Charts',
      'Average stat profile per archetype on a 0-1 normalized scale. Each archetype has a distinct fingerprint — Elite Playmakers excel at offense, Two-Way Bigs at blocks, etc.'),
 ]
@@ -661,7 +661,7 @@ print(f"{'=' * 60}")
 print("\nTabs:")
 print("  1. Cover               - Project overview (10 scenarios)")
 print("  2. Player Database     - 399 players ranked #1-399 by composite score")
-print("  3. All Seasons         - All 1,185 player-seasons across 3 years")
+print("  3. All Seasons         - All 1,208 player-seasons across 3 years")
 print("  4. Optimized Rosters   - All 10 salary cap scenarios")
 print("  5. Scenario Comparison - Side-by-side metrics for all 10")
 print("  6. Archetypes          - K-Means cluster summary")

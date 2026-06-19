@@ -90,7 +90,7 @@
 4. Add this URL to your resume/LinkedIn
 
 ## Data Files Reference
-- player_database.csv    — 1,185 player-seasons (main data)
+- player_database.csv    — 1,208 player-seasons (main data)
 - optimized_rosters.csv  — 150 roster slots (10 scenarios x 15 players)
-- synergy_pairs.csv      — 1,661 pairwise chemistry values
+- synergy_pairs.csv      — 1,645 pairwise chemistry values
 - synergy_profiles.csv   — 395 player-level synergy profiles

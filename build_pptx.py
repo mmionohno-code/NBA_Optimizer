@@ -105,7 +105,7 @@ add_textbox(slide, 1, 4.5, 11.3, 0.6,
             font_size=14, color=GOLD, bold=False, alignment=PP_ALIGN.CENTER)
 
 add_textbox(slide, 1, 6.0, 11.3, 0.5,
-            f"1,185 Player-Seasons  |  9 Validated Stats  |  6 Archetypes  |  10 Optimized Rosters",
+            f"1,208 Player-Seasons  |  9 Validated Stats  |  6 Archetypes  |  10 Optimized Rosters",
             font_size=13, color=LIGHT_GRAY, alignment=PP_ALIGN.CENTER)
 
 print("  Slide 1 (Title) done")
@@ -127,7 +127,7 @@ bullets = [
     "No single stat captures a player's total value — points ignore defense, rebounds ignore playmaking",
     "",
     "GOAL: Build a mathematically optimal 15-man NBA roster that maximizes total player value",
-    "under a real salary cap constraint, using only publicly available data and zero human bias.",
+    "under a real salary cap constraint, using only publicly available data, with scoring weights derived from data rather than human guesswork.",
 ]
 add_bullet_slide(slide, 0.8, 1.4, 11.7, 5.5, bullets, font_size=18, color=WHITE)
 
@@ -145,7 +145,7 @@ add_textbox(slide, 0.8, 0.4, 11.7, 0.8,
 
 bullets = [
     "Source: NBA Stats API (nba_api) — official NBA.com backend. Same data NBA teams see.",
-    "3 seasons: 2021-22, 2022-23, 2023-24 (~400 players per season = 1,185 player-seasons)",
+    "3 seasons: 2021-22, 2022-23, 2023-24 (~400 players per season = 1,208 player-seasons)",
     "Quality filter: minimum 20 games played and 10 minutes per game",
     "Recency weights: 2021-22 (20%), 2022-23 (35%), 2023-24 (45%)",
     "Salary data: 2023-24 verified contracts + 87 manual corrections for imputation errors",
@@ -283,7 +283,7 @@ add_textbox(slide, 0.8, 0.4, 11.7, 0.8,
             "K-MEANS CLUSTERING — Discovering Player Archetypes", font_size=28, color=GOLD, bold=True)
 
 add_textbox(slide, 0.8, 1.2, 5.5, 2.5,
-            "K-Means groups 1,185 player-seasons into clusters based on their 9-stat profiles. "
+            "K-Means groups 1,208 player-seasons into clusters based on their 9-stat profiles. "
             "Players with similar statistical fingerprints land in the same group.\n\n"
             "Elbow method validated K=7 as optimal (7 clusters mapped to 6 archetype labels).\n\n"
             "Dynamic labeling: archetypes assigned by centroid statistics, not hardcoded cluster numbers. "
@@ -336,7 +336,7 @@ add_textbox(slide, 0.8, 0.4, 11.7, 0.8,
             "MILP OPTIMIZATION — Building the Roster", font_size=30, color=GOLD, bold=True)
 
 bullets = [
-    "MILP (Mixed Integer Linear Programming): mathematically proven optimal solution, not heuristic",
+    "MILP (Mixed Integer Linear Programming): mathematically optimal solution to the stated objective (exact, not a heuristic)",
     "399 binary decision variables: each player is either on the roster (1) or not (0)",
     "Objective: maximize total composite score (or variant objectives per scenario)",
     "",
@@ -582,11 +582,11 @@ add_textbox(slide, 1, 2.2, 11.3, 1.0,
             font_size=36, color=GOLD, bold=True, alignment=PP_ALIGN.CENTER)
 
 add_textbox(slide, 1, 3.5, 11.3, 0.8,
-            "1,185 players scored  |  175 automated checks passed  |  10 optimized rosters",
+            "1,208 players scored  |  175 automated checks passed  |  10 optimized rosters",
             font_size=18, color=WHITE, alignment=PP_ALIGN.CENTER)
 
 add_textbox(slide, 1, 4.8, 11.3, 0.6,
-            "Public data. Zero bias. Mathematically proven optimal.",
+            "Public data. Data-driven, not gut-driven. Mathematically optimized.",
             font_size=20, color=GOLD, bold=True, alignment=PP_ALIGN.CENTER)
 
 print("  Slide 19 (Closing) done")

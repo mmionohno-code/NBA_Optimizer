@@ -738,11 +738,11 @@ html_content = f"""<!DOCTYPE html>
     <p class="subtitle">
         Data-driven player evaluation and roster construction using PCA scoring,
         K-Means archetypes, MILP optimization, and pairwise synergy modeling
-        across 1,185 player-seasons.
+        across 1,208 player-seasons.
     </p>
     <div class="stats-row">
         <div class="stat-card">
-            <div class="val">1,185</div>
+            <div class="val">1,208</div>
             <div class="lbl">Player-Seasons</div>
         </div>
         <div class="stat-card">
@@ -790,7 +790,7 @@ html_content = f"""<!DOCTYPE html>
         <div class="method-card">
             <div class="step">Step 01</div>
             <h3>Data Collection</h3>
-            <p>1,185 player-seasons from the NBA API across 3 seasons (2021-24). Box scores, advanced stats, ON/OFF data, 2-man lineups, and salaries.</p>
+            <p>1,208 player-seasons from the NBA API across 3 seasons (2021-24). Box scores, advanced stats, ON/OFF data, 2-man lineups, and salaries.</p>
         </div>
         <div class="method-card">
             <div class="step">Step 02</div>
@@ -805,7 +805,7 @@ html_content = f"""<!DOCTYPE html>
         <div class="method-card">
             <div class="step">Step 04</div>
             <h3>PCA Composite Score</h3>
-            <p>Multi-component PCA (PC1-PC3) weighted by variance explained (~47%, ~29%, ~24%). Normalized 0-100. Zero manual bias.</p>
+            <p>Multi-component PCA (PC1-PC3) weighted by variance explained (~47%, ~29%, ~24%). Normalized 0-100. Weights derived from data, not hand-picked.</p>
         </div>
         <div class="method-card">
             <div class="step">Step 05</div>
@@ -847,7 +847,7 @@ html_content = f"""<!DOCTYPE html>
         <div class="section-icon">&#127942;</div>
         <div class="section-text">
             <h2>Top 30 Player Rankings</h2>
-            <p>PCA-derived composite scores on a 0-100 scale. Colors represent archetype classification. Every ranking is data-driven with zero human bias.</p>
+            <p>PCA-derived composite scores on a 0-100 scale. Colors represent archetype classification. Every ranking is data-driven — weights come from the data, not hand-picked.</p>
         </div>
     </div>
     <div class="chart-card"><div id="chart2"></div></div>
@@ -927,7 +927,7 @@ html_content = f"""<!DOCTYPE html>
             <p>An end-to-end NBA roster optimization engine built entirely in Python. Uses public NBA API data
             to score every player via PCA, classify them into archetypes via K-Means clustering, model pairwise
             chemistry from 2-man lineup data, and build mathematically optimal rosters via Mixed Integer Linear
-            Programming. Every weight and ranking is derived from data — zero manual bias.</p>
+            Programming. Every weight and ranking is derived from data, not hand-picked.</p>
         </div>
         <div>
             <h3>Pipeline</h3>

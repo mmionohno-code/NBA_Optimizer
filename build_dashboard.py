@@ -508,7 +508,7 @@ methodology_text = [
     ("VORPD", "Value Over Replacement Per Dollar = (Score - 10th percentile) / (Salary in $M). Measures salary efficiency."),
     ("", ""),
     ("K-MEANS CLUSTERING", ""),
-    ("Method", "K-Means clustering (K=7) on all 10 standardized stats across 1,185 player-seasons"),
+    ("Method", "K-Means clustering (K=7) on 9 standardized stats across 1,208 player-seasons"),
     ("K Selection", "Elbow method used to validate K=7 as the point of diminishing returns"),
     ("Archetypes", "7 clusters manually labeled based on average stat profiles and basketball identity of members"),
     ("", ""),

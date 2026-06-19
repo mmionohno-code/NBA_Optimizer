@@ -106,7 +106,7 @@ for label, df in [('scored', df_scored), ('clustered', df_clust)]:
 
     total = len(df)
     check(1100 <= total <= 1300,
-          f"Total rows in {label}: {total} (expected ~1185)",
+          f"Total rows in {label}: {total} (expected ~1208)",
           f"Got {total}" if not (1100 <= total <= 1300) else '')
 
     for season in ['2021-22', '2022-23', '2023-24']:
