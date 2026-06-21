@@ -1,6 +1,9 @@
 ﻿# Claude Code internal files
 .claude/
 
+# Obsidian app config (personal, not part of the project)
+.obsidian/
+
 # Python cache
 __pycache__/
 *.pyc
