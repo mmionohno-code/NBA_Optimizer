@@ -16,3 +16,22 @@ Thumbs.db
 *.tmp
 salary_check.csv
 wrong_salaries.csv
+
+# Obsidian vault + research notes (generated locally, NOT part of the code project)
+/NBA_Knowledge_Base/
+/Research_Log/
+/Pipeline_Docs/
+/Players/
+*.canvas
+*.base
+
+# Build outputs at repo root — canonical copies live in deliverables/ and index.html.
+# Keeps `git add .` safe (these regenerate every pipeline run).
+/charts/
+/tableau_data/
+/NBA_Enhanced_Dashboard.html
+/NBA_Interactive_Dashboard.html
+/NBA_Optimizer_Dashboard.xlsx
+/NBA_Optimizer_Presentation.pptx
+/nba_optimizer_deployment.html
+/sql_queries.sql
